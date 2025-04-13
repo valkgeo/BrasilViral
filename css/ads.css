@@ -1,0 +1,66 @@
+/* Estilos para anúncios */
+
+.ad-slot {
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 1.5rem;
+}
+
+.ad-placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 250px;
+    background-color: #eee;
+    color: #999;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.ad-placeholder span {
+    padding: 0.3rem 0.8rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+/* Anúncios em diferentes posições */
+.ad-header {
+    height: 90px;
+}
+
+.ad-sidebar {
+    height: 300px;
+}
+
+.ad-between-articles {
+    height: 120px;
+    margin: 1.5rem 0;
+}
+
+.ad-footer {
+    height: 90px;
+    margin-top: 1.5rem;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .ad-placeholder {
+        height: 200px;
+    }
+    
+    .ad-header, .ad-footer {
+        height: 70px;
+    }
+}
+
+@media (max-width: 576px) {
+    .ad-placeholder {
+        height: 150px;
+    }
+    
+    .ad-header, .ad-footer {
+        height: 60px;
+    }
+}

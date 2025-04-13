@@ -1,0 +1,57 @@
+/* Estilos para botões de compartilhamento */
+.share-buttons {
+    display: flex;
+    align-items: center;
+    margin-top: 0.5rem;
+}
+
+.share-buttons a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    margin-right: 6px;
+    border-radius: 50%;
+    color: white;
+    font-size: 12px;
+    transition: all 0.3s ease;
+}
+
+.share-buttons a:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+}
+
+.share-facebook {
+    background-color: #3b5998;
+}
+
+.share-twitter {
+    background-color: #1da1f2;
+}
+
+.share-whatsapp {
+    background-color: #25d366;
+}
+
+.share-telegram {
+    background-color: #0088cc;
+}
+
+.share-buttons .share-text {
+    font-size: 0.75rem;
+    color: var(--gray-color);
+    margin-right: 8px;
+}
+
+@media (max-width: 576px) {
+    .share-buttons {
+        flex-wrap: wrap;
+    }
+    
+    .share-buttons .share-text {
+        width: 100%;
+        margin-bottom: 5px;
+    }
+}

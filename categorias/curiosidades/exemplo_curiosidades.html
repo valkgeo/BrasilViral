@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de notícia de curiosidades - BrasilViral</title>
+    <link rel="stylesheet" href="../../css/style.css">
+    <link rel="stylesheet" href="../../css/news.css">
+    <link rel="stylesheet" href="../../css/ads.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <meta name="description" content="Exemplo de notícia de curiosidades">
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1234567890123456" crossorigin="anonymous"></script>
+
+    <style>
+        .image-credit {
+            font-size: 0.8em;
+            color: #666;
+            text-align: right;
+            margin-top: 5px;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <h1><a href="../../index.html">Brasil<span>Viral</span></a></h1>
+                <p class="slogan">Notícias que Bombam</p>
+            </div>
+            <nav class="main-nav">
+                <button class="menu-toggle" id="menuToggle">
+                    <i class="fas fa-bars"></i>
+                </button>
+                <ul class="nav-menu" id="navMenu">
+                    <li><a href="../../index.html">Home</a></li>
+                    <li><a href="../../categorias/esportes/index.html" class="{{CATEGORIA_ESPORTES}}">Esportes</a></li>
+                    <li><a href="../../categorias/economia/index.html" class="{{CATEGORIA_ECONOMIA}}">Economia</a></li>
+                    <li><a href="../../categorias/politica/index.html" class="{{CATEGORIA_POLITICA}}">Política</a></li>
+                    <li><a href="../../categorias/tecnologia/index.html" class="{{CATEGORIA_TECNOLOGIA}}">Tecnologia</a></li>
+                    <li><a href="../../categorias/entretenimento/index.html" class="{{CATEGORIA_ENTRETENIMENTO}}">Entretenimento</a></li>
+                    <li><a href="../../categorias/curiosidades/index.html" class="{{CATEGORIA_CURIOSIDADES}}">Curiosidades</a></li>
+                </ul>
+            </nav>
+            <div class="search-box">
+                <input type="text" placeholder="Buscar notícias...">
+                <button><i class="fas fa-search"></i></button>
+            </div>
+        </div>
+    </header>
+
+    <div class="breaking-news">
+        <div class="container">
+            <span class="breaking-label">ÚLTIMAS:</span>
+            <div class="breaking-text" id="breakingNews">
+                Dólar atinge maior valor do ano • Novo técnico da seleção brasileira será anunciado hoje • Problemas no WhatsApp afetam milhões de usuários
+            </div>
+        </div>
+    </div>
+
+    <main class="container main-content">
+        <article class="news-article">
+            <div class="article-header">
+                <h1>Exemplo de notícia de curiosidades</h1>
+                <div class="article-meta">
+                    <span class="category-tag Curiosidades">Curiosidades</span>
+                    <span class="post-date"><i class="far fa-clock"></i> Publicado em 12 de Abril de 2025</span>
+                </div>
+            </div>
+            
+            <div class="article-featured-image">
+                <img src="{{IMAGEM_URL}}" alt="Exemplo de notícia de curiosidades">
+                <div class="image-caption">{{IMAGEM_CREDITO}}</div>
+            </div>
+            
+            <div class="article-content">
+                <p>Este é um exemplo de notícia de curiosidades. Aqui você encontrará fatos interessantes, descobertas científicas, histórias inusitadas e fenômenos surpreendentes. O BrasilViral traz conteúdo que vai expandir seus conhecimentos e surpreender você. curiosidades.</p>
+            </div>
+            
+            <div class="article-tags">
+                <span><i class="fas fa-tags"></i> Tags:</span>
+                fatos, descobertas, ciência, história, mundo
+            </div>
+            
+            <div class="article-share">
+                <span>Compartilhe:</span>
+                <a href="#" class="share-facebook"><i class="fab fa-facebook-f"></i></a>
+                <a href="#" class="share-twitter"><i class="fab fa-twitter"></i></a>
+                <a href="#" class="share-whatsapp"><i class="fab fa-whatsapp"></i></a>
+                <a href="#" class="share-telegram"><i class="fab fa-telegram-plane"></i></a>
+            </div>
+        </article>
+        
+        <aside class="sidebar">
+            <div class="sidebar-widget related-news">
+                <h3><i class="fas fa-newspaper"></i> Notícias Relacionadas</h3>
+                <div class="related-news-list">
+                    Nenhuma notícia relacionada encontrada
+                </div>
+            </div>
+            
+            <div id="sidebar-top" class="ad-slot sidebar-widget">
+                <div class="ad-placeholder">
+                    <span>Anúncio</span>
+                </div>
+            </div>
+            
+            <div class="sidebar-widget newsletter">
+                <h3><i class="far fa-envelope"></i> Newsletter</h3>
+                <p>Receba as principais notícias diretamente no seu email</p>
+                <form id="newsletterForm">
+                    <input type="email" placeholder="Seu melhor email" required>
+                    <button type="submit">Inscrever-se</button>
+                </form>
+            </div>
+            
+            <div id="sidebar-bottom" class="ad-slot sidebar-widget">
+                <div class="ad-placeholder">
+                    <span>Anúncio</span>
+                </div>
+            </div>
+        </aside>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <h2>Brasil<span>Viral</span></h2>
+                    <p>O seu portal de notícias virais do Brasil</p>
+                </div>
+                <div class="footer-links">
+                    <h3>Links Rápidos</h3>
+                    <ul>
+                        <li><a href="../../index.html">Home</a></li>
+                        <li><a href="../../categorias/esportes/index.html">Esportes</a></li>
+                        <li><a href="../../categorias/economia/index.html">Economia</a></li>
+                        <li><a href="../../categorias/politica/index.html">Política</a></li>
+                        <li><a href="../../categorias/tecnologia/index.html">Tecnologia</a></li>
+                        <li><a href="../../categorias/entretenimento/index.html">Entretenimento</a></li>
+                        <li><a href="../../categorias/curiosidades/index.html">Curiosidades</a></li>
+                    </ul>
+                </div>
+                <div class="footer-info">
+                    <h3>Informações</h3>
+                    <ul>
+                        <li><a href="../../sobre.html">Quem Somos</a></li>
+                        <li><a href="../../contato.html">Contato</a></li>
+                        <li><a href="../../politica-privacidade.html">Política de Privacidade</a></li>
+                        <li><a href="../../termos-uso.html">Termos de Uso</a></li>
+                    </ul>
+                </div>
+                <div class="footer-social">
+                    <h3>Redes Sociais</h3>
+                    <div class="social-icons">
+                        <a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
+                        <a href="#" target="_blank"><i class="fab fa-instagram"></i></a>
+                        <a href="#" target="_blank"><i class="fab fa-youtube"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 BrasilViral. Todos os direitos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../../js/main.js"></script>
+    <script src="../../js/adsense.js"></script>
+</body>
+</html>
