@@ -10,16 +10,20 @@ import os
 import json
 import random
 import requests
-import time
 import logging
 import re
 import hashlib
 from datetime import datetime
 from bs4 import BeautifulSoup
+from together import Together
 # Removida dependência do NLTK
 # import nltk
 # from nltk.tokenize import sent_tokenize
 from urllib.parse import urlparse, urljoin
+from PIL import Image
+from io import BytesIO
+from diffusers import DiffusionPipeline
+import torch
 
 # Configuração de logging
 logging.basicConfig(
@@ -105,6 +109,12 @@ class NewsResearchAgent:
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
         }
+        self.together_client = Together(api_key="a0ed7d9e416c949da3446ec1605ae122e74d64eedfae029f2ca0a81bdcf41ed7")
+        self.diffusers_pipe = DiffusionPipeline.from_pretrained(
+            "runwayml/stable-diffusion-v1-5",
+            torch_dtype=torch.float32
+        ).to("cpu")  # ou "cuda"
+
     
     def _load_cache(self):
         """Carrega o cache de notícias e o registro de notícias publicadas."""
@@ -174,92 +184,63 @@ class NewsResearchAgent:
         return unique_topics[:20]
     
     def search_viral_news(self, category, limit=10):
-        """
-        Pesquisa notícias virais em uma categoria específica.
-        
-        Args:
-            category (str): Categoria de notícias
-            limit (int): Número máximo de notícias a retornar
-            
-        Returns:
-            list: Lista de notícias virais encontradas
-        """
         if category not in CATEGORIES:
             logger.error(f"Categoria inválida: {category}")
             return []
-        
-        # Obter tópicos em tendência
+
         trending_topics = self.get_trending_topics()
-        
-        # Pesquisar notícias nas fontes da categoria
         all_news = []
-        
+
         for source_url in NEWS_SOURCES.get(category, []):
             try:
                 logger.info(f"Pesquisando notícias em: {source_url}")
                 response = requests.get(source_url, headers=self.headers, timeout=10)
                 soup = BeautifulSoup(response.text, 'html.parser')
-                
-                # Encontrar links de notícias
+
                 news_links = []
                 for a in soup.find_all('a', href=True):
                     href = a['href']
-                    
-                    # Ignorar links de redes sociais, login, etc.
                     if any(x in href for x in ['facebook', 'twitter', 'instagram', 'login', 'cadastro']):
                         continue
-                    
-                    # Garantir URL completa
                     if not href.startswith(('http://', 'https://')):
                         href = urljoin(source_url, href)
-                    
-                    # Verificar se é do mesmo domínio
                     if urlparse(href).netloc == urlparse(source_url).netloc:
                         news_links.append(href)
-                
-                # Remover duplicatas
+
                 news_links = list(set(news_links))
-                
-                # Limitar a 5 links por fonte para não sobrecarregar
                 for link in news_links[:5]:
                     try:
-                        # Verificar se já está no cache
                         link_hash = hashlib.md5(link.encode()).hexdigest()
                         if link_hash in self.news_cache:
                             news_data = self.news_cache[link_hash]
                             all_news.append(news_data)
                             continue
-                        
-                        # Obter conteúdo da notícia
+
                         news_response = requests.get(link, headers=self.headers, timeout=10)
                         news_soup = BeautifulSoup(news_response.text, 'html.parser')
-                        
-                        # Extrair título
-                        title = news_soup.find('h1')
-                        if not title:
-                            title = news_soup.find('title')
-                        
+
+                        title = news_soup.find('h1') or news_soup.find('title')
                         if title:
                             title = title.get_text().strip()
                         else:
-                            continue  # Pular se não encontrar título
-                        
-                        # Extrair conteúdo (parágrafos)
+                            continue
+
                         paragraphs = []
                         for p in news_soup.find_all('p'):
                             text = p.get_text().strip()
-                            if len(text) > 50:  # Ignorar parágrafos muito curtos
-                                paragraphs.append(text)
-                        
-                        content = '\n\n'.join(paragraphs[:10])  # Limitar a 10 parágrafos
-                        
-                        if not content:
-                            continue  # Pular se não encontrar conteúdo
-                        
-                        # Calcular pontuação de viralidade
+                            if len(text) < 60:
+                                continue
+                            if any(x in text.lower() for x in ['clique aqui', 'acesse', 'edição', 'veja também', 'compartilhe']):
+                                continue
+                            if re.match(r'^\d{1,2}h.*', text.lower()):
+                                continue
+                            paragraphs.append(text)
+
+                        content = '\n\n'.join(paragraphs[:10])
+                        if not content or len(content.split()) < 80:
+                            continue
+
                         viral_score = self._calculate_viral_score(title, content, trending_topics)
-                        
-                        # Criar objeto de notícia
                         news_data = {
                             'title': title,
                             'content': content,
@@ -269,28 +250,23 @@ class NewsResearchAgent:
                             'timestamp': datetime.now().isoformat(),
                             'published': False
                         }
-                        
-                        # Adicionar ao cache
+
                         self.news_cache[link_hash] = news_data
                         all_news.append(news_data)
-                        
+
                     except Exception as e:
                         logger.error(f"Erro ao processar link de notícia {link}: {e}")
-                
+
             except Exception as e:
                 logger.error(f"Erro ao pesquisar notícias em {source_url}: {e}")
-        
-        # Salvar cache atualizado
+
         self._save_cache()
-        
-        # Ordenar por pontuação de viralidade e retornar as melhores
         sorted_news = sorted(all_news, key=lambda x: x['viral_score'], reverse=True)
-        
-        # Filtrar notícias já publicadas
         filtered_news = [news for news in sorted_news if not self._is_already_published(news)]
-        
+
         logger.info(f"Encontradas {len(filtered_news)} notícias virais na categoria {category}")
         return filtered_news[:limit]
+
     
     def _calculate_viral_score(self, title, content, trending_topics):
         """
@@ -363,44 +339,96 @@ class NewsResearchAgent:
         
         return False
     
+    def gerar_imagem_com_diffusers(self, prompt, categoria):
+        """Gera uma imagem com Diffusers (Hugging Face) e salva localmente."""
+        try:
+            prompt_text = f"notícia sobre {prompt}, estilo ilustração digital, realista, colorido, brasil, 800x400"
+            image = self.diffusers_pipe(prompt_text).images[0]
+
+            slug = self._create_slug(prompt)
+            timestamp = datetime.now().strftime('%Y%m%d%H%M%S')
+            nome_arquivo = f"{slug}-{timestamp}.jpg"
+            pasta = os.path.join("images", categoria)
+            os.makedirs(pasta, exist_ok=True)
+            caminho = os.path.join(pasta, nome_arquivo)
+
+            image = image.resize((800, 400), Image.LANCZOS)
+            image.save(caminho, "JPEG", quality=85)
+
+            logger.info(f"🖼️ Imagem gerada com Hugging Face Diffusers e salva em: {caminho}")
+            return caminho.replace("\\", "/")
+
+        except Exception as e:
+            logger.error(f"Erro ao gerar imagem com Diffusers: {e}")
+            return f"images/placeholder-{categoria}.jpg"
+
+
+
     def rewrite_news(self, news):
         """
-        Reescreve uma notícia para evitar plágio e torná-la única.
-        
-        Args:
-            news (dict): Dados da notícia original
-            
-        Returns:
-            dict: Notícia reescrita
+        Usa o modelo LLM da Together AI para reescrever uma notícia com linguagem natural e estruturada.
         """
-        original_title = news['title']
-        original_content = news['content']
+        prompt = f"""
+        Você é um jornalista profissional que escreve para um site de notícias brasileiro. 
+        Sua tarefa é reescrever a seguinte notícia com linguagem clara, parágrafos bem estruturados e sem referências a redes sociais, links ou chamadas de ação como "clique aqui". 
+        Use português correto, estilo informativo e mantenha a notícia coerente do início ao fim.
+
+        ⚠️ Importante: NÃO utilize markdown, a resposta deve ser em texto puro com parágrafos separados por duas quebras de linha (\\n\\n). Não utilize negrito, itálico ou símbolos especiais.
+
+        Título original:
+        {news['title']}
+
+        Conteúdo original:
+        {news['content']}
+
+        Reescreva a notícia de forma natural e bem estruturada:
+        """
+
+        try:
+            response = self.together_client.chat.completions.create(
+            model="meta-llama/Llama-3.3-70B-Instruct-Turbo-Free",
+            messages=[{"role": "user", "content": prompt}]
+            )
+            rewritten_content = response.choices[0].message.content.strip()
+
+            rewritten_news = news.copy()
+            # Gerar imagem e salvar thumbnail
+            image_path = self.gerar_imagem_com_diffusers(news['title'], news['category'])
+            rewritten_news['image_url'] = f"../../{image_path}" if image_path.startswith("images/") else image_path
+            rewritten_news['original_title'] = news['title']
+            #Continua
+            rewritten_news['title'] = news['title']
+            rewritten_news['original_content'] = news['content']
+            rewritten_news['content'] = '\n\n'.join(
+                [f"<p>{p.strip()}</p>" for p in rewritten_content.split('\n\n') if p.strip()]
+            )
+            rewritten_news['rewritten'] = True
+            rewritten_news['rewrite_timestamp'] = datetime.now().isoformat()
+
+
+            logger.info(f"✅ Notícia reescrita com LLM: {news['title']}")
+            return rewritten_news
+
+        except Exception as e:
+            print(f"❌ Erro ao reescrever com LLM: {e}".encode('utf-8', errors='replace').decode())
+            
+            # Tentar reescrita local como fallback
+            rewritten_content = self._rewrite_text(news["content"])
+            rewritten_news = news.copy()
+            rewritten_news['original_title'] = news['title']
+            rewritten_news['original_content'] = news['content']
+            rewritten_news['content'] = rewritten_content
+            rewritten_news['rewritten'] = False
+            rewritten_news['rewrite_timestamp'] = datetime.now().isoformat()
+
+            logger.info(f"⚠️ Notícia reescrita localmente (fallback): {news['title']}")
+            return rewritten_news
+    
+    
         
-        # Reescrever título
-        rewritten_title = self._rewrite_text(original_title)
         
-        # Reescrever conteúdo parágrafo por parágrafo
-        paragraphs = original_content.split('\n\n')
-        rewritten_paragraphs = []
-        
-        for paragraph in paragraphs:
-            if len(paragraph) > 50:  # Ignorar parágrafos muito curtos
-                rewritten_paragraph = self._rewrite_text(paragraph)
-                rewritten_paragraphs.append(rewritten_paragraph)
-        
-        rewritten_content = '\n\n'.join(rewritten_paragraphs)
-        
-        # Criar objeto de notícia reescrita
-        rewritten_news = news.copy()
-        rewritten_news['original_title'] = original_title
-        rewritten_news['title'] = rewritten_title
-        rewritten_news['original_content'] = original_content
-        rewritten_news['content'] = rewritten_content
-        rewritten_news['rewritten'] = True
-        rewritten_news['rewrite_timestamp'] = datetime.now().isoformat()
-        
-        logger.info(f"Notícia reescrita: {rewritten_title}")
-        return rewritten_news
+
+
     
     def _rewrite_text(self, text):
         """
@@ -475,6 +503,34 @@ class NewsResearchAgent:
         # Aplicar uma técnica aleatória
         technique = random.choice(techniques)
         return technique(sentence)
+    
+    def fetch_image_url(self, query):
+        """Busca uma imagem relacionada ao título da notícia usando DuckDuckGo."""
+        try:
+            search_url = f"https://duckduckgo.com/?q={requests.utils.quote(query)}&iax=images&ia=images"
+            headers = self.headers
+            res = requests.get(search_url, headers=headers)
+            soup = BeautifulSoup(res.text, "html.parser")
+
+            # DuckDuckGo carrega as imagens via JavaScript. Precisamos do endpoint real:
+            vqd_match = re.search(r'vqd=([\d-]+)\&', res.text)
+            if not vqd_match:
+                logger.warning("VQD token não encontrado, usando imagem genérica.")
+                return "https://via.placeholder.com/800x400?text=Imagem+indisponível"
+
+            vqd = vqd_match.group(1)
+            api_url = f"https://duckduckgo.com/i.js?l=us-en&o=json&q={requests.utils.quote(query)}&vqd={vqd}"
+            img_res = requests.get(api_url, headers=headers)
+            img_json = img_res.json()
+
+            if img_json["results"]:
+                return img_json["results"][0]["image"]
+            else:
+                return "https://via.placeholder.com/800x400?text=Imagem+indisponível"
+
+        except Exception as e:
+            logger.error(f"Erro ao buscar imagem: {e}")
+            return "https://via.placeholder.com/800x400?text=Imagem+indisponível"
     
     def _change_word_order(self, sentence):
         """Altera a ordem das palavras na sentença."""
@@ -594,6 +650,7 @@ class NewsResearchAgent:
         
         return simplified
     
+
     def publish_news(self, news, output_dir):
         """
         Publica uma notícia reescrita, criando arquivos HTML.
@@ -673,195 +730,44 @@ class NewsResearchAgent:
         return slug
     
     def _generate_news_html(self, news):
-        """Gera o HTML para uma página de notícia."""
-        # Formatar data de publicação
-        publish_date = datetime.now().strftime('%d/%m/%Y às %H:%M')
-        
-        # Formatar conteúdo em parágrafos HTML
-        content_html = ""
-        for paragraph in news['content'].split('\n\n'):
-            if paragraph.strip():
-                content_html += f"        <p>{paragraph}</p>\n"
-        
-        # Template HTML básico
-        html_template = f"""<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{news['title']} - BrasilViral</title>
-    <link rel="stylesheet" href="../../css/style.css">
-    <link rel="stylesheet" href="../../css/news.css">
-    <link rel="stylesheet" href="../../css/ads.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <meta name="description" content="{news['title']}">
-    <!-- Google AdSense -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1234567890123456" crossorigin="anonymous"></script>
-</head>
-<body>
-    <header>
-        <div class="container">
-            <div class="logo">
-                <h1><a href="../../index.html">Brasil<span>Viral</span></a></h1>
-                <p class="slogan">Notícias que Bombam</p>
-            </div>
-            <nav class="main-nav">
-                <button class="menu-toggle" id="menuToggle">
-                    <i class="fas fa-bars"></i>
-                </button>
-                <ul class="nav-menu" id="navMenu">
-                    <li><a href="../../index.html">Home</a></li>
-                    <li><a href="../../categorias/esportes/index.html" class="{news['category'] == 'esportes' and 'active' or ''}">Esportes</a></li>
-                    <li><a href="../../categorias/economia/index.html" class="{news['category'] == 'economia' and 'active' or ''}">Economia</a></li>
-                    <li><a href="../../categorias/politica/index.html" class="{news['category'] == 'politica' and 'active' or ''}">Política</a></li>
-                    <li><a href="../../categorias/tecnologia/index.html" class="{news['category'] == 'tecnologia' and 'active' or ''}">Tecnologia</a></li>
-                    <li><a href="../../categorias/entretenimento/index.html" class="{news['category'] == 'entretenimento' and 'active' or ''}">Entretenimento</a></li>
-                    <li><a href="../../categorias/curiosidades/index.html" class="{news['category'] == 'curiosidades' and 'active' or ''}">Curiosidades</a></li>
-                </ul>
-            </nav>
-            <div class="search-box">
-                <input type="text" placeholder="Buscar notícias...">
-                <button><i class="fas fa-search"></i></button>
-            </div>
-        </div>
-    </header>
+        """Gera o HTML para uma página de notícia com base no template da pasta categorias."""
+        try:
+            # Caminho do template base
+            template_path = os.path.join("categorias", "template_noticia.html")
+            if not os.path.exists(template_path):
+                raise FileNotFoundError(f"Template não encontrado em {template_path}")
 
-    <div class="breaking-news">
-        <div class="container">
-            <span class="breaking-label">ÚLTIMAS:</span>
-            <div class="breaking-text" id="breakingNews">
-                Dólar atinge maior valor do ano • Novo técnico da seleção brasileira será anunciado hoje • Problemas no WhatsApp afetam milhões de usuários
-            </div>
-        </div>
-    </div>
+            with open(template_path, "r", encoding="utf-8") as f:
+                template = f.read()
 
-    <main class="container main-content">
-        <article class="news-article">
-            <div class="article-header">
-                <h1>{news['title']}</h1>
-                <div class="article-meta">
-                    <span class="category-tag {news['category']}">{news['category'].capitalize()}</span>
-                    <span class="post-date"><i class="far fa-clock"></i> Publicado em {publish_date}</span>
-                </div>
-            </div>
-            
-            <div class="article-featured-image">
-                <img src="../../images/placeholder-{news['category']}.jpg" alt="{news['title']}">
-                <div class="image-caption">Imagem: BrasilViral</div>
-            </div>
-            
-            <div class="article-content">
-{content_html}
-            </div>
-            
-            <div class="article-tags">
-                <span><i class="fas fa-tags"></i> Tags:</span>
-                <a href="#">{news['category']}</a>
-                <a href="#">brasil</a>
-                <a href="#">notícias</a>
-            </div>
-            
-            <div class="article-share">
-                <span>Compartilhe:</span>
-                <a href="#" class="share-facebook"><i class="fab fa-facebook-f"></i></a>
-                <a href="#" class="share-twitter"><i class="fab fa-twitter"></i></a>
-                <a href="#" class="share-whatsapp"><i class="fab fa-whatsapp"></i></a>
-                <a href="#" class="share-telegram"><i class="fab fa-telegram-plane"></i></a>
-            </div>
-        </article>
-        
-        <aside class="sidebar">
-            <div class="sidebar-widget related-news">
-                <h3><i class="fas fa-newspaper"></i> Notícias Relacionadas</h3>
-                <div class="related-news-list">
-                    <!-- Será preenchido dinamicamente -->
-                    <div class="related-news-item">
-                        <a href="#">
-                            <div class="related-news-image">
-                                <img src="../../images/placeholder-{news['category']}.jpg" alt="Notícia relacionada">
-                            </div>
-                            <div class="related-news-title">
-                                Notícia relacionada será exibida aqui
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            
-            <div id="sidebar-top" class="ad-slot sidebar-widget">
-                <div class="ad-placeholder">
-                    <span>Anúncio</span>
-                </div>
-            </div>
-            
-            <div class="sidebar-widget newsletter">
-                <h3><i class="far fa-envelope"></i> Newsletter</h3>
-                <p>Receba as principais notícias diretamente no seu email</p>
-                <form id="newsletterForm">
-                    <input type="email" placeholder="Seu melhor email" required>
-                    <button type="submit">Inscrever-se</button>
-                </form>
-            </div>
-            
-            <div id="sidebar-bottom" class="ad-slot sidebar-widget">
-                <div class="ad-placeholder">
-                    <span>Anúncio</span>
-                </div>
-            </div>
-        </aside>
-    </main>
+            # Formatar data
+            publish_date = datetime.now().strftime("%d/%m/%Y às %H:%M")
 
-    <footer>
-        <div class="container">
-            <div class="footer-content">
-                <div class="footer-logo">
-                    <h2>Brasil<span>Viral</span></h2>
-                    <p>O seu portal de notícias virais do Brasil</p>
-                </div>
-                <div class="footer-links">
-                    <h3>Links Rápidos</h3>
-                    <ul>
-                        <li><a href="../../index.html">Home</a></li>
-                        <li><a href="../../categorias/esportes/index.html">Esportes</a></li>
-                        <li><a href="../../categorias/economia/index.html">Economia</a></li>
-                        <li><a href="../../categorias/politica/index.html">Política</a></li>
-                        <li><a href="../../categorias/tecnologia/index.html">Tecnologia</a></li>
-                        <li><a href="../../categorias/entretenimento/index.html">Entretenimento</a></li>
-                        <li><a href="../../categorias/curiosidades/index.html">Curiosidades</a></li>
-                    </ul>
-                </div>
-                <div class="footer-info">
-                    <h3>Informações</h3>
-                    <ul>
-                        <li><a href="../../sobre.html">Quem Somos</a></li>
-                        <li><a href="../../contato.html">Contato</a></li>
-                        <li><a href="../../politica-privacidade.html">Política de Privacidade</a></li>
-                        <li><a href="../../termos-uso.html">Termos de Uso</a></li>
-                    </ul>
-                </div>
-                <div class="footer-social">
-                    <h3>Redes Sociais</h3>
-                    <div class="social-icons">
-                        <a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
-                        <a href="#" target="_blank"><i class="fab fa-instagram"></i></a>
-                        <a href="#" target="_blank"><i class="fab fa-youtube"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="footer-bottom">
-                <p>&copy; 2025 BrasilViral. Todos os direitos reservados.</p>
-            </div>
-        </div>
-    </footer>
+            # Limpa conteúdo HTML antes de inserir no template
+            content_html = news["content"].strip()
 
-    <script src="../../js/main.js"></script>
-    <script src="../../js/adsense.js"></script>
-</body>
-</html>
-"""
-        
-        return html_template
+            # Remove caracteres soltos antes de tags HTML
+            content_html = re.sub(r'^[^\w<]*', '', content_html)
+
+            # Remove quebras de linha fora de contexto
+            content_html = re.sub(r'^\s*\n*', '', content_html)
+
+
+            # Substituições no template
+            template = template.replace("{{TITULO}}", news["title"])
+            template = template.replace("{{RESUMO}}", news["content"].split('\n\n')[0])
+            template = template.replace("{{DATA}}", publish_date)
+            template = template.replace("{{CATEGORIA}}", news["category"])
+            template = template.replace("{{IMAGEM_URL}}", news.get("image_url", f"../../images/placeholder-{news['category']}.jpg"))
+            template = template.replace("{{IMAGEM_CREDITO}}", "Imagem: BrasilViral")
+            template = template.replace("{{CONTEUDO_HTML}}", content_html.strip())
+            template = template.replace("{{TAGS}}", f"{news['category']}, brasil, notícias")
+
+            return template
+        except Exception as e:
+            logger.error(f"Erro ao gerar HTML da notícia: {e}")
+            return "<h1>Erro ao gerar conteúdo</h1>"
+
     
     def get_top_news_for_category(self, category, count=3):
         """
@@ -889,48 +795,62 @@ class NewsResearchAgent:
         
         return sorted_news[:count]
 
-
 # Função para demonstração
-def demo():
-    """Demonstra o uso do agente de pesquisa de notícias."""
+
+
+def gerar_noticias_para_site():
+    categorias = ["esportes", "economia", "politica", "tecnologia", "entretenimento", "curiosidades"]
+    os.makedirs("categorias", exist_ok=True)
+
     agent = NewsResearchAgent()
-    
-    # Testar pesquisa de notícias virais em uma categoria
-    category = 'tecnologia'
-    print(f"\nPesquisando notícias virais na categoria: {category}")
-    news_list = agent.search_viral_news(category, limit=3)
-    
-    if news_list:
-        # Mostrar a notícia mais viral
-        top_news = news_list[0]
-        print(f"\nNotícia mais viral: {top_news['title']}")
-        print(f"Pontuação de viralidade: {top_news['viral_score']}")
-        print(f"Fonte: {top_news['source_url']}")
-        
-        # Reescrever a notícia
-        print("\nReescrevendo notícia...")
-        rewritten = agent.rewrite_news(top_news)
-        
-        print(f"\nTítulo original: {rewritten['original_title']}")
-        print(f"Título reescrito: {rewritten['title']}")
-        
-        print("\nPrimeiro parágrafo original:")
-        original_paragraphs = rewritten['original_content'].split('\n\n')
-        if original_paragraphs:
-            print(original_paragraphs[0])
-        
-        print("\nPrimeiro parágrafo reescrito:")
-        rewritten_paragraphs = rewritten['content'].split('\n\n')
-        if rewritten_paragraphs:
-            print(rewritten_paragraphs[0])
-        
-        # Publicar notícia (comentado para não criar arquivos durante o teste)
-        # publish_info = agent.publish_news(rewritten, '/home/ubuntu/brasilviralsite')
-        # if publish_info:
-        #     print(f"\nNotícia publicada em: {publish_info['filepath']}")
-    else:
-        print("Nenhuma notícia viral encontrada.")
+    latest_news = {}
+
+    for categoria in categorias:
+        print(f"\n🔎 Coletando notícia para: {categoria.upper()}")
+
+        try:
+            noticias = agent.search_viral_news(categoria, limit=1)
+            if not noticias:
+                print(f"⚠️ Nenhuma notícia encontrada para {categoria}. Pulando.")
+                continue
+
+            top_news = noticias[0]
+            rewritten = agent.rewrite_news(top_news)
+
+            # Publicar a notícia (gera o arquivo HTML na pasta correta)
+            resultado_publicacao = agent.publish_news(rewritten, output_dir=".")
+            if not resultado_publicacao:
+                print(f"⚠️ Falha ao publicar notícia de {categoria}. Pulando.")
+                continue
+
+
+            # Monta o resumo da notícia para o JSON principal
+            noticia_resumida = {
+                "title": rewritten["title"],
+                "summary": rewritten["content"].split('\n\n')[0],
+                "timestamp": datetime.now().isoformat(),
+                "link": resultado_publicacao["url_path"],
+                "image": rewritten.get("image_url", f"images/placeholder-{categoria}.jpg")
+            }
+
+            # Salva o resumo individual da categoria
+            with open(os.path.join("categorias", f"noticias_{categoria}.json"), "w", encoding="utf-8") as f:
+                json.dump([noticia_resumida], f, ensure_ascii=False, indent=2)
+
+            # Adiciona ao dicionário geral
+            latest_news[categoria] = noticia_resumida
+
+            print(f"✅ Notícia publicada e salva: {resultado_publicacao['url_path']}")
+
+        except Exception as e:
+            print(f"❌ Erro ao processar {categoria}: {e}")
+
+    # Salvar o JSON com as últimas notícias de todas as categorias
+    with open("latest_news.json", "w", encoding="utf-8") as f:
+        json.dump(latest_news, f, ensure_ascii=False, indent=2)
+
+    print("📦 Arquivo 'latest_news.json' atualizado com as últimas notícias.")
 
 
 if __name__ == "__main__":
-    demo()
+    gerar_noticias_para_site()

@@ -1,0 +1,32 @@
+{
+  "esportes": {
+    "title": "Neymar marca três gols em retorno aos gramados após lesão",
+    "image_path": "images/esportes/neymar-marca-tr-s-gols-em-retorno-aos-gramados-ap-s-les-o.jpg",
+    "timestamp": 1744572265
+  },
+  "economia": {
+    "title": "Dólar atinge maior valor do ano e preocupa mercado brasileiro",
+    "image_path": "images/economia/d-lar-atinge-maior-valor-do-ano-e-preocupa-mercado-brasileiro.jpg",
+    "timestamp": 1744572265
+  },
+  "politica": {
+    "title": "Lula anuncia novo pacote de investimentos para o Nordeste",
+    "image_path": "images/politica/lula-anuncia-novo-pacote-de-investimentos-para-o-nordeste.jpg",
+    "timestamp": 1744572266
+  },
+  "tecnologia": {
+    "title": "Nova tecnologia promete revolucionar tratamento contra o câncer",
+    "image_path": "images/tecnologia/nova-tecnologia-promete-revolucionar-tratamento-contra-o-c-ncer.jpg",
+    "timestamp": 1744572268
+  },
+  "entretenimento": {
+    "title": "Katy Perry viaja ao espaço na segunda nave turística da SpaceX",
+    "image_path": "images/entretenimento/katy-perry-viaja-ao-espa-o-na-segunda-nave-tur-stica-da-spacex.jpg",
+    "timestamp": 1744572268
+  },
+  "curiosidades": {
+    "title": "Lua cheia rosa ilumina céu brasileiro neste fim de semana",
+    "image_path": "images/curiosidades/lua-cheia-rosa-ilumina-c-u-brasileiro-neste-fim-de-semana.jpg",
+    "timestamp": 1744572269
+  }
+}

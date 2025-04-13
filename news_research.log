@@ -1,0 +1,1009 @@
+2025-04-13 09:45:25,538 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 09:45:25,541 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-13 09:45:32,234 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-13 09:45:40,571 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-13 09:45:48,773 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-13 09:46:01,417 - NewsResearchAgent - INFO - Cache de notícias salvo com 18 entradas
+2025-04-13 09:46:01,419 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 0 entradas
+2025-04-13 09:46:01,419 - NewsResearchAgent - INFO - Encontradas 18 notícias virais na categoria esportes
+2025-04-13 09:46:01,423 - NewsResearchAgent - INFO - Notícia reescrita: 'UFC vai para o Brasil em 2025', garante Dana White
+2025-04-13 09:46:06,741 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 09:46:06,748 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-13 09:46:16,697 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-13 09:46:21,594 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-13 09:46:25,333 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-13 09:46:25,997 - NewsResearchAgent - INFO - Cache de notícias salvo com 27 entradas
+2025-04-13 09:46:25,999 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 0 entradas
+2025-04-13 09:46:25,999 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria economia
+2025-04-13 09:46:26,002 - NewsResearchAgent - INFO - Notícia reescrita: AgroGalaxy (AGXY3): credores aprovam plano de recuperação judicial
+2025-04-13 09:46:30,399 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 09:46:30,402 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-13 09:46:34,762 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-13 09:46:44,042 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-13 09:46:49,326 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-13 09:46:54,340 - NewsResearchAgent - INFO - Cache de notícias salvo com 40 entradas
+2025-04-13 09:46:54,340 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 0 entradas
+2025-04-13 09:46:54,341 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria politica
+2025-04-13 09:46:54,346 - NewsResearchAgent - INFO - Notícia reescrita: Bolsonaro é submetido a cirurgia para reconstrução da parede abdominal
+2025-04-13 09:46:57,647 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 09:46:57,649 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-13 09:47:07,766 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-13 09:47:10,119 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-13 09:47:14,637 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-13 09:47:17,945 - NewsResearchAgent - INFO - Cache de notícias salvo com 54 entradas
+2025-04-13 09:47:17,947 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 0 entradas
+2025-04-13 09:47:17,947 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria tecnologia
+2025-04-13 09:47:17,952 - NewsResearchAgent - INFO - Notícia reescrita: 10 notícias mais importantes da semana (07/04 a 11/04)
+2025-04-13 09:47:23,387 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 09:47:23,387 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-13 09:47:31,584 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-13 09:47:35,110 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-13 09:47:38,704 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-13 09:47:43,370 - NewsResearchAgent - INFO - Cache de notícias salvo com 70 entradas
+2025-04-13 09:47:43,371 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 0 entradas
+2025-04-13 09:47:43,372 - NewsResearchAgent - INFO - Encontradas 17 notícias virais na categoria entretenimento
+2025-04-13 09:47:43,372 - NewsResearchAgent - INFO - Notícia reescrita: Como Minecraft salvou 2025, e o que Hollywood precisa aprender com isso
+2025-04-13 09:47:47,296 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 09:47:47,296 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-13 09:47:51,991 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-13 09:47:57,612 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-13 09:48:05,605 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-13 09:48:06,310 - NewsResearchAgent - INFO - Cache de notícias salvo com 83 entradas
+2025-04-13 09:48:06,310 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 0 entradas
+2025-04-13 09:48:06,314 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria curiosidades
+2025-04-13 09:48:06,320 - NewsResearchAgent - INFO - Notícia reescrita: Mochila tech ajuda pessoas com deficiência visual a detectar obstáculos
+2025-04-13 15:21:19,284 - NewsResearchAgent - INFO - Cache de notícias carregado com 83 entradas
+2025-04-13 15:21:19,294 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 0 entradas
+2025-04-13 15:21:24,471 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 15:21:24,473 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-13 15:21:29,012 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-13 15:21:31,647 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-13 15:21:38,496 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-13 15:21:48,386 - NewsResearchAgent - INFO - Cache de notícias salvo com 98 entradas
+2025-04-13 15:21:48,387 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 0 entradas
+2025-04-13 15:21:48,387 - NewsResearchAgent - INFO - Encontradas 15 notícias virais na categoria esportes
+2025-04-13 15:21:48,394 - NewsResearchAgent - INFO - Notícia reescrita: Vôlei de praia: brasileiras vencem em Saquarema e são campeãs do Elite16
+2025-04-13 15:21:52,403 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 15:21:52,405 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-13 15:22:08,625 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-13 15:22:13,884 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-13 15:22:17,140 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-13 15:22:17,728 - NewsResearchAgent - INFO - Cache de notícias salvo com 110 entradas
+2025-04-13 15:22:17,728 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 0 entradas
+2025-04-13 15:22:17,728 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria economia
+2025-04-13 15:22:17,732 - NewsResearchAgent - INFO - Notícia reescrita: Finanças Pessoais: Lições do GPS para alcançar a liberdade financeira
+2025-04-13 15:22:21,913 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 15:22:21,913 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-13 15:22:26,266 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-13 15:22:35,811 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-13 15:22:40,343 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-13 15:22:45,673 - NewsResearchAgent - INFO - Cache de notícias salvo com 125 entradas
+2025-04-13 15:22:45,674 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 0 entradas
+2025-04-13 15:22:45,675 - NewsResearchAgent - INFO - Encontradas 15 notícias virais na categoria politica
+2025-04-13 15:22:45,679 - NewsResearchAgent - INFO - Notícia reescrita: Bolsonaro internado pede troca de bastão e antecipa 26 no campo reacionário
+2025-04-13 15:22:49,945 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 15:22:49,945 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-13 15:22:57,930 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-13 15:23:00,294 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-13 15:23:06,409 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-13 15:23:09,212 - NewsResearchAgent - INFO - Cache de notícias salvo com 144 entradas
+2025-04-13 15:23:09,213 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 0 entradas
+2025-04-13 15:23:09,213 - NewsResearchAgent - INFO - Encontradas 19 notícias virais na categoria tecnologia
+2025-04-13 15:23:09,217 - NewsResearchAgent - INFO - Notícia reescrita: Steam recebe 5 jogos grátis nesta semana!  Veja lista e resgate agora
+2025-04-13 15:23:13,959 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 15:23:13,963 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-13 15:23:23,042 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-13 15:23:27,321 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-13 15:23:37,157 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-13 15:23:41,249 - NewsResearchAgent - INFO - Cache de notícias salvo com 161 entradas
+2025-04-13 15:23:41,249 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 0 entradas
+2025-04-13 15:23:41,249 - NewsResearchAgent - INFO - Encontradas 17 notícias virais na categoria entretenimento
+2025-04-13 15:23:41,255 - NewsResearchAgent - INFO - Notícia reescrita: Álbum clássico de Prince, “1999” ganhará reedição com 35 gravações inéditas
+2025-04-13 15:23:46,461 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 15:23:46,463 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-13 15:23:50,180 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-13 15:23:55,012 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-13 15:24:04,344 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-13 15:24:04,995 - NewsResearchAgent - INFO - Cache de notícias salvo com 173 entradas
+2025-04-13 15:24:04,997 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 0 entradas
+2025-04-13 15:24:04,997 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria curiosidades
+2025-04-13 15:24:05,002 - NewsResearchAgent - INFO - Notícia reescrita: Onkalo: caverna finlandesa transformada em túmulo nuclear por 100 mil anos
+2025-04-13 16:23:16,636 - NewsResearchAgent - INFO - Cache de notícias carregado com 173 entradas
+2025-04-13 16:23:16,638 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 0 entradas
+2025-04-13 16:23:20,965 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 16:23:20,967 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-13 16:23:25,426 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-13 16:23:27,849 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-13 16:23:32,621 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-13 16:23:45,106 - NewsResearchAgent - INFO - Cache de notícias salvo com 188 entradas
+2025-04-13 16:23:45,107 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 0 entradas
+2025-04-13 16:23:45,108 - NewsResearchAgent - INFO - Encontradas 18 notícias virais na categoria esportes
+2025-04-13 16:23:45,113 - NewsResearchAgent - INFO - Notícia reescrita: Fórmula 1 - Pilotos, Carros, Equipes, resultados, Estatísticas, Notícias, Classificação
+2025-04-13 16:23:45,124 - NewsResearchAgent - INFO - Cache de notícias salvo com 188 entradas
+2025-04-13 16:23:45,126 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 1 entradas
+2025-04-13 16:23:45,126 - NewsResearchAgent - INFO - Notícia publicada: Fórmula 1 - Pilotos, Carros, Equipes, resultados, Estatísticas, Notícias, Classificação em .\categorias\esportes\formula-1-pilotos-carros-equipes-resultados-estati-20250413162345.html
+2025-04-13 16:23:48,259 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 16:23:48,275 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-13 16:23:53,867 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-13 16:23:58,836 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-13 16:24:01,450 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-13 16:24:02,034 - NewsResearchAgent - INFO - Cache de notícias salvo com 198 entradas
+2025-04-13 16:24:02,035 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 1 entradas
+2025-04-13 16:24:02,037 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria economia
+2025-04-13 16:24:02,039 - NewsResearchAgent - INFO - Notícia reescrita: Ouro fecha em nova alta e ultrapassa US$ 3.200
+2025-04-13 16:24:02,050 - NewsResearchAgent - INFO - Cache de notícias salvo com 198 entradas
+2025-04-13 16:24:02,051 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 2 entradas
+2025-04-13 16:24:02,051 - NewsResearchAgent - INFO - Notícia publicada: Ouro fecha em nova alta e ultrapassa US$ 3.200 em .\categorias\economia\ouro-fecha-em-nova-alta-e-ultrapassa-us-3200-20250413162402.html
+2025-04-13 16:24:06,703 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 16:24:06,704 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-13 16:24:11,405 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-13 16:24:20,573 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-13 16:24:23,801 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-13 16:24:30,206 - NewsResearchAgent - INFO - Cache de notícias salvo com 212 entradas
+2025-04-13 16:24:30,208 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 2 entradas
+2025-04-13 16:24:30,209 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria politica
+2025-04-13 16:24:30,213 - NewsResearchAgent - INFO - Notícia reescrita: Lula lidera entre empreendedores, mas CLT descontente é risco para 2026
+2025-04-13 16:24:30,225 - NewsResearchAgent - INFO - Cache de notícias salvo com 212 entradas
+2025-04-13 16:24:30,228 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 3 entradas
+2025-04-13 16:24:30,228 - NewsResearchAgent - INFO - Notícia publicada: Lula lidera entre empreendedores, mas CLT descontente é risco para 2026 em .\categorias\politica\lula-lidera-entre-empreendedores-mas-clt-desconten-20250413162430.html
+2025-04-13 16:24:33,828 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 16:24:33,830 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-13 16:24:40,965 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-13 16:24:42,922 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-13 16:24:51,452 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-13 16:24:55,006 - NewsResearchAgent - INFO - Cache de notícias salvo com 228 entradas
+2025-04-13 16:24:55,008 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 3 entradas
+2025-04-13 16:24:55,009 - NewsResearchAgent - INFO - Encontradas 19 notícias virais na categoria tecnologia
+2025-04-13 16:24:55,013 - NewsResearchAgent - INFO - Notícia reescrita: 20 LEGOs Minecraft para quem é fã do jogo; confira colecionáveis
+2025-04-13 16:24:55,027 - NewsResearchAgent - INFO - Cache de notícias salvo com 228 entradas
+2025-04-13 16:24:55,028 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 4 entradas
+2025-04-13 16:24:55,028 - NewsResearchAgent - INFO - Notícia publicada: 20 LEGOs Minecraft para quem é fã do jogo; confira colecionáveis em .\categorias\tecnologia\20-legos-minecraft-para-quem-e-fa-do-jogo-confira--20250413162455.html
+2025-04-13 16:24:59,229 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 16:24:59,230 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-13 16:25:10,367 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-13 16:25:12,905 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-13 16:25:23,043 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-13 16:25:28,452 - NewsResearchAgent - INFO - Cache de notícias salvo com 243 entradas
+2025-04-13 16:25:28,453 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 4 entradas
+2025-04-13 16:25:28,453 - NewsResearchAgent - INFO - Encontradas 17 notícias virais na categoria entretenimento
+2025-04-13 16:25:28,457 - NewsResearchAgent - INFO - Notícia reescrita: Minecraft | Fãs levam galinha para sessão do filme nos EUA
+2025-04-13 16:25:28,471 - NewsResearchAgent - INFO - Cache de notícias salvo com 243 entradas
+2025-04-13 16:25:28,472 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 5 entradas
+2025-04-13 16:25:28,472 - NewsResearchAgent - INFO - Notícia publicada: Minecraft | Fãs levam galinha para sessão do filme nos EUA em .\categorias\entretenimento\minecraft-fas-levam-galinha-para-sessao-do-filme-n-20250413162528.html
+2025-04-13 16:25:32,981 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 16:25:32,981 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-13 16:25:36,740 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-13 16:25:40,901 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-13 16:25:46,303 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-13 16:25:46,861 - NewsResearchAgent - INFO - Cache de notícias salvo com 252 entradas
+2025-04-13 16:25:46,862 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 5 entradas
+2025-04-13 16:25:46,863 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria curiosidades
+2025-04-13 16:25:46,868 - NewsResearchAgent - INFO - Notícia reescrita: Lo-fi: a história e a psicologia da música que te faz relaxar
+2025-04-13 16:25:46,881 - NewsResearchAgent - INFO - Cache de notícias salvo com 252 entradas
+2025-04-13 16:25:46,883 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 6 entradas
+2025-04-13 16:25:46,883 - NewsResearchAgent - INFO - Notícia publicada: Lo-fi: a história e a psicologia da música que te faz relaxar em .\categorias\curiosidades\lofi-a-historia-e-a-psicologia-da-musica-que-te-fa-20250413162546.html
+2025-04-13 16:39:52,223 - NewsResearchAgent - INFO - Cache de notícias carregado com 252 entradas
+2025-04-13 16:39:52,224 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 6 entradas
+2025-04-13 16:39:56,599 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 16:39:56,601 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-13 16:40:00,596 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-13 16:40:03,204 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-13 16:40:09,109 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-13 16:40:19,614 - NewsResearchAgent - INFO - Cache de notícias salvo com 263 entradas
+2025-04-13 16:40:19,616 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 6 entradas
+2025-04-13 16:40:19,616 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria esportes
+2025-04-13 16:40:19,621 - NewsResearchAgent - INFO - Notícia reescrita: tabela | campeonato francês | ge | futebol francês | ge
+2025-04-13 16:40:19,629 - NewsResearchAgent - INFO - Cache de notícias salvo com 263 entradas
+2025-04-13 16:40:19,629 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 7 entradas
+2025-04-13 16:40:19,629 - NewsResearchAgent - INFO - Notícia publicada: tabela | campeonato francês | ge | futebol francês | ge em .\categorias\esportes\tabela-campeonato-frances-ge-futebol-frances-ge-20250413164019.html
+2025-04-13 16:40:23,832 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 16:40:23,848 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-13 16:40:29,813 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-13 16:40:34,454 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-13 16:40:37,600 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-13 16:40:38,165 - NewsResearchAgent - INFO - Cache de notícias salvo com 271 entradas
+2025-04-13 16:40:38,166 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 7 entradas
+2025-04-13 16:40:38,167 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria economia
+2025-04-13 16:40:38,169 - NewsResearchAgent - INFO - Notícia reescrita: Conheça os países com as maiores reservas internacionais em dólar do mundo
+2025-04-13 16:40:38,182 - NewsResearchAgent - INFO - Cache de notícias salvo com 271 entradas
+2025-04-13 16:40:38,183 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 8 entradas
+2025-04-13 16:40:38,183 - NewsResearchAgent - INFO - Notícia publicada: Conheça os países com as maiores reservas internacionais em dólar do mundo em .\categorias\economia\conheca-os-paises-com-as-maiores-reservas-internac-20250413164038.html
+2025-04-13 16:40:42,767 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 16:40:42,770 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-13 16:40:47,474 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-13 16:40:54,588 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-13 16:40:58,141 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-13 16:41:03,270 - NewsResearchAgent - INFO - Cache de notícias salvo com 283 entradas
+2025-04-13 16:41:03,274 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 8 entradas
+2025-04-13 16:41:03,274 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria politica
+2025-04-13 16:41:03,274 - NewsResearchAgent - INFO - Notícia reescrita: Inscreva-se nas nossas newsletters para receber conteúdos exclusivos do UOL
+2025-04-13 16:41:03,291 - NewsResearchAgent - INFO - Cache de notícias salvo com 283 entradas
+2025-04-13 16:41:03,291 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 9 entradas
+2025-04-13 16:41:03,291 - NewsResearchAgent - INFO - Notícia publicada: Inscreva-se nas nossas newsletters para receber conteúdos exclusivos do UOL em .\categorias\politica\inscrevase-nas-nossas-newsletters-para-receber-con-20250413164103.html
+2025-04-13 16:41:06,648 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 16:41:06,648 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-13 16:41:14,102 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-13 16:41:16,324 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-13 16:41:20,823 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-13 16:41:24,702 - NewsResearchAgent - INFO - Cache de notícias salvo com 294 entradas
+2025-04-13 16:41:24,702 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 9 entradas
+2025-04-13 16:41:24,717 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria tecnologia
+2025-04-13 16:41:24,721 - NewsResearchAgent - INFO - Notícia reescrita: Review iPhone 16e | O celular “baratinho” da Apple faz sentido?
+2025-04-13 16:41:24,735 - NewsResearchAgent - INFO - Cache de notícias salvo com 294 entradas
+2025-04-13 16:41:24,735 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 10 entradas
+2025-04-13 16:41:24,735 - NewsResearchAgent - INFO - Notícia publicada: Review iPhone 16e | O celular “baratinho” da Apple faz sentido? em .\categorias\tecnologia\review-iphone-16e-o-celular-baratinho-da-apple-faz-20250413164124.html
+2025-04-13 16:41:28,840 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 16:41:28,847 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-13 16:41:34,377 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-13 16:41:36,469 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-13 16:41:48,188 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-13 16:41:52,857 - NewsResearchAgent - INFO - Cache de notícias salvo com 306 entradas
+2025-04-13 16:41:52,858 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 10 entradas
+2025-04-13 16:41:52,859 - NewsResearchAgent - INFO - Encontradas 17 notícias virais na categoria entretenimento
+2025-04-13 16:41:52,864 - NewsResearchAgent - INFO - Notícia reescrita: Demon Slayer | 1º filme de Castelo Infinito revela visual de Zenitsu
+2025-04-13 16:41:52,879 - NewsResearchAgent - INFO - Cache de notícias salvo com 306 entradas
+2025-04-13 16:41:52,881 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 11 entradas
+2025-04-13 16:41:52,881 - NewsResearchAgent - INFO - Notícia publicada: Demon Slayer | 1º filme de Castelo Infinito revela visual de Zenitsu em .\categorias\entretenimento\demon-slayer-1-filme-de-castelo-infinito-revela-vi-20250413164152.html
+2025-04-13 16:41:56,907 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 16:41:56,919 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-13 16:42:02,012 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-13 16:42:07,014 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-13 16:42:12,902 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-13 16:42:13,471 - NewsResearchAgent - INFO - Cache de notícias salvo com 318 entradas
+2025-04-13 16:42:13,474 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 11 entradas
+2025-04-13 16:42:13,474 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria curiosidades
+2025-04-13 16:42:13,476 - NewsResearchAgent - INFO - Notícia reescrita: Altar encontrado na Guatemala revela conflito maia há 1,7 mil anos
+2025-04-13 16:42:13,493 - NewsResearchAgent - INFO - Cache de notícias salvo com 318 entradas
+2025-04-13 16:42:13,493 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 12 entradas
+2025-04-13 16:42:13,493 - NewsResearchAgent - INFO - Notícia publicada: Altar encontrado na Guatemala revela conflito maia há 1,7 mil anos em .\categorias\curiosidades\altar-encontrado-na-guatemala-revela-conflito-maia-20250413164213.html
+2025-04-13 16:56:59,151 - NewsResearchAgent - INFO - Cache de notícias carregado com 318 entradas
+2025-04-13 16:56:59,152 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 12 entradas
+2025-04-13 16:57:03,625 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 16:57:03,628 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-13 16:57:08,187 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-13 16:57:10,804 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-13 16:57:18,484 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-13 16:57:28,394 - NewsResearchAgent - INFO - Cache de notícias salvo com 329 entradas
+2025-04-13 16:57:28,395 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 12 entradas
+2025-04-13 16:57:28,395 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria esportes
+2025-04-13 16:57:29,410 - together - INFO - error_code=model_not_available error_message='Unable to access model deepseek-chat. Please visit https://api.together.ai/models to view the list of supported models.' error_param=None error_type=invalid_request_error message='Together API error received' stream_error=False
+2025-04-13 16:57:29,439 - NewsResearchAgent - INFO - Cache de notícias salvo com 329 entradas
+2025-04-13 16:57:29,439 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 13 entradas
+2025-04-13 16:57:29,439 - NewsResearchAgent - INFO - Notícia publicada: Palmeiras tem início arrasador, vence Corinthians e dorme na liderança do Brasileirão em .\categorias\esportes\palmeiras-tem-inicio-arrasador-vence-corinthians-e-20250413165729.html
+2025-04-13 16:57:33,608 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 16:57:33,611 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-13 16:58:10,015 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-13 16:58:14,973 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-13 16:58:20,164 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-13 16:58:20,687 - NewsResearchAgent - INFO - Cache de notícias salvo com 335 entradas
+2025-04-13 16:58:20,687 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 13 entradas
+2025-04-13 16:58:20,688 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria economia
+2025-04-13 16:58:21,477 - together - INFO - error_code=model_not_available error_message='Unable to access model deepseek-chat. Please visit https://api.together.ai/models to view the list of supported models.' error_param=None error_type=invalid_request_error message='Together API error received' stream_error=False
+2025-04-13 16:58:21,490 - NewsResearchAgent - INFO - Cache de notícias salvo com 335 entradas
+2025-04-13 16:58:21,490 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 14 entradas
+2025-04-13 16:58:21,490 - NewsResearchAgent - INFO - Notícia publicada: Análise: Conflito entre EUA e China ameaça escalar para além do comércio em .\categorias\economia\analise-conflito-entre-eua-e-china-ameaca-escalar--20250413165821.html
+2025-04-13 16:58:25,775 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 16:58:25,788 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-13 16:58:29,722 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-13 16:58:35,222 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-13 16:58:39,264 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-13 16:58:45,391 - NewsResearchAgent - INFO - Cache de notícias salvo com 345 entradas
+2025-04-13 16:58:45,393 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 14 entradas
+2025-04-13 16:58:45,394 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria politica
+2025-04-13 16:58:45,712 - together - INFO - error_code=model_not_available error_message='Unable to access model deepseek-chat. Please visit https://api.together.ai/models to view the list of supported models.' error_param=None error_type=invalid_request_error message='Together API error received' stream_error=False
+2025-04-13 16:58:45,730 - NewsResearchAgent - INFO - Cache de notícias salvo com 345 entradas
+2025-04-13 16:58:45,732 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 15 entradas
+2025-04-13 16:58:45,732 - NewsResearchAgent - INFO - Notícia publicada: Vales de Minas Gerais em .\categorias\politica\vales-de-minas-gerais-20250413165845.html
+2025-04-13 16:58:49,819 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 16:58:49,821 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-13 16:58:58,108 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-13 16:59:00,073 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-13 16:59:04,717 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-13 16:59:07,068 - NewsResearchAgent - INFO - Cache de notícias salvo com 353 entradas
+2025-04-13 16:59:07,070 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 15 entradas
+2025-04-13 16:59:07,071 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria tecnologia
+2025-04-13 16:59:07,414 - together - INFO - error_code=model_not_available error_message='Unable to access model deepseek-chat. Please visit https://api.together.ai/models to view the list of supported models.' error_param=None error_type=invalid_request_error message='Together API error received' stream_error=False
+2025-04-13 16:59:07,434 - NewsResearchAgent - INFO - Cache de notícias salvo com 353 entradas
+2025-04-13 16:59:07,435 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 16 entradas
+2025-04-13 16:59:07,435 - NewsResearchAgent - INFO - Notícia publicada: 10 notícias mais importantes da semana (07/04 a 11/04) em .\categorias\tecnologia\10-noticias-mais-importantes-da-semana-0704-a-1104-20250413165907.html
+2025-04-13 16:59:11,920 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 16:59:11,923 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-13 16:59:25,097 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-13 16:59:28,506 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-13 16:59:31,866 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-13 16:59:36,329 - NewsResearchAgent - INFO - Cache de notícias salvo com 364 entradas
+2025-04-13 16:59:36,329 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 16 entradas
+2025-04-13 16:59:36,329 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria entretenimento
+2025-04-13 16:59:36,823 - together - INFO - error_code=model_not_available error_message='Unable to access model deepseek-chat. Please visit https://api.together.ai/models to view the list of supported models.' error_param=None error_type=invalid_request_error message='Together API error received' stream_error=False
+2025-04-13 16:59:36,848 - NewsResearchAgent - INFO - Cache de notícias salvo com 364 entradas
+2025-04-13 16:59:36,850 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 17 entradas
+2025-04-13 16:59:36,850 - NewsResearchAgent - INFO - Notícia publicada: BBB 25 | Quem vai ser eliminado? Veja parciais do 16º Paredão em .\categorias\entretenimento\bbb-25-quem-vai-ser-eliminado-veja-parciais-do-16--20250413165936.html
+2025-04-13 16:59:41,019 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 16:59:41,023 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-13 16:59:44,101 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-13 16:59:46,200 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-13 16:59:51,336 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-13 16:59:51,874 - NewsResearchAgent - INFO - Cache de notícias salvo com 373 entradas
+2025-04-13 16:59:51,876 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 17 entradas
+2025-04-13 16:59:51,878 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria curiosidades
+2025-04-13 16:59:52,229 - together - INFO - error_code=model_not_available error_message='Unable to access model deepseek-chat. Please visit https://api.together.ai/models to view the list of supported models.' error_param=None error_type=invalid_request_error message='Together API error received' stream_error=False
+2025-04-13 16:59:52,248 - NewsResearchAgent - INFO - Cache de notícias salvo com 373 entradas
+2025-04-13 16:59:52,249 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 18 entradas
+2025-04-13 16:59:52,249 - NewsResearchAgent - INFO - Notícia publicada: Podcast Terapia #1: Burnout – a vida em curto-circuito em .\categorias\curiosidades\podcast-terapia-1-burnout-a-vida-em-curtocircuito-20250413165952.html
+2025-04-13 17:06:26,671 - NewsResearchAgent - INFO - Cache de notícias carregado com 373 entradas
+2025-04-13 17:06:26,671 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 18 entradas
+2025-04-13 17:06:31,057 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:06:31,059 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-13 17:06:35,407 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-13 17:06:36,813 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-13 17:06:42,950 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-13 17:06:54,467 - NewsResearchAgent - INFO - Cache de notícias salvo com 386 entradas
+2025-04-13 17:06:54,469 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 18 entradas
+2025-04-13 17:06:54,469 - NewsResearchAgent - INFO - Encontradas 16 notícias virais na categoria esportes
+2025-04-13 17:07:04,679 - NewsResearchAgent - INFO - Cache de notícias salvo com 386 entradas
+2025-04-13 17:07:04,680 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 19 entradas
+2025-04-13 17:07:04,680 - NewsResearchAgent - INFO - Notícia publicada: Papo com Helio Castroneves: Rodada dupla da MSR em Long Beach em .\categorias\esportes\papo-com-helio-castroneves-rodada-dupla-da-msr-em--20250413170704.html
+2025-04-13 17:07:08,252 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:07:08,254 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-13 17:07:13,852 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-13 17:07:17,614 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-13 17:07:21,806 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-13 17:07:22,325 - NewsResearchAgent - INFO - Cache de notícias salvo com 391 entradas
+2025-04-13 17:07:22,328 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 19 entradas
+2025-04-13 17:07:22,329 - NewsResearchAgent - INFO - Encontradas 6 notícias virais na categoria economia
+2025-04-13 17:07:29,261 - NewsResearchAgent - INFO - Cache de notícias salvo com 391 entradas
+2025-04-13 17:07:29,261 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 20 entradas
+2025-04-13 17:07:29,261 - NewsResearchAgent - INFO - Notícia publicada: Alckmin conversa com ministro chinês e convergem na defesa do multilateralismo em .\categorias\economia\alckmin-conversa-com-ministro-chines-e-convergem-n-20250413170729.html
+2025-04-13 17:07:33,767 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:07:33,768 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-13 17:07:38,526 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-13 17:07:44,611 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-13 17:07:48,338 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-13 17:07:54,505 - NewsResearchAgent - INFO - Cache de notícias salvo com 401 entradas
+2025-04-13 17:07:54,505 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 20 entradas
+2025-04-13 17:07:54,505 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria politica
+2025-04-13 17:08:05,127 - NewsResearchAgent - INFO - Cache de notícias salvo com 401 entradas
+2025-04-13 17:08:05,131 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 21 entradas
+2025-04-13 17:08:05,131 - NewsResearchAgent - INFO - Notícia publicada: Tocantins em .\categorias\politica\tocantins-20250413170805.html
+2025-04-13 17:08:08,562 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:08:08,565 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-13 17:08:19,075 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-13 17:08:21,466 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-13 17:08:25,044 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-13 17:08:27,700 - NewsResearchAgent - INFO - Cache de notícias salvo com 411 entradas
+2025-04-13 17:08:27,702 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 21 entradas
+2025-04-13 17:08:27,703 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria tecnologia
+2025-04-13 17:08:41,521 - NewsResearchAgent - INFO - Cache de notícias salvo com 411 entradas
+2025-04-13 17:08:41,523 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 22 entradas
+2025-04-13 17:08:41,523 - NewsResearchAgent - INFO - Notícia publicada: 6 momentos de dor e sofrimento que definem o Demolidor pistola em .\categorias\tecnologia\6-momentos-de-dor-e-sofrimento-que-definem-o-demol-20250413170841.html
+2025-04-13 17:08:45,531 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:08:45,533 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-13 17:08:51,932 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-13 17:08:54,132 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-13 17:09:01,636 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-13 17:09:05,840 - NewsResearchAgent - INFO - Cache de notícias salvo com 420 entradas
+2025-04-13 17:09:05,841 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 22 entradas
+2025-04-13 17:09:05,844 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria entretenimento
+2025-04-13 17:09:15,918 - NewsResearchAgent - INFO - Cache de notícias salvo com 420 entradas
+2025-04-13 17:09:15,918 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 23 entradas
+2025-04-13 17:09:15,918 - NewsResearchAgent - INFO - Notícia publicada: The Pitt | Produtor explica salto no tempo da segunda temporada em .\categorias\entretenimento\the-pitt-produtor-explica-salto-no-tempo-da-segund-20250413170915.html
+2025-04-13 17:09:19,582 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:09:19,582 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-13 17:09:23,162 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-13 17:09:28,256 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-13 17:09:34,434 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-13 17:09:34,966 - NewsResearchAgent - INFO - Cache de notícias salvo com 430 entradas
+2025-04-13 17:09:34,966 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 23 entradas
+2025-04-13 17:09:34,979 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria curiosidades
+2025-04-13 17:09:44,435 - NewsResearchAgent - INFO - Cache de notícias salvo com 430 entradas
+2025-04-13 17:09:44,435 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 24 entradas
+2025-04-13 17:09:44,435 - NewsResearchAgent - INFO - Notícia publicada: 7 histórias bíblicas trágicas que quase ninguém conhece em .\categorias\curiosidades\7-historias-biblicas-tragicas-que-quase-ninguem-co-20250413170944.html
+2025-04-13 17:17:57,095 - NewsResearchAgent - INFO - Cache de notícias carregado com 430 entradas
+2025-04-13 17:17:57,096 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 24 entradas
+2025-04-13 17:18:01,265 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:18:01,265 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-13 17:18:06,155 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-13 17:18:08,745 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-13 17:18:11,644 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-13 17:18:15,926 - NewsResearchAgent - INFO - Cache de notícias salvo com 440 entradas
+2025-04-13 17:18:15,926 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 24 entradas
+2025-04-13 17:18:15,926 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria esportes
+2025-04-13 17:18:25,475 - NewsResearchAgent - INFO - Cache de notícias salvo com 440 entradas
+2025-04-13 17:18:25,475 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 25 entradas
+2025-04-13 17:18:25,475 - NewsResearchAgent - INFO - Notícia publicada: MMA - Notícias, Vídeos, Rankings, Resultados e Notícias em .\categorias\esportes\mma-noticias-videos-rankings-resultados-e-noticias-20250413171825.html
+2025-04-13 17:18:29,960 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:18:29,960 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-13 17:18:35,510 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-13 17:18:40,133 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-13 17:18:45,266 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-13 17:18:45,740 - NewsResearchAgent - INFO - Cache de notícias salvo com 445 entradas
+2025-04-13 17:18:45,742 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 25 entradas
+2025-04-13 17:18:45,742 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria economia
+2025-04-13 17:18:54,247 - NewsResearchAgent - INFO - Cache de notícias salvo com 445 entradas
+2025-04-13 17:18:54,248 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 26 entradas
+2025-04-13 17:18:54,249 - NewsResearchAgent - INFO - Notícia publicada: 'Tarifaço' derruba petroleiras e montadoras; frigoríficos nacionais avançam em .\categorias\economia\tarifaco-derruba-petroleiras-e-montadoras-frigorif-20250413171854.html
+2025-04-13 17:18:57,850 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:18:57,850 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-13 17:19:02,572 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-13 17:19:11,740 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-13 17:19:14,989 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-13 17:19:21,713 - NewsResearchAgent - INFO - Cache de notícias salvo com 455 entradas
+2025-04-13 17:19:21,716 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 26 entradas
+2025-04-13 17:19:21,716 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria politica
+2025-04-13 17:19:28,755 - NewsResearchAgent - INFO - Cache de notícias salvo com 455 entradas
+2025-04-13 17:19:28,757 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 27 entradas
+2025-04-13 17:19:28,757 - NewsResearchAgent - INFO - Notícia publicada: Brumadinho - Reparação e Desenvolvimento em .\categorias\politica\brumadinho-reparacao-e-desenvolvimento-20250413171928.html
+2025-04-13 17:19:32,875 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:19:32,877 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-13 17:19:40,318 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-13 17:19:42,272 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-13 17:19:46,683 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-13 17:19:49,242 - NewsResearchAgent - INFO - Cache de notícias salvo com 467 entradas
+2025-04-13 17:19:49,245 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 27 entradas
+2025-04-13 17:19:49,248 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria tecnologia
+2025-04-13 17:19:59,103 - NewsResearchAgent - INFO - Cache de notícias salvo com 467 entradas
+2025-04-13 17:19:59,106 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 28 entradas
+2025-04-13 17:19:59,107 - NewsResearchAgent - INFO - Notícia publicada: Exclusivo: Donos de Galaxy S25 criticam atraso para receber generoso cashback em .\categorias\tecnologia\exclusivo-donos-de-galaxy-s25-criticam-atraso-para-20250413171959.html
+2025-04-13 17:20:04,099 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:20:04,102 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-13 17:20:13,788 - NewsResearchAgent - ERROR - Erro ao processar link de notícia https://www.omelete.com.br/oscar: HTTPSConnectionPool(host='www.omelete.com.br', port=443): Max retries exceeded with url: /oscar (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1002)')))
+2025-04-13 17:20:16,274 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-13 17:20:18,589 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-13 17:20:29,853 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-13 17:20:33,057 - NewsResearchAgent - INFO - Cache de notícias salvo com 476 entradas
+2025-04-13 17:20:33,060 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 28 entradas
+2025-04-13 17:20:33,060 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria entretenimento
+2025-04-13 17:20:42,057 - NewsResearchAgent - INFO - Cache de notícias salvo com 476 entradas
+2025-04-13 17:20:42,059 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 29 entradas
+2025-04-13 17:20:42,059 - NewsResearchAgent - INFO - Notícia publicada: Netflix quer lançar por volta de 80 filmes originais em 2018 em .\categorias\entretenimento\netflix-quer-lancar-por-volta-de-80-filmes-origina-20250413172042.html
+2025-04-13 17:20:46,258 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:20:46,261 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-13 17:20:50,047 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-13 17:20:55,420 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-13 17:21:01,591 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-13 17:21:02,137 - NewsResearchAgent - INFO - Cache de notícias salvo com 487 entradas
+2025-04-13 17:21:02,138 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 29 entradas
+2025-04-13 17:21:02,141 - NewsResearchAgent - INFO - Encontradas 15 notícias virais na categoria curiosidades
+2025-04-13 17:21:13,245 - NewsResearchAgent - INFO - Cache de notícias salvo com 487 entradas
+2025-04-13 17:21:13,247 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 30 entradas
+2025-04-13 17:21:13,247 - NewsResearchAgent - INFO - Notícia publicada: Cientistas criam hologramas 3D que podem ser manipulados com as mãos; vídeo em .\categorias\curiosidades\cientistas-criam-hologramas-3d-que-podem-ser-manip-20250413172113.html
+2025-04-13 17:24:39,858 - NewsResearchAgent - INFO - Cache de notícias carregado com 487 entradas
+2025-04-13 17:24:39,859 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 30 entradas
+2025-04-13 17:24:44,408 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:24:44,409 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-13 17:24:48,606 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-13 17:24:50,743 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-13 17:24:56,328 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-13 17:25:06,263 - NewsResearchAgent - INFO - Cache de notícias salvo com 500 entradas
+2025-04-13 17:25:06,265 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 30 entradas
+2025-04-13 17:25:06,267 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria esportes
+2025-04-13 17:25:13,918 - NewsResearchAgent - INFO - Cache de notícias salvo com 500 entradas
+2025-04-13 17:25:13,920 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 31 entradas
+2025-04-13 17:25:13,920 - NewsResearchAgent - INFO - Notícia publicada: São Paulo estreia nova camisa contra Cruzeiro; veja vídeo em .\categorias\esportes\sao-paulo-estreia-nova-camisa-contra-cruzeiro-veja-20250413172513.html
+2025-04-13 17:25:17,886 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:25:17,886 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-13 17:25:23,925 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-13 17:25:28,138 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-13 17:25:31,818 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-13 17:25:32,472 - NewsResearchAgent - INFO - Cache de notícias salvo com 506 entradas
+2025-04-13 17:25:32,474 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 31 entradas
+2025-04-13 17:25:32,475 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria economia
+2025-04-13 17:25:40,739 - NewsResearchAgent - INFO - Cache de notícias salvo com 506 entradas
+2025-04-13 17:25:40,739 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 32 entradas
+2025-04-13 17:25:40,739 - NewsResearchAgent - INFO - Notícia publicada: 'As pessoas estão optando pela aposta e renunciando à comida', diz Idec em .\categorias\economia\as-pessoas-estao-optando-pela-aposta-e-renunciando-20250413172540.html
+2025-04-13 17:25:45,148 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:25:45,152 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-13 17:25:48,933 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-13 17:25:58,578 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-13 17:26:01,088 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-13 17:26:07,228 - NewsResearchAgent - INFO - Cache de notícias salvo com 514 entradas
+2025-04-13 17:26:07,231 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 32 entradas
+2025-04-13 17:26:07,231 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria politica
+2025-04-13 17:26:15,292 - NewsResearchAgent - INFO - Cache de notícias salvo com 514 entradas
+2025-04-13 17:26:15,294 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 33 entradas
+2025-04-13 17:26:15,295 - NewsResearchAgent - INFO - Notícia publicada: Feriados da Páscoa e de Tiradentes esvaziam Brasília e adiam votações em .\categorias\politica\feriados-da-pascoa-e-de-tiradentes-esvaziam-brasil-20250413172615.html
+2025-04-13 17:26:18,660 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:26:18,662 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-13 17:26:26,907 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-13 17:26:29,153 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-13 17:26:32,031 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-13 17:26:34,034 - NewsResearchAgent - INFO - Cache de notícias salvo com 526 entradas
+2025-04-13 17:26:34,036 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 33 entradas
+2025-04-13 17:26:34,038 - NewsResearchAgent - INFO - Encontradas 16 notícias virais na categoria tecnologia
+2025-04-13 17:26:44,103 - NewsResearchAgent - INFO - Cache de notícias salvo com 526 entradas
+2025-04-13 17:26:44,105 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 34 entradas
+2025-04-13 17:26:44,105 - NewsResearchAgent - INFO - Notícia publicada: Consoles portáteis a partir de R$29 na Shopee; confira as ofertas em .\categorias\tecnologia\consoles-portateis-a-partir-de-r29-na-shopee-confi-20250413172644.html
+2025-04-13 17:26:48,609 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:26:48,612 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-13 17:26:53,391 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-13 17:26:54,739 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-13 17:27:03,556 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-13 17:27:07,484 - NewsResearchAgent - INFO - Cache de notícias salvo com 534 entradas
+2025-04-13 17:27:07,486 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 34 entradas
+2025-04-13 17:27:07,488 - NewsResearchAgent - INFO - Encontradas 15 notícias virais na categoria entretenimento
+2025-04-13 17:27:12,342 - NewsResearchAgent - INFO - Cache de notícias salvo com 534 entradas
+2025-04-13 17:27:12,345 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 35 entradas
+2025-04-13 17:27:12,345 - NewsResearchAgent - INFO - Notícia publicada: Clipe a caminho? Camila Cabello divulga vídeos misteriosos de “Cry For Me” em .\categorias\entretenimento\clipe-a-caminho-camila-cabello-divulga-videos-mist-20250413172712.html
+2025-04-13 17:27:18,959 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:27:18,960 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-13 17:27:22,801 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-13 17:27:27,377 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-13 17:27:29,856 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-13 17:27:30,401 - NewsResearchAgent - INFO - Cache de notícias salvo com 542 entradas
+2025-04-13 17:27:30,401 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 35 entradas
+2025-04-13 17:27:30,410 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria curiosidades
+2025-04-13 17:27:38,375 - NewsResearchAgent - INFO - Cache de notícias salvo com 542 entradas
+2025-04-13 17:27:38,377 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 36 entradas
+2025-04-13 17:27:38,377 - NewsResearchAgent - INFO - Notícia publicada: Pesquisadores resolvem problema matemático criado há mais de 100 anos em .\categorias\curiosidades\pesquisadores-resolvem-problema-matematico-criado--20250413172738.html
+2025-04-13 17:31:38,800 - NewsResearchAgent - INFO - Cache de notícias carregado com 542 entradas
+2025-04-13 17:31:38,802 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 36 entradas
+2025-04-13 17:31:43,044 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:31:43,047 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-13 17:31:46,937 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-13 17:31:48,892 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-13 17:31:50,147 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-13 17:31:51,562 - NewsResearchAgent - ERROR - Erro ao pesquisar notícias em https://www.uol.com.br/esporte/: HTTPSConnectionPool(host='www.uol.com.br', port=443): Max retries exceeded with url: /esporte/ (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1002)')))
+2025-04-13 17:31:51,583 - NewsResearchAgent - INFO - Cache de notícias salvo com 548 entradas
+2025-04-13 17:31:51,585 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 36 entradas
+2025-04-13 17:31:51,587 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria esportes
+2025-04-13 17:32:00,302 - NewsResearchAgent - INFO - Cache de notícias salvo com 548 entradas
+2025-04-13 17:32:00,304 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 37 entradas
+2025-04-13 17:32:00,304 - NewsResearchAgent - INFO - Notícia publicada: 71 anos de Dinamite: veja homenagens ao maior ídolo do Vasco em .\categorias\esportes\71-anos-de-dinamite-veja-homenagens-ao-maior-idolo-20250413173200.html
+2025-04-13 17:32:04,997 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:32:05,000 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-13 17:32:41,699 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-13 17:32:45,579 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-13 17:32:52,397 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-13 17:32:52,921 - NewsResearchAgent - INFO - Cache de notícias salvo com 554 entradas
+2025-04-13 17:32:52,923 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 37 entradas
+2025-04-13 17:32:52,925 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria economia
+2025-04-13 17:33:01,919 - NewsResearchAgent - INFO - Cache de notícias salvo com 554 entradas
+2025-04-13 17:33:01,926 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 38 entradas
+2025-04-13 17:33:01,926 - NewsResearchAgent - INFO - Notícia publicada: IRPF 2025 download: veja aqui como baixar programa da Receita para declarar em .\categorias\economia\irpf-2025-download-veja-aqui-como-baixar-programa--20250413173301.html
+2025-04-13 17:33:06,926 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:33:06,929 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-13 17:33:11,845 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-13 17:33:18,563 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-13 17:33:21,393 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-13 17:33:27,855 - NewsResearchAgent - INFO - Cache de notícias salvo com 563 entradas
+2025-04-13 17:33:27,858 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 38 entradas
+2025-04-13 17:33:27,859 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria politica
+2025-04-13 17:33:37,988 - NewsResearchAgent - INFO - Cache de notícias salvo com 563 entradas
+2025-04-13 17:33:37,993 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 39 entradas
+2025-04-13 17:33:37,993 - NewsResearchAgent - INFO - Notícia publicada: Eleições 2024 em .\categorias\politica\eleicoes-2024-20250413173337.html
+2025-04-13 17:33:42,446 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:33:42,449 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-13 17:33:47,431 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-13 17:33:48,972 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-13 17:33:53,302 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-13 17:33:56,442 - NewsResearchAgent - INFO - Cache de notícias salvo com 571 entradas
+2025-04-13 17:33:56,444 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 39 entradas
+2025-04-13 17:33:56,446 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria tecnologia
+2025-04-13 17:34:03,106 - NewsResearchAgent - INFO - Cache de notícias salvo com 571 entradas
+2025-04-13 17:34:03,108 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 40 entradas
+2025-04-13 17:34:03,108 - NewsResearchAgent - INFO - Notícia publicada: IA prevendo assassinatos? Reino Unido analisa tecnologia “Minority Report” em .\categorias\tecnologia\ia-prevendo-assassinatos-reino-unido-analisa-tecno-20250413173403.html
+2025-04-13 17:34:07,306 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:34:07,308 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-13 17:34:21,921 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-13 17:34:23,888 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-13 17:34:32,371 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-13 17:34:35,696 - NewsResearchAgent - INFO - Cache de notícias salvo com 579 entradas
+2025-04-13 17:34:35,698 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 40 entradas
+2025-04-13 17:34:35,700 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria entretenimento
+2025-04-13 17:34:46,370 - NewsResearchAgent - INFO - Cache de notícias salvo com 579 entradas
+2025-04-13 17:34:46,373 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 41 entradas
+2025-04-13 17:34:46,373 - NewsResearchAgent - INFO - Notícia publicada: Adolescência | Final Explicado, culpado e caso da série da Netflix em .\categorias\entretenimento\adolescencia-final-explicado-culpado-e-caso-da-ser-20250413173446.html
+2025-04-13 17:34:50,481 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:34:50,484 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-13 17:34:55,287 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-13 17:34:57,882 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-13 17:35:03,449 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-13 17:35:03,982 - NewsResearchAgent - INFO - Cache de notícias salvo com 587 entradas
+2025-04-13 17:35:03,986 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 41 entradas
+2025-04-13 17:35:03,987 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria curiosidades
+2025-04-13 17:35:12,109 - NewsResearchAgent - INFO - Cache de notícias salvo com 587 entradas
+2025-04-13 17:35:12,111 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 42 entradas
+2025-04-13 17:35:12,111 - NewsResearchAgent - INFO - Notícia publicada: 5 animais que foram extintos no Brasil – e por quê. em .\categorias\curiosidades\5-animais-que-foram-extintos-no-brasil-e-por-que-20250413173512.html
+2025-04-13 17:37:05,715 - NewsResearchAgent - INFO - Cache de notícias carregado com 587 entradas
+2025-04-13 17:37:05,716 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 42 entradas
+2025-04-13 17:37:10,282 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:37:10,285 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-13 17:37:14,693 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-13 17:37:16,949 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-13 17:37:20,638 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-13 17:37:30,446 - NewsResearchAgent - INFO - Cache de notícias salvo com 595 entradas
+2025-04-13 17:37:30,448 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 42 entradas
+2025-04-13 17:37:30,449 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria esportes
+2025-04-13 17:37:37,927 - NewsResearchAgent - INFO - Cache de notícias salvo com 595 entradas
+2025-04-13 17:37:37,927 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 43 entradas
+2025-04-13 17:37:37,935 - NewsResearchAgent - INFO - Notícia publicada: tabela | libertadores feminina | ge | libertadores feminina | ge em .\categorias\esportes\tabela-libertadores-feminina-ge-libertadores-femin-20250413173737.html
+2025-04-13 17:37:42,071 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:37:42,073 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-13 17:37:42,590 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-13 17:37:46,708 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-13 17:37:49,853 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-13 17:37:50,163 - NewsResearchAgent - INFO - Cache de notícias salvo com 603 entradas
+2025-04-13 17:37:50,164 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 43 entradas
+2025-04-13 17:37:50,164 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria economia
+2025-04-13 17:37:56,088 - NewsResearchAgent - INFO - Cache de notícias salvo com 603 entradas
+2025-04-13 17:37:56,088 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 44 entradas
+2025-04-13 17:37:56,088 - NewsResearchAgent - INFO - Notícia publicada: Trisul soma R$ 456,1 milhões em lançamentos no 1º trimestre em .\categorias\economia\trisul-soma-r-4561-milhoes-em-lancamentos-no-1-tri-20250413173756.html
+2025-04-13 17:38:00,322 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:38:00,325 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-13 17:38:04,528 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-13 17:38:10,765 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-13 17:38:14,312 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-13 17:38:20,489 - NewsResearchAgent - INFO - Cache de notícias salvo com 612 entradas
+2025-04-13 17:38:20,496 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 44 entradas
+2025-04-13 17:38:20,498 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria politica
+2025-04-13 17:38:26,946 - NewsResearchAgent - INFO - Cache de notícias salvo com 612 entradas
+2025-04-13 17:38:26,948 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 45 entradas
+2025-04-13 17:38:26,949 - NewsResearchAgent - INFO - Notícia publicada: Anistia: veja momentos da história em que ela foi concedida no Brasil em .\categorias\politica\anistia-veja-momentos-da-historia-em-que-ela-foi-c-20250413173826.html
+2025-04-13 17:38:31,325 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:38:31,325 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-13 17:38:37,921 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-13 17:38:40,125 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-13 17:38:44,072 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-13 17:38:47,371 - NewsResearchAgent - INFO - Cache de notícias salvo com 621 entradas
+2025-04-13 17:38:47,373 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 45 entradas
+2025-04-13 17:38:47,375 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria tecnologia
+2025-04-13 17:38:56,304 - NewsResearchAgent - INFO - Cache de notícias salvo com 621 entradas
+2025-04-13 17:38:56,306 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 46 entradas
+2025-04-13 17:38:56,306 - NewsResearchAgent - INFO - Notícia publicada: Novo chefe da NASA afasta rumores sobre possíveis benefícios para a SpaceX em .\categorias\tecnologia\novo-chefe-da-nasa-afasta-rumores-sobre-possiveis--20250413173856.html
+2025-04-13 17:39:00,414 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:39:00,417 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-13 17:39:02,162 - NewsResearchAgent - ERROR - Erro ao pesquisar notícias em https://www.omelete.com.br/: HTTPSConnectionPool(host='www.omelete.com.br', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1002)')))
+2025-04-13 17:39:02,162 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-13 17:39:03,934 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-13 17:39:13,730 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-13 17:39:18,028 - NewsResearchAgent - INFO - Cache de notícias salvo com 629 entradas
+2025-04-13 17:39:18,030 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 46 entradas
+2025-04-13 17:39:18,032 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria entretenimento
+2025-04-13 17:39:26,244 - NewsResearchAgent - INFO - Cache de notícias salvo com 629 entradas
+2025-04-13 17:39:26,246 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 47 entradas
+2025-04-13 17:39:26,247 - NewsResearchAgent - INFO - Notícia publicada: Taylor Swift: 10 canetadas que tornam a loirinha uma das grandes compositoras desta geração em .\categorias\entretenimento\taylor-swift-10-canetadas-que-tornam-a-loirinha-um-20250413173926.html
+2025-04-13 17:39:30,473 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:39:30,475 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-13 17:39:33,725 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-13 17:39:34,639 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-13 17:39:40,422 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-13 17:39:40,936 - NewsResearchAgent - INFO - Cache de notícias salvo com 633 entradas
+2025-04-13 17:39:40,939 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 47 entradas
+2025-04-13 17:39:40,941 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria curiosidades
+2025-04-13 17:39:46,563 - NewsResearchAgent - INFO - Cache de notícias salvo com 633 entradas
+2025-04-13 17:39:46,565 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 48 entradas
+2025-04-13 17:39:46,566 - NewsResearchAgent - INFO - Notícia publicada: A Super de abril de 1990 em .\categorias\curiosidades\a-super-de-abril-de-1990-20250413173946.html
+2025-04-13 17:53:45,326 - NewsResearchAgent - INFO - Cache de notícias carregado com 633 entradas
+2025-04-13 17:53:45,326 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 48 entradas
+2025-04-13 17:53:51,445 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:53:51,447 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-13 17:53:55,321 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-13 17:53:56,700 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-13 17:54:01,618 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-13 17:54:06,668 - NewsResearchAgent - INFO - Cache de notícias salvo com 644 entradas
+2025-04-13 17:54:06,668 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 48 entradas
+2025-04-13 17:54:06,668 - NewsResearchAgent - INFO - Encontradas 16 notícias virais na categoria esportes
+2025-04-13 17:54:15,570 - NewsResearchAgent - ERROR - Erro ao buscar imagem: Expecting value: line 1 column 1 (char 0)
+2025-04-13 17:54:15,602 - NewsResearchAgent - INFO - Cache de notícias salvo com 644 entradas
+2025-04-13 17:54:15,604 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 49 entradas
+2025-04-13 17:54:15,604 - NewsResearchAgent - INFO - Notícia publicada: Pesquisão UOL: Quem é o jogador mais violento do futebol brasileiro em .\categorias\esportes\pesquisao-uol-quem-e-o-jogador-mais-violento-do-fu-20250413175415.html
+2025-04-13 17:54:19,980 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:54:19,980 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-13 17:54:24,506 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-13 17:54:29,609 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-13 17:54:33,532 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-13 17:54:34,041 - NewsResearchAgent - INFO - Cache de notícias salvo com 652 entradas
+2025-04-13 17:54:34,043 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 49 entradas
+2025-04-13 17:54:34,045 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria economia
+2025-04-13 17:54:43,480 - NewsResearchAgent - ERROR - Erro ao buscar imagem: Expecting value: line 1 column 1 (char 0)
+2025-04-13 17:54:43,521 - NewsResearchAgent - INFO - Cache de notícias salvo com 652 entradas
+2025-04-13 17:54:43,524 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 50 entradas
+2025-04-13 17:54:43,525 - NewsResearchAgent - INFO - Notícia publicada: Assessor de Trump inventa especialista -- e tarifas também em .\categorias\economia\assessor-de-trump-inventa-especialista-e-tarifas-t-20250413175443.html
+2025-04-13 17:54:47,823 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:54:47,825 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-13 17:54:51,326 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-13 17:54:51,831 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-13 17:54:55,557 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-13 17:55:01,542 - NewsResearchAgent - INFO - Cache de notícias salvo com 658 entradas
+2025-04-13 17:55:01,542 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 50 entradas
+2025-04-13 17:55:01,542 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria politica
+2025-04-13 17:55:10,062 - NewsResearchAgent - ERROR - Erro ao buscar imagem: Expecting value: line 1 column 1 (char 0)
+2025-04-13 17:55:10,090 - NewsResearchAgent - INFO - Cache de notícias salvo com 658 entradas
+2025-04-13 17:55:10,092 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 51 entradas
+2025-04-13 17:55:10,092 - NewsResearchAgent - INFO - Notícia publicada: Conheça a história do Bom Dia Brasil desde a estreia em .\categorias\politica\conheca-a-historia-do-bom-dia-brasil-desde-a-estre-20250413175510.html
+2025-04-13 17:55:14,430 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:55:14,432 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-13 17:55:21,368 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-13 17:55:23,193 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-13 17:55:25,315 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-13 17:55:27,582 - NewsResearchAgent - INFO - Cache de notícias salvo com 665 entradas
+2025-04-13 17:55:27,585 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 51 entradas
+2025-04-13 17:55:27,587 - NewsResearchAgent - INFO - Encontradas 15 notícias virais na categoria tecnologia
+2025-04-13 17:55:36,354 - NewsResearchAgent - ERROR - Erro ao buscar imagem: Expecting value: line 1 column 1 (char 0)
+2025-04-13 17:55:36,387 - NewsResearchAgent - INFO - Cache de notícias salvo com 665 entradas
+2025-04-13 17:55:36,390 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 52 entradas
+2025-04-13 17:55:36,390 - NewsResearchAgent - INFO - Notícia publicada: 5 tendências tecnológicas do SXSW que podem impactar negócios, finanças e varejo em .\categorias\tecnologia\5-tendencias-tecnologicas-do-sxsw-que-podem-impact-20250413175536.html
+2025-04-13 17:55:40,467 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:55:40,471 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-13 17:55:44,269 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-13 17:55:45,060 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-13 17:55:53,950 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-13 17:55:57,721 - NewsResearchAgent - INFO - Cache de notícias salvo com 668 entradas
+2025-04-13 17:55:57,724 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 52 entradas
+2025-04-13 17:55:57,726 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria entretenimento
+2025-04-13 17:56:05,346 - NewsResearchAgent - ERROR - Erro ao buscar imagem: Expecting value: line 1 column 1 (char 0)
+2025-04-13 17:56:05,373 - NewsResearchAgent - INFO - Cache de notícias salvo com 668 entradas
+2025-04-13 17:56:05,375 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 53 entradas
+2025-04-13 17:56:05,375 - NewsResearchAgent - INFO - Notícia publicada: Yellowjackets segue ótima, mas testa lealdade do público em temporada traiçoeira em .\categorias\entretenimento\yellowjackets-segue-otima-mas-testa-lealdade-do-pu-20250413175605.html
+2025-04-13 17:56:08,869 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:56:08,872 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-13 17:56:13,200 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-13 17:56:15,346 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-13 17:56:17,150 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-13 17:56:17,689 - NewsResearchAgent - INFO - Cache de notícias salvo com 675 entradas
+2025-04-13 17:56:17,691 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 53 entradas
+2025-04-13 17:56:17,694 - NewsResearchAgent - INFO - Encontradas 15 notícias virais na categoria curiosidades
+2025-04-13 17:56:26,524 - NewsResearchAgent - ERROR - Erro ao buscar imagem: Expecting value: line 1 column 1 (char 0)
+2025-04-13 17:56:26,552 - NewsResearchAgent - INFO - Cache de notícias salvo com 675 entradas
+2025-04-13 17:56:26,555 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 54 entradas
+2025-04-13 17:56:26,556 - NewsResearchAgent - INFO - Notícia publicada: Podcast Dossiê #7: A verdadeira história do Natal em .\categorias\curiosidades\podcast-dossie-7-a-verdadeira-historia-do-natal-20250413175626.html
+2025-04-13 17:58:33,059 - NewsResearchAgent - INFO - Cache de notícias carregado com 675 entradas
+2025-04-13 17:58:33,059 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 54 entradas
+2025-04-13 17:58:37,377 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:58:37,377 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-13 17:58:41,838 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-13 17:58:43,422 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-13 17:58:46,570 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-13 17:58:54,737 - NewsResearchAgent - INFO - Cache de notícias salvo com 684 entradas
+2025-04-13 17:58:54,739 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 54 entradas
+2025-04-13 17:58:54,743 - NewsResearchAgent - INFO - Encontradas 15 notícias virais na categoria esportes
+2025-04-13 17:59:07,439 - NewsResearchAgent - ERROR - Erro ao buscar imagem: Expecting value: line 1 column 1 (char 0)
+2025-04-13 17:59:07,613 - NewsResearchAgent - ERROR - Erro ao gerar thumbnail otimizada: HTTPSConnectionPool(host='via.placeholder.com', port=443): Max retries exceeded with url: /800x400?text=Imagem+indispon%C3%ADvel (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000204CC7EAD10>: Failed to resolve 'via.placeholder.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-13 17:59:07,645 - NewsResearchAgent - INFO - Cache de notícias salvo com 684 entradas
+2025-04-13 17:59:07,656 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 55 entradas
+2025-04-13 17:59:07,656 - NewsResearchAgent - INFO - Notícia publicada: tabela | copa sul-americana | ge | copa sul-americana | ge em .\categorias\esportes\tabela-copa-sulamericana-ge-copa-sulamericana-ge-20250413175907.html
+2025-04-13 17:59:11,812 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:59:11,814 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-13 17:59:16,537 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-13 17:59:21,822 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-13 17:59:25,177 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-13 17:59:25,496 - NewsResearchAgent - INFO - Cache de notícias salvo com 693 entradas
+2025-04-13 17:59:25,496 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 55 entradas
+2025-04-13 17:59:25,502 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria economia
+2025-04-13 17:59:32,901 - NewsResearchAgent - ERROR - Erro ao buscar imagem: Expecting value: line 1 column 1 (char 0)
+2025-04-13 17:59:33,075 - NewsResearchAgent - ERROR - Erro ao gerar thumbnail otimizada: HTTPSConnectionPool(host='via.placeholder.com', port=443): Max retries exceeded with url: /800x400?text=Imagem+indispon%C3%ADvel (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000204CC744450>: Failed to resolve 'via.placeholder.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-13 17:59:33,093 - NewsResearchAgent - INFO - Cache de notícias salvo com 693 entradas
+2025-04-13 17:59:33,107 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 56 entradas
+2025-04-13 17:59:33,109 - NewsResearchAgent - INFO - Notícia publicada: 44% dos endividados já jogaram em bets buscando dinheiro para pagar débitos em .\categorias\economia\44-dos-endividados-ja-jogaram-em-bets-buscando-din-20250413175933.html
+2025-04-13 17:59:36,466 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 17:59:36,470 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-13 17:59:40,630 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-13 17:59:46,565 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-13 17:59:51,237 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-13 17:59:57,260 - NewsResearchAgent - INFO - Cache de notícias salvo com 704 entradas
+2025-04-13 17:59:57,263 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 56 entradas
+2025-04-13 17:59:57,264 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria politica
+2025-04-13 18:00:06,516 - NewsResearchAgent - ERROR - Erro ao buscar imagem: Expecting value: line 1 column 1 (char 0)
+2025-04-13 18:00:06,693 - NewsResearchAgent - ERROR - Erro ao gerar thumbnail otimizada: HTTPSConnectionPool(host='via.placeholder.com', port=443): Max retries exceeded with url: /800x400?text=Imagem+indispon%C3%ADvel (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000204CC91E950>: Failed to resolve 'via.placeholder.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-13 18:00:06,724 - NewsResearchAgent - INFO - Cache de notícias salvo com 704 entradas
+2025-04-13 18:00:06,724 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 57 entradas
+2025-04-13 18:00:06,730 - NewsResearchAgent - INFO - Notícia publicada: São José do Rio Preto e Araçatuba em .\categorias\politica\sao-jose-do-rio-preto-e-aracatuba-20250413180006.html
+2025-04-13 18:00:11,413 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 18:00:11,416 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-13 18:00:11,945 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-13 18:00:13,313 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-13 18:00:19,460 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-13 18:00:21,109 - NewsResearchAgent - INFO - Cache de notícias salvo com 711 entradas
+2025-04-13 18:00:21,112 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 57 entradas
+2025-04-13 18:00:21,115 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria tecnologia
+2025-04-13 18:00:29,153 - NewsResearchAgent - ERROR - Erro ao buscar imagem: Expecting value: line 1 column 1 (char 0)
+2025-04-13 18:00:29,330 - NewsResearchAgent - ERROR - Erro ao gerar thumbnail otimizada: HTTPSConnectionPool(host='via.placeholder.com', port=443): Max retries exceeded with url: /800x400?text=Imagem+indispon%C3%ADvel (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000204CECCD950>: Failed to resolve 'via.placeholder.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-13 18:00:29,369 - NewsResearchAgent - INFO - Cache de notícias salvo com 711 entradas
+2025-04-13 18:00:29,374 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 58 entradas
+2025-04-13 18:00:29,374 - NewsResearchAgent - INFO - Notícia publicada: Com a inflação, quanto custaria um Palio 2014 hoje? em .\categorias\tecnologia\com-a-inflacao-quanto-custaria-um-palio-2014-hoje-20250413180029.html
+2025-04-13 18:00:33,502 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 18:00:33,502 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-13 18:00:36,698 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-13 18:00:38,466 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-13 18:00:47,283 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-13 18:00:51,604 - NewsResearchAgent - INFO - Cache de notícias salvo com 717 entradas
+2025-04-13 18:00:51,604 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 58 entradas
+2025-04-13 18:00:51,604 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria entretenimento
+2025-04-13 18:01:02,153 - NewsResearchAgent - ERROR - Erro ao buscar imagem: Expecting value: line 1 column 1 (char 0)
+2025-04-13 18:01:02,348 - NewsResearchAgent - ERROR - Erro ao gerar thumbnail otimizada: HTTPSConnectionPool(host='via.placeholder.com', port=443): Max retries exceeded with url: /800x400?text=Imagem+indispon%C3%ADvel (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000204CBE8B610>: Failed to resolve 'via.placeholder.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-13 18:01:02,381 - NewsResearchAgent - INFO - Cache de notícias salvo com 717 entradas
+2025-04-13 18:01:02,385 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 59 entradas
+2025-04-13 18:01:02,385 - NewsResearchAgent - INFO - Notícia publicada: Curtindo os enxovais da casa BBB25? É da Marina Enxovais! em .\categorias\entretenimento\curtindo-os-enxovais-da-casa-bbb25-e-da-marina-enx-20250413180102.html
+2025-04-13 18:01:06,333 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 18:01:06,335 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-13 18:01:07,272 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-13 18:01:11,321 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-13 18:01:15,057 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-13 18:01:15,585 - NewsResearchAgent - INFO - Cache de notícias salvo com 720 entradas
+2025-04-13 18:01:15,588 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 59 entradas
+2025-04-13 18:01:15,591 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria curiosidades
+2025-04-13 18:01:28,037 - NewsResearchAgent - ERROR - Erro ao buscar imagem: Expecting value: line 1 column 1 (char 0)
+2025-04-13 18:01:28,224 - NewsResearchAgent - ERROR - Erro ao gerar thumbnail otimizada: HTTPSConnectionPool(host='via.placeholder.com', port=443): Max retries exceeded with url: /800x400?text=Imagem+indispon%C3%ADvel (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000204CBE6C690>: Failed to resolve 'via.placeholder.com' ([Errno 11001] getaddrinfo failed)"))
+2025-04-13 18:01:28,254 - NewsResearchAgent - INFO - Cache de notícias salvo com 720 entradas
+2025-04-13 18:01:28,257 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 60 entradas
+2025-04-13 18:01:28,257 - NewsResearchAgent - INFO - Notícia publicada: Qual é o livro mais traduzido do mundo (depois da Bíblia)? em .\categorias\curiosidades\qual-e-o-livro-mais-traduzido-do-mundo-depois-da-b-20250413180128.html
+2025-04-13 18:24:08,903 - NewsResearchAgent - INFO - Cache de notícias carregado com 720 entradas
+2025-04-13 18:24:08,903 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 60 entradas
+2025-04-13 18:24:14,316 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 18:24:14,319 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-13 18:24:18,092 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-13 18:24:20,263 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-13 18:24:23,575 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-13 18:24:34,926 - NewsResearchAgent - INFO - Cache de notícias salvo com 731 entradas
+2025-04-13 18:24:34,929 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 60 entradas
+2025-04-13 18:24:34,930 - NewsResearchAgent - INFO - Encontradas 15 notícias virais na categoria esportes
+2025-04-13 18:24:46,948 - httpx - INFO - HTTP Request: POST https://api.replicate.com/v1/predictions "HTTP/1.1 402 Payment Required"
+2025-04-13 18:24:46,948 - NewsResearchAgent - ERROR - Erro ao gerar imagem com Replicate: ReplicateError Details:
+title: Billing required
+status: 402
+detail: You need to set up billing to run this model. Go to https://replicate.com/account/billing#billing to set it up. If you have recently set up billing, please wait a few minutes before trying again.
+2025-04-13 18:24:46,948 - NewsResearchAgent - ERROR - Erro ao gerar thumbnail otimizada: Invalid URL 'images/placeholder-esportes.jpg': No scheme supplied. Perhaps you meant https://images/placeholder-esportes.jpg?
+2025-04-13 18:24:46,980 - NewsResearchAgent - INFO - Cache de notícias salvo com 731 entradas
+2025-04-13 18:24:46,980 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 61 entradas
+2025-04-13 18:24:46,980 - NewsResearchAgent - INFO - Notícia publicada: tabela | bundesliga | ge | futebol alemão | ge em .\categorias\esportes\tabela-bundesliga-ge-futebol-alemao-ge-20250413182446.html
+2025-04-13 18:24:51,070 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 18:24:51,073 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-13 18:25:37,634 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-13 18:25:44,198 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-13 18:25:46,906 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-13 18:25:47,457 - NewsResearchAgent - INFO - Cache de notícias salvo com 736 entradas
+2025-04-13 18:25:47,460 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 61 entradas
+2025-04-13 18:25:47,462 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria economia
+2025-04-13 18:25:58,903 - httpx - INFO - HTTP Request: POST https://api.replicate.com/v1/predictions "HTTP/1.1 402 Payment Required"
+2025-04-13 18:25:58,904 - NewsResearchAgent - ERROR - Erro ao gerar imagem com Replicate: ReplicateError Details:
+title: Billing required
+status: 402
+detail: You need to set up billing to run this model. Go to https://replicate.com/account/billing#billing to set it up. If you have recently set up billing, please wait a few minutes before trying again.
+2025-04-13 18:25:58,905 - NewsResearchAgent - ERROR - Erro ao gerar thumbnail otimizada: Invalid URL 'images/placeholder-economia.jpg': No scheme supplied. Perhaps you meant https://images/placeholder-economia.jpg?
+2025-04-13 18:25:58,939 - NewsResearchAgent - INFO - Cache de notícias salvo com 736 entradas
+2025-04-13 18:25:58,942 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 62 entradas
+2025-04-13 18:25:58,943 - NewsResearchAgent - INFO - Notícia publicada: Cenário externo sozinho não ratifica eventual corte de juros, diz Campos Neto em .\categorias\economia\cenario-externo-sozinho-nao-ratifica-eventual-cort-20250413182558.html
+2025-04-13 18:26:03,837 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 18:26:03,840 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-13 18:26:08,407 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-13 18:26:08,906 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-13 18:26:14,159 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-13 18:26:19,906 - NewsResearchAgent - INFO - Cache de notícias salvo com 744 entradas
+2025-04-13 18:26:19,909 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 62 entradas
+2025-04-13 18:26:19,912 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria politica
+2025-04-13 18:26:27,925 - httpx - INFO - HTTP Request: POST https://api.replicate.com/v1/predictions "HTTP/1.1 402 Payment Required"
+2025-04-13 18:26:27,928 - NewsResearchAgent - ERROR - Erro ao gerar imagem com Replicate: ReplicateError Details:
+title: Billing required
+status: 402
+detail: You need to set up billing to run this model. Go to https://replicate.com/account/billing#billing to set it up. If you have recently set up billing, please wait a few minutes before trying again.
+2025-04-13 18:26:27,929 - NewsResearchAgent - ERROR - Erro ao gerar thumbnail otimizada: Invalid URL 'images/placeholder-politica.jpg': No scheme supplied. Perhaps you meant https://images/placeholder-politica.jpg?
+2025-04-13 18:26:27,954 - NewsResearchAgent - INFO - Cache de notícias salvo com 744 entradas
+2025-04-13 18:26:27,960 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 63 entradas
+2025-04-13 18:26:27,960 - NewsResearchAgent - INFO - Notícia publicada: Siga a GloboNews nas redes sociais em .\categorias\politica\siga-a-globonews-nas-redes-sociais-20250413182627.html
+2025-04-13 18:26:32,350 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 18:26:32,350 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-13 18:26:41,179 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-13 18:26:43,131 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-13 18:26:46,429 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-13 18:26:48,895 - NewsResearchAgent - INFO - Cache de notícias salvo com 751 entradas
+2025-04-13 18:26:48,899 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 63 entradas
+2025-04-13 18:26:48,901 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria tecnologia
+2025-04-13 18:27:02,862 - httpx - INFO - HTTP Request: POST https://api.replicate.com/v1/predictions "HTTP/1.1 402 Payment Required"
+2025-04-13 18:27:02,863 - NewsResearchAgent - ERROR - Erro ao gerar imagem com Replicate: ReplicateError Details:
+title: Billing required
+status: 402
+detail: You need to set up billing to run this model. Go to https://replicate.com/account/billing#billing to set it up. If you have recently set up billing, please wait a few minutes before trying again.
+2025-04-13 18:27:02,864 - NewsResearchAgent - ERROR - Erro ao gerar thumbnail otimizada: Invalid URL 'images/placeholder-tecnologia.jpg': No scheme supplied. Perhaps you meant https://images/placeholder-tecnologia.jpg?
+2025-04-13 18:27:02,894 - NewsResearchAgent - INFO - Cache de notícias salvo com 751 entradas
+2025-04-13 18:27:02,897 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 64 entradas
+2025-04-13 18:27:02,897 - NewsResearchAgent - INFO - Notícia publicada: Copilot capaz de 'enxergar' chega em versão de testes no Windows 11 em .\categorias\tecnologia\copilot-capaz-de-enxergar-chega-em-versao-de-teste-20250413182702.html
+2025-04-13 18:27:07,046 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 18:27:07,048 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-13 18:27:23,333 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-13 18:27:25,272 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-13 18:27:38,222 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-13 18:27:42,046 - NewsResearchAgent - INFO - Cache de notícias salvo com 758 entradas
+2025-04-13 18:27:42,048 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 64 entradas
+2025-04-13 18:27:42,051 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria entretenimento
+2025-04-13 18:27:51,328 - httpx - INFO - HTTP Request: POST https://api.replicate.com/v1/predictions "HTTP/1.1 402 Payment Required"
+2025-04-13 18:27:51,328 - NewsResearchAgent - ERROR - Erro ao gerar imagem com Replicate: ReplicateError Details:
+title: Billing required
+status: 402
+detail: You need to set up billing to run this model. Go to https://replicate.com/account/billing#billing to set it up. If you have recently set up billing, please wait a few minutes before trying again.
+2025-04-13 18:27:51,330 - NewsResearchAgent - ERROR - Erro ao gerar thumbnail otimizada: Invalid URL 'images/placeholder-entretenimento.jpg': No scheme supplied. Perhaps you meant https://images/placeholder-entretenimento.jpg?
+2025-04-13 18:27:51,367 - NewsResearchAgent - INFO - Cache de notícias salvo com 758 entradas
+2025-04-13 18:27:51,369 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 65 entradas
+2025-04-13 18:27:51,371 - NewsResearchAgent - INFO - Notícia publicada: Prêmio Multishow 2024: conheça as categorias e vote nos indicados em .\categorias\entretenimento\premio-multishow-2024-conheca-as-categorias-e-vote-20250413182751.html
+2025-04-13 18:27:55,656 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 18:27:55,659 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-13 18:27:59,509 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-13 18:28:02,635 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-13 18:28:10,930 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-13 18:28:11,463 - NewsResearchAgent - INFO - Cache de notícias salvo com 766 entradas
+2025-04-13 18:28:11,466 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 65 entradas
+2025-04-13 18:28:11,470 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria curiosidades
+2025-04-13 18:28:22,963 - httpx - INFO - HTTP Request: POST https://api.replicate.com/v1/predictions "HTTP/1.1 402 Payment Required"
+2025-04-13 18:28:22,964 - NewsResearchAgent - ERROR - Erro ao gerar imagem com Replicate: ReplicateError Details:
+title: Billing required
+status: 402
+detail: You need to set up billing to run this model. Go to https://replicate.com/account/billing#billing to set it up. If you have recently set up billing, please wait a few minutes before trying again.
+2025-04-13 18:28:22,965 - NewsResearchAgent - ERROR - Erro ao gerar thumbnail otimizada: Invalid URL 'images/placeholder-curiosidades.jpg': No scheme supplied. Perhaps you meant https://images/placeholder-curiosidades.jpg?
+2025-04-13 18:28:22,995 - NewsResearchAgent - INFO - Cache de notícias salvo com 766 entradas
+2025-04-13 18:28:22,997 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 66 entradas
+2025-04-13 18:28:22,999 - NewsResearchAgent - INFO - Notícia publicada: Documentos revelam proposta do governo Trump para "extinguir" Nasa; entenda em .\categorias\curiosidades\documentos-revelam-proposta-do-governo-trump-para--20250413182822.html
+2025-04-13 18:46:35,984 - NewsResearchAgent - INFO - Cache de notícias carregado com 766 entradas
+2025-04-13 18:46:35,994 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 66 entradas
+2025-04-13 18:51:45,116 - NewsResearchAgent - INFO - Cache de notícias carregado com 766 entradas
+2025-04-13 18:51:45,118 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 66 entradas
+2025-04-13 18:54:43,171 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 18:54:43,171 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-13 18:54:46,463 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-13 18:54:48,964 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-13 18:54:52,834 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-13 18:54:58,222 - NewsResearchAgent - INFO - Cache de notícias salvo com 774 entradas
+2025-04-13 18:54:58,227 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 66 entradas
+2025-04-13 18:54:58,231 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria esportes
+2025-04-13 19:01:32,002 - NewsResearchAgent - INFO - Cache de notícias salvo com 774 entradas
+2025-04-13 19:01:32,002 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 67 entradas
+2025-04-13 19:01:32,006 - NewsResearchAgent - INFO - Notícia publicada: Neto detona dupla titular em derrota do Corinthians para o Palmeiras em .\categorias\esportes\neto-detona-dupla-titular-em-derrota-do-corinthian-20250413190131.html
+2025-04-13 19:01:36,416 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 19:01:36,417 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-13 19:02:02,236 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-13 19:02:05,362 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-13 19:02:10,177 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-13 19:02:10,699 - NewsResearchAgent - INFO - Cache de notícias salvo com 781 entradas
+2025-04-13 19:02:10,699 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 67 entradas
+2025-04-13 19:02:10,699 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria economia
+2025-04-13 19:09:07,075 - NewsResearchAgent - INFO - Cache de notícias salvo com 781 entradas
+2025-04-13 19:09:07,082 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 68 entradas
+2025-04-13 19:09:07,083 - NewsResearchAgent - INFO - Notícia publicada: Com ajuda do Corinthians, SBT chega ao sexto patrocinador para a Sul-Americana em .\categorias\economia\com-ajuda-do-corinthians-sbt-chega-ao-sexto-patroc-20250413190907.html
+2025-04-13 19:09:11,395 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 19:09:11,397 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-13 19:09:16,720 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-13 19:09:17,132 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-13 19:09:20,399 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-13 19:09:25,891 - NewsResearchAgent - INFO - Cache de notícias salvo com 790 entradas
+2025-04-13 19:09:25,894 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 68 entradas
+2025-04-13 19:09:25,895 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria politica
+2025-04-13 19:16:31,581 - NewsResearchAgent - INFO - Cache de notícias salvo com 790 entradas
+2025-04-13 19:16:31,587 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 69 entradas
+2025-04-13 19:16:31,587 - NewsResearchAgent - INFO - Notícia publicada: CARNAVAL 2025 EM PERNAMBUCO em .\categorias\politica\carnaval-2025-em-pernambuco-20250413191631.html
+2025-04-13 19:16:37,197 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 19:16:37,199 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-13 19:16:43,676 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-13 19:16:45,777 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-13 19:16:47,301 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-13 19:16:51,187 - NewsResearchAgent - INFO - Cache de notícias salvo com 794 entradas
+2025-04-13 19:16:51,189 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 69 entradas
+2025-04-13 19:16:51,192 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria tecnologia
+2025-04-13 19:23:59,251 - NewsResearchAgent - INFO - Cache de notícias salvo com 794 entradas
+2025-04-13 19:23:59,254 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 70 entradas
+2025-04-13 19:23:59,254 - NewsResearchAgent - INFO - Notícia publicada: Samsung convoca operadoras e promove celular 5G a preço realmente acessível em .\categorias\tecnologia\samsung-convoca-operadoras-e-promove-celular-5g-a--20250413192359.html
+2025-04-13 19:24:04,400 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 19:24:04,402 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-13 19:24:14,659 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-13 19:24:16,024 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-13 19:24:25,398 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-13 19:24:29,083 - NewsResearchAgent - INFO - Cache de notícias salvo com 801 entradas
+2025-04-13 19:24:29,085 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 70 entradas
+2025-04-13 19:24:29,089 - NewsResearchAgent - INFO - Encontradas 15 notícias virais na categoria entretenimento
+2025-04-13 19:31:51,004 - NewsResearchAgent - INFO - Cache de notícias salvo com 801 entradas
+2025-04-13 19:31:51,007 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 71 entradas
+2025-04-13 19:31:51,007 - NewsResearchAgent - INFO - Notícia publicada: Desconhecidos embaralha narrativa estúpida para nos convencer de que é esperto em .\categorias\entretenimento\desconhecidos-embaralha-narrativa-estupida-para-no-20250413193150.html
+2025-04-13 19:31:55,364 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 19:31:55,367 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-13 19:31:57,587 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-13 19:31:58,810 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-13 19:32:05,090 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-13 19:32:05,749 - NewsResearchAgent - INFO - Cache de notícias salvo com 804 entradas
+2025-04-13 19:32:05,752 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 71 entradas
+2025-04-13 19:32:05,755 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria curiosidades
+2025-04-13 19:39:18,879 - NewsResearchAgent - INFO - Cache de notícias salvo com 804 entradas
+2025-04-13 19:39:18,881 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 72 entradas
+2025-04-13 19:39:18,881 - NewsResearchAgent - INFO - Notícia publicada: Podcast Dossiê #1: A epidemia da ansiedade em .\categorias\curiosidades\podcast-dossie-1-a-epidemia-da-ansiedade-20250413193918.html
+2025-04-13 19:56:45,042 - NewsResearchAgent - INFO - Cache de notícias carregado com 804 entradas
+2025-04-13 19:56:45,044 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 72 entradas
+2025-04-13 19:56:52,090 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 19:56:52,091 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-13 19:56:55,361 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-13 19:56:56,733 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/

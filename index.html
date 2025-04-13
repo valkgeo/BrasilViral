@@ -12,7 +12,8 @@
     <!-- Google AdSense -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1234567890123456" crossorigin="anonymous"></script>
 </head>
-<body>
+
+<body>       
     <header>
         <div class="container">
             <div class="logo">
@@ -52,15 +53,15 @@
     <main class="container main-content">
         <section class="featured-news">
             <div class="main-featured">
-                <article class="featured-card large" data-link="categorias/economia/dolar-alto-e-tarifaco-impactam-comercio-na-rua-25-de-marco.html">
+                <article class="featured-card large" id="mainArticle">
                     <div class="featured-image">
-                        <img src="images/economia/economia_abstrato_20250412183401.png" alt="Economia">
-                        <span class="category-tag economia">Economia</span>
+                        <img src="images/economia/economia_abstrato_20250412183401.png" alt="Economia" id="mainArticleImg">
+                        <span class="category-tag economia" id="mainArticleCategory">Economia</span>
                     </div>
                     <div class="featured-content">
-                        <h2>Dólar alto e 'tarifaço' impactam comércio na rua 25 de Março</h2>
-                        <p>Revendedores de produtos chineses reclamam de aumento 'inédito' na região e consumidores sentem no bolso.</p>
-                        <span class="post-date"><i class="far fa-clock"></i> Há 3 horas</span>
+                        <h2 id="mainArticleTitle">Dólar alto e 'tarifaço' impactam comércio na rua 25 de Março</h2>
+                        <p id="mainArticleDesc">Revendedores de produtos chineses reclamam de aumento 'inédito' na região e consumidores sentem no bolso.</p>
+                        <span class="post-date" id="mainArticleDate"><i class="far fa-clock"></i> Há 3 horas</span>
                         <div class="share-buttons">
                             <span class="share-text">Compartilhar:</span>
                             <a href="#" class="share-facebook"><i class="fab fa-facebook-f"></i></a>
@@ -71,7 +72,7 @@
                     </div>
                 </article>
             </div>
-            <div class="secondary-featured">
+            <div class="secondary-featured" id="secondaryArticles">
                 <article class="featured-card" data-link="categorias/esportes/arsenal-empata-com-brentford-e-perde-chance-de-assumir-lideranca.html">
                     <div class="featured-image">
                         <img src="images/esportes/esportes_abstrato_20250412183401.png" alt="Esportes">
@@ -150,7 +151,7 @@
                         <h2><i class="fas fa-futbol"></i> Esportes</h2>
                         <a href="categorias/esportes/index.html" class="view-all">Ver tudo <i class="fas fa-angle-right"></i></a>
                     </div>
-                    <div class="category-articles">
+                    <div class="category-articles" id="sportsArticles">
                         <article class="article-card">
                             <div class="article-image">
                                 <img src="images/esportes/esportes_abstrato_20250412183401.png" alt="Esportes">
@@ -189,7 +190,7 @@
                         <h2><i class="fas fa-chart-line"></i> Economia</h2>
                         <a href="categorias/economia/index.html" class="view-all">Ver tudo <i class="fas fa-angle-right"></i></a>
                     </div>
-                    <div class="category-articles">
+                    <div class="category-articles" id="economyArticles">
                         <article class="article-card">
                             <div class="article-image">
                                 <img src="images/economia/economia_abstrato_20250412183401.png" alt="Economia">
@@ -289,7 +290,7 @@
                 <h2><i class="fas fa-landmark"></i> Política</h2>
                 <a href="categorias/politica/index.html" class="view-all">Ver tudo <i class="fas fa-angle-right"></i></a>
             </div>
-            <div class="category-articles">
+            <div class="category-articles" id="politicsArticles">
                 <article class="article-card">
                     <div class="article-image">
                         <img src="images/politica/politica_ícone_20250412183401.png" alt="Política">
@@ -334,7 +335,7 @@
                 <h2><i class="fas fa-microchip"></i> Tecnologia</h2>
                 <a href="categorias/tecnologia/index.html" class="view-all">Ver tudo <i class="fas fa-angle-right"></i></a>
             </div>
-            <div class="category-articles">
+            <div class="category-articles" id="techArticles">
                 <article class="article-card">
                     <div class="article-image">
                         <img src="images/tecnologia/tecnologia_ícone_20250412183401.png" alt="Tecnologia">
@@ -373,7 +374,7 @@
                 <h2><i class="fas fa-film"></i> Entretenimento</h2>
                 <a href="categorias/entretenimento/index.html" class="view-all">Ver tudo <i class="fas fa-angle-right"></i></a>
             </div>
-            <div class="category-articles">
+            <div class="category-articles" id="entertainmentArticles">
                 <article class="article-card">
                     <div class="article-image">
                         <img src="images/entretenimento/entretenimento_ícone_20250412183401.png" alt="Entretenimento">
@@ -458,5 +459,80 @@
 
     <script src="js/main.js"></script>
     <script src="js/adsense.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            // Atualizar destaque principal e cards secundários
+            Promise.all([
+                fetch('images/latest_images.json').then(res => res.json()),
+                fetch('categorias/latest_news.json').then(res => res.json())
+            ]).then(([images, news]) => {
+                document.getElementById("breakingNews").innerHTML = Object.values(news).map(n => n.title).join(' • ');
+
+                const mainCategory = Object.keys(news)[0];
+                const mainNews = news[mainCategory];
+
+                document.getElementById("mainArticleImg").src = images[mainCategory]?.image_path || 'images/placeholder.jpg';
+                document.getElementById("mainArticleImg").alt = mainCategory;
+                document.getElementById("mainArticleCategory").textContent = mainCategory.charAt(0).toUpperCase() + mainCategory.slice(1);
+                document.getElementById("mainArticleTitle").textContent = mainNews.title;
+                document.getElementById("mainArticleDesc").textContent = mainNews.summary || '';
+                document.getElementById("mainArticleDate").innerHTML = `<i class="far fa-clock"></i> ${new Date(mainNews.timestamp).toLocaleString()}`;
+                document.getElementById("mainArticle").setAttribute('data-link', mainNews.link);
+
+                let secondaryHTML = '';
+                Object.entries(news).slice(1).forEach(([cat, artigo]) => {
+                    secondaryHTML += `
+                    <article class="featured-card" data-link="${artigo.link}">
+                        <div class="featured-image">
+                            <img src="${images[cat]?.image_path || 'images/placeholder.jpg'}" alt="${cat}">
+                            <span class="category-tag ${cat}">${cat.charAt(0).toUpperCase() + cat.slice(1)}</span>
+                        </div>
+                        <div class="featured-content">
+                            <h3>${artigo.title}</h3>
+                            <span class="post-date"><i class="far fa-clock"></i> ${new Date(artigo.timestamp).toLocaleString()}</span>
+                        </div>
+                    </article>`;
+                });
+                document.getElementById("secondaryArticles").innerHTML = secondaryHTML;
+
+                document.querySelectorAll(".featured-card").forEach(card => {
+                    card.addEventListener("click", () => window.location.href = card.getAttribute("data-link"));
+                });
+            }).catch(err => console.error("Erro ao carregar notícias principais:", err));
+
+        
+            // Função utilitária para atualizar seção por categoria
+            function atualizarCategoria(categoria, seletorID) {
+                fetch(`categorias/${categoria}.json`)
+                    .then(res => res.json())
+                    .then(data => {
+                        const cards = document.querySelectorAll(`#${seletorID} .article-card`);
+                        data.slice(0, 4).forEach((noticia, index) => {
+                            const card = cards[index];
+                            if (!card) return; // ignora se houver menos de 4
+                            card.querySelector("img").src = noticia.image || 'images/placeholder.jpg';
+                            card.querySelector("img").alt = categoria;
+                            card.querySelector("h3").textContent = noticia.title;
+                            card.querySelector("p").textContent = noticia.summary;
+                            card.querySelector(".post-date").innerHTML =
+                                '<i class="far fa-clock"></i> ' + new Date(noticia.timestamp).toLocaleString();
+                            card.setAttribute("data-link", noticia.link);
+                            card.style.cursor = "pointer";
+                            card.onclick = () => window.location.href = noticia.link;
+                        });
+                    })
+                    .catch(err => console.error(`Erro ao carregar ${categoria}.json:`, err));
+            }
+        
+            // Atualizar todas as categorias
+            atualizarCategoria("esportes", "sportsArticles");
+            atualizarCategoria("economia", "economyArticles");
+            atualizarCategoria("politica", "politicsArticles");
+            atualizarCategoria("tecnologia", "techArticles");
+            atualizarCategoria("entretenimento", "entertainmentArticles");
+            atualizarCategoria("curiosidades", "curiosityArticles");
+            });
+    </script>
+
 </body>
 </html>

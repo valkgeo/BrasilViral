@@ -3,15 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exemplo de notícia de economia - BrasilViral</title>
+    <title>{{TITULO}} - BrasilViral</title>
     <link rel="stylesheet" href="../../css/style.css">
     <link rel="stylesheet" href="../../css/news.css">
     <link rel="stylesheet" href="../../css/ads.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <meta name="description" content="Exemplo de notícia de economia">
-    <!-- Google AdSense -->
+    <meta name="description" content="{{RESUMO}}">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1234567890123456" crossorigin="anonymous"></script>
-
     <style>
         .image-credit {
             font-size: 0.8em;
@@ -30,17 +28,15 @@
                 <p class="slogan">Notícias que Bombam</p>
             </div>
             <nav class="main-nav">
-                <button class="menu-toggle" id="menuToggle">
-                    <i class="fas fa-bars"></i>
-                </button>
+                <button class="menu-toggle" id="menuToggle"><i class="fas fa-bars"></i></button>
                 <ul class="nav-menu" id="navMenu">
                     <li><a href="../../index.html">Home</a></li>
-                    <li><a href="../../categorias/esportes/index.html" class="{{CATEGORIA_ESPORTES}}">Esportes</a></li>
-                    <li><a href="../../categorias/economia/index.html" class="{{CATEGORIA_ECONOMIA}}">Economia</a></li>
-                    <li><a href="../../categorias/politica/index.html" class="{{CATEGORIA_POLITICA}}">Política</a></li>
-                    <li><a href="../../categorias/tecnologia/index.html" class="{{CATEGORIA_TECNOLOGIA}}">Tecnologia</a></li>
-                    <li><a href="../../categorias/entretenimento/index.html" class="{{CATEGORIA_ENTRETENIMENTO}}">Entretenimento</a></li>
-                    <li><a href="../../categorias/curiosidades/index.html" class="{{CATEGORIA_CURIOSIDADES}}">Curiosidades</a></li>
+                    <li><a href="../../categorias/esportes/index.html">Esportes</a></li>
+                    <li><a href="../../categorias/economia/index.html">Economia</a></li>
+                    <li><a href="../../categorias/politica/index.html">Política</a></li>
+                    <li><a href="../../categorias/tecnologia/index.html">Tecnologia</a></li>
+                    <li><a href="../../categorias/entretenimento/index.html">Entretenimento</a></li>
+                    <li><a href="../../categorias/curiosidades/index.html">Curiosidades</a></li>
                 </ul>
             </nav>
             <div class="search-box">
@@ -53,36 +49,34 @@
     <div class="breaking-news">
         <div class="container">
             <span class="breaking-label">ÚLTIMAS:</span>
-            <div class="breaking-text" id="breakingNews">
-                Dólar atinge maior valor do ano • Novo técnico da seleção brasileira será anunciado hoje • Problemas no WhatsApp afetam milhões de usuários
-            </div>
+            <div class="breaking-text" id="breakingNews">Carregando...</div>
         </div>
     </div>
 
-    <main class="container main-content">
-        <article class="news-article">
+    <main class="container main-content" style="display: flex; gap: 2rem;">
+        <article class="news-article" style="flex: 2;">
             <div class="article-header">
-                <h1>Exemplo de notícia de economia</h1>
+                <h1>{{TITULO}}</h1>
                 <div class="article-meta">
-                    <span class="category-tag Economia">Economia</span>
-                    <span class="post-date"><i class="far fa-clock"></i> Publicado em 12 de Abril de 2025</span>
+                    <span class="category-tag {{CATEGORIA}}">{{CATEGORIA}}</span>
+                    <span class="post-date"><i class="far fa-clock"></i> {{DATA}}</span>
                 </div>
             </div>
-            
+
             <div class="article-featured-image">
-                <img src="{{IMAGEM_URL}}" alt="Exemplo de notícia de economia">
+                <img src="{{IMAGEM_URL}}" alt="{{TITULO}}">
                 <div class="image-caption">{{IMAGEM_CREDITO}}</div>
             </div>
-            
+
             <div class="article-content">
-                <p>Este é um exemplo de notícia econômica. Aqui você encontrará análises sobre o mercado financeiro, cotações de moedas, informações sobre investimentos e tendências econômicas. O BrasilViral traz informações atualizadas para ajudar você a entender o cenário econômico atual. economia.</p>
+                {{CONTEUDO_HTML}}
             </div>
-            
+
             <div class="article-tags">
                 <span><i class="fas fa-tags"></i> Tags:</span>
-                mercado, finanças, investimentos, bolsa, dólar
+                {{TAGS}}
             </div>
-            
+
             <div class="article-share">
                 <span>Compartilhe:</span>
                 <a href="#" class="share-facebook"><i class="fab fa-facebook-f"></i></a>
@@ -91,21 +85,19 @@
                 <a href="#" class="share-telegram"><i class="fab fa-telegram-plane"></i></a>
             </div>
         </article>
-        
-        <aside class="sidebar">
-            <div class="sidebar-widget related-news">
-                <h3><i class="fas fa-newspaper"></i> Notícias Relacionadas</h3>
-                <div class="related-news-list">
-                    Nenhuma notícia relacionada encontrada
-                </div>
+
+        <aside class="sidebar" style="flex: 1;">
+            <div class="sidebar-widget trending">
+                <h3><i class="fas fa-fire"></i> Em Alta</h3>
+                <ul class="trending-list" id="trendingNews">
+                    <!-- Itens serão inseridos via JS futuramente -->
+                </ul>
             </div>
-            
-            <div id="sidebar-top" class="ad-slot sidebar-widget">
-                <div class="ad-placeholder">
-                    <span>Anúncio</span>
-                </div>
+
+            <div class="ad-slot sidebar-widget">
+                <div class="ad-placeholder"><span>Anúncio</span></div>
             </div>
-            
+
             <div class="sidebar-widget newsletter">
                 <h3><i class="far fa-envelope"></i> Newsletter</h3>
                 <p>Receba as principais notícias diretamente no seu email</p>
@@ -113,12 +105,6 @@
                     <input type="email" placeholder="Seu melhor email" required>
                     <button type="submit">Inscrever-se</button>
                 </form>
-            </div>
-            
-            <div id="sidebar-bottom" class="ad-slot sidebar-widget">
-                <div class="ad-placeholder">
-                    <span>Anúncio</span>
-                </div>
             </div>
         </aside>
     </main>
@@ -154,10 +140,10 @@
                 <div class="footer-social">
                     <h3>Redes Sociais</h3>
                     <div class="social-icons">
-                        <a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
-                        <a href="#" target="_blank"><i class="fab fa-instagram"></i></a>
-                        <a href="#" target="_blank"><i class="fab fa-youtube"></i></a>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-youtube"></i></a>
                     </div>
                 </div>
             </div>
@@ -168,6 +154,41 @@
     </footer>
 
     <script src="../../js/main.js"></script>
-    <script src="../../js/adsense.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            function getBasePath() {
+                const path = window.location.pathname;
+                const depth = (path.match(/\//g) || []).length;
+                let base = '';
+                for (let i = 0; i < depth - 2; i++) {
+                    base += '../';
+                }
+                return base;
+            }
+        
+            const basePath = getBasePath();
+            const isLocal = window.location.protocol === 'file:';
+        
+            if (isLocal) {
+                document.getElementById("breakingNews").innerHTML = "Abra com servidor local para ver as últimas notícias.";
+                return;
+            }
+        
+            fetch(basePath + "latest_news.json")
+                .then(res => {
+                    if (!res.ok) throw new Error("Erro na requisição");
+                    return res.json();
+                })
+                .then(news => {
+                    const titles = Object.values(news).map(n => n.title);
+                    document.getElementById("breakingNews").innerHTML = titles.join(" • ");
+                })
+                .catch((error) => {
+                    console.error("Erro ao carregar notícias:", error);
+                    document.getElementById("breakingNews").innerHTML = "Erro ao carregar últimas notícias.";
+                });
+        });
+    </script>
+        
 </body>
 </html>

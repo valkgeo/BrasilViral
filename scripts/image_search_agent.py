@@ -7,6 +7,7 @@ Este script pesquisa imagens gratuitas relacionadas ao conteúdo das notícias.
 """
 
 import os
+import re
 import json
 import random
 import requests
@@ -31,6 +32,11 @@ logger = logging.getLogger("ImageSearchAgent")
 # Nota: A API do Pexels está desativada devido a problemas de autenticação
 PEXELS_API_KEY = "jrXJGlYFro4VREfpV5wUrbInYmsx4yOt7lcRlSiAre1dbE2TD1kUjswV"  # Desativada temporariamente
 PIXABAY_API_KEY = "49718726-79b3e5b5dc7b07437ad852cdb"
+
+def slugify(text):
+    """Transforma um título em um nome de arquivo seguro e legível"""
+    return re.sub(r'[^a-z0-9]+', '-', text.lower()).strip('-')
+
 
 class ImageSearchAgent:
     """Agente para pesquisar imagens gratuitas relacionadas a notícias."""
@@ -334,37 +340,61 @@ class ImageSearchAgent:
 
 # Função para demonstração
 def demo():
-    """Demonstra o uso do agente de pesquisa de imagens."""
+    """Busca imagens, baixa-as e gera arquivo JSON para ser consumido pelo index.html."""
+    import json
+
     agent = ImageSearchAgent()
-    
-    # Exemplos de notícias
+
     news_samples = [
-        {
-            'title': 'Lula anuncia novo pacote de investimentos para o Nordeste',
-            'content': 'O presidente Lula anunciou hoje um novo pacote de investimentos para o Nordeste, com foco em infraestrutura e energia renovável. O pacote prevê a liberação de R$ 30 bilhões para obras em rodovias, portos e aeroportos, além de incentivos para a instalação de parques eólicos e solares na região.',
-            'category': 'politica'
-        },
-        {
-            'title': 'Neymar marca três gols em retorno aos gramados após lesão',
-            'content': 'Neymar voltou a jogar após oito meses afastado por lesão e marcou três gols na vitória de sua equipe. O craque brasileiro mostrou que está recuperado e pronto para ajudar tanto seu clube quanto a seleção brasileira nos próximos compromissos.',
-            'category': 'esportes'
-        },
-        {
-            'title': 'Nova tecnologia promete revolucionar tratamento contra o câncer',
-            'content': 'Cientistas desenvolveram uma nova tecnologia que utiliza inteligência artificial para identificar células cancerígenas com precisão muito superior aos métodos atuais. Os testes iniciais mostram uma eficácia de 95% na detecção precoce de tumores.',
-            'category': 'tecnologia'
-        }
+        {'title': 'Neymar marca três gols em retorno aos gramados após lesão',
+         'content': 'Após longo período afastado, Neymar voltou aos gramados...',
+         'category': 'esportes'},
+        {'title': 'Dólar atinge maior valor do ano e preocupa mercado brasileiro',
+         'content': 'Alta histórica do dólar preocupa mercado financeiro...',
+         'category': 'economia'},
+        {'title': 'Lula anuncia novo pacote de investimentos para o Nordeste',
+         'content': 'Pacote prevê investimentos em infraestrutura regional...',
+         'category': 'politica'},
+        {'title': 'Nova tecnologia promete revolucionar tratamento contra o câncer',
+         'content': 'Tecnologia utiliza inteligência artificial para detecção precoce...',
+         'category': 'tecnologia'},
+        {'title': 'Katy Perry viaja ao espaço na segunda nave turística da SpaceX',
+         'content': 'Cantora participa de missão turística espacial...',
+         'category': 'entretenimento'},
+        {'title': 'Lua cheia rosa ilumina céu brasileiro neste fim de semana',
+         'content': 'Fenômeno astronômico observado em todo o Brasil...',
+         'category': 'curiosidades'}
     ]
-    
-    # Testar o agente com as amostras
+
+    image_info_for_json = {}
+
     for news in news_samples:
         print(f"\nBuscando imagem para: {news['title']}")
         image = agent.get_image_for_news(news['title'], news['content'], news['category'])
-        print(f"Imagem encontrada: {image['source']} - {image['url']}")
-        
-        # Simular download (descomente para testar)
-        # save_path = f"images/{news['category']}_{int(time.time())}.jpg"
-        # agent.download_image(image, save_path)
+
+        slug = slugify(news['title'])
+        image_filename = f"{slug}.jpg"
+        save_path = os.path.join("images", news['category'], image_filename)
+        os.makedirs(os.path.dirname(save_path), exist_ok=True)
+        sucesso = agent.download_image(image, save_path)
+
+        if sucesso:
+            print(f"✅ Imagem salva: {save_path}")
+            image_info_for_json[news['category']] = {
+                'title': news['title'],
+                'image_path': f"images/{news['category']}/{image_filename}",
+                'timestamp': int(time.time())
+            }
+        else:
+            print(f"❌ Falha ao salvar imagem para: {news['title']}")
+
+    # Salvar arquivo JSON final
+    with open('images/latest_images.json', 'w', encoding='utf-8') as f:
+        json.dump(image_info_for_json, f, ensure_ascii=False, indent=2)
+
+    print("\n✅ Arquivo JSON com caminhos das imagens atualizado.")
+
+
 
 
 if __name__ == "__main__":
