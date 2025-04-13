@@ -29,8 +29,8 @@ logger = logging.getLogger("ImageSearchAgent")
 # Chaves de API gratuitas (limitadas, mas funcionais para demonstração)
 # Em produção, recomenda-se obter chaves próprias
 # Nota: A API do Pexels está desativada devido a problemas de autenticação
-PEXELS_API_KEY = ""  # Desativada temporariamente
-PIXABAY_API_KEY = "35142153-d7e1d5c0e1e2a9fe1a31d5851"
+PEXELS_API_KEY = "jrXJGlYFro4VREfpV5wUrbInYmsx4yOt7lcRlSiAre1dbE2TD1kUjswV"  # Desativada temporariamente
+PIXABAY_API_KEY = "49718726-79b3e5b5dc7b07437ad852cdb"
 
 class ImageSearchAgent:
     """Agente para pesquisar imagens gratuitas relacionadas a notícias."""
