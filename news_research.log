@@ -1149,3 +1149,83 @@ detail: You need to set up billing to run this model. Go to https://replicate.co
 2025-04-14 18:11:41,453 - NewsResearchAgent - INFO - Cache de notícias salvo com 886 entradas
 2025-04-14 18:11:41,454 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 84 entradas
 2025-04-14 18:11:41,454 - NewsResearchAgent - INFO - Notícia publicada: Arqueólogos escavam cidade de 2,5 mil anos na Macedônia em ./categorias/curiosidades/arqueologos-escavam-cidade-de-25-mil-anos-na-maced-20250414181141.html
+2025-04-14 18:19:03,258 - NewsResearchAgent - INFO - Cache de notícias carregado com 886 entradas
+2025-04-14 18:19:03,259 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 84 entradas
+2025-04-14 18:19:19,289 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 18:19:19,290 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-14 18:19:22,134 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-14 18:19:24,252 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-14 18:19:25,325 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-14 18:19:30,715 - NewsResearchAgent - INFO - Cache de notícias salvo com 895 entradas
+2025-04-14 18:19:30,717 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 84 entradas
+2025-04-14 18:19:30,719 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria esportes
+2025-04-14 18:29:07,453 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/tabela-paulista-serie-a2-ge-paulista-serie-a2-ge-20250414182907.jpg
+2025-04-14 18:29:07,454 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: tabela | paulista série a2 | ge | paulista série a2 | ge
+2025-04-14 18:29:07,476 - NewsResearchAgent - INFO - Cache de notícias salvo com 895 entradas
+2025-04-14 18:29:07,478 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 85 entradas
+2025-04-14 18:29:07,478 - NewsResearchAgent - INFO - Notícia publicada: tabela | paulista série a2 | ge | paulista série a2 | ge em ./categorias/esportes/tabela-paulista-serie-a2-ge-paulista-serie-a2-ge-20250414182907.html
+2025-04-14 18:29:07,831 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 18:29:07,832 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-14 18:29:10,959 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-14 18:29:17,715 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-14 18:29:18,377 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-14 18:29:18,520 - NewsResearchAgent - INFO - Cache de notícias salvo com 903 entradas
+2025-04-14 18:29:18,521 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 85 entradas
+2025-04-14 18:29:18,523 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria economia
+2025-04-14 18:38:54,063 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/58-dos-brasileiros-compram-menos-alimentos-por-cau-20250414183854.jpg
+2025-04-14 18:38:54,063 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: 58% dos brasileiros compram menos alimentos por causa da inflação, aponta Datafolha
+2025-04-14 18:38:54,086 - NewsResearchAgent - INFO - Cache de notícias salvo com 903 entradas
+2025-04-14 18:38:54,087 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 86 entradas
+2025-04-14 18:38:54,087 - NewsResearchAgent - INFO - Notícia publicada: 58% dos brasileiros compram menos alimentos por causa da inflação, aponta Datafolha em ./categorias/economia/58-dos-brasileiros-compram-menos-alimentos-por-cau-20250414183854.html
+2025-04-14 18:38:54,569 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 18:38:54,569 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-14 18:38:57,904 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-14 18:38:59,779 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-14 18:39:04,090 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-14 18:39:04,807 - NewsResearchAgent - INFO - Cache de notícias salvo com 912 entradas
+2025-04-14 18:39:04,808 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 86 entradas
+2025-04-14 18:39:04,810 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria politica
+2025-04-14 18:48:45,210 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/50-anos-20250414184845.jpg
+2025-04-14 18:48:45,210 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: 50 anos
+2025-04-14 18:48:45,233 - NewsResearchAgent - INFO - Cache de notícias salvo com 912 entradas
+2025-04-14 18:48:45,234 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 87 entradas
+2025-04-14 18:48:45,234 - NewsResearchAgent - INFO - Notícia publicada: 50 anos em ./categorias/politica/50-anos-20250414184845.html
+2025-04-14 18:48:45,958 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 18:48:45,958 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-14 18:48:48,005 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-14 18:48:48,489 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-14 18:48:49,665 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-14 18:48:50,688 - NewsResearchAgent - INFO - Cache de notícias salvo com 922 entradas
+2025-04-14 18:48:50,690 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 87 entradas
+2025-04-14 18:48:50,693 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria tecnologia
+2025-04-14 18:58:28,173 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/8-piores-capas-de-jogos-de-todos-os-tempos-20250414185828.jpg
+2025-04-14 18:58:28,173 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: 8 piores capas de jogos de todos os tempos
+2025-04-14 18:58:28,196 - NewsResearchAgent - INFO - Cache de notícias salvo com 922 entradas
+2025-04-14 18:58:28,197 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 88 entradas
+2025-04-14 18:58:28,198 - NewsResearchAgent - INFO - Notícia publicada: 8 piores capas de jogos de todos os tempos em ./categorias/tecnologia/8-piores-capas-de-jogos-de-todos-os-tempos-20250414185828.html
+2025-04-14 18:58:28,590 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 18:58:28,590 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-14 18:58:29,869 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-14 18:58:29,998 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-14 18:58:34,203 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-14 18:58:36,674 - NewsResearchAgent - INFO - Cache de notícias salvo com 932 entradas
+2025-04-14 18:58:36,675 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 88 entradas
+2025-04-14 18:58:36,679 - NewsResearchAgent - INFO - Encontradas 16 notícias virais na categoria entretenimento
+2025-04-14 19:08:18,911 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/como-minecraft-salvou-2025-e-o-que-hollywood-preci-20250414190818.jpg
+2025-04-14 19:08:18,911 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Como Minecraft salvou 2025, e o que Hollywood precisa aprender com isso
+2025-04-14 19:08:18,934 - NewsResearchAgent - INFO - Cache de notícias salvo com 932 entradas
+2025-04-14 19:08:18,936 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 89 entradas
+2025-04-14 19:08:18,936 - NewsResearchAgent - INFO - Notícia publicada: Como Minecraft salvou 2025, e o que Hollywood precisa aprender com isso em ./categorias/entretenimento/como-minecraft-salvou-2025-e-o-que-hollywood-preci-20250414190818.html
+2025-04-14 19:08:19,280 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 19:08:19,280 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-14 19:08:21,010 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-14 19:08:21,658 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-14 19:08:23,945 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-14 19:08:24,163 - NewsResearchAgent - INFO - Cache de notícias salvo com 936 entradas
+2025-04-14 19:08:24,164 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 89 entradas
+2025-04-14 19:08:24,168 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria curiosidades
+2025-04-14 19:18:00,908 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/o-homem-que-sintetizou-200-novas-drogas-e-provou-t-20250414191800.jpg
+2025-04-14 19:18:00,909 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: O homem que sintetizou 200 novas drogas – e provou todas elas
+2025-04-14 19:18:00,932 - NewsResearchAgent - INFO - Cache de notícias salvo com 936 entradas
+2025-04-14 19:18:00,934 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 90 entradas
+2025-04-14 19:18:00,934 - NewsResearchAgent - INFO - Notícia publicada: O homem que sintetizou 200 novas drogas – e provou todas elas em ./categorias/curiosidades/o-homem-que-sintetizou-200-novas-drogas-e-provou-t-20250414191800.html
