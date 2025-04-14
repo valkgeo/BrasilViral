@@ -1,34 +1,44 @@
-[
-  {
-    "title": "BrasilViral",
-    "summary": "Mais de um século se passou desde que o Titanic naufragou no Oceano Atlântico, levando consigo mais de 1.500 vidas entre passageiros e tripulantes. No entanto, novos estudos continuam a surgir para investigar os mistérios por trás da colisão com o fatídico iceberg. Uma das iniciativas mais recentes foi conduzida por especialistas da National Geographic e da Atlantic Productions, que digitalizaram uma versão em tamanho real do navio.",
-    "timestamp": "2025-04-13T20:40:00",
-    "link": "categorias/curiosidades/novas-imagens-3d-do-titanic-ajudam-a-recriar-ultim-20250413204047.html",
-    "image": "../../images/curiosidades/novas-imagens-3d-do-titanic-ajudam-a-recriar-ultim-20250413204047.jpg",
-    "category": "curiosidades"
+{
+  "esportes": {
+    "title": "Pesquisão 2024: Quem foi o melhor árbitro do futebol brasileiro?",
+    "summary": "<p>Raphael Claus foi eleito o melhor árbitro do futebol brasileiro em 2024, de acordo com uma pesquisa realizada com atletas do Campeonato Brasileiro. Essa é a segunda vez consecutiva que ele recebe esse título, demonstrando sua consistência e habilidade no desempenho de suas funções.</p>",
+    "timestamp": "2025-04-14T17:22:58.933015",
+    "link": "categorias/esportes/pesquisao-2024-quem-foi-o-melhor-arbitro-do-futebo-20250414172258.html",
+    "image": "../../images/esportes/pesquisao-2024-quem-foi-o-melhor-arbitro-do-futebo-20250414172258.jpg"
   },
-  {
-    "title": "BrasilViral",
-    "summary": "O Green Day se manifestou a favor da Palestina durante sua apresentação no Festival Coachella 2025, no último sábado. A banda alterou parte da letra da canção \"Jesus of Suburbia\" para criticar a ocupação do território por tropas de Israel. Essa mudança na letra foi uma forma de expressar sua opinião sobre a situação política atual.",
-    "timestamp": "2025-04-13T20:33:00",
-    "link": "categorias/entretenimento/coachella-2025-green-day-muda-letra-e-defende-pale-20250413203341.html",
-    "image": "../../images/entretenimento/coachella-2025-green-day-muda-letra-e-defende-pale-20250413203341.jpg",
-    "category": "entretenimento"
+  "economia": {
+    "title": "Codeshare: tarifa sobe 23% nas rotas em que Azul e Gol deixaram de competir",
+    "summary": "<p>O acordo de compartilhamento de voos entre as empresas aéreas Azul e Gol, conhecido como codeshare, resultou em um aumento médio de 23% nas tarifas das rotas em que uma das empresas deixou de operar. Isso ocorreu em cinco rotas específicas, onde a competição entre as duas empresas foi eliminada. Essa constatação foi obtida por meio de um levantamento realizado com dados de tarifa da Agência Nacional de Aviação Civil (Anac), que excluiu fatores como sazonalidade e outros que não estivessem diretamente relacionados ao codeshare.</p>",
+    "timestamp": "2025-04-14T17:32:54.832220",
+    "link": "categorias/economia/codeshare-tarifa-sobe-23-nas-rotas-em-que-azul-e-g-20250414173254.html",
+    "image": "../../images/economia/codeshare-tarifa-sobe-23-nas-rotas-em-que-azul-e-g-20250414173254.jpg"
   },
-  {
-    "title": "BrasilViral",
-    "summary": "A TCL 65P755 é uma TV LED 4K de 65 polegadas que oferece uma experiência de visualização de alta qualidade. Com tecnologia HDR10+ e 95% da gama de cores DCI-P3, essa TV proporciona imagens vibrantes e realistas, tornando-a uma excelente opção para quem busca uma experiência de entretenimento imersiva.",
-    "timestamp": "2025-04-13T20:26:00",
-    "link": "categorias/tecnologia/tcl-65p755-saiba-mais-sobre-resolucao-4k-e-120-hz-20250413202641.html",
-    "image": "../../images/tecnologia/tcl-65p755-saiba-mais-sobre-resolucao-4k-e-120-hz-20250413202641.jpg",
-    "category": "tecnologia"
+  "politica": {
+    "title": "Semana esvaziada no Congresso alivia tensão sobre projeto da anistia",
+    "summary": "<p>A Semana Santa está trazendo um ritmo mais lento às atividades no Congresso Nacional. Devido ao feriado, a Câmara dos Deputados realizará sessões virtuais, permitindo que os parlamentares registrem presença e votem por meio de um aplicativo. Já o Senado não tem reuniões previstas para esta semana.</p>",
+    "timestamp": "2025-04-14T17:42:38.402531",
+    "link": "categorias/politica/semana-esvaziada-no-congresso-alivia-tensao-sobre--20250414174238.html",
+    "image": "../../images/politica/semana-esvaziada-no-congresso-alivia-tensao-sobre--20250414174238.jpg"
   },
-  {
-    "title": "BrasilViral",
-    "summary": "O ex-presidente Jair Bolsonaro está passando por uma cirurgia no Hospital DF Star, em Brasília, após apresentar um quadro de obstrução intestinal. De acordo com o boletim médico divulgado pelo hospital, a cirurgia começou por volta das 8h30 e tem como objetivo liberar aderências intestinais e reconstruir a parede abdominal.",
-    "timestamp": "2025-04-13T20:19:00",
-    "link": "categorias/politica/bolsonaro-e-submetido-a-cirurgia-para-reconstrucao-20250413201913.html",
-    "image": "../../images/politica/bolsonaro-e-submetido-a-cirurgia-para-reconstrucao-20250413201913.jpg",
-    "category": "politica"
+  "tecnologia": {
+    "title": "Vale a pena comprar o iPhone 16e?",
+    "summary": "<p>O iPhone 16e é a opção de entrada da linha iPhone 16, oferecendo um equilíbrio entre avanços tecnológicos e algumas limitações em relação a outros modelos da série. No entanto, surge a dúvida se ele realmente vale a pena ser adquirido. Para responder a essa pergunta, é importante analisar as diferenças entre o iPhone 16e e o modelo padrão da linha.</p>",
+    "timestamp": "2025-04-14T17:52:15.368783",
+    "link": "categorias/tecnologia/vale-a-pena-comprar-o-iphone-16e-20250414175215.html",
+    "image": "../../images/tecnologia/vale-a-pena-comprar-o-iphone-16e-20250414175215.jpg"
+  },
+  "entretenimento": {
+    "title": "Curtiu os revestimentos da casa do BBB 25?",
+    "summary": "<p>A casa do BBB 25 está mais bonita do que nunca, com uma repaginada que deixou todos os fãs do programa impressionados. Cada detalhe, desde os móveis até as decorações, é um exemplo de bom gosto e inspiração para quem deseja renovar seu lar. É comum que os espectadores do programa queiram reproduzir em suas próprias casas as ideias e soluções apresentadas no reality show.</p>",
+    "timestamp": "2025-04-14T18:01:58.579560",
+    "link": "categorias/entretenimento/curtiu-os-revestimentos-da-casa-do-bbb-25-20250414180158.html",
+    "image": "../../images/entretenimento/curtiu-os-revestimentos-da-casa-do-bbb-25-20250414180158.jpg"
+  },
+  "curiosidades": {
+    "title": "Arqueólogos escavam cidade de 2,5 mil anos na Macedônia",
+    "summary": "<p>Uma equipe de arqueólogos está realizando escavações em um sítio arqueológico na Macedônia, onde foi descoberta uma cidade antiga com cerca de 2,5 mil anos. O local, conhecido como Gradishte, estava sendo estudado há algum tempo, mas até recentemente se acreditava que se tratava de um posto militar utilizado pelos romanos em trânsito.</p>",
+    "timestamp": "2025-04-14T18:11:41.454891",
+    "link": "categorias/curiosidades/arqueologos-escavam-cidade-de-25-mil-anos-na-maced-20250414181141.html",
+    "image": "../../images/curiosidades/arqueologos-escavam-cidade-de-25-mil-anos-na-maced-20250414181141.jpg"
   }
-]
+}

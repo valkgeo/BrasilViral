@@ -1,5 +1,21 @@
 [
   {
+    "title": "Arqueólogos escavam cidade de 2,5 mil anos na Macedônia",
+    "summary": "Uma equipe de arqueólogos está realizando escavações em um sítio arqueológico na Macedônia, onde foi descoberta uma cidade antiga com cerca de 2,5 mil anos. O local, conhecido como Gradishte, estava sendo estudado há algum tempo, mas até recentemente se acreditava que se tratava de um posto militar utilizado pelos romanos em trânsito.",
+    "timestamp": "2025-04-14T18:11:00",
+    "link": "categorias/curiosidades/arqueologos-escavam-cidade-de-25-mil-anos-na-maced-20250414181141.html",
+    "image": "../../images/curiosidades/arqueologos-escavam-cidade-de-25-mil-anos-na-maced-20250414181141.jpg",
+    "category": "curiosidades"
+  },
+  {
+    "title": "Exemplo de notícia de curiosidades",
+    "summary": "Este é um exemplo de notícia de curiosidades. Aqui você encontrará fatos interessantes, descobertas científicas, histórias inusitadas e fenômenos surpreendentes. O BrasilViral traz conteúdo que vai expandir seus conhecimentos e surpreender você. curiosidades.",
+    "timestamp": "2025-04-14T17:11:18.550196",
+    "link": "categorias/curiosidades/exemplo_curiosidades.html",
+    "image": "{{IMAGEM_URL}}",
+    "category": "curiosidades"
+  },
+  {
     "title": "Novas imagens 3D do Titanic ajudam a recriar últimos momentos até naufrágio",
     "summary": "Mais de um século se passou desde que o Titanic naufragou no Oceano Atlântico, levando consigo mais de 1.500 vidas entre passageiros e tripulantes. No entanto, novos estudos continuam a surgir para investigar os mistérios por trás da colisão com o fatídico iceberg. Uma das iniciativas mais recentes foi conduzida por especialistas da National Geographic e da Atlantic Productions, que digitalizaram uma versão em tamanho real do navio.",
     "timestamp": "2025-04-13T20:40:00",
@@ -101,14 +117,6 @@
     "timestamp": "2025-04-13T16:25:00",
     "link": "categorias/curiosidades/lofi-a-historia-e-a-psicologia-da-musica-que-te-fa-20250413162546.html",
     "image": "../../images/placeholder-curiosidades.jpg",
-    "category": "curiosidades"
-  },
-  {
-    "title": "Exemplo de notícia de curiosidades",
-    "summary": "Este é um exemplo de notícia de curiosidades. Aqui você encontrará fatos interessantes, descobertas científicas, histórias inusitadas e fenômenos surpreendentes. O BrasilViral traz conteúdo que vai expandir seus conhecimentos e surpreender você. curiosidades.",
-    "timestamp": "2025-04-12T18:40:26.012392",
-    "link": "categorias/curiosidades/exemplo_curiosidades.html",
-    "image": "{{IMAGEM_URL}}",
     "category": "curiosidades"
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "title": "Pesquisão 2024: Quem foi o melhor árbitro do futebol brasileiro?",
+    "summary": "Raphael Claus foi eleito o melhor árbitro do futebol brasileiro em 2024, de acordo com uma pesquisa realizada com atletas do Campeonato Brasileiro. Essa é a segunda vez consecutiva que ele recebe esse título, demonstrando sua consistência e habilidade no desempenho de suas funções.",
+    "timestamp": "2025-04-14T17:22:00",
+    "link": "categorias/esportes/pesquisao-2024-quem-foi-o-melhor-arbitro-do-futebo-20250414172258.html",
+    "image": "../../images/esportes/pesquisao-2024-quem-foi-o-melhor-arbitro-do-futebo-20250414172258.jpg",
+    "category": "esportes"
+  },
+  {
+    "title": "Exemplo de notícia de esportes",
+    "summary": "Este é um exemplo de notícia esportiva. Aqui você encontrará as últimas informações sobre competições, resultados de jogos, transferências de jogadores e muito mais. O BrasilViral traz cobertura completa dos principais eventos esportivos nacionais e internacionais. esportes.",
+    "timestamp": "2025-04-14T17:11:18.552196",
+    "link": "categorias/esportes/exemplo_esportes.html",
+    "image": "{{IMAGEM_URL}}",
+    "category": "esportes"
+  },
+  {
     "title": "Napoli vs Empoli: Palpite, Onde Assistir, Horário e Escalações - 14/03",
     "summary": "O Napoli e o Empoli se enfrentam na segunda-feira, 14 de março, às 15:45, no Estádio Diego Armando Maradona, em Napoli, em um jogo válido pela Serie A Italiana. Esse confronto promete ser emocionante, considerando que os dois times estão em momentos distintos da competição. O Napoli busca a vitória para manter viva a esperança de conquistar o título italiano, enquanto o Empoli precisa pontuar para se afastar da zona de rebaixamento.",
     "timestamp": "2025-04-13T20:03:00",
@@ -101,14 +117,6 @@
     "timestamp": "2025-04-13T16:23:00",
     "link": "categorias/esportes/formula-1-pilotos-carros-equipes-resultados-estati-20250413162345.html",
     "image": "../../images/placeholder-esportes.jpg",
-    "category": "esportes"
-  },
-  {
-    "title": "Exemplo de notícia de esportes",
-    "summary": "Este é um exemplo de notícia esportiva. Aqui você encontrará as últimas informações sobre competições, resultados de jogos, transferências de jogadores e muito mais. O BrasilViral traz cobertura completa dos principais eventos esportivos nacionais e internacionais. esportes.",
-    "timestamp": "2025-04-12T18:40:25.703984",
-    "link": "categorias/esportes/exemplo_esportes.html",
-    "image": "{{IMAGEM_URL}}",
     "category": "esportes"
   }
 ]

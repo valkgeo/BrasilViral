@@ -1,5 +1,21 @@
 [
   {
+    "title": "Semana esvaziada no Congresso alivia tensão sobre projeto da anistia",
+    "summary": "A Semana Santa está trazendo um ritmo mais lento às atividades no Congresso Nacional. Devido ao feriado, a Câmara dos Deputados realizará sessões virtuais, permitindo que os parlamentares registrem presença e votem por meio de um aplicativo. Já o Senado não tem reuniões previstas para esta semana.",
+    "timestamp": "2025-04-14T17:42:00",
+    "link": "categorias/politica/semana-esvaziada-no-congresso-alivia-tensao-sobre--20250414174238.html",
+    "image": "../../images/politica/semana-esvaziada-no-congresso-alivia-tensao-sobre--20250414174238.jpg",
+    "category": "politica"
+  },
+  {
+    "title": "Exemplo de notícia de politica",
+    "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
+    "timestamp": "2025-04-14T17:11:18.553196",
+    "link": "categorias/politica/exemplo_politica.html",
+    "image": "{{IMAGEM_URL}}",
+    "category": "politica"
+  },
+  {
     "title": "Bolsonaro é submetido a cirurgia para reconstrução da parede abdominal",
     "summary": "O ex-presidente Jair Bolsonaro está passando por uma cirurgia no Hospital DF Star, em Brasília, após apresentar um quadro de obstrução intestinal. De acordo com o boletim médico divulgado pelo hospital, a cirurgia começou por volta das 8h30 e tem como objetivo liberar aderências intestinais e reconstruir a parede abdominal.",
     "timestamp": "2025-04-13T20:19:00",
@@ -101,14 +117,6 @@
     "timestamp": "2025-04-13T16:24:00",
     "link": "categorias/politica/lula-lidera-entre-empreendedores-mas-clt-desconten-20250413162430.html",
     "image": "../../images/placeholder-politica.jpg",
-    "category": "politica"
-  },
-  {
-    "title": "Exemplo de notícia de politica",
-    "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
-    "timestamp": "2025-04-12T18:40:25.829028",
-    "link": "categorias/politica/exemplo_politica.html",
-    "image": "{{IMAGEM_URL}}",
     "category": "politica"
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "title": "Codeshare: tarifa sobe 23% nas rotas em que Azul e Gol deixaram de competir",
+    "summary": "O acordo de compartilhamento de voos entre as empresas aéreas Azul e Gol, conhecido como codeshare, resultou em um aumento médio de 23% nas tarifas das rotas em que uma das empresas deixou de operar. Isso ocorreu em cinco rotas específicas, onde a competição entre as duas empresas foi eliminada. Essa constatação foi obtida por meio de um levantamento realizado com dados de tarifa da Agência Nacional de Aviação Civil (Anac), que excluiu fatores como sazonalidade e outros que não estivessem diretamente relacionados ao codeshare.",
+    "timestamp": "2025-04-14T17:32:00",
+    "link": "categorias/economia/codeshare-tarifa-sobe-23-nas-rotas-em-que-azul-e-g-20250414173254.html",
+    "image": "../../images/economia/codeshare-tarifa-sobe-23-nas-rotas-em-que-azul-e-g-20250414173254.jpg",
+    "category": "economia"
+  },
+  {
+    "title": "{{TITULO}}",
+    "summary": "",
+    "timestamp": "2025-04-14T17:11:18.551196",
+    "link": "categorias/economia/exemplo_economia.html",
+    "image": "{{IMAGEM_URL}}",
+    "category": "economia"
+  },
+  {
     "title": "Cotações B3: BDRs",
     "summary": "Os Brazilian Depositary Receipts Patrocinados, conhecidos como BDRs, são certificados que representam ações emitidas no exterior e são negociados no pregão da bolsa brasileira. Esses certificados oferecem uma oportunidade para os investidores brasileiros terem acesso a ações de empresas estrangeiras, diversificando seus portfólios de investimentos.",
     "timestamp": "2025-04-13T20:11:00",
@@ -101,14 +117,6 @@
     "timestamp": "2025-04-13T16:24:00",
     "link": "categorias/economia/ouro-fecha-em-nova-alta-e-ultrapassa-us-3200-20250413162402.html",
     "image": "../../images/placeholder-economia.jpg",
-    "category": "economia"
-  },
-  {
-    "title": "{{TITULO}}",
-    "summary": "",
-    "timestamp": "2025-04-13T16:08:12.293776",
-    "link": "categorias/economia/exemplo_economia.html",
-    "image": "{{IMAGEM_URL}}",
     "category": "economia"
   }
 ]

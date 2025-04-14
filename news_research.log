@@ -1069,3 +1069,83 @@ detail: You need to set up billing to run this model. Go to https://replicate.co
 2025-04-13 20:40:47,864 - NewsResearchAgent - INFO - Cache de not�cias salvo com 844 entradas
 2025-04-13 20:40:47,866 - NewsResearchAgent - INFO - Registro de not�cias publicadas salvo com 78 entradas
 2025-04-13 20:40:47,867 - NewsResearchAgent - INFO - Not�cia publicada: Novas imagens 3D do Titanic ajudam a recriar �ltimos momentos at� naufr�gio em .\categorias\curiosidades\novas-imagens-3d-do-titanic-ajudam-a-recriar-ultim-20250413204047.html
+2025-04-14 17:13:03,556 - NewsResearchAgent - INFO - Cache de notícias carregado com 844 entradas
+2025-04-14 17:13:03,557 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 78 entradas
+2025-04-14 17:13:17,367 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 17:13:17,367 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-14 17:13:22,063 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-14 17:13:24,093 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-14 17:13:25,384 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-14 17:13:31,228 - NewsResearchAgent - INFO - Cache de notícias salvo com 854 entradas
+2025-04-14 17:13:31,229 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 78 entradas
+2025-04-14 17:13:31,232 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria esportes
+2025-04-14 17:22:58,909 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/pesquisao-2024-quem-foi-o-melhor-arbitro-do-futebo-20250414172258.jpg
+2025-04-14 17:22:58,909 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Pesquisão 2024: Quem foi o melhor árbitro do futebol brasileiro?
+2025-04-14 17:22:58,931 - NewsResearchAgent - INFO - Cache de notícias salvo com 854 entradas
+2025-04-14 17:22:58,932 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 79 entradas
+2025-04-14 17:22:58,932 - NewsResearchAgent - INFO - Notícia publicada: Pesquisão 2024: Quem foi o melhor árbitro do futebol brasileiro? em ./categorias/esportes/pesquisao-2024-quem-foi-o-melhor-arbitro-do-futebo-20250414172258.html
+2025-04-14 17:22:59,603 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 17:22:59,603 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-14 17:23:04,406 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-14 17:23:10,795 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-14 17:23:14,191 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-14 17:23:14,275 - NewsResearchAgent - INFO - Cache de notícias salvo com 856 entradas
+2025-04-14 17:23:14,276 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 79 entradas
+2025-04-14 17:23:14,278 - NewsResearchAgent - INFO - Encontradas 5 notícias virais na categoria economia
+2025-04-14 17:32:54,809 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/codeshare-tarifa-sobe-23-nas-rotas-em-que-azul-e-g-20250414173254.jpg
+2025-04-14 17:32:54,809 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Codeshare: tarifa sobe 23% nas rotas em que Azul e Gol deixaram de competir
+2025-04-14 17:32:54,831 - NewsResearchAgent - INFO - Cache de notícias salvo com 856 entradas
+2025-04-14 17:32:54,832 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 80 entradas
+2025-04-14 17:32:54,832 - NewsResearchAgent - INFO - Notícia publicada: Codeshare: tarifa sobe 23% nas rotas em que Azul e Gol deixaram de competir em ./categorias/economia/codeshare-tarifa-sobe-23-nas-rotas-em-que-azul-e-g-20250414173254.html
+2025-04-14 17:32:55,383 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 17:32:55,383 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-14 17:32:59,967 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-14 17:33:02,298 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-14 17:33:05,327 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-14 17:33:07,484 - NewsResearchAgent - INFO - Cache de notícias salvo com 868 entradas
+2025-04-14 17:33:07,485 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 80 entradas
+2025-04-14 17:33:07,488 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria politica
+2025-04-14 17:42:38,379 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/semana-esvaziada-no-congresso-alivia-tensao-sobre--20250414174238.jpg
+2025-04-14 17:42:38,379 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Semana esvaziada no Congresso alivia tensão sobre projeto da anistia
+2025-04-14 17:42:38,401 - NewsResearchAgent - INFO - Cache de notícias salvo com 868 entradas
+2025-04-14 17:42:38,402 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 81 entradas
+2025-04-14 17:42:38,402 - NewsResearchAgent - INFO - Notícia publicada: Semana esvaziada no Congresso alivia tensão sobre projeto da anistia em ./categorias/politica/semana-esvaziada-no-congresso-alivia-tensao-sobre--20250414174238.html
+2025-04-14 17:42:38,998 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 17:42:38,998 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-14 17:42:39,677 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-14 17:42:41,519 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-14 17:42:43,082 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-14 17:42:43,777 - NewsResearchAgent - INFO - Cache de notícias salvo com 873 entradas
+2025-04-14 17:42:43,778 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 81 entradas
+2025-04-14 17:42:43,781 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria tecnologia
+2025-04-14 17:52:15,344 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/vale-a-pena-comprar-o-iphone-16e-20250414175215.jpg
+2025-04-14 17:52:15,345 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Vale a pena comprar o iPhone 16e?
+2025-04-14 17:52:15,367 - NewsResearchAgent - INFO - Cache de notícias salvo com 873 entradas
+2025-04-14 17:52:15,368 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 82 entradas
+2025-04-14 17:52:15,368 - NewsResearchAgent - INFO - Notícia publicada: Vale a pena comprar o iPhone 16e? em ./categorias/tecnologia/vale-a-pena-comprar-o-iphone-16e-20250414175215.html
+2025-04-14 17:52:16,067 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 17:52:16,067 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-14 17:52:19,888 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-14 17:52:20,206 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-14 17:52:24,109 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-14 17:52:26,894 - NewsResearchAgent - INFO - Cache de notícias salvo com 880 entradas
+2025-04-14 17:52:26,895 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 82 entradas
+2025-04-14 17:52:26,898 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria entretenimento
+2025-04-14 18:01:58,555 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/curtiu-os-revestimentos-da-casa-do-bbb-25-20250414180158.jpg
+2025-04-14 18:01:58,555 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Curtiu os revestimentos da casa do BBB 25?
+2025-04-14 18:01:58,578 - NewsResearchAgent - INFO - Cache de notícias salvo com 880 entradas
+2025-04-14 18:01:58,579 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 83 entradas
+2025-04-14 18:01:58,579 - NewsResearchAgent - INFO - Notícia publicada: Curtiu os revestimentos da casa do BBB 25? em ./categorias/entretenimento/curtiu-os-revestimentos-da-casa-do-bbb-25-20250414180158.html
+2025-04-14 18:01:59,267 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 18:01:59,267 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-14 18:02:03,525 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-14 18:02:06,383 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-14 18:02:09,789 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-14 18:02:10,025 - NewsResearchAgent - INFO - Cache de notícias salvo com 886 entradas
+2025-04-14 18:02:10,026 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 83 entradas
+2025-04-14 18:02:10,030 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria curiosidades
+2025-04-14 18:11:41,430 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/arqueologos-escavam-cidade-de-25-mil-anos-na-maced-20250414181141.jpg
+2025-04-14 18:11:41,430 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Arqueólogos escavam cidade de 2,5 mil anos na Macedônia
+2025-04-14 18:11:41,453 - NewsResearchAgent - INFO - Cache de notícias salvo com 886 entradas
+2025-04-14 18:11:41,454 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 84 entradas
+2025-04-14 18:11:41,454 - NewsResearchAgent - INFO - Notícia publicada: Arqueólogos escavam cidade de 2,5 mil anos na Macedônia em ./categorias/curiosidades/arqueologos-escavam-cidade-de-25-mil-anos-na-maced-20250414181141.html
