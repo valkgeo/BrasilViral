@@ -1229,3 +1229,84 @@ detail: You need to set up billing to run this model. Go to https://replicate.co
 2025-04-14 19:18:00,932 - NewsResearchAgent - INFO - Cache de notícias salvo com 936 entradas
 2025-04-14 19:18:00,934 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 90 entradas
 2025-04-14 19:18:00,934 - NewsResearchAgent - INFO - Notícia publicada: O homem que sintetizou 200 novas drogas – e provou todas elas em ./categorias/curiosidades/o-homem-que-sintetizou-200-novas-drogas-e-provou-t-20250414191800.html
+2025-04-14 20:15:48,705 - NewsResearchAgent - INFO - Cache de notícias carregado com 936 entradas
+2025-04-14 20:15:48,706 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 90 entradas
+2025-04-14 20:16:01,759 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 20:16:01,759 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-14 20:16:08,901 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-14 20:16:11,259 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-14 20:16:12,085 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-14 20:16:17,759 - NewsResearchAgent - INFO - Cache de notícias salvo com 941 entradas
+2025-04-14 20:16:17,760 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 90 entradas
+2025-04-14 20:16:17,762 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria esportes
+2025-04-14 20:25:46,025 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/pitaco-do-guffo-sera-que-temos-dois-favoritos-para-20250414202546.jpg
+2025-04-14 20:25:46,025 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Pitaco do Guffo: será que temos dois favoritos para a Libertadores?
+2025-04-14 20:25:46,049 - NewsResearchAgent - INFO - Cache de notícias salvo com 941 entradas
+2025-04-14 20:25:46,050 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 91 entradas
+2025-04-14 20:25:46,050 - NewsResearchAgent - INFO - Notícia publicada: Pitaco do Guffo: será que temos dois favoritos para a Libertadores? em ./categorias/esportes/pitaco-do-guffo-sera-que-temos-dois-favoritos-para-20250414202546.html
+2025-04-14 20:25:46,480 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 20:25:46,481 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-14 20:25:54,683 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-14 20:26:00,568 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-14 20:26:01,674 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-14 20:26:01,735 - NewsResearchAgent - INFO - Cache de notícias salvo com 948 entradas
+2025-04-14 20:26:01,736 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 91 entradas
+2025-04-14 20:26:01,739 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria economia
+2025-04-14 20:35:35,469 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/ibaneis-diz-ter-pedido-para-brb-a-compra-parcial-d-20250414203535.jpg
+2025-04-14 20:35:35,470 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Ibaneis diz ter pedido para BRB a compra parcial do Banco Master
+2025-04-14 20:35:35,493 - NewsResearchAgent - INFO - Cache de notícias salvo com 948 entradas
+2025-04-14 20:35:35,494 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 92 entradas
+2025-04-14 20:35:35,495 - NewsResearchAgent - INFO - Notícia publicada: Ibaneis diz ter pedido para BRB a compra parcial do Banco Master em ./categorias/economia/ibaneis-diz-ter-pedido-para-brb-a-compra-parcial-d-20250414203535.html
+2025-04-14 20:35:35,997 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 20:35:35,998 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-14 20:35:41,916 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-14 20:35:53,689 - NewsResearchAgent - ERROR - Erro ao processar link de notícia https://noticias.uol.com.br/blogs-e-colunas/: HTTPSConnectionPool(host='noticias.uol.com.br', port=443): Read timed out. (read timeout=10)
+2025-04-14 20:35:54,567 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-14 20:35:55,525 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-14 20:35:56,792 - NewsResearchAgent - INFO - Cache de notícias salvo com 957 entradas
+2025-04-14 20:35:56,794 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 92 entradas
+2025-04-14 20:35:56,797 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria politica
+2025-04-14 20:45:30,627 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/reinaldo-o-projeto-da-falsa-anistia-e-um-manifesto-20250414204530.jpg
+2025-04-14 20:45:30,627 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Reinaldo: O projeto da falsa anistia é um manifesto de pornografia política
+2025-04-14 20:45:30,651 - NewsResearchAgent - INFO - Cache de notícias salvo com 957 entradas
+2025-04-14 20:45:30,653 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 93 entradas
+2025-04-14 20:45:30,653 - NewsResearchAgent - INFO - Notícia publicada: Reinaldo: O projeto da falsa anistia é um manifesto de pornografia política em ./categorias/politica/reinaldo-o-projeto-da-falsa-anistia-e-um-manifesto-20250414204530.html
+2025-04-14 20:45:31,089 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 20:45:31,089 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-14 20:45:33,774 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-14 20:45:34,973 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-14 20:45:37,569 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-14 20:45:38,498 - NewsResearchAgent - INFO - Cache de notícias salvo com 967 entradas
+2025-04-14 20:45:38,499 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 93 entradas
+2025-04-14 20:45:38,504 - NewsResearchAgent - INFO - Encontradas 16 notícias virais na categoria tecnologia
+2025-04-14 20:55:11,416 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/lua-rosa-acontecera-neste-domingo-13-entenda-o-fen-20250414205511.jpg
+2025-04-14 20:55:11,416 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Lua Rosa acontecerá neste domingo (13); entenda o fenômeno
+2025-04-14 20:55:11,440 - NewsResearchAgent - INFO - Cache de notícias salvo com 967 entradas
+2025-04-14 20:55:11,441 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 94 entradas
+2025-04-14 20:55:11,441 - NewsResearchAgent - INFO - Notícia publicada: Lua Rosa acontecerá neste domingo (13); entenda o fenômeno em ./categorias/tecnologia/lua-rosa-acontecera-neste-domingo-13-entenda-o-fen-20250414205511.html
+2025-04-14 20:55:11,931 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 20:55:11,931 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-14 20:55:13,858 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-14 20:55:14,525 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-14 20:55:20,838 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-14 20:55:23,557 - NewsResearchAgent - INFO - Cache de notícias salvo com 975 entradas
+2025-04-14 20:55:23,558 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 94 entradas
+2025-04-14 20:55:23,563 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria entretenimento
+2025-04-14 21:04:58,776 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/the-last-of-us-primeiro-episodio-e-calmaria-antes--20250414210458.jpg
+2025-04-14 21:04:58,776 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: The Last of Us | Primeiro episódio é calmaria antes da tempestade
+2025-04-14 21:04:58,801 - NewsResearchAgent - INFO - Cache de notícias salvo com 975 entradas
+2025-04-14 21:04:58,803 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 95 entradas
+2025-04-14 21:04:58,803 - NewsResearchAgent - INFO - Notícia publicada: The Last of Us | Primeiro episódio é calmaria antes da tempestade em ./categorias/entretenimento/the-last-of-us-primeiro-episodio-e-calmaria-antes--20250414210458.html
+2025-04-14 21:04:59,240 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 21:04:59,240 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-14 21:05:01,845 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-14 21:05:04,125 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-14 21:05:11,935 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-14 21:05:12,432 - NewsResearchAgent - INFO - Cache de notícias salvo com 980 entradas
+2025-04-14 21:05:12,433 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 95 entradas
+2025-04-14 21:05:12,437 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria curiosidades
+2025-04-14 21:14:48,050 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/se-as-baleias-nao-pegam-sol-como-elas-produzem-vit-20250414211448.jpg
+2025-04-14 21:14:48,050 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Se as baleias não pegam sol, como elas produzem vitamina D?
+2025-04-14 21:14:48,075 - NewsResearchAgent - INFO - Cache de notícias salvo com 980 entradas
+2025-04-14 21:14:48,076 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 96 entradas
+2025-04-14 21:14:48,076 - NewsResearchAgent - INFO - Notícia publicada: Se as baleias não pegam sol, como elas produzem vitamina D? em ./categorias/curiosidades/se-as-baleias-nao-pegam-sol-como-elas-produzem-vit-20250414211448.html

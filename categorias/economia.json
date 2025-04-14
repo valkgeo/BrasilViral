@@ -1,5 +1,19 @@
 [
   {
+    "title": "Ibaneis diz ter pedido para BRB a compra parcial do Banco Master",
+    "summary": "O governador do Distrito Federal, Ibaneis Rocha, revelou que solicitou ao Banco Regional de Brasília (BRB) que excluísse algumas partes do Banco Master da negociação de compra para evitar possíveis riscos. De acordo com Ibaneis, essa medida foi tomada para evitar a \"contaminação\" do BRB, que tem apresentado crescimento desde 2019. O governador destacou que, atualmente, não vê riscos significativos na operação.",
+    "timestamp": "2025-04-14T20:35:00",
+    "link": "categorias/economia/ibaneis-diz-ter-pedido-para-brb-a-compra-parcial-do-banco-master.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "title": "{{TITULO}}",
+    "summary": "",
+    "timestamp": "2025-04-14T20:13:58.796152",
+    "link": "categorias/economia/titulo.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "58% dos brasileiros compram menos alimentos por causa da inflação, aponta Datafolha",
     "summary": "A inflação tem sido um fator determinante para mudanças significativas no cotidiano dos brasileiros, afetando diretamente a popularidade do governo Luiz Inácio Lula da Silva. De acordo com uma pesquisa realizada pelo Datafolha, divulgada recentemente, 58% dos brasileiros reduziram a quantidade de alimentos comprados nos últimos meses devido à alta de preços.",
     "timestamp": "2025-04-14T18:38:00",
@@ -7,24 +21,10 @@
     "image": "images/placeholder.jpg"
   },
   {
-    "title": "{{TITULO}}",
-    "summary": "",
-    "timestamp": "2025-04-14T18:17:23.451237",
-    "link": "categorias/economia/titulo.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
     "title": "Codeshare: tarifa sobe 23% nas rotas em que Azul e Gol deixaram de competir",
     "summary": "O acordo de compartilhamento de voos entre as empresas aéreas Azul e Gol, conhecido como codeshare, resultou em um aumento médio de 23% nas tarifas das rotas em que uma das empresas deixou de operar. Isso ocorreu em cinco rotas específicas, onde a competição entre as duas empresas foi eliminada. Essa constatação foi obtida por meio de um levantamento realizado com dados de tarifa da Agência Nacional de Aviação Civil (Anac), que excluiu fatores como sazonalidade e outros que não estivessem diretamente relacionados ao codeshare.",
     "timestamp": "2025-04-14T17:32:00",
     "link": "categorias/economia/codeshare-tarifa-sobe-23-nas-rotas-em-que-azul-e-gol-deixaram-de-competir.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "Cotações B3: BDRs",
-    "summary": "Os Brazilian Depositary Receipts Patrocinados, conhecidos como BDRs, são certificados que representam ações emitidas no exterior e são negociados no pregão da bolsa brasileira. Esses certificados oferecem uma oportunidade para os investidores brasileiros terem acesso a ações de empresas estrangeiras, diversificando seus portfólios de investimentos.",
-    "timestamp": "2025-04-13T20:11:00",
-    "link": "categorias/economia/cota-es-b3-bdrs.html",
     "image": "images/placeholder.jpg"
   }
 ]
