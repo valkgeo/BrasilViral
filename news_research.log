@@ -1310,3 +1310,83 @@ detail: You need to set up billing to run this model. Go to https://replicate.co
 2025-04-14 21:14:48,075 - NewsResearchAgent - INFO - Cache de notícias salvo com 980 entradas
 2025-04-14 21:14:48,076 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 96 entradas
 2025-04-14 21:14:48,076 - NewsResearchAgent - INFO - Notícia publicada: Se as baleias não pegam sol, como elas produzem vitamina D? em ./categorias/curiosidades/se-as-baleias-nao-pegam-sol-como-elas-produzem-vit-20250414211448.html
+2025-04-14 22:13:20,918 - NewsResearchAgent - INFO - Cache de notícias carregado com 980 entradas
+2025-04-14 22:13:20,919 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 96 entradas
+2025-04-14 22:13:36,528 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 22:13:36,529 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-14 22:13:39,480 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-14 22:13:40,333 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-14 22:13:41,022 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-14 22:13:43,320 - NewsResearchAgent - INFO - Cache de notícias salvo com 990 entradas
+2025-04-14 22:13:43,321 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 96 entradas
+2025-04-14 22:13:43,326 - NewsResearchAgent - INFO - Encontradas 18 notícias virais na categoria esportes
+2025-04-14 22:23:04,879 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/wsl-2024-veja-o-ranking-do-circuito-mundial-de-sur-20250414222304.jpg
+2025-04-14 22:23:04,879 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: WSL 2024: veja o ranking do Circuito Mundial de Surfe
+2025-04-14 22:23:04,905 - NewsResearchAgent - INFO - Cache de notícias salvo com 990 entradas
+2025-04-14 22:23:04,906 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 97 entradas
+2025-04-14 22:23:04,906 - NewsResearchAgent - INFO - Notícia publicada: WSL 2024: veja o ranking do Circuito Mundial de Surfe em ./categorias/esportes/wsl-2024-veja-o-ranking-do-circuito-mundial-de-sur-20250414222304.html
+2025-04-14 22:23:05,242 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 22:23:05,242 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-14 22:23:09,500 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-14 22:23:17,540 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-14 22:23:19,253 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-14 22:23:19,401 - NewsResearchAgent - INFO - Cache de notícias salvo com 996 entradas
+2025-04-14 22:23:19,402 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 97 entradas
+2025-04-14 22:23:19,404 - NewsResearchAgent - INFO - Encontradas 6 notícias virais na categoria economia
+2025-04-14 22:32:41,945 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/miniindice-winj25-confira-os-pontos-de-suporte-e-r-20250414223241.jpg
+2025-04-14 22:32:41,945 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Mini-índice (WINJ25): confira os pontos de suporte e resistência nesta segunda (14)
+2025-04-14 22:32:41,970 - NewsResearchAgent - INFO - Cache de notícias salvo com 996 entradas
+2025-04-14 22:32:41,972 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 98 entradas
+2025-04-14 22:32:41,972 - NewsResearchAgent - INFO - Notícia publicada: Mini-índice (WINJ25): confira os pontos de suporte e resistência nesta segunda (14) em ./categorias/economia/miniindice-winj25-confira-os-pontos-de-suporte-e-r-20250414223241.html
+2025-04-14 22:32:42,346 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 22:32:42,347 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-14 22:32:45,748 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-14 22:32:49,734 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-14 22:32:51,157 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-14 22:32:52,258 - NewsResearchAgent - INFO - Cache de notícias salvo com 1006 entradas
+2025-04-14 22:32:52,260 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 98 entradas
+2025-04-14 22:32:52,263 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria politica
+2025-04-14 22:42:17,349 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/uol-entrevista-ao-vivo-o-prefeito-ricardo-nunes-am-20250414224217.jpg
+2025-04-14 22:42:17,349 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: UOL entrevista ao vivo o prefeito Ricardo Nunes amanhã às 15h30
+2025-04-14 22:42:17,376 - NewsResearchAgent - INFO - Cache de notícias salvo com 1006 entradas
+2025-04-14 22:42:17,377 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 99 entradas
+2025-04-14 22:42:17,377 - NewsResearchAgent - INFO - Notícia publicada: UOL entrevista ao vivo o prefeito Ricardo Nunes amanhã às 15h30 em ./categorias/politica/uol-entrevista-ao-vivo-o-prefeito-ricardo-nunes-am-20250414224217.html
+2025-04-14 22:42:17,767 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 22:42:17,768 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-14 22:42:21,837 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-14 22:42:22,492 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-14 22:42:23,477 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-14 22:42:24,165 - NewsResearchAgent - INFO - Cache de notícias salvo com 1016 entradas
+2025-04-14 22:42:24,166 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 99 entradas
+2025-04-14 22:42:24,171 - NewsResearchAgent - INFO - Encontradas 15 notícias virais na categoria tecnologia
+2025-04-14 22:51:51,282 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/one-ui-7-atualizacao-e-suspensa-apos-descoberta-de-20250414225151.jpg
+2025-04-14 22:51:51,282 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: One UI 7: atualização é suspensa após descoberta de 'bug grave'
+2025-04-14 22:51:51,308 - NewsResearchAgent - INFO - Cache de notícias salvo com 1016 entradas
+2025-04-14 22:51:51,310 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 100 entradas
+2025-04-14 22:51:51,310 - NewsResearchAgent - INFO - Notícia publicada: One UI 7: atualização é suspensa após descoberta de 'bug grave' em ./categorias/tecnologia/one-ui-7-atualizacao-e-suspensa-apos-descoberta-de-20250414225151.html
+2025-04-14 22:51:51,796 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 22:51:51,796 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-14 22:51:53,330 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-14 22:51:53,574 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-14 22:51:55,259 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-14 22:51:58,615 - NewsResearchAgent - INFO - Cache de notícias salvo com 1021 entradas
+2025-04-14 22:51:58,617 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 100 entradas
+2025-04-14 22:51:58,621 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria entretenimento
+2025-04-14 23:01:20,187 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/minecraft-continua-no-topo-das-bilheterias-brasile-20250414230120.jpg
+2025-04-14 23:01:20,188 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Minecraft continua no topo das bilheterias brasileiras; The Chosen estreia em 2º
+2025-04-14 23:01:20,214 - NewsResearchAgent - INFO - Cache de notícias salvo com 1021 entradas
+2025-04-14 23:01:20,216 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 101 entradas
+2025-04-14 23:01:20,216 - NewsResearchAgent - INFO - Notícia publicada: Minecraft continua no topo das bilheterias brasileiras; The Chosen estreia em 2º em ./categorias/entretenimento/minecraft-continua-no-topo-das-bilheterias-brasile-20250414230120.html
+2025-04-14 23:01:20,803 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 23:01:20,803 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-14 23:01:23,728 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-14 23:01:24,439 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-14 23:01:27,264 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-14 23:01:27,506 - NewsResearchAgent - INFO - Cache de notícias salvo com 1028 entradas
+2025-04-14 23:01:27,507 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 101 entradas
+2025-04-14 23:01:27,511 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria curiosidades
+2025-04-14 23:10:57,051 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/podcast-dossie-8-hamburguer-sem-carne-20250414231057.jpg
+2025-04-14 23:10:57,051 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Podcast Dossiê #8: Hambúrguer sem carne
+2025-04-14 23:10:57,078 - NewsResearchAgent - INFO - Cache de notícias salvo com 1028 entradas
+2025-04-14 23:10:57,080 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 102 entradas
+2025-04-14 23:10:57,080 - NewsResearchAgent - INFO - Notícia publicada: Podcast Dossiê #8: Hambúrguer sem carne em ./categorias/curiosidades/podcast-dossie-8-hamburguer-sem-carne-20250414231057.html

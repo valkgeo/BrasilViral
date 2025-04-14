@@ -766,5 +766,53 @@
     "filepath": "./categorias/curiosidades/se-as-baleias-nao-pegam-sol-como-elas-produzem-vit-20250414211448.html",
     "url_path": "categorias/curiosidades/se-as-baleias-nao-pegam-sol-como-elas-produzem-vit-20250414211448.html",
     "publish_timestamp": "2025-04-14T21:14:48.050860"
+  },
+  "f102b2137161bcfe2d9d2e9119483ce3": {
+    "title": "WSL 2024: veja o ranking do Circuito Mundial de Surfe",
+    "category": "esportes",
+    "source_url": "https://ge.globo.com/surfe/wsl/noticia/2024/02/20/wsl-2024-veja-o-ranking-do-circuito-mundial-de-surfe.ghtmll",
+    "filepath": "./categorias/esportes/wsl-2024-veja-o-ranking-do-circuito-mundial-de-sur-20250414222304.html",
+    "url_path": "categorias/esportes/wsl-2024-veja-o-ranking-do-circuito-mundial-de-sur-20250414222304.html",
+    "publish_timestamp": "2025-04-14T22:23:04.880403"
+  },
+  "bc8ca4dfb19bd78df7f914e598ce529f": {
+    "title": "Mini-índice (WINJ25): confira os pontos de suporte e resistência nesta segunda (14)",
+    "category": "economia",
+    "source_url": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winj25-14042025/",
+    "filepath": "./categorias/economia/miniindice-winj25-confira-os-pontos-de-suporte-e-r-20250414223241.html",
+    "url_path": "categorias/economia/miniindice-winj25-confira-os-pontos-de-suporte-e-r-20250414223241.html",
+    "publish_timestamp": "2025-04-14T22:32:41.946123"
+  },
+  "d9772feb1a9dace29a222178a9b07dce": {
+    "title": "UOL entrevista ao vivo o prefeito Ricardo Nunes amanhã às 15h30",
+    "category": "politica",
+    "source_url": "https://noticias.uol.com.br/politica/ultimas-noticias/2025/04/14/uol-entrevista-ao-vivo-ricardo-nunes-amanha.htm",
+    "filepath": "./categorias/politica/uol-entrevista-ao-vivo-o-prefeito-ricardo-nunes-am-20250414224217.html",
+    "url_path": "categorias/politica/uol-entrevista-ao-vivo-o-prefeito-ricardo-nunes-am-20250414224217.html",
+    "publish_timestamp": "2025-04-14T22:42:17.350400"
+  },
+  "352d5ed98f1b1f45e5652753427dc0d8": {
+    "title": "One UI 7: atualização é suspensa após descoberta de 'bug grave'",
+    "category": "tecnologia",
+    "source_url": "https://www.tecmundo.com.br/software/403944-one-ui-7-atualizacao-e-suspensa-apos-descoberta-de-bug-grave.htm",
+    "filepath": "./categorias/tecnologia/one-ui-7-atualizacao-e-suspensa-apos-descoberta-de-20250414225151.html",
+    "url_path": "categorias/tecnologia/one-ui-7-atualizacao-e-suspensa-apos-descoberta-de-20250414225151.html",
+    "publish_timestamp": "2025-04-14T22:51:51.282969"
+  },
+  "43407024a29a20e8232aca2e9dc9db10": {
+    "title": "Minecraft continua no topo das bilheterias brasileiras; The Chosen estreia em 2º",
+    "category": "entretenimento",
+    "source_url": "https://www.omelete.com.br/bilheteria-brasil/",
+    "filepath": "./categorias/entretenimento/minecraft-continua-no-topo-das-bilheterias-brasile-20250414230120.html",
+    "url_path": "categorias/entretenimento/minecraft-continua-no-topo-das-bilheterias-brasile-20250414230120.html",
+    "publish_timestamp": "2025-04-14T23:01:20.188568"
+  },
+  "b52b516ddfdc50a50a985d3007c91fd4": {
+    "title": "Podcast Dossiê #8: Hambúrguer sem carne",
+    "category": "curiosidades",
+    "source_url": "https://super.abril.com.br/podcasts/podcast-dossie-8-hamburguer-sem-carne/",
+    "filepath": "./categorias/curiosidades/podcast-dossie-8-hamburguer-sem-carne-20250414231057.html",
+    "url_path": "categorias/curiosidades/podcast-dossie-8-hamburguer-sem-carne-20250414231057.html",
+    "publish_timestamp": "2025-04-14T23:10:57.052219"
   }
 }

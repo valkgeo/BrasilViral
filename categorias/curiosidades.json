@@ -1,5 +1,19 @@
 [
   {
+    "title": "Podcast Dossiê #8: Hambúrguer sem carne",
+    "summary": "Um grupo de investidores nos Estados Unidos, que inclui nomes como Bill Gates e o Google, investiu uma quantia expressiva de US$ 250 milhões para criar o Impossible Burger, um hambúrguer feito de plantas que se assemelha à carne em termos de gosto, cheiro e textura. Esse produto inovador conquistou um prêmio da ONU e foi incorporado ao cardápio do Burger King, contribuindo para que a empresa fabricante, Impossible Foods, alcançasse um valor de mercado de US$ 3 bilhões.",
+    "timestamp": "2025-04-14T23:10:00",
+    "link": "categorias/curiosidades/podcast-dossi-8-hamb-rguer-sem-carne.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "title": "Exemplo de notícia de curiosidades",
+    "summary": "Este é um exemplo de notícia de curiosidades. Aqui você encontrará fatos interessantes, descobertas científicas, histórias inusitadas e fenômenos surpreendentes. O BrasilViral traz conteúdo que vai expandir seus conhecimentos e surpreender você. curiosidades.",
+    "timestamp": "2025-04-14T22:11:43.173925",
+    "link": "categorias/curiosidades/exemplo-de-not-cia-de-curiosidades.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "Se as baleias não pegam sol, como elas produzem vitamina D?",
     "summary": "As baleias são animais marinhos que passam a maior parte de suas vidas submersas, o que levanta uma questão interessante sobre a produção de vitamina D. A vitamina D é essencial para a saúde óssea e é produzida pela exposição à radiação ultravioleta do sol. No entanto, como as baleias não têm a oportunidade de se expor ao sol, surge a pergunta: como elas produzem vitamina D?",
     "timestamp": "2025-04-14T21:14:00",
@@ -7,24 +21,10 @@
     "image": "images/placeholder.jpg"
   },
   {
-    "title": "Exemplo de notícia de curiosidades",
-    "summary": "Este é um exemplo de notícia de curiosidades. Aqui você encontrará fatos interessantes, descobertas científicas, histórias inusitadas e fenômenos surpreendentes. O BrasilViral traz conteúdo que vai expandir seus conhecimentos e surpreender você. curiosidades.",
-    "timestamp": "2025-04-14T20:13:58.794152",
-    "link": "categorias/curiosidades/exemplo-de-not-cia-de-curiosidades.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
     "title": "O homem que sintetizou 200 novas drogas – e provou todas elas",
     "summary": "O MDMA, uma substância conhecida por seus efeitos psicoativos, foi sintetizado pela primeira vez em 1912 pela farmacêutica Merck. Na época, a empresa buscava desenvolver uma substância que pudesse estimular a coagulação e estancar hemorragias, visando competir com sua rival, a Bayer. A 3,4-metilenodioximetanfetamina surgiu como uma molécula intermediária na síntese do coagulante, mas não era de interesse comercial e acabou patenteada e engavetada.",
     "timestamp": "2025-04-14T19:18:00",
     "link": "categorias/curiosidades/o-homem-que-sintetizou-200-novas-drogas-e-provou-todas-elas.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "Arqueólogos escavam cidade de 2,5 mil anos na Macedônia",
-    "summary": "Uma equipe de arqueólogos está realizando escavações em um sítio arqueológico na Macedônia, onde foi descoberta uma cidade antiga com cerca de 2,5 mil anos. O local, conhecido como Gradishte, estava sendo estudado há algum tempo, mas até recentemente se acreditava que se tratava de um posto militar utilizado pelos romanos em trânsito.",
-    "timestamp": "2025-04-14T18:11:00",
-    "link": "categorias/curiosidades/arque-logos-escavam-cidade-de-2-5-mil-anos-na-maced-nia.html",
     "image": "images/placeholder.jpg"
   }
 ]
