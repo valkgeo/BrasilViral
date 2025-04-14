@@ -1,44 +1,34 @@
-{
-  "esportes": {
-    "title": "Neto detona dupla titular em derrota do Corinthians para o Palmeiras",
-    "summary": "<p>O comentarista Neto não poupou críticas à dupla titular do Corinthians na derrota para o Palmeiras, ocorrida no sábado, pela terceira rodada do Brasileirão. Os dois zagueiros, Cacá e André Ramalho, foram mal avaliados por Neto, que elogiou a vitória do Palmeiras.</p>",
-    "timestamp": "2025-04-13T19:01:32.006783",
-    "link": "categorias/esportes/neto-detona-dupla-titular-em-derrota-do-corinthian-20250413190131.html",
-    "image": "images/esportes/neto-detona-dupla-titular-em-derrota-do-corinthian-20250413190131.jpg"
+[
+  {
+    "title": "BrasilViral",
+    "summary": "Mais de um século se passou desde que o Titanic naufragou no Oceano Atlântico, levando consigo mais de 1.500 vidas entre passageiros e tripulantes. No entanto, novos estudos continuam a surgir para investigar os mistérios por trás da colisão com o fatídico iceberg. Uma das iniciativas mais recentes foi conduzida por especialistas da National Geographic e da Atlantic Productions, que digitalizaram uma versão em tamanho real do navio.",
+    "timestamp": "2025-04-13T20:40:00",
+    "link": "categorias/curiosidades/novas-imagens-3d-do-titanic-ajudam-a-recriar-ultim-20250413204047.html",
+    "image": "../../images/curiosidades/novas-imagens-3d-do-titanic-ajudam-a-recriar-ultim-20250413204047.jpg",
+    "category": "curiosidades"
   },
-  "economia": {
-    "title": "Com ajuda do Corinthians, SBT chega ao sexto patrocinador para a Sul-Americana",
-    "summary": "<p>A aposta do SBT em voltar ao mundo dos esportes com a compra de direitos e transmissões ao vivo está rendendo frutos no aspecto comercial para a emissora de São Paulo. Com a transmissão da Copa Sul-Americana, o SBT comemora a conquista de seu sexto patrocinador, um feito que demonstra a força da competição no mercado.</p>",
-    "timestamp": "2025-04-13T19:09:07.083054",
-    "link": "categorias/economia/com-ajuda-do-corinthians-sbt-chega-ao-sexto-patroc-20250413190907.html",
-    "image": "images/economia/com-ajuda-do-corinthians-sbt-chega-ao-sexto-patroc-20250413190907.jpg"
+  {
+    "title": "BrasilViral",
+    "summary": "O Green Day se manifestou a favor da Palestina durante sua apresentação no Festival Coachella 2025, no último sábado. A banda alterou parte da letra da canção \"Jesus of Suburbia\" para criticar a ocupação do território por tropas de Israel. Essa mudança na letra foi uma forma de expressar sua opinião sobre a situação política atual.",
+    "timestamp": "2025-04-13T20:33:00",
+    "link": "categorias/entretenimento/coachella-2025-green-day-muda-letra-e-defende-pale-20250413203341.html",
+    "image": "../../images/entretenimento/coachella-2025-green-day-muda-letra-e-defende-pale-20250413203341.jpg",
+    "category": "entretenimento"
   },
-  "politica": {
-    "title": "CARNAVAL 2025 EM PERNAMBUCO",
-    "summary": "<p>O carnaval 2025 em Pernambuco foi marcado por uma série de eventos que aconteceram durante a folia. No domingo pós-carnaval, quatro foliões foram baleados em blocos que desfilaram na região. Das quatro vítimas, duas foram feridas em Afogados, na Zona Oeste do Recife, e outras duas em Paulista. Infelizmente, ninguém foi preso nas ocorrências.</p>",
-    "timestamp": "2025-04-13T19:16:31.587918",
-    "link": "categorias/politica/carnaval-2025-em-pernambuco-20250413191631.html",
-    "image": "images/politica/carnaval-2025-em-pernambuco-20250413191631.jpg"
+  {
+    "title": "BrasilViral",
+    "summary": "A TCL 65P755 é uma TV LED 4K de 65 polegadas que oferece uma experiência de visualização de alta qualidade. Com tecnologia HDR10+ e 95% da gama de cores DCI-P3, essa TV proporciona imagens vibrantes e realistas, tornando-a uma excelente opção para quem busca uma experiência de entretenimento imersiva.",
+    "timestamp": "2025-04-13T20:26:00",
+    "link": "categorias/tecnologia/tcl-65p755-saiba-mais-sobre-resolucao-4k-e-120-hz-20250413202641.html",
+    "image": "../../images/tecnologia/tcl-65p755-saiba-mais-sobre-resolucao-4k-e-120-hz-20250413202641.jpg",
+    "category": "tecnologia"
   },
-  "tecnologia": {
-    "title": "Samsung convoca operadoras e promove celular 5G a preço realmente acessível",
-    "summary": "<p>A Samsung está promovendo o seu mais novo smartphone, o Galaxy A06 5G, a um preço considerado acessível para o mercado brasileiro. O aparelho pode ser adquirido por no máximo R$ 899 nos planos controle e pós-pago, o que representa uma grande oportunidade para os consumidores que desejam ter acesso à tecnologia 5G sem gastar muito.</p>",
-    "timestamp": "2025-04-13T19:23:59.254666",
-    "link": "categorias/tecnologia/samsung-convoca-operadoras-e-promove-celular-5g-a--20250413192359.html",
-    "image": "images/tecnologia/samsung-convoca-operadoras-e-promove-celular-5g-a--20250413192359.jpg"
-  },
-  "entretenimento": {
-    "title": "Desconhecidos embaralha narrativa estúpida para nos convencer de que é esperto",
-    "summary": "<p>O filme Desconhecidos apresenta uma narrativa que busca se destacar como uma obra cinematográfica inovadora e esteticamente sofisticada. Desde o início, o filme anuncia que foi filmado inteiramente em 35mm, o que pode ser visto como uma escolha que prioriza a estética e a experimentação cinematográfica em detrimento da história em si. Essa abordagem pode ser defendida por alguns como uma forma válida de contar uma história, mas também pode ser vista como uma pose vazia para conquistar um público alternativo.</p>",
-    "timestamp": "2025-04-13T19:31:51.007720",
-    "link": "categorias/entretenimento/desconhecidos-embaralha-narrativa-estupida-para-no-20250413193150.html",
-    "image": "images/entretenimento/desconhecidos-embaralha-narrativa-estupida-para-no-20250413193150.jpg"
-  },
-  "curiosidades": {
-    "title": "Podcast Dossiê #1: A epidemia da ansiedade",
-    "summary": "<p>O Brasil é considerado o país mais ansioso do mundo, com 9% da população afetada por transtorno de ansiedade generalizada. Esse número é três vezes maior do que a média mundial. Além disso, os brasileiros consumiram mais de 25 milhões de caixas de Rivotril por ano, um aumento significativo em relação aos números de dez anos atrás.</p>",
-    "timestamp": "2025-04-13T19:39:18.881378",
-    "link": "categorias/curiosidades/podcast-dossie-1-a-epidemia-da-ansiedade-20250413193918.html",
-    "image": "images/curiosidades/podcast-dossie-1-a-epidemia-da-ansiedade-20250413193918.jpg"
+  {
+    "title": "BrasilViral",
+    "summary": "O ex-presidente Jair Bolsonaro está passando por uma cirurgia no Hospital DF Star, em Brasília, após apresentar um quadro de obstrução intestinal. De acordo com o boletim médico divulgado pelo hospital, a cirurgia começou por volta das 8h30 e tem como objetivo liberar aderências intestinais e reconstruir a parede abdominal.",
+    "timestamp": "2025-04-13T20:19:00",
+    "link": "categorias/politica/bolsonaro-e-submetido-a-cirurgia-para-reconstrucao-20250413201913.html",
+    "image": "../../images/politica/bolsonaro-e-submetido-a-cirurgia-para-reconstrucao-20250413201913.jpg",
+    "category": "politica"
   }
-}
+]

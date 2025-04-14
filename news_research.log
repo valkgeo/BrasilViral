@@ -1007,3 +1007,65 @@ detail: You need to set up billing to run this model. Go to https://replicate.co
 2025-04-13 19:56:52,091 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
 2025-04-13 19:56:55,361 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
 2025-04-13 19:56:56,733 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-13 19:57:03,550 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-13 19:57:14,640 - NewsResearchAgent - INFO - Cache de notícias salvo com 813 entradas
+2025-04-13 19:57:14,646 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 72 entradas
+2025-04-13 19:57:14,646 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria esportes
+2025-04-13 20:03:36,214 - NewsResearchAgent - INFO - Cache de notícias salvo com 813 entradas
+2025-04-13 20:03:36,214 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 73 entradas
+2025-04-13 20:03:36,214 - NewsResearchAgent - INFO - Notícia publicada: Napoli vs Empoli: Palpite, Onde Assistir, Horário e Escalações - 14/03 em .\categorias\esportes\napoli-vs-empoli-palpite-onde-assistir-horario-e-e-20250413200336.html
+2025-04-13 20:03:40,869 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 20:03:40,885 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-13 20:04:30,141 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-13 20:04:33,506 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-13 20:04:36,078 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-13 20:04:36,666 - NewsResearchAgent - INFO - Cache de notícias salvo com 816 entradas
+2025-04-13 20:04:36,669 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 73 entradas
+2025-04-13 20:04:36,671 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria economia
+2025-04-13 20:11:54,806 - NewsResearchAgent - INFO - Cache de notícias salvo com 816 entradas
+2025-04-13 20:11:54,808 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 74 entradas
+2025-04-13 20:11:54,808 - NewsResearchAgent - INFO - Notícia publicada: Cotações B3: BDRs em .\categorias\economia\cotacoes-b3-bdrs-20250413201154.html
+2025-04-13 20:11:58,932 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 20:11:58,935 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-13 20:12:03,555 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-13 20:12:08,241 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-13 20:12:11,346 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-13 20:12:17,780 - NewsResearchAgent - INFO - Cache de notícias salvo com 826 entradas
+2025-04-13 20:12:17,783 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 74 entradas
+2025-04-13 20:12:17,786 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria politica
+2025-04-13 20:19:13,764 - NewsResearchAgent - INFO - Cache de notícias salvo com 826 entradas
+2025-04-13 20:19:13,767 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 75 entradas
+2025-04-13 20:19:13,769 - NewsResearchAgent - INFO - Notícia publicada: Bolsonaro é submetido a cirurgia para reconstrução da parede abdominal em .\categorias\politica\bolsonaro-e-submetido-a-cirurgia-para-reconstrucao-20250413201913.html
+2025-04-13 20:19:18,276 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 20:19:18,279 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-13 20:19:21,725 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-13 20:19:23,393 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-13 20:19:28,207 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-13 20:19:30,208 - NewsResearchAgent - INFO - Cache de notícias salvo com 830 entradas
+2025-04-13 20:19:30,211 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 75 entradas
+2025-04-13 20:19:30,215 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria tecnologia
+2025-04-13 20:26:41,923 - NewsResearchAgent - INFO - Cache de notícias salvo com 830 entradas
+2025-04-13 20:26:41,926 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 76 entradas
+2025-04-13 20:26:41,926 - NewsResearchAgent - INFO - Notícia publicada: TCL 65P755: saiba mais sobre resolução 4K e 120 Hz em .\categorias\tecnologia\tcl-65p755-saiba-mais-sobre-resolucao-4k-e-120-hz-20250413202641.html
+2025-04-13 20:26:45,515 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 20:26:45,515 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-13 20:26:50,143 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-13 20:26:51,288 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-13 20:26:55,407 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-13 20:26:58,515 - NewsResearchAgent - INFO - Cache de notícias salvo com 835 entradas
+2025-04-13 20:26:58,518 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 76 entradas
+2025-04-13 20:26:58,521 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria entretenimento
+2025-04-13 20:33:41,617 - NewsResearchAgent - INFO - Cache de notícias salvo com 835 entradas
+2025-04-13 20:33:41,620 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 77 entradas
+2025-04-13 20:33:41,620 - NewsResearchAgent - INFO - Notícia publicada: Coachella 2025 | Green Day muda letra e defende Palestina em show em .\categorias\entretenimento\coachella-2025-green-day-muda-letra-e-defende-pale-20250413203341.html
+2025-04-13 20:33:46,150 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-13 20:33:46,152 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-13 20:33:50,847 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-13 20:33:53,369 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-13 20:33:57,634 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-13 20:33:58,257 - NewsResearchAgent - INFO - Cache de notícias salvo com 844 entradas
+2025-04-13 20:33:58,267 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 77 entradas
+2025-04-13 20:33:58,269 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria curiosidades
+2025-04-13 20:40:47,864 - NewsResearchAgent - INFO - Cache de notícias salvo com 844 entradas
+2025-04-13 20:40:47,866 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 78 entradas
+2025-04-13 20:40:47,867 - NewsResearchAgent - INFO - Notícia publicada: Novas imagens 3D do Titanic ajudam a recriar últimos momentos até naufrágio em .\categorias\curiosidades\novas-imagens-3d-do-titanic-ajudam-a-recriar-ultim-20250413204047.html

@@ -338,7 +338,7 @@
             <div class="category-articles" id="techArticles">
                 <article class="article-card">
                     <div class="article-image">
-                        <img src="images/tecnologia/tecnologia_ícone_20250412183401.png" alt="Tecnologia">
+                        <img src="images/placeholder.jpg" alt="Tecnologia">
                     </div>
                     <div class="article-content">
                         <h3>Trump quer iPhone feito nos EUA, mas aparelho custaria o dobro</h3>
@@ -348,7 +348,7 @@
                 </article>
                 <article class="article-card">
                     <div class="article-image">
-                        <img src="images/tecnologia/tecnologia_ícone_20250412183401.png" alt="Tecnologia">
+                        <img src="images/placeholder.jpg" alt="Tecnologia">
                     </div>
                     <div class="article-content">
                         <h3>Instabilidade no WhatsApp: o que aconteceu e como resolver</h3>
@@ -358,7 +358,17 @@
                 </article>
                 <article class="article-card">
                     <div class="article-image">
-                        <img src="images/tecnologia/tecnologia_ícone_20250412183401.png" alt="Tecnologia">
+                        <img src="images/placeholder.jpg" alt="Tecnologia">
+                    </div>
+                    <div class="article-content">
+                        <h3>Titulo da Nótica</h3>
+                        <p>Resumo da notícia sobre Tecnologia...</p>
+                        <span class="post-date"><i class="far fa-clock"></i> Há 4 horas</span>
+                    </div>
+                </article>
+                <article class="article-card">
+                    <div class="article-image">
+                        <img src="images/placeholder.jpg" alt="Tecnologia">
                     </div>
                     <div class="article-content">
                         <h3>7 tecnologias para conhecer em 2025</h3>
@@ -368,7 +378,52 @@
                 </article>
             </div>
         </section>
+    
+        <div style="flex-basis: 100%; height: 0;"></div>
 
+        <section class="category-section" id="curiosityFeatured">
+            <div class="section-header">
+                <h2><i class="fas fa-puzzle-piece"></i> Curiosidade</h2>
+                <a href="categorias/politica/index.html" class="view-all">Ver tudo <i class="fas fa-angle-right"></i></a>
+            </div>
+            <div class="category-articles" id="curiosityArticles">
+                <article class="article-card">
+                    <div class="article-image">
+                        <img src="images/placeholder.jpg" alt="Curiosidade">
+                    </div>
+                    <div class="article-content">
+                        <h3>Quem é Peter Navarro, conselheiro econômico de Trump e responsável pelo 'tarifaço'</h3>
+                        <p>Conheça o homem por trás das políticas comerciais que estão agitando o mercado global.</p>
+                        <span class="post-date"><i class="far fa-clock"></i> Há 3 horas</span>
+                    </div>
+                </article>
+                <article class="article-card">
+                    <div class="article-image">
+                        <img src="images/placeholder.jpg" alt="Curiosidade">
+                    </div>
+                    <div class="article-content">
+                        <h3>Por que a China se mantém firme em disputa de tarifas com os EUA</h3>
+                        <p>Analistas explicam estratégia chinesa diante das novas medidas protecionistas americanas.</p>
+                        <span class="post-date"><i class="far fa-clock"></i> Há 5 horas</span>
+                    </div>
+                </article>
+                <article class="article-card">
+                    <div class="article-image">
+                        <img src="images/placeholder.jpg" alt="Curiosidade">
+                    </div>
+                    <div class="article-content">
+                        <h3>Torcedores organizados da Argentina voltam ao centro do debate político com Milei</h3>
+                        <p>Grupos de torcidas ganham protagonismo em manifestações políticas no país vizinho.</p>
+                        <span class="post-date"><i class="far fa-clock"></i> Há 7 horas</span>
+                    </div>
+                </article>
+            </div>
+        </section>
+
+        
+        <div style="flex-basis: 100%; height: 0;"></div>
+
+        
         <section class="category-section" id="entertainmentFeatured">
             <div class="section-header">
                 <h2><i class="fas fa-film"></i> Entretenimento</h2>
@@ -457,82 +512,88 @@
         </div>
     </footer>
 
-    <script src="js/main.js"></script>
-    <script src="js/adsense.js"></script>
-    <script>
-        document.addEventListener("DOMContentLoaded", () => {
-            // Atualizar destaque principal e cards secundários
-            Promise.all([
-                fetch('images/latest_images.json').then(res => res.json()),
-                fetch('categorias/latest_news.json').then(res => res.json())
-            ]).then(([images, news]) => {
-                document.getElementById("breakingNews").innerHTML = Object.values(news).map(n => n.title).join(' • ');
+<script src="js/main.js"></script>
+<script src="js/adsense.js"></script>
+    
+<script>
+let noticiaPrincipal = null;
+    
+document.addEventListener("DOMContentLoaded", () => {
+    fetch("categorias/latest_news.json")
+        .then(res => res.json())
+        .then(data => {
+            console.log("latest_news.json carregado com sucesso:", data);
 
-                const mainCategory = Object.keys(news)[0];
-                const mainNews = news[mainCategory];
+            const todasNoticias = data.slice(); // já é um array
 
-                document.getElementById("mainArticleImg").src = images[mainCategory]?.image_path || 'images/placeholder.jpg';
-                document.getElementById("mainArticleImg").alt = mainCategory;
-                document.getElementById("mainArticleCategory").textContent = mainCategory.charAt(0).toUpperCase() + mainCategory.slice(1);
-                document.getElementById("mainArticleTitle").textContent = mainNews.title;
-                document.getElementById("mainArticleDesc").textContent = mainNews.summary || '';
-                document.getElementById("mainArticleDate").innerHTML = `<i class="far fa-clock"></i> ${new Date(mainNews.timestamp).toLocaleString()}`;
-                document.getElementById("mainArticle").setAttribute('data-link', mainNews.link);
+            // Escolhe uma notícia aleatória
+            noticiaPrincipal = todasNoticias[Math.floor(Math.random() * todasNoticias.length)];
 
-                let secondaryHTML = '';
-                Object.entries(news).slice(1).forEach(([cat, artigo]) => {
-                    secondaryHTML += `
-                    <article class="featured-card" data-link="${artigo.link}">
-                        <div class="featured-image">
-                            <img src="${images[cat]?.image_path || 'images/placeholder.jpg'}" alt="${cat}">
-                            <span class="category-tag ${cat}">${cat.charAt(0).toUpperCase() + cat.slice(1)}</span>
-                        </div>
-                        <div class="featured-content">
-                            <h3>${artigo.title}</h3>
-                            <span class="post-date"><i class="far fa-clock"></i> ${new Date(artigo.timestamp).toLocaleString()}</span>
-                        </div>
-                    </article>`;
+            if (noticiaPrincipal) {
+                document.getElementById("breakingNews").innerText = noticiaPrincipal.title;
+                document.getElementById("mainArticleTitle").innerText = noticiaPrincipal.title;
+                document.getElementById("mainArticleDesc").innerText = (noticiaPrincipal.summary || "").slice(0, 90) + "...";
+                document.getElementById("mainArticleDate").innerHTML = `<i class="far fa-clock"></i> ${new Date(noticiaPrincipal.timestamp).toLocaleString()}`;
+                document.getElementById("mainArticleCategory").innerText = noticiaPrincipal.category;
+                document.getElementById("mainArticleCategory").className = `category-tag ${noticiaPrincipal.category.toLowerCase()}`;
+                document.getElementById("mainArticleImg").src = noticiaPrincipal.image || "images/placeholder.jpg";
+                document.getElementById("mainArticleImg").alt = noticiaPrincipal.category;
+
+                document.getElementById("mainArticle").addEventListener("click", () => {
+                    window.location.href = noticiaPrincipal.link || noticiaPrincipal.source_url || "#";
                 });
-                document.getElementById("secondaryArticles").innerHTML = secondaryHTML;
-
-                document.querySelectorAll(".featured-card").forEach(card => {
-                    card.addEventListener("click", () => window.location.href = card.getAttribute("data-link"));
-                });
-            }).catch(err => console.error("Erro ao carregar notícias principais:", err));
-
-        
-            // Função utilitária para atualizar seção por categoria
-            function atualizarCategoria(categoria, seletorID) {
-                fetch(`categorias/${categoria}.json`)
-                    .then(res => res.json())
-                    .then(data => {
-                        const cards = document.querySelectorAll(`#${seletorID} .article-card`);
-                        data.slice(0, 4).forEach((noticia, index) => {
-                            const card = cards[index];
-                            if (!card) return; // ignora se houver menos de 4
-                            card.querySelector("img").src = noticia.image || 'images/placeholder.jpg';
-                            card.querySelector("img").alt = categoria;
-                            card.querySelector("h3").textContent = noticia.title;
-                            card.querySelector("p").textContent = noticia.summary;
-                            card.querySelector(".post-date").innerHTML =
-                                '<i class="far fa-clock"></i> ' + new Date(noticia.timestamp).toLocaleString();
-                            card.setAttribute("data-link", noticia.link);
-                            card.style.cursor = "pointer";
-                            card.onclick = () => window.location.href = noticia.link;
-                        });
-                    })
-                    .catch(err => console.error(`Erro ao carregar ${categoria}.json:`, err));
             }
-        
-            // Atualizar todas as categorias
-            atualizarCategoria("esportes", "sportsArticles");
-            atualizarCategoria("economia", "economyArticles");
-            atualizarCategoria("politica", "politicsArticles");
-            atualizarCategoria("tecnologia", "techArticles");
-            atualizarCategoria("entretenimento", "entertainmentArticles");
-            atualizarCategoria("curiosidades", "curiosityArticles");
+
+            // Preencher os cards secundários
+            const categoriasAlvo = ["economia", "tecnologia", "entretenimento", "politica"];
+            const secondaryContainer = document.getElementById("secondaryArticles");
+            secondaryContainer.innerHTML = "";
+
+            categoriasAlvo.forEach(categoria => {
+                const noticiasCategoria = todasNoticias.filter(n => 
+                    n.category.toLowerCase() === categoria && n.link !== noticiaPrincipal.link
+                );
+
+                if (noticiasCategoria.length === 0) return;
+
+                noticiasCategoria.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
+                const noticia = noticiasCategoria[0];
+
+                const card = document.createElement("article");
+                card.className = "featured-card";
+                card.setAttribute("data-link", noticia.link || noticia.source_url || "#");
+
+                card.innerHTML = `
+                    <div class="featured-image">
+                        <img src="${noticia.image || 'images/placeholder.jpg'}" alt="${categoria}">
+                        <span class="category-tag ${categoria}">${categoria.charAt(0).toUpperCase() + categoria.slice(1)}</span>
+                    </div>
+                    <div class="featured-content">
+                        <h3>${noticia.title}</h3>
+                        <span class="post-date"><i class="far fa-clock"></i> ${new Date(noticia.timestamp).toLocaleString()}</span>
+                        <div class="share-buttons">
+                            <span class="share-text">Compartilhar:</span>
+                            <a href="#" class="share-facebook"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#" class="share-twitter"><i class="fab fa-twitter"></i></a>
+                            <a href="#" class="share-whatsapp"><i class="fab fa-whatsapp"></i></a>
+                            <a href="#" class="share-telegram"><i class="fab fa-telegram-plane"></i></a>
+                        </div>
+                    </div>
+                `;
+
+                card.addEventListener("click", () => {
+                    window.location.href = noticia.link || noticia.source_url || "#";
+                });
+
+                secondaryContainer.appendChild(card);
             });
-    </script>
+        })
+        .catch(err => console.error("Erro ao carregar latest_news.json:", err));
+});
+</script>
+    
+    
+    
 
 </body>
 </html>
