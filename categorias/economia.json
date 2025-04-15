@@ -1,5 +1,19 @@
 [
   {
+    "title": "S&P 500 vai subir este ano? Caos tarifário embaralha projeções: “Erramos feio”",
+    "summary": "Os principais estrategistas de Wall Street estão enfrentando um desafio inesperado este ano, após cometerem erros significativos em suas previsões sobre o impacto das políticas comerciais agressivas do presidente Donald Trump no mercado de ações. Apesar da volatilidade e incertezas, a maioria dos especialistas ainda acredita que o índice S&P 500 irá subir até o fim de 2025.",
+    "timestamp": "2025-04-14T23:32:00",
+    "link": "categorias/economia/s-p-500-vai-subir-este-ano-caos-tarif-rio-embaralha-proje-es-erramos-feio.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "title": "{{TITULO}}",
+    "summary": "",
+    "timestamp": "2025-04-14T23:11:26.173214",
+    "link": "categorias/economia/titulo.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "Mini-índice (WINJ25): confira os pontos de suporte e resistência nesta segunda (14)",
     "summary": "O mercado de ações brasileiro encerrou a sexta-feira com uma alta de 1,05%, atingindo 127.682,4 pontos, e acumulando um ganho semanal de 0,34%. Esse movimento positivo foi impulsionado por declarações otimistas do presidente dos Estados Unidos, Donald Trump, sobre um possível acordo comercial com a China. Além disso, a presidente do Federal Reserve de Boston, Susan Collins, indicou que o banco central norte-americano está preparado para adotar uma postura mais acomodatícia caso a volatilidade nos mercados persista, o que contribuiu para o alívio nos mercados globais.",
     "timestamp": "2025-04-14T22:32:00",
@@ -7,24 +21,10 @@
     "image": "images/placeholder.jpg"
   },
   {
-    "title": "{{TITULO}}",
-    "summary": "",
-    "timestamp": "2025-04-14T22:11:43.174925",
-    "link": "categorias/economia/titulo.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
     "title": "Ibaneis diz ter pedido para BRB a compra parcial do Banco Master",
     "summary": "O governador do Distrito Federal, Ibaneis Rocha, revelou que solicitou ao Banco Regional de Brasília (BRB) que excluísse algumas partes do Banco Master da negociação de compra para evitar possíveis riscos. De acordo com Ibaneis, essa medida foi tomada para evitar a \"contaminação\" do BRB, que tem apresentado crescimento desde 2019. O governador destacou que, atualmente, não vê riscos significativos na operação.",
     "timestamp": "2025-04-14T20:35:00",
     "link": "categorias/economia/ibaneis-diz-ter-pedido-para-brb-a-compra-parcial-do-banco-master.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "58% dos brasileiros compram menos alimentos por causa da inflação, aponta Datafolha",
-    "summary": "A inflação tem sido um fator determinante para mudanças significativas no cotidiano dos brasileiros, afetando diretamente a popularidade do governo Luiz Inácio Lula da Silva. De acordo com uma pesquisa realizada pelo Datafolha, divulgada recentemente, 58% dos brasileiros reduziram a quantidade de alimentos comprados nos últimos meses devido à alta de preços.",
-    "timestamp": "2025-04-14T18:38:00",
-    "link": "categorias/economia/58-dos-brasileiros-compram-menos-alimentos-por-causa-da-infla-o-aponta-datafolha.html",
     "image": "images/placeholder.jpg"
   }
 ]

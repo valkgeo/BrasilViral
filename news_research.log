@@ -1390,3 +1390,83 @@ detail: You need to set up billing to run this model. Go to https://replicate.co
 2025-04-14 23:10:57,078 - NewsResearchAgent - INFO - Cache de notícias salvo com 1028 entradas
 2025-04-14 23:10:57,080 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 102 entradas
 2025-04-14 23:10:57,080 - NewsResearchAgent - INFO - Notícia publicada: Podcast Dossiê #8: Hambúrguer sem carne em ./categorias/curiosidades/podcast-dossie-8-hamburguer-sem-carne-20250414231057.html
+2025-04-14 23:13:04,685 - NewsResearchAgent - INFO - Cache de notícias carregado com 1028 entradas
+2025-04-14 23:13:04,687 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 102 entradas
+2025-04-14 23:13:17,912 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 23:13:17,912 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-14 23:13:22,721 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-14 23:13:23,371 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-14 23:13:24,722 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-14 23:13:28,988 - NewsResearchAgent - INFO - Cache de notícias salvo com 1034 entradas
+2025-04-14 23:13:28,990 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 102 entradas
+2025-04-14 23:13:28,993 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria esportes
+2025-04-14 23:22:58,022 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/tabela-mundial-sub20-ge-mundial-sub20-ge-20250414232258.jpg
+2025-04-14 23:22:58,022 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: tabela | mundial sub-20 | ge | mundial sub-20 | ge
+2025-04-14 23:22:58,049 - NewsResearchAgent - INFO - Cache de notícias salvo com 1034 entradas
+2025-04-14 23:22:58,051 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 103 entradas
+2025-04-14 23:22:58,051 - NewsResearchAgent - INFO - Notícia publicada: tabela | mundial sub-20 | ge | mundial sub-20 | ge em ./categorias/esportes/tabela-mundial-sub20-ge-mundial-sub20-ge-20250414232258.html
+2025-04-14 23:22:58,503 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 23:22:58,503 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-14 23:23:02,335 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-14 23:23:07,947 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-14 23:23:08,454 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-14 23:23:08,538 - NewsResearchAgent - INFO - Cache de notícias salvo com 1042 entradas
+2025-04-14 23:23:08,540 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 103 entradas
+2025-04-14 23:23:08,543 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria economia
+2025-04-14 23:32:40,529 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/sp-500-vai-subir-este-ano-caos-tarifario-embaralha-20250414233240.jpg
+2025-04-14 23:32:40,529 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: S&P 500 vai subir este ano? Caos tarifário embaralha projeções: “Erramos feio”
+2025-04-14 23:32:40,556 - NewsResearchAgent - INFO - Cache de notícias salvo com 1042 entradas
+2025-04-14 23:32:40,557 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 104 entradas
+2025-04-14 23:32:40,557 - NewsResearchAgent - INFO - Notícia publicada: S&P 500 vai subir este ano? Caos tarifário embaralha projeções: “Erramos feio” em ./categorias/economia/sp-500-vai-subir-este-ano-caos-tarifario-embaralha-20250414233240.html
+2025-04-14 23:32:41,318 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 23:32:41,318 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-14 23:32:45,453 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-14 23:32:48,088 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-14 23:32:49,519 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-14 23:32:52,169 - NewsResearchAgent - INFO - Cache de notícias salvo com 1050 entradas
+2025-04-14 23:32:52,171 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 104 entradas
+2025-04-14 23:32:52,174 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria politica
+2025-04-14 23:42:26,146 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/tales-aliados-acreditam-que-cirurgia-de-bolsonaro--20250414234226.jpg
+2025-04-14 23:42:26,146 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Tales: Aliados acreditam que cirurgia de Bolsonaro vai atrasar condenação
+2025-04-14 23:42:26,173 - NewsResearchAgent - INFO - Cache de notícias salvo com 1050 entradas
+2025-04-14 23:42:26,175 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 105 entradas
+2025-04-14 23:42:26,175 - NewsResearchAgent - INFO - Notícia publicada: Tales: Aliados acreditam que cirurgia de Bolsonaro vai atrasar condenação em ./categorias/politica/tales-aliados-acreditam-que-cirurgia-de-bolsonaro--20250414234226.html
+2025-04-14 23:42:26,751 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 23:42:26,751 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-14 23:42:30,191 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-14 23:42:31,172 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-14 23:42:32,835 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-14 23:42:41,011 - NewsResearchAgent - INFO - Cache de notícias salvo com 1061 entradas
+2025-04-14 23:42:41,013 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 105 entradas
+2025-04-14 23:42:41,018 - NewsResearchAgent - INFO - Encontradas 16 notícias virais na categoria tecnologia
+2025-04-14 23:52:09,164 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/poco-m7-pro-5g-chegara-ao-brasil-em-breve-confirma-20250414235209.jpg
+2025-04-14 23:52:09,165 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Poco M7 Pro 5G chegará ao Brasil em breve, confirma Xiaomi
+2025-04-14 23:52:09,192 - NewsResearchAgent - INFO - Cache de notícias salvo com 1061 entradas
+2025-04-14 23:52:09,193 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 106 entradas
+2025-04-14 23:52:09,193 - NewsResearchAgent - INFO - Notícia publicada: Poco M7 Pro 5G chegará ao Brasil em breve, confirma Xiaomi em ./categorias/tecnologia/poco-m7-pro-5g-chegara-ao-brasil-em-breve-confirma-20250414235209.html
+2025-04-14 23:52:09,619 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-14 23:52:09,620 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-14 23:52:12,433 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-14 23:52:12,825 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-14 23:52:18,093 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-14 23:52:19,770 - NewsResearchAgent - INFO - Cache de notícias salvo com 1067 entradas
+2025-04-14 23:52:19,771 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 106 entradas
+2025-04-14 23:52:19,775 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria entretenimento
+2025-04-15 00:01:49,010 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/lady-gaga-entrega-dark-pop-perfection-no-palco-do--20250415000149.jpg
+2025-04-15 00:01:49,010 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Lady Gaga entrega dark pop perfection no palco do Coachella 2025
+2025-04-15 00:01:49,038 - NewsResearchAgent - INFO - Cache de notícias salvo com 1067 entradas
+2025-04-15 00:01:49,039 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 107 entradas
+2025-04-15 00:01:49,039 - NewsResearchAgent - INFO - Notícia publicada: Lady Gaga entrega dark pop perfection no palco do Coachella 2025 em ./categorias/entretenimento/lady-gaga-entrega-dark-pop-perfection-no-palco-do--20250415000149.html
+2025-04-15 00:01:49,298 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 00:01:49,298 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-15 00:01:50,290 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-15 00:01:51,655 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-15 00:01:53,050 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-15 00:01:53,287 - NewsResearchAgent - INFO - Cache de notícias salvo com 1069 entradas
+2025-04-15 00:01:53,288 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 107 entradas
+2025-04-15 00:01:53,292 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria curiosidades
+2025-04-15 00:11:18,932 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/o-la-nia-acabou-como-o-tempo-vai-mudar-nos-proximo-20250415001118.jpg
+2025-04-15 00:11:18,932 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: O La Niña acabou. Como o tempo vai mudar nos próximos meses?
+2025-04-15 00:11:18,960 - NewsResearchAgent - INFO - Cache de notícias salvo com 1069 entradas
+2025-04-15 00:11:18,961 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 108 entradas
+2025-04-15 00:11:18,961 - NewsResearchAgent - INFO - Notícia publicada: O La Niña acabou. Como o tempo vai mudar nos próximos meses? em ./categorias/curiosidades/o-la-nia-acabou-como-o-tempo-vai-mudar-nos-proximo-20250415001118.html

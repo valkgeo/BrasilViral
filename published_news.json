@@ -814,5 +814,53 @@
     "filepath": "./categorias/curiosidades/podcast-dossie-8-hamburguer-sem-carne-20250414231057.html",
     "url_path": "categorias/curiosidades/podcast-dossie-8-hamburguer-sem-carne-20250414231057.html",
     "publish_timestamp": "2025-04-14T23:10:57.052219"
+  },
+  "a50e3234b4bb812b527be99864ae2505": {
+    "title": "tabela | mundial sub-20 | ge | mundial sub-20 | ge",
+    "category": "esportes",
+    "source_url": "https://ge.globo.com/futebol/mundial-sub-20/",
+    "filepath": "./categorias/esportes/tabela-mundial-sub20-ge-mundial-sub20-ge-20250414232258.html",
+    "url_path": "categorias/esportes/tabela-mundial-sub20-ge-mundial-sub20-ge-20250414232258.html",
+    "publish_timestamp": "2025-04-14T23:22:58.023602"
+  },
+  "088baf790154ac7eee9ea74c936e237f": {
+    "title": "S&P 500 vai subir este ano? Caos tarifário embaralha projeções: “Erramos feio”",
+    "category": "economia",
+    "source_url": "https://www.infomoney.com.br/mercados/sp-500-vai-subir-este-ano-caos-tarifario-embaralha-projecoes-erramos-feio/",
+    "filepath": "./categorias/economia/sp-500-vai-subir-este-ano-caos-tarifario-embaralha-20250414233240.html",
+    "url_path": "categorias/economia/sp-500-vai-subir-este-ano-caos-tarifario-embaralha-20250414233240.html",
+    "publish_timestamp": "2025-04-14T23:32:40.529904"
+  },
+  "b68b4bb2b9f79fdaf5b5a868e1957501": {
+    "title": "Tales: Aliados acreditam que cirurgia de Bolsonaro vai atrasar condenação",
+    "category": "politica",
+    "source_url": "https://noticias.uol.com.br/politica/ultimas-noticias/2025/04/14/tales-aliados-acreditam-que-cirurgia-de-bolsonaro-vai-atrasar-condenacao.htm",
+    "filepath": "./categorias/politica/tales-aliados-acreditam-que-cirurgia-de-bolsonaro--20250414234226.html",
+    "url_path": "categorias/politica/tales-aliados-acreditam-que-cirurgia-de-bolsonaro--20250414234226.html",
+    "publish_timestamp": "2025-04-14T23:42:26.147278"
+  },
+  "9c30fd4a00fe315047c83335383278cb": {
+    "title": "Poco M7 Pro 5G chegará ao Brasil em breve, confirma Xiaomi",
+    "category": "tecnologia",
+    "source_url": "https://www.tecmundo.com.br/produto/403899-poco-m7-pro-5g-chegara-ao-brasil-em-breve-confirma-xiaomi.htm",
+    "filepath": "./categorias/tecnologia/poco-m7-pro-5g-chegara-ao-brasil-em-breve-confirma-20250414235209.html",
+    "url_path": "categorias/tecnologia/poco-m7-pro-5g-chegara-ao-brasil-em-breve-confirma-20250414235209.html",
+    "publish_timestamp": "2025-04-14T23:52:09.165524"
+  },
+  "1b28fc6ea0dd68a8cee1f937231dadec": {
+    "title": "Lady Gaga entrega dark pop perfection no palco do Coachella 2025",
+    "category": "entretenimento",
+    "source_url": "https://www.papelpop.com/2025/04/lady-gaga-entrega-dark-pop-perfection-no-palco-do-coachella-2025/",
+    "filepath": "./categorias/entretenimento/lady-gaga-entrega-dark-pop-perfection-no-palco-do--20250415000149.html",
+    "url_path": "categorias/entretenimento/lady-gaga-entrega-dark-pop-perfection-no-palco-do--20250415000149.html",
+    "publish_timestamp": "2025-04-15T00:01:49.011259"
+  },
+  "c05dc0cfa1db7311275caf025825a17e": {
+    "title": "O La Niña acabou. Como o tempo vai mudar nos próximos meses?",
+    "category": "curiosidades",
+    "source_url": "https://super.abril.com.br/ciencia/o-la-nina-acabou-como-o-tempo-vai-mudar-nos-proximos-meses/",
+    "filepath": "./categorias/curiosidades/o-la-nia-acabou-como-o-tempo-vai-mudar-nos-proximo-20250415001118.html",
+    "url_path": "categorias/curiosidades/o-la-nia-acabou-como-o-tempo-vai-mudar-nos-proximo-20250415001118.html",
+    "publish_timestamp": "2025-04-15T00:11:18.933251"
   }
 }
