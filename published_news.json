@@ -1102,5 +1102,53 @@
     "filepath": "./categorias/curiosidades/podcast-dossie-2-a-era-da-burrice-20250415091756.html",
     "url_path": "categorias/curiosidades/podcast-dossie-2-a-era-da-burrice-20250415091756.html",
     "publish_timestamp": "2025-04-15T09:17:56.113467"
+  },
+  "f9c252ac8155988a202e44268f552d74": {
+    "title": "Profissionais da arbitragem do Brasileirão se reúnem para treinos no Rio",
+    "category": "esportes",
+    "source_url": "https://www.lance.com.br/futebol-nacional/profissionais-da-arbitragem-da-serie-a-se-reunem-para-treinos-no-rio.html",
+    "filepath": "./categorias/esportes/profissionais-da-arbitragem-do-brasileirao-se-reun-20250415112219.html",
+    "url_path": "categorias/esportes/profissionais-da-arbitragem-do-brasileirao-se-reun-20250415112219.html",
+    "publish_timestamp": "2025-04-15T11:22:19.730185"
+  },
+  "ad8deae4473af367360a926c55e69470": {
+    "title": "Quanto recebem os pilotos de avião? Mercado precisará de mão de obra",
+    "category": "economia",
+    "source_url": "https://economia.uol.com.br/colunas/todos-a-bordo/2025/04/14/quanto-ganham-pilotos-de-aviao-e-de-helicoptero-no-brasil-2025.htm",
+    "filepath": "./categorias/economia/quanto-recebem-os-pilotos-de-aviao-mercado-precisa-20250415113159.html",
+    "url_path": "categorias/economia/quanto-recebem-os-pilotos-de-aviao-mercado-precisa-20250415113159.html",
+    "publish_timestamp": "2025-04-15T11:31:59.243606"
+  },
+  "2e14b683d4d3080deb8ec9ed167c6a56": {
+    "title": "Paixão de Cristo em Nova Jerusalém",
+    "category": "politica",
+    "source_url": "https://g1.globo.com/pe/caruaru-regiao/paixao-de-cristo-em-nova-jerusalem/2025/",
+    "filepath": "./categorias/politica/paixao-de-cristo-em-nova-jerusalem-20250415114146.html",
+    "url_path": "categorias/politica/paixao-de-cristo-em-nova-jerusalem-20250415114146.html",
+    "publish_timestamp": "2025-04-15T11:41:46.066329"
+  },
+  "0da30bebfdd60608039e21d2135e3825": {
+    "title": "O que é engenharia social e como evitar cair nesse golpe?",
+    "category": "tecnologia",
+    "source_url": "https://www.tecmundo.com.br/seguranca/403858-o-que-e-engenharia-social-e-como-evitar-cair-nesse-golpe.htm",
+    "filepath": "./categorias/tecnologia/o-que-e-engenharia-social-e-como-evitar-cair-nesse-20250415115128.html",
+    "url_path": "categorias/tecnologia/o-que-e-engenharia-social-e-como-evitar-cair-nesse-20250415115128.html",
+    "publish_timestamp": "2025-04-15T11:51:28.644252"
+  },
+  "2327f1bc6a577a34f867ea76d527e32a": {
+    "title": "Tempo Suspenso é o filme mais divertido e perspicaz sobre a pandemia de 2020",
+    "category": "entretenimento",
+    "source_url": "https://www.omelete.com.br/filmes/criticas/tempo-suspenso-critica-olivier-assayas",
+    "filepath": "./categorias/entretenimento/tempo-suspenso-e-o-filme-mais-divertido-e-perspica-20250415120116.html",
+    "url_path": "categorias/entretenimento/tempo-suspenso-e-o-filme-mais-divertido-e-perspica-20250415120116.html",
+    "publish_timestamp": "2025-04-15T12:01:16.680440"
+  },
+  "91264096510f61e6a330b42e9b2caf56": {
+    "title": "Existem multas para navios e aviões?",
+    "category": "curiosidades",
+    "source_url": "https://super.abril.com.br/coluna/oraculo/existem-multas-para-navios-e-avioes/",
+    "filepath": "./categorias/curiosidades/existem-multas-para-navios-e-avioes-20250415121052.html",
+    "url_path": "categorias/curiosidades/existem-multas-para-navios-e-avioes-20250415121052.html",
+    "publish_timestamp": "2025-04-15T12:10:52.588201"
   }
 }

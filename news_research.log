@@ -1874,3 +1874,83 @@ detail: You need to set up billing to run this model. Go to https://replicate.co
 2025-04-15 09:17:56,146 - NewsResearchAgent - INFO - Notícia publicada: Podcast Dossiê #2: A era da burrice em ./categorias/curiosidades/podcast-dossie-2-a-era-da-burrice-20250415091756.html
 2025-04-15 10:15:48,152 - NewsResearchAgent - INFO - Cache de notícias carregado com 1252 entradas
 2025-04-15 10:15:48,154 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 138 entradas
+2025-04-15 11:12:22,462 - NewsResearchAgent - INFO - Cache de notícias carregado com 1252 entradas
+2025-04-15 11:12:22,463 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 138 entradas
+2025-04-15 11:12:35,013 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 11:12:35,014 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-15 11:12:41,499 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-15 11:12:42,499 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-15 11:12:43,578 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-15 11:12:48,406 - NewsResearchAgent - INFO - Cache de notícias salvo com 1258 entradas
+2025-04-15 11:12:48,408 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 138 entradas
+2025-04-15 11:12:48,413 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria esportes
+2025-04-15 11:22:19,729 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/profissionais-da-arbitragem-do-brasileirao-se-reun-20250415112219.jpg
+2025-04-15 11:22:19,729 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Profissionais da arbitragem do Brasileirão se reúnem para treinos no Rio
+2025-04-15 11:22:19,762 - NewsResearchAgent - INFO - Cache de notícias salvo com 1258 entradas
+2025-04-15 11:22:19,763 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 139 entradas
+2025-04-15 11:22:19,763 - NewsResearchAgent - INFO - Notícia publicada: Profissionais da arbitragem do Brasileirão se reúnem para treinos no Rio em ./categorias/esportes/profissionais-da-arbitragem-do-brasileirao-se-reun-20250415112219.html
+2025-04-15 11:22:20,322 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 11:22:20,322 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-15 11:22:24,108 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-15 11:22:28,747 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-15 11:22:31,254 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-15 11:22:31,412 - NewsResearchAgent - INFO - Cache de notícias salvo com 1264 entradas
+2025-04-15 11:22:31,414 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 139 entradas
+2025-04-15 11:22:31,418 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria economia
+2025-04-15 11:31:59,243 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/quanto-recebem-os-pilotos-de-aviao-mercado-precisa-20250415113159.jpg
+2025-04-15 11:31:59,243 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Quanto recebem os pilotos de avião? Mercado precisará de mão de obra
+2025-04-15 11:31:59,275 - NewsResearchAgent - INFO - Cache de notícias salvo com 1264 entradas
+2025-04-15 11:31:59,277 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 140 entradas
+2025-04-15 11:31:59,277 - NewsResearchAgent - INFO - Notícia publicada: Quanto recebem os pilotos de avião? Mercado precisará de mão de obra em ./categorias/economia/quanto-recebem-os-pilotos-de-aviao-mercado-precisa-20250415113159.html
+2025-04-15 11:32:00,256 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 11:32:00,256 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-15 11:32:04,359 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-15 11:32:06,009 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-15 11:32:07,208 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-15 11:32:08,690 - NewsResearchAgent - INFO - Cache de notícias salvo com 1273 entradas
+2025-04-15 11:32:08,692 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 140 entradas
+2025-04-15 11:32:08,697 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria politica
+2025-04-15 11:41:46,065 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/paixao-de-cristo-em-nova-jerusalem-20250415114146.jpg
+2025-04-15 11:41:46,065 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Paixão de Cristo em Nova Jerusalém
+2025-04-15 11:41:46,098 - NewsResearchAgent - INFO - Cache de notícias salvo com 1273 entradas
+2025-04-15 11:41:46,100 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 141 entradas
+2025-04-15 11:41:46,100 - NewsResearchAgent - INFO - Notícia publicada: Paixão de Cristo em Nova Jerusalém em ./categorias/politica/paixao-de-cristo-em-nova-jerusalem-20250415114146.html
+2025-04-15 11:41:46,666 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 11:41:46,666 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-15 11:41:48,984 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-15 11:41:50,632 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-15 11:41:52,159 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-15 11:41:53,159 - NewsResearchAgent - INFO - Cache de notícias salvo com 1280 entradas
+2025-04-15 11:41:53,161 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 141 entradas
+2025-04-15 11:41:53,167 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria tecnologia
+2025-04-15 11:51:28,643 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/o-que-e-engenharia-social-e-como-evitar-cair-nesse-20250415115128.jpg
+2025-04-15 11:51:28,643 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: O que é engenharia social e como evitar cair nesse golpe?
+2025-04-15 11:51:28,680 - NewsResearchAgent - INFO - Cache de notícias salvo com 1280 entradas
+2025-04-15 11:51:28,682 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 142 entradas
+2025-04-15 11:51:28,682 - NewsResearchAgent - INFO - Notícia publicada: O que é engenharia social e como evitar cair nesse golpe? em ./categorias/tecnologia/o-que-e-engenharia-social-e-como-evitar-cair-nesse-20250415115128.html
+2025-04-15 11:51:29,305 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 11:51:29,305 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-15 11:51:30,399 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-15 11:51:30,524 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-15 11:51:35,389 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-15 11:51:38,857 - NewsResearchAgent - INFO - Cache de notícias salvo com 1284 entradas
+2025-04-15 11:51:38,859 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 142 entradas
+2025-04-15 11:51:38,863 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria entretenimento
+2025-04-15 12:01:16,679 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/tempo-suspenso-e-o-filme-mais-divertido-e-perspica-20250415120116.jpg
+2025-04-15 12:01:16,680 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Tempo Suspenso é o filme mais divertido e perspicaz sobre a pandemia de 2020
+2025-04-15 12:01:16,713 - NewsResearchAgent - INFO - Cache de notícias salvo com 1284 entradas
+2025-04-15 12:01:16,714 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 143 entradas
+2025-04-15 12:01:16,714 - NewsResearchAgent - INFO - Notícia publicada: Tempo Suspenso é o filme mais divertido e perspicaz sobre a pandemia de 2020 em ./categorias/entretenimento/tempo-suspenso-e-o-filme-mais-divertido-e-perspica-20250415120116.html
+2025-04-15 12:01:17,255 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 12:01:17,256 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-15 12:01:18,406 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-15 12:01:20,144 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-15 12:01:23,340 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-15 12:01:23,649 - NewsResearchAgent - INFO - Cache de notícias salvo com 1286 entradas
+2025-04-15 12:01:23,651 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 143 entradas
+2025-04-15 12:01:23,655 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria curiosidades
+2025-04-15 12:10:52,587 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/existem-multas-para-navios-e-avioes-20250415121052.jpg
+2025-04-15 12:10:52,587 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Existem multas para navios e aviões?
+2025-04-15 12:10:52,620 - NewsResearchAgent - INFO - Cache de notícias salvo com 1286 entradas
+2025-04-15 12:10:52,622 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 144 entradas
+2025-04-15 12:10:52,622 - NewsResearchAgent - INFO - Notícia publicada: Existem multas para navios e aviões? em ./categorias/curiosidades/existem-multas-para-navios-e-avioes-20250415121052.html
