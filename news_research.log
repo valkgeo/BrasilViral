@@ -1791,3 +1791,84 @@ detail: You need to set up billing to run this model. Go to https://replicate.co
 2025-04-15 07:18:04,426 - NewsResearchAgent - INFO - Cache de notícias salvo com 1210 entradas
 2025-04-15 07:18:04,427 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 132 entradas
 2025-04-15 07:18:04,427 - NewsResearchAgent - INFO - Notícia publicada: Confira imagens vencedoras do Pet Photography Award em ./categorias/curiosidades/confira-imagens-vencedoras-do-pet-photography-awar-20250415071804.html
+2025-04-15 08:19:14,857 - NewsResearchAgent - INFO - Cache de notícias carregado com 1210 entradas
+2025-04-15 08:19:14,859 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 132 entradas
+2025-04-15 08:19:30,041 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 08:19:30,041 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-15 08:19:33,727 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-15 08:19:34,621 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-15 08:19:36,676 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-15 08:19:41,262 - NewsResearchAgent - INFO - Cache de notícias salvo com 1219 entradas
+2025-04-15 08:19:41,264 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 132 entradas
+2025-04-15 08:19:41,269 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria esportes
+2025-04-15 08:29:08,269 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/ferrari-promete-adaptar-carro-a-hamilton-mas-cobra-20250415082908.jpg
+2025-04-15 08:29:08,269 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Ferrari promete ‘adaptar’ carro a Hamilton, mas cobra inglês
+2025-04-15 08:29:08,301 - NewsResearchAgent - INFO - Cache de notícias salvo com 1219 entradas
+2025-04-15 08:29:08,302 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 133 entradas
+2025-04-15 08:29:08,302 - NewsResearchAgent - INFO - Notícia publicada: Ferrari promete ‘adaptar’ carro a Hamilton, mas cobra inglês em ./categorias/esportes/ferrari-promete-adaptar-carro-a-hamilton-mas-cobra-20250415082908.html
+2025-04-15 08:29:08,810 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 08:29:08,810 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-15 08:29:13,167 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-15 08:29:21,605 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-15 08:29:23,784 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-15 08:29:23,920 - NewsResearchAgent - INFO - Cache de notícias salvo com 1224 entradas
+2025-04-15 08:29:23,922 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 133 entradas
+2025-04-15 08:29:23,925 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria economia
+2025-04-15 08:38:56,288 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/as-melhores-na-gestao-de-pessoas-20250415083856.jpg
+2025-04-15 08:38:56,288 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: As melhores na gestão de pessoas
+2025-04-15 08:38:56,319 - NewsResearchAgent - INFO - Cache de notícias salvo com 1224 entradas
+2025-04-15 08:38:56,321 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 134 entradas
+2025-04-15 08:38:56,321 - NewsResearchAgent - INFO - Notícia publicada: As melhores na gestão de pessoas em ./categorias/economia/as-melhores-na-gestao-de-pessoas-20250415083856.html
+2025-04-15 08:38:56,946 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 08:38:56,946 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-15 08:39:01,576 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-15 08:39:13,103 - NewsResearchAgent - ERROR - Erro ao processar link de notícia https://noticias.uol.com.br/blogs-e-colunas/: HTTPSConnectionPool(host='noticias.uol.com.br', port=443): Read timed out. (read timeout=10)
+2025-04-15 08:39:14,041 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-15 08:39:15,182 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-15 08:39:16,039 - NewsResearchAgent - INFO - Cache de notícias salvo com 1233 entradas
+2025-04-15 08:39:16,041 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 134 entradas
+2025-04-15 08:39:16,045 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria politica
+2025-04-15 08:48:50,399 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/videos-bom-dia-sabado-tv-rio-sul-20250415084850.jpg
+2025-04-15 08:48:50,399 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Vídeos Bom Dia Sábado - TV Rio Sul
+2025-04-15 08:48:50,430 - NewsResearchAgent - INFO - Cache de notícias salvo com 1233 entradas
+2025-04-15 08:48:50,432 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 135 entradas
+2025-04-15 08:48:50,432 - NewsResearchAgent - INFO - Notícia publicada: Vídeos Bom Dia Sábado - TV Rio Sul em ./categorias/politica/videos-bom-dia-sabado-tv-rio-sul-20250415084850.html
+2025-04-15 08:48:50,824 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 08:48:50,824 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-15 08:48:54,088 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-15 08:48:56,202 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-15 08:48:57,915 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-15 08:48:58,678 - NewsResearchAgent - INFO - Cache de notícias salvo com 1244 entradas
+2025-04-15 08:48:58,680 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 135 entradas
+2025-04-15 08:48:58,686 - NewsResearchAgent - INFO - Encontradas 16 notícias virais na categoria tecnologia
+2025-04-15 08:58:32,079 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/para-estudo-trabalho-games-e-mais-confira-4-notebo-20250415085832.jpg
+2025-04-15 08:58:32,079 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Para estudo, trabalho, games e mais: confira 4 notebooks com processadores Intel
+2025-04-15 08:58:32,111 - NewsResearchAgent - INFO - Cache de notícias salvo com 1244 entradas
+2025-04-15 08:58:32,113 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 136 entradas
+2025-04-15 08:58:32,113 - NewsResearchAgent - INFO - Notícia publicada: Para estudo, trabalho, games e mais: confira 4 notebooks com processadores Intel em ./categorias/tecnologia/para-estudo-trabalho-games-e-mais-confira-4-notebo-20250415085832.html
+2025-04-15 08:58:32,929 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 08:58:32,929 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-15 08:58:35,253 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-15 08:58:35,581 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-15 08:58:41,187 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-15 08:58:44,343 - NewsResearchAgent - INFO - Cache de notícias salvo com 1249 entradas
+2025-04-15 08:58:44,345 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 136 entradas
+2025-04-15 08:58:44,349 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria entretenimento
+2025-04-15 09:08:14,702 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/proximo-filme-de-takashi-yamakazi-sera-sequencia-d-20250415090814.jpg
+2025-04-15 09:08:14,702 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Próximo filme de Takashi Yamakazi será sequência de Godzilla Minus One
+2025-04-15 09:08:14,734 - NewsResearchAgent - INFO - Cache de notícias salvo com 1249 entradas
+2025-04-15 09:08:14,736 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 137 entradas
+2025-04-15 09:08:14,736 - NewsResearchAgent - INFO - Notícia publicada: Próximo filme de Takashi Yamakazi será sequência de Godzilla Minus One em ./categorias/entretenimento/proximo-filme-de-takashi-yamakazi-sera-sequencia-d-20250415090814.html
+2025-04-15 09:08:15,244 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 09:08:15,244 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-15 09:08:17,912 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-15 09:08:19,574 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-15 09:08:22,017 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-15 09:08:22,308 - NewsResearchAgent - INFO - Cache de notícias salvo com 1252 entradas
+2025-04-15 09:08:22,310 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 137 entradas
+2025-04-15 09:08:22,315 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria curiosidades
+2025-04-15 09:17:56,112 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/podcast-dossie-2-a-era-da-burrice-20250415091756.jpg
+2025-04-15 09:17:56,113 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Podcast Dossiê #2: A era da burrice
+2025-04-15 09:17:56,144 - NewsResearchAgent - INFO - Cache de notícias salvo com 1252 entradas
+2025-04-15 09:17:56,146 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 138 entradas
+2025-04-15 09:17:56,146 - NewsResearchAgent - INFO - Notícia publicada: Podcast Dossiê #2: A era da burrice em ./categorias/curiosidades/podcast-dossie-2-a-era-da-burrice-20250415091756.html
