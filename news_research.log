@@ -2034,3 +2034,83 @@ detail: You need to set up billing to run this model. Go to https://replicate.co
 2025-04-15 13:24:09,757 - NewsResearchAgent - INFO - Cache de notícias salvo com 1327 entradas
 2025-04-15 13:24:09,759 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 150 entradas
 2025-04-15 13:24:09,759 - NewsResearchAgent - INFO - Notícia publicada: Combinação de dois remédios comuns pode salvar vidas após ataques cardíacos em ./categorias/curiosidades/combinacao-de-dois-remedios-comuns-pode-salvar-vid-20250415132409.html
+2025-04-15 14:14:30,638 - NewsResearchAgent - INFO - Cache de notícias carregado com 1327 entradas
+2025-04-15 14:14:30,640 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 150 entradas
+2025-04-15 14:15:13,129 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 14:15:13,129 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-15 14:15:15,430 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-15 14:15:16,301 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-15 14:15:17,419 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-15 14:15:23,033 - NewsResearchAgent - INFO - Cache de notícias salvo com 1335 entradas
+2025-04-15 14:15:23,035 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 150 entradas
+2025-04-15 14:15:23,041 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria esportes
+2025-04-15 14:25:02,293 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/tabela-sulamericano-sub17-ge-sulamericano-sub17-ge-20250415142502.jpg
+2025-04-15 14:25:02,293 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: tabela | sul-americano sub-17 | ge | sul-americano sub-17 | ge
+2025-04-15 14:25:02,331 - NewsResearchAgent - INFO - Cache de notícias salvo com 1335 entradas
+2025-04-15 14:25:02,333 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 151 entradas
+2025-04-15 14:25:02,333 - NewsResearchAgent - INFO - Notícia publicada: tabela | sul-americano sub-17 | ge | sul-americano sub-17 | ge em ./categorias/esportes/tabela-sulamericano-sub17-ge-sulamericano-sub17-ge-20250415142502.html
+2025-04-15 14:25:02,682 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 14:25:02,682 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-15 14:25:07,553 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-15 14:25:12,399 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-15 14:25:13,298 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-15 14:25:13,397 - NewsResearchAgent - INFO - Cache de notícias salvo com 1342 entradas
+2025-04-15 14:25:13,399 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 151 entradas
+2025-04-15 14:25:13,403 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria economia
+2025-04-15 14:34:58,213 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/tst-livra-exempregado-que-pedia-propina-de-indeniz-20250415143458.jpg
+2025-04-15 14:34:58,213 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: TST livra ex-empregado que pedia propina de indenizar empresa
+2025-04-15 14:34:58,248 - NewsResearchAgent - INFO - Cache de notícias salvo com 1342 entradas
+2025-04-15 14:34:58,250 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 152 entradas
+2025-04-15 14:34:58,250 - NewsResearchAgent - INFO - Notícia publicada: TST livra ex-empregado que pedia propina de indenizar empresa em ./categorias/economia/tst-livra-exempregado-que-pedia-propina-de-indeniz-20250415143458.html
+2025-04-15 14:34:58,572 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 14:34:58,573 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-15 14:35:02,273 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-15 14:35:06,400 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-15 14:35:08,030 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-15 14:35:09,249 - NewsResearchAgent - INFO - Cache de notícias salvo com 1353 entradas
+2025-04-15 14:35:09,251 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 152 entradas
+2025-04-15 14:35:09,259 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria politica
+2025-04-15 14:44:49,121 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/oposicao-quer-apurar-se-direitos-humanos-de-presos-20250415144449.jpg
+2025-04-15 14:44:49,121 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Oposição quer apurar se direitos humanos de presos do 8/1 foram violados
+2025-04-15 14:44:49,156 - NewsResearchAgent - INFO - Cache de notícias salvo com 1353 entradas
+2025-04-15 14:44:49,158 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 153 entradas
+2025-04-15 14:44:49,158 - NewsResearchAgent - INFO - Notícia publicada: Oposição quer apurar se direitos humanos de presos do 8/1 foram violados em ./categorias/politica/oposicao-quer-apurar-se-direitos-humanos-de-presos-20250415144449.html
+2025-04-15 14:44:49,555 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 14:44:49,555 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-15 14:44:51,490 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-15 14:44:53,279 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-15 14:44:54,706 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-15 14:44:55,324 - NewsResearchAgent - INFO - Cache de notícias salvo com 1358 entradas
+2025-04-15 14:44:55,326 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 153 entradas
+2025-04-15 14:44:55,331 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria tecnologia
+2025-04-15 14:54:42,454 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/qual-e-a-cronologia-dos-filmes-da-marvel-confira-20250415145442.jpg
+2025-04-15 14:54:42,454 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Qual é a cronologia dos filmes da Marvel? Confira!
+2025-04-15 14:54:42,489 - NewsResearchAgent - INFO - Cache de notícias salvo com 1358 entradas
+2025-04-15 14:54:42,491 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 154 entradas
+2025-04-15 14:54:42,491 - NewsResearchAgent - INFO - Notícia publicada: Qual é a cronologia dos filmes da Marvel? Confira! em ./categorias/tecnologia/qual-e-a-cronologia-dos-filmes-da-marvel-confira-20250415145442.html
+2025-04-15 14:54:42,829 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 14:54:42,830 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-15 14:54:50,180 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-15 14:54:50,353 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-15 14:54:56,847 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-15 14:54:59,062 - NewsResearchAgent - INFO - Cache de notícias salvo com 1362 entradas
+2025-04-15 14:54:59,064 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 154 entradas
+2025-04-15 14:54:59,069 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria entretenimento
+2025-04-15 15:04:37,467 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/album-classico-de-prince-1999-ganhara-reedicao-com-20250415150437.jpg
+2025-04-15 15:04:37,467 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Álbum clássico de Prince, “1999” ganhará reedição com 35 gravações inéditas
+2025-04-15 15:04:37,502 - NewsResearchAgent - INFO - Cache de notícias salvo com 1362 entradas
+2025-04-15 15:04:37,504 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 155 entradas
+2025-04-15 15:04:37,504 - NewsResearchAgent - INFO - Notícia publicada: Álbum clássico de Prince, “1999” ganhará reedição com 35 gravações inéditas em ./categorias/entretenimento/album-classico-de-prince-1999-ganhara-reedicao-com-20250415150437.html
+2025-04-15 15:04:37,956 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 15:04:37,957 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-15 15:04:38,968 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-15 15:04:39,748 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-15 15:04:41,704 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-15 15:04:41,910 - NewsResearchAgent - INFO - Cache de notícias salvo com 1364 entradas
+2025-04-15 15:04:41,912 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 155 entradas
+2025-04-15 15:04:41,918 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria curiosidades
+2025-04-15 15:14:18,476 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/estatuas-funerarias-raras-sao-descobertas-em-pompe-20250415151418.jpg
+2025-04-15 15:14:18,476 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Estátuas funerárias raras são descobertas em Pompeia
+2025-04-15 15:14:18,511 - NewsResearchAgent - INFO - Cache de notícias salvo com 1364 entradas
+2025-04-15 15:14:18,513 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 156 entradas
+2025-04-15 15:14:18,513 - NewsResearchAgent - INFO - Notícia publicada: Estátuas funerárias raras são descobertas em Pompeia em ./categorias/curiosidades/estatuas-funerarias-raras-sao-descobertas-em-pompe-20250415151418.html
