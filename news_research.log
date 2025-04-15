@@ -2194,3 +2194,83 @@ detail: You need to set up billing to run this model. Go to https://replicate.co
 2025-04-15 17:13:29,400 - NewsResearchAgent - INFO - Cache de notícias salvo com 1404 entradas
 2025-04-15 17:13:29,401 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 162 entradas
 2025-04-15 17:13:29,401 - NewsResearchAgent - INFO - Notícia publicada: Dependência à maconha é associada em novo estudo cerebral à psicose em ./categorias/curiosidades/dependencia-a-maconha-e-associada-em-novo-estudo-c-20250415171329.html
+2025-04-15 18:17:08,885 - NewsResearchAgent - INFO - Cache de notícias carregado com 1404 entradas
+2025-04-15 18:17:08,887 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 162 entradas
+2025-04-15 18:17:24,159 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 18:17:24,159 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-15 18:17:31,015 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-15 18:17:32,456 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-15 18:17:33,433 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-15 18:17:36,015 - NewsResearchAgent - INFO - Cache de notícias salvo com 1414 entradas
+2025-04-15 18:17:36,017 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 162 entradas
+2025-04-15 18:17:36,024 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria esportes
+2025-04-15 18:27:15,578 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/comentarista-de-arbitragem-aponta-erro-grave-em-fl-20250415182715.jpg
+2025-04-15 18:27:15,578 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Comentarista de arbitragem aponta erro grave em Fluminense x Santos
+2025-04-15 18:27:15,615 - NewsResearchAgent - INFO - Cache de notícias salvo com 1414 entradas
+2025-04-15 18:27:15,617 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 163 entradas
+2025-04-15 18:27:15,617 - NewsResearchAgent - INFO - Notícia publicada: Comentarista de arbitragem aponta erro grave em Fluminense x Santos em ./categorias/esportes/comentarista-de-arbitragem-aponta-erro-grave-em-fl-20250415182715.html
+2025-04-15 18:27:15,956 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 18:27:15,957 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-15 18:27:19,118 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-15 18:27:23,946 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-15 18:27:24,653 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-15 18:27:24,744 - NewsResearchAgent - INFO - Cache de notícias salvo com 1422 entradas
+2025-04-15 18:27:24,746 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 163 entradas
+2025-04-15 18:27:24,751 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria economia
+2025-04-15 18:36:59,757 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/snff11-vai-pagar-dividendos-de-101-ao-mes-saiba-qu-20250415183659.jpg
+2025-04-15 18:36:59,757 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: SNFF11 vai pagar dividendos de 1,01% ao mês; saiba quem recebe
+2025-04-15 18:36:59,793 - NewsResearchAgent - INFO - Cache de notícias salvo com 1422 entradas
+2025-04-15 18:36:59,795 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 164 entradas
+2025-04-15 18:36:59,795 - NewsResearchAgent - INFO - Notícia publicada: SNFF11 vai pagar dividendos de 1,01% ao mês; saiba quem recebe em ./categorias/economia/snff11-vai-pagar-dividendos-de-101-ao-mes-saiba-qu-20250415183659.html
+2025-04-15 18:37:00,359 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 18:37:00,359 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-15 18:37:03,354 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-15 18:37:06,145 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-15 18:37:07,317 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-15 18:37:08,762 - NewsResearchAgent - INFO - Cache de notícias salvo com 1429 entradas
+2025-04-15 18:37:08,764 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 164 entradas
+2025-04-15 18:37:08,769 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria politica
+2025-04-15 18:46:45,468 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/entenda-por-que-michelle-nao-quis-que-bolsonaro-fo-20250415184645.jpg
+2025-04-15 18:46:45,468 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Entenda por que Michelle não quis que Bolsonaro fosse internado em SP
+2025-04-15 18:46:45,504 - NewsResearchAgent - INFO - Cache de notícias salvo com 1429 entradas
+2025-04-15 18:46:45,506 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 165 entradas
+2025-04-15 18:46:45,507 - NewsResearchAgent - INFO - Notícia publicada: Entenda por que Michelle não quis que Bolsonaro fosse internado em SP em ./categorias/politica/entenda-por-que-michelle-nao-quis-que-bolsonaro-fo-20250415184645.html
+2025-04-15 18:46:45,861 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 18:46:45,861 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-15 18:46:47,740 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-15 18:46:50,537 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-15 18:46:52,104 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-15 18:46:54,149 - NewsResearchAgent - INFO - Cache de notícias salvo com 1434 entradas
+2025-04-15 18:46:54,151 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 165 entradas
+2025-04-15 18:46:54,158 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria tecnologia
+2025-04-15 18:56:29,777 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/fim-do-suporte-ao-samsung-galaxy-s20-saiba-o-que-a-20250415185629.jpg
+2025-04-15 18:56:29,777 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Fim do suporte ao Samsung Galaxy S20; saiba o que acontece agora
+2025-04-15 18:56:29,814 - NewsResearchAgent - INFO - Cache de notícias salvo com 1434 entradas
+2025-04-15 18:56:29,816 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 166 entradas
+2025-04-15 18:56:29,816 - NewsResearchAgent - INFO - Notícia publicada: Fim do suporte ao Samsung Galaxy S20; saiba o que acontece agora em ./categorias/tecnologia/fim-do-suporte-ao-samsung-galaxy-s20-saiba-o-que-a-20250415185629.html
+2025-04-15 18:56:30,118 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 18:56:30,119 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-15 18:56:31,121 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-15 18:56:31,312 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-15 18:56:33,765 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-15 18:56:35,675 - NewsResearchAgent - INFO - Cache de notícias salvo com 1438 entradas
+2025-04-15 18:56:35,677 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 166 entradas
+2025-04-15 18:56:35,684 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria entretenimento
+2025-04-15 19:06:17,335 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/regulamentacao-de-apostas-esportivas-no-brasil-apo-20250415190617.jpg
+2025-04-15 19:06:17,335 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Regulamentação de apostas esportivas no Brasil: Aposte com segurança
+2025-04-15 19:06:17,372 - NewsResearchAgent - INFO - Cache de notícias salvo com 1438 entradas
+2025-04-15 19:06:17,374 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 167 entradas
+2025-04-15 19:06:17,374 - NewsResearchAgent - INFO - Notícia publicada: Regulamentação de apostas esportivas no Brasil: Aposte com segurança em ./categorias/entretenimento/regulamentacao-de-apostas-esportivas-no-brasil-apo-20250415190617.html
+2025-04-15 19:06:17,719 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 19:06:17,719 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-15 19:06:19,368 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-15 19:06:20,000 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-15 19:06:24,365 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-15 19:06:24,650 - NewsResearchAgent - INFO - Cache de notícias salvo com 1440 entradas
+2025-04-15 19:06:24,652 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 167 entradas
+2025-04-15 19:06:24,657 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria curiosidades
+2025-04-15 19:15:59,549 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/a-tecnologia-em-duna-profecia-super-entrevista-20250415191559.jpg
+2025-04-15 19:15:59,550 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: A tecnologia em Duna: Profecia | Super Entrevista
+2025-04-15 19:15:59,586 - NewsResearchAgent - INFO - Cache de notícias salvo com 1440 entradas
+2025-04-15 19:15:59,588 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 168 entradas
+2025-04-15 19:15:59,588 - NewsResearchAgent - INFO - Notícia publicada: A tecnologia em Duna: Profecia | Super Entrevista em ./categorias/curiosidades/a-tecnologia-em-duna-profecia-super-entrevista-20250415191559.html
