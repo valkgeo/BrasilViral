@@ -958,5 +958,53 @@
     "filepath": "./categorias/curiosidades/mochila-tech-ajuda-pessoas-com-deficiencia-visual--20250415040037.html",
     "url_path": "categorias/curiosidades/mochila-tech-ajuda-pessoas-com-deficiencia-visual--20250415040037.html",
     "publish_timestamp": "2025-04-15T04:00:37.440823"
+  },
+  "792cf362b0d357d35bc7117fe2345131": {
+    "title": "Canal UOL | TV Online | Assista notícias, esportes e mais",
+    "category": "entretenimento",
+    "source_url": "https://www.uol.com.br/play/ao-vivo/canal-uol/",
+    "filepath": "./categorias/entretenimento/canal-uol-tv-online-assista-noticias-esportes-e-ma-20250415042638.html",
+    "url_path": "categorias/entretenimento/canal-uol-tv-online-assista-noticias-esportes-e-ma-20250415042638.html",
+    "publish_timestamp": "2025-04-15T04:26:38.862193"
+  },
+  "bcc80c050f872c0be151ed8680b5321c": {
+    "title": "Azul lança oferta de ações que pode movimentar até R$ 4,1 bilhões",
+    "category": "economia",
+    "source_url": "https://valor.globo.com/financas/noticia/2025/04/14/azul-lana-oferta-de-aes-que-pode-movimentar-at-r-41-bilhes.ghtml",
+    "filepath": "./categorias/economia/azul-lanca-oferta-de-acoes-que-pode-movimentar-ate-20250415043621.html",
+    "url_path": "categorias/economia/azul-lanca-oferta-de-acoes-que-pode-movimentar-ate-20250415043621.html",
+    "publish_timestamp": "2025-04-15T04:36:21.932010"
+  },
+  "a4939c4d0e7c2264299e3167d5fe60b5": {
+    "title": "Olha que legal",
+    "category": "politica",
+    "source_url": "https://g1.globo.com/olha-que-legal/",
+    "filepath": "./categorias/politica/olha-que-legal-20250415044559.html",
+    "url_path": "categorias/politica/olha-que-legal-20250415044559.html",
+    "publish_timestamp": "2025-04-15T04:45:59.736079"
+  },
+  "3f3356da82b6c751c0d7547f4c934e01": {
+    "title": "Os 5 piores filmes de Sylvester Stallone",
+    "category": "tecnologia",
+    "source_url": "https://canaltech.com.br/cinema/piores-filmes-de-sylvester-stallone/",
+    "filepath": "./categorias/tecnologia/os-5-piores-filmes-de-sylvester-stallone-20250415045537.html",
+    "url_path": "categorias/tecnologia/os-5-piores-filmes-de-sylvester-stallone-20250415045537.html",
+    "publish_timestamp": "2025-04-15T04:55:37.475794"
+  },
+  "51542d25bb4fbdb2ee99f599ab4f47b6": {
+    "title": "Os 30 melhores filmes de vampiro para assistir - e onde",
+    "category": "entretenimento",
+    "source_url": "https://www.omelete.com.br/terror/filmes-de-vampiro-melhores-onde-assistir",
+    "filepath": "./categorias/entretenimento/os-30-melhores-filmes-de-vampiro-para-assistir-e-o-20250415050531.html",
+    "url_path": "categorias/entretenimento/os-30-melhores-filmes-de-vampiro-para-assistir-e-o-20250415050531.html",
+    "publish_timestamp": "2025-04-15T05:05:31.045632"
+  },
+  "89f80415aa8acce6ffa6c080377df107": {
+    "title": "Onkalo: caverna finlandesa transformada em túmulo nuclear por 100 mil anos",
+    "category": "curiosidades",
+    "source_url": "https://www.megacurioso.com.br/ciencia/onkalo-caverna-finlandesa-transformada-em-tumulo-nuclear-por-100-mil-anos",
+    "filepath": "./categorias/curiosidades/onkalo-caverna-finlandesa-transformada-em-tumulo-n-20250415051506.html",
+    "url_path": "categorias/curiosidades/onkalo-caverna-finlandesa-transformada-em-tumulo-n-20250415051506.html",
+    "publish_timestamp": "2025-04-15T05:15:06.531750"
   }
 }

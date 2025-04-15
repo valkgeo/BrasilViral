@@ -1,18 +1,18 @@
 [
   {
+    "title": "Exemplo de notícia de esportes",
+    "summary": "Este é um exemplo de notícia esportiva. Aqui você encontrará as últimas informações sobre competições, resultados de jogos, transferências de jogadores e muito mais. O BrasilViral traz cobertura completa dos principais eventos esportivos nacionais e internacionais. esportes.",
+    "timestamp": "2025-04-15T04:15:00.132644",
+    "link": "categorias/esportes/exemplo_esportes.html",
+    "image": "{{IMAGEM_URL}}",
+    "category": "esportes"
+  },
+  {
     "title": "Porrada neles? Romário responde se entrevista com Raphinha influenciou Argentina x Brasil e 'festeja' polêmica",
     "summary": "Romário minimizou a influência da declaração polêmica de Raphinha no resultado do jogo entre Argentina e Brasil, realizado em 25 de março, em Buenos Aires, pelas eliminatórias para a Copa do Mundo. A declaração de Raphinha, que prometeu marcar contra os argentinos e também \"dar porrada neles\", foi concedida em uma entrevista à Romário TV, dias antes da partida.",
     "timestamp": "2025-04-15T03:12:00",
     "link": "categorias/esportes/porrada-neles-romario-responde-se-entrevista-com-r-20250415031204.html",
     "image": "../../images/esportes/porrada-neles-romario-responde-se-entrevista-com-r-20250415031204.jpg",
-    "category": "esportes"
-  },
-  {
-    "title": "Exemplo de notícia de esportes",
-    "summary": "Este é um exemplo de notícia esportiva. Aqui você encontrará as últimas informações sobre competições, resultados de jogos, transferências de jogadores e muito mais. O BrasilViral traz cobertura completa dos principais eventos esportivos nacionais e internacionais. esportes.",
-    "timestamp": "2025-04-15T03:00:37.785923",
-    "link": "categorias/esportes/exemplo_esportes.html",
-    "image": "{{IMAGEM_URL}}",
     "category": "esportes"
   },
   {

@@ -1630,3 +1630,83 @@ detail: You need to set up billing to run this model. Go to https://replicate.co
 2025-04-15 04:00:37,469 - NewsResearchAgent - INFO - Cache de notícias salvo com 1141 entradas
 2025-04-15 04:00:37,471 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 120 entradas
 2025-04-15 04:00:37,471 - NewsResearchAgent - INFO - Notícia publicada: Mochila tech ajuda pessoas com deficiência visual a detectar obstáculos em ./categorias/curiosidades/mochila-tech-ajuda-pessoas-com-deficiencia-visual--20250415040037.html
+2025-04-15 04:16:39,692 - NewsResearchAgent - INFO - Cache de notícias carregado com 1141 entradas
+2025-04-15 04:16:39,693 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 120 entradas
+2025-04-15 04:16:55,609 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 04:16:55,609 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-15 04:17:02,637 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-15 04:17:04,763 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-15 04:17:06,177 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-15 04:17:12,430 - NewsResearchAgent - INFO - Cache de notícias salvo com 1146 entradas
+2025-04-15 04:17:12,432 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 120 entradas
+2025-04-15 04:17:12,436 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria esportes
+2025-04-15 04:26:38,861 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/canal-uol-tv-online-assista-noticias-esportes-e-ma-20250415042638.jpg
+2025-04-15 04:26:38,861 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Canal UOL | TV Online | Assista notícias, esportes e mais
+2025-04-15 04:26:38,890 - NewsResearchAgent - INFO - Cache de notícias salvo com 1146 entradas
+2025-04-15 04:26:38,892 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 121 entradas
+2025-04-15 04:26:38,892 - NewsResearchAgent - INFO - Notícia publicada: Canal UOL | TV Online | Assista notícias, esportes e mais em ./categorias/entretenimento/canal-uol-tv-online-assista-noticias-esportes-e-ma-20250415042638.html
+2025-04-15 04:26:39,611 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 04:26:39,611 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-15 04:26:46,079 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-15 04:26:53,146 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-15 04:26:53,957 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-15 04:26:54,068 - NewsResearchAgent - INFO - Cache de notícias salvo com 1152 entradas
+2025-04-15 04:26:54,069 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 121 entradas
+2025-04-15 04:26:54,073 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria economia
+2025-04-15 04:36:21,931 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/azul-lanca-oferta-de-acoes-que-pode-movimentar-ate-20250415043621.jpg
+2025-04-15 04:36:21,931 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Azul lança oferta de ações que pode movimentar até R$ 4,1 bilhões
+2025-04-15 04:36:21,960 - NewsResearchAgent - INFO - Cache de notícias salvo com 1152 entradas
+2025-04-15 04:36:21,962 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 122 entradas
+2025-04-15 04:36:21,962 - NewsResearchAgent - INFO - Notícia publicada: Azul lança oferta de ações que pode movimentar até R$ 4,1 bilhões em ./categorias/economia/azul-lanca-oferta-de-acoes-que-pode-movimentar-ate-20250415043621.html
+2025-04-15 04:36:22,466 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 04:36:22,466 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-15 04:36:25,942 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-15 04:36:28,522 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-15 04:36:29,843 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-15 04:36:30,826 - NewsResearchAgent - INFO - Cache de notícias salvo com 1159 entradas
+2025-04-15 04:36:30,828 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 122 entradas
+2025-04-15 04:36:30,831 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria politica
+2025-04-15 04:45:59,735 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/olha-que-legal-20250415044559.jpg
+2025-04-15 04:45:59,735 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Olha que legal
+2025-04-15 04:45:59,765 - NewsResearchAgent - INFO - Cache de notícias salvo com 1159 entradas
+2025-04-15 04:45:59,766 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 123 entradas
+2025-04-15 04:45:59,766 - NewsResearchAgent - INFO - Notícia publicada: Olha que legal em ./categorias/politica/olha-que-legal-20250415044559.html
+2025-04-15 04:46:00,328 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 04:46:00,328 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-15 04:46:00,741 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-15 04:46:02,232 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-15 04:46:05,352 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-15 04:46:06,141 - NewsResearchAgent - INFO - Cache de notícias salvo com 1167 entradas
+2025-04-15 04:46:06,143 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 123 entradas
+2025-04-15 04:46:06,147 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria tecnologia
+2025-04-15 04:55:37,475 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/os-5-piores-filmes-de-sylvester-stallone-20250415045537.jpg
+2025-04-15 04:55:37,475 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Os 5 piores filmes de Sylvester Stallone
+2025-04-15 04:55:37,505 - NewsResearchAgent - INFO - Cache de notícias salvo com 1167 entradas
+2025-04-15 04:55:37,506 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 124 entradas
+2025-04-15 04:55:37,506 - NewsResearchAgent - INFO - Notícia publicada: Os 5 piores filmes de Sylvester Stallone em ./categorias/tecnologia/os-5-piores-filmes-de-sylvester-stallone-20250415045537.html
+2025-04-15 04:55:37,981 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 04:55:37,981 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-15 04:55:41,710 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-15 04:55:42,102 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-15 04:55:49,019 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-15 04:55:53,270 - NewsResearchAgent - INFO - Cache de notícias salvo com 1172 entradas
+2025-04-15 04:55:53,272 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 124 entradas
+2025-04-15 04:55:53,276 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria entretenimento
+2025-04-15 05:05:31,045 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/os-30-melhores-filmes-de-vampiro-para-assistir-e-o-20250415050531.jpg
+2025-04-15 05:05:31,045 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Os 30 melhores filmes de vampiro para assistir - e onde
+2025-04-15 05:05:31,075 - NewsResearchAgent - INFO - Cache de notícias salvo com 1172 entradas
+2025-04-15 05:05:31,076 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 125 entradas
+2025-04-15 05:05:31,076 - NewsResearchAgent - INFO - Notícia publicada: Os 30 melhores filmes de vampiro para assistir - e onde em ./categorias/entretenimento/os-30-melhores-filmes-de-vampiro-para-assistir-e-o-20250415050531.html
+2025-04-15 05:05:31,573 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 05:05:31,573 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-15 05:05:34,863 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-15 05:05:35,783 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-15 05:05:36,357 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-15 05:05:36,718 - NewsResearchAgent - INFO - Cache de notícias salvo com 1176 entradas
+2025-04-15 05:05:36,719 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 125 entradas
+2025-04-15 05:05:36,725 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria curiosidades
+2025-04-15 05:15:06,531 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/onkalo-caverna-finlandesa-transformada-em-tumulo-n-20250415051506.jpg
+2025-04-15 05:15:06,531 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Onkalo: caverna finlandesa transformada em túmulo nuclear por 100 mil anos
+2025-04-15 05:15:06,561 - NewsResearchAgent - INFO - Cache de notícias salvo com 1176 entradas
+2025-04-15 05:15:06,562 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 126 entradas
+2025-04-15 05:15:06,562 - NewsResearchAgent - INFO - Notícia publicada: Onkalo: caverna finlandesa transformada em túmulo nuclear por 100 mil anos em ./categorias/curiosidades/onkalo-caverna-finlandesa-transformada-em-tumulo-n-20250415051506.html
