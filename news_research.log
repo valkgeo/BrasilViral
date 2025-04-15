@@ -1710,3 +1710,84 @@ detail: You need to set up billing to run this model. Go to https://replicate.co
 2025-04-15 05:15:06,561 - NewsResearchAgent - INFO - Cache de notícias salvo com 1176 entradas
 2025-04-15 05:15:06,562 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 126 entradas
 2025-04-15 05:15:06,562 - NewsResearchAgent - INFO - Notícia publicada: Onkalo: caverna finlandesa transformada em túmulo nuclear por 100 mil anos em ./categorias/curiosidades/onkalo-caverna-finlandesa-transformada-em-tumulo-n-20250415051506.html
+2025-04-15 06:19:53,422 - NewsResearchAgent - INFO - Cache de notícias carregado com 1176 entradas
+2025-04-15 06:19:53,423 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 126 entradas
+2025-04-15 06:20:07,307 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 06:20:07,307 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-15 06:20:11,901 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-15 06:20:12,586 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-15 06:20:13,052 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-15 06:20:16,548 - NewsResearchAgent - INFO - Cache de notícias salvo com 1183 entradas
+2025-04-15 06:20:16,550 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 126 entradas
+2025-04-15 06:20:16,554 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria esportes
+2025-04-15 06:29:46,485 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/flamengo-da-sorte-colunistas-avaliam-tatica-nao-in-20250415062946.jpg
+2025-04-15 06:29:46,485 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Flamengo dá sorte? Colunistas avaliam tática não intencional de Filipe Luís
+2025-04-15 06:29:46,516 - NewsResearchAgent - INFO - Cache de notícias salvo com 1183 entradas
+2025-04-15 06:29:46,518 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 127 entradas
+2025-04-15 06:29:46,518 - NewsResearchAgent - INFO - Notícia publicada: Flamengo dá sorte? Colunistas avaliam tática não intencional de Filipe Luís em ./categorias/esportes/flamengo-da-sorte-colunistas-avaliam-tatica-nao-in-20250415062946.html
+2025-04-15 06:29:46,884 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 06:29:46,884 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-15 06:29:50,049 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-15 06:29:56,634 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-15 06:29:57,188 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-15 06:29:57,298 - NewsResearchAgent - INFO - Cache de notícias salvo com 1189 entradas
+2025-04-15 06:29:57,300 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 127 entradas
+2025-04-15 06:29:57,303 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria economia
+2025-04-15 06:39:27,038 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/veja-3-dicas-para-nao-sofrer-com-o-seu-planejament-20250415063927.jpg
+2025-04-15 06:39:27,038 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Veja 3 dicas para não sofrer com o seu planejamento financeiro
+2025-04-15 06:39:27,068 - NewsResearchAgent - INFO - Cache de notícias salvo com 1189 entradas
+2025-04-15 06:39:27,070 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 128 entradas
+2025-04-15 06:39:27,070 - NewsResearchAgent - INFO - Notícia publicada: Veja 3 dicas para não sofrer com o seu planejamento financeiro em ./categorias/economia/veja-3-dicas-para-nao-sofrer-com-o-seu-planejament-20250415063927.html
+2025-04-15 06:39:27,450 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 06:39:27,450 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-15 06:39:30,859 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-15 06:39:32,445 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-15 06:39:33,198 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-15 06:39:34,027 - NewsResearchAgent - INFO - Cache de notícias salvo com 1197 entradas
+2025-04-15 06:39:34,028 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 128 entradas
+2025-04-15 06:39:34,033 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria politica
+2025-04-15 06:49:03,433 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/the-town-2023-20250415064903.jpg
+2025-04-15 06:49:03,433 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: The Town 2023
+2025-04-15 06:49:03,463 - NewsResearchAgent - INFO - Cache de notícias salvo com 1197 entradas
+2025-04-15 06:49:03,465 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 129 entradas
+2025-04-15 06:49:03,465 - NewsResearchAgent - INFO - Notícia publicada: The Town 2023 em ./categorias/politica/the-town-2023-20250415064903.html
+2025-04-15 06:49:03,911 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 06:49:03,911 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-15 06:49:20,820 - NewsResearchAgent - ERROR - Erro ao processar link de notícia https://www.tecmundo.com.br/#js-main: HTTPSConnectionPool(host='www.tecmundo.com.br', port=443): Read timed out. (read timeout=10)
+2025-04-15 06:49:22,999 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-15 06:49:23,412 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-15 06:49:28,675 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-15 06:49:29,347 - NewsResearchAgent - INFO - Cache de notícias salvo com 1202 entradas
+2025-04-15 06:49:29,350 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 129 entradas
+2025-04-15 06:49:29,355 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria tecnologia
+2025-04-15 06:58:59,301 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/intel-vende-subsidiaria-apos-10-anos-por-metade-do-20250415065859.jpg
+2025-04-15 06:58:59,301 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Intel vende subsidiária após 10 anos por metade do preço que pagou
+2025-04-15 06:58:59,332 - NewsResearchAgent - INFO - Cache de notícias salvo com 1202 entradas
+2025-04-15 06:58:59,333 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 130 entradas
+2025-04-15 06:58:59,333 - NewsResearchAgent - INFO - Notícia publicada: Intel vende subsidiária após 10 anos por metade do preço que pagou em ./categorias/tecnologia/intel-vende-subsidiaria-apos-10-anos-por-metade-do-20250415065859.html
+2025-04-15 06:58:59,663 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 06:58:59,663 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-15 06:59:00,596 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-15 06:59:00,769 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-15 06:59:02,820 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-15 06:59:05,314 - NewsResearchAgent - INFO - Cache de notícias salvo com 1207 entradas
+2025-04-15 06:59:05,316 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 130 entradas
+2025-04-15 06:59:05,322 - NewsResearchAgent - INFO - Encontradas 15 notícias virais na categoria entretenimento
+2025-04-15 07:08:28,874 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/quem-vence-o-bbb-25-saiba-quando-sera-a-grande-fin-20250415070828.jpg
+2025-04-15 07:08:28,874 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Quem vence o BBB 25? Saiba quando será a grande final
+2025-04-15 07:08:28,905 - NewsResearchAgent - INFO - Cache de notícias salvo com 1207 entradas
+2025-04-15 07:08:28,907 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 131 entradas
+2025-04-15 07:08:28,907 - NewsResearchAgent - INFO - Notícia publicada: Quem vence o BBB 25? Saiba quando será a grande final em ./categorias/entretenimento/quem-vence-o-bbb-25-saiba-quando-sera-a-grande-fin-20250415070828.html
+2025-04-15 07:08:29,339 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 07:08:29,339 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-15 07:08:31,466 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-15 07:08:31,897 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-15 07:08:33,396 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-15 07:08:33,608 - NewsResearchAgent - INFO - Cache de notícias salvo com 1210 entradas
+2025-04-15 07:08:33,610 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 131 entradas
+2025-04-15 07:08:33,615 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria curiosidades
+2025-04-15 07:18:04,394 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/confira-imagens-vencedoras-do-pet-photography-awar-20250415071804.jpg
+2025-04-15 07:18:04,395 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Confira imagens vencedoras do Pet Photography Award
+2025-04-15 07:18:04,426 - NewsResearchAgent - INFO - Cache de notícias salvo com 1210 entradas
+2025-04-15 07:18:04,427 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 132 entradas
+2025-04-15 07:18:04,427 - NewsResearchAgent - INFO - Notícia publicada: Confira imagens vencedoras do Pet Photography Award em ./categorias/curiosidades/confira-imagens-vencedoras-do-pet-photography-awar-20250415071804.html
