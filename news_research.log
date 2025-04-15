@@ -1872,3 +1872,5 @@ detail: You need to set up billing to run this model. Go to https://replicate.co
 2025-04-15 09:17:56,144 - NewsResearchAgent - INFO - Cache de notícias salvo com 1252 entradas
 2025-04-15 09:17:56,146 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 138 entradas
 2025-04-15 09:17:56,146 - NewsResearchAgent - INFO - Notícia publicada: Podcast Dossiê #2: A era da burrice em ./categorias/curiosidades/podcast-dossie-2-a-era-da-burrice-20250415091756.html
+2025-04-15 10:15:48,152 - NewsResearchAgent - INFO - Cache de notícias carregado com 1252 entradas
+2025-04-15 10:15:48,154 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 138 entradas

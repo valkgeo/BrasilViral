@@ -1,18 +1,18 @@
 [
   {
+    "title": "{{TITULO}}",
+    "summary": "",
+    "timestamp": "2025-04-15T10:13:41.494271",
+    "link": "categorias/economia/exemplo_economia.html",
+    "image": "{{IMAGEM_URL}}",
+    "category": "economia"
+  },
+  {
     "title": "As melhores na gestão de pessoas",
     "summary": "As melhores na gestão de pessoas",
     "timestamp": "2025-04-15T08:38:00",
     "link": "categorias/economia/as-melhores-na-gestao-de-pessoas-20250415083856.html",
     "image": "../../images/economia/as-melhores-na-gestao-de-pessoas-20250415083856.jpg",
-    "category": "economia"
-  },
-  {
-    "title": "{{TITULO}}",
-    "summary": "",
-    "timestamp": "2025-04-15T08:17:34.425833",
-    "link": "categorias/economia/exemplo_economia.html",
-    "image": "{{IMAGEM_URL}}",
     "category": "economia"
   },
   {

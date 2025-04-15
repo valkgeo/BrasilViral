@@ -1,18 +1,18 @@
 [
   {
+    "title": "Exemplo de notícia de politica",
+    "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
+    "timestamp": "2025-04-15T10:13:41.498271",
+    "link": "categorias/politica/exemplo_politica.html",
+    "image": "{{IMAGEM_URL}}",
+    "category": "politica"
+  },
+  {
     "title": "Vídeos Bom Dia Sábado - TV Rio Sul",
     "summary": "O fim de semana está chegando e com ele uma série de eventos e notícias interessantes para os moradores da região. No mundo esportivo, a Copa Rio Sul de Futsal continua em andamento, com jogos emocionais programados para hoje. Piraí enfrentará o time de Porto Real, enquanto Rio Claro receberá Resende em casa e Valença jogará com Paulo de Frontin.",
     "timestamp": "2025-04-15T08:48:00",
     "link": "categorias/politica/videos-bom-dia-sabado-tv-rio-sul-20250415084850.html",
     "image": "../../images/politica/videos-bom-dia-sabado-tv-rio-sul-20250415084850.jpg",
-    "category": "politica"
-  },
-  {
-    "title": "Exemplo de notícia de politica",
-    "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
-    "timestamp": "2025-04-15T08:17:34.429834",
-    "link": "categorias/politica/exemplo_politica.html",
-    "image": "{{IMAGEM_URL}}",
     "category": "politica"
   },
   {

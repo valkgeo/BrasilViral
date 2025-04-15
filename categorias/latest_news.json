@@ -1,44 +1,44 @@
 {
   "esportes": {
-    "title": "Ferrari promete ‘adaptar’ carro a Hamilton, mas cobra inglês",
-    "summary": "A Ferrari promete adaptar seu carro às necessidades de Lewis Hamilton, mas o chefe da equipe, Frédéric Vasseur, cobra do piloto inglês uma maior adaptação ao conjunto italiano. No GP do Bahrein, disputado no último domingo, Hamilton executou uma recuperação importante, saindo de nono para quinto lugar, mas ainda deixou claro que precisa conhecer melhor o carro.",
-    "timestamp": "2025-04-15T08:29:00",
-    "link": "categorias/esportes/ferrari-promete-adaptar-carro-a-hamilton-mas-cobra-ingl-s.html",
+    "title": "Exemplo de notícia de esportes",
+    "summary": "Este é um exemplo de notícia esportiva. Aqui você encontrará as últimas informações sobre competições, resultados de jogos, transferências de jogadores e muito mais. O BrasilViral traz cobertura completa dos principais eventos esportivos nacionais e internacionais. esportes.",
+    "timestamp": "2025-04-15T10:13:41.496271",
+    "link": "categorias/esportes/exemplo-de-not-cia-de-esportes.html",
     "image": "images/placeholder.jpg"
   },
   "economia": {
-    "title": "As melhores na gestão de pessoas",
-    "summary": "As melhores na gestão de pessoas",
-    "timestamp": "2025-04-15T08:38:00",
-    "link": "categorias/economia/as-melhores-na-gest-o-de-pessoas.html",
+    "title": "{{TITULO}}",
+    "summary": "",
+    "timestamp": "2025-04-15T10:13:41.494271",
+    "link": "categorias/economia/titulo.html",
     "image": "images/placeholder.jpg"
   },
   "politica": {
-    "title": "Vídeos Bom Dia Sábado - TV Rio Sul",
-    "summary": "O fim de semana está chegando e com ele uma série de eventos e notícias interessantes para os moradores da região. No mundo esportivo, a Copa Rio Sul de Futsal continua em andamento, com jogos emocionais programados para hoje. Piraí enfrentará o time de Porto Real, enquanto Rio Claro receberá Resende em casa e Valença jogará com Paulo de Frontin.",
-    "timestamp": "2025-04-15T08:48:00",
-    "link": "categorias/politica/v-deos-bom-dia-s-bado-tv-rio-sul.html",
+    "title": "Exemplo de notícia de politica",
+    "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
+    "timestamp": "2025-04-15T10:13:41.498271",
+    "link": "categorias/politica/exemplo-de-not-cia-de-politica.html",
     "image": "images/placeholder.jpg"
   },
   "tecnologia": {
-    "title": "Para estudo, trabalho, games e mais: confira 4 notebooks com processadores Intel",
-    "summary": "Se o seu notebook está apresentando problemas de desempenho, como travar ao abrir programas simples, pode ser hora de considerar a compra de um novo modelo. Antes de fazer a escolha, é fundamental saber qual será o principal uso do computador portátil. Você pretende usá-lo para tarefas básicas, como ouvir música, realizar videochamadas ou interagir com amigos? Ou você é um jogador que gosta de jogar online?",
-    "timestamp": "2025-04-15T08:58:00",
-    "link": "categorias/tecnologia/para-estudo-trabalho-games-e-mais-confira-4-notebooks-com-processadores-intel.html",
+    "title": "Exemplo de notícia de tecnologia",
+    "summary": "Este é um exemplo de notícia tecnológica. Aqui você encontrará informações sobre lançamentos de produtos, inovações tecnológicas, tendências digitais e avanços científicos. O BrasilViral traz as novidades mais recentes do mundo da tecnologia. tecnologia.",
+    "timestamp": "2025-04-15T10:13:41.499271",
+    "link": "categorias/tecnologia/exemplo-de-not-cia-de-tecnologia.html",
     "image": "images/placeholder.jpg"
   },
   "entretenimento": {
-    "title": "Próximo filme de Takashi Yamakazi será sequência de Godzilla Minus One",
-    "summary": "O próximo filme do diretor Takashi Yamazaki será uma sequência de Godzilla Minus One, conforme anunciado pela Toho Entertainment. A produção do novo filme está prevista para começar no final de 2025 e será realizada no Japão.",
-    "timestamp": "2025-04-15T09:08:00",
-    "link": "categorias/entretenimento/pr-ximo-filme-de-takashi-yamakazi-ser-sequ-ncia-de-godzilla-minus-one.html",
+    "title": "Exemplo de notícia de entretenimento",
+    "summary": "Este é um exemplo de notícia de entretenimento. Aqui você encontrará informações sobre cinema, música, celebridades, eventos culturais e lançamentos de streaming. O BrasilViral traz as novidades mais quentes do mundo do entretenimento. entretenimento.",
+    "timestamp": "2025-04-15T10:13:41.495271",
+    "link": "categorias/entretenimento/exemplo-de-not-cia-de-entretenimento.html",
     "image": "images/placeholder.jpg"
   },
   "curiosidades": {
-    "title": "Podcast Dossiê #2: A era da burrice",
-    "summary": "Estudos realizados em vários países desenvolvidos, como Inglaterra, França, Holanda, Noruega, Suécia, Finlândia, Alemanha e Portugal, apontam uma tendência preocupante: a inteligência média das pessoas está em declínio. De acordo com esses estudos, a perda de inteligência varia de 2 a 4 pontos de QI por década, dependendo do país e da faixa etária analisada.",
-    "timestamp": "2025-04-15T09:17:00",
-    "link": "categorias/curiosidades/podcast-dossi-2-a-era-da-burrice.html",
+    "title": "Exemplo de notícia de curiosidades",
+    "summary": "Este é um exemplo de notícia de curiosidades. Aqui você encontrará fatos interessantes, descobertas científicas, histórias inusitadas e fenômenos surpreendentes. O BrasilViral traz conteúdo que vai expandir seus conhecimentos e surpreender você. curiosidades.",
+    "timestamp": "2025-04-15T10:13:41.492271",
+    "link": "categorias/curiosidades/exemplo-de-not-cia-de-curiosidades.html",
     "image": "images/placeholder.jpg"
   }
 }

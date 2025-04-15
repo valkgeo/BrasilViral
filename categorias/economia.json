@@ -1,16 +1,16 @@
 [
   {
+    "title": "{{TITULO}}",
+    "summary": "",
+    "timestamp": "2025-04-15T10:13:41.494271",
+    "link": "categorias/economia/titulo.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "As melhores na gestão de pessoas",
     "summary": "As melhores na gestão de pessoas",
     "timestamp": "2025-04-15T08:38:00",
     "link": "categorias/economia/as-melhores-na-gest-o-de-pessoas.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "{{TITULO}}",
-    "summary": "",
-    "timestamp": "2025-04-15T08:17:34.425833",
-    "link": "categorias/economia/titulo.html",
     "image": "images/placeholder.jpg"
   },
   {
