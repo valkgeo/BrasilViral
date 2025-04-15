@@ -1470,3 +1470,83 @@ detail: You need to set up billing to run this model. Go to https://replicate.co
 2025-04-15 00:11:18,960 - NewsResearchAgent - INFO - Cache de notícias salvo com 1069 entradas
 2025-04-15 00:11:18,961 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 108 entradas
 2025-04-15 00:11:18,961 - NewsResearchAgent - INFO - Notícia publicada: O La Niña acabou. Como o tempo vai mudar nos próximos meses? em ./categorias/curiosidades/o-la-nia-acabou-como-o-tempo-vai-mudar-nos-proximo-20250415001118.html
+2025-04-15 01:02:21,011 - NewsResearchAgent - INFO - Cache de notícias carregado com 1069 entradas
+2025-04-15 01:02:21,012 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 108 entradas
+2025-04-15 01:02:35,309 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 01:02:35,310 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-15 01:02:38,233 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-15 01:02:38,794 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-15 01:02:41,963 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-15 01:02:46,064 - NewsResearchAgent - INFO - Cache de notícias salvo com 1078 entradas
+2025-04-15 01:02:46,066 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 108 entradas
+2025-04-15 01:02:46,069 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria esportes
+2025-04-15 01:12:21,603 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/yuri-alberto-manda-recado-para-torcida-do-corinthi-20250415011221.jpg
+2025-04-15 01:12:21,603 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Yuri Alberto manda recado para torcida do Corinthians após derrota no derby
+2025-04-15 01:12:21,631 - NewsResearchAgent - INFO - Cache de notícias salvo com 1078 entradas
+2025-04-15 01:12:21,632 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 109 entradas
+2025-04-15 01:12:21,632 - NewsResearchAgent - INFO - Notícia publicada: Yuri Alberto manda recado para torcida do Corinthians após derrota no derby em ./categorias/esportes/yuri-alberto-manda-recado-para-torcida-do-corinthi-20250415011221.html
+2025-04-15 01:12:22,169 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 01:12:22,169 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-15 01:12:27,878 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-15 01:12:34,572 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-15 01:12:36,158 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-15 01:12:36,235 - NewsResearchAgent - INFO - Cache de notícias salvo com 1082 entradas
+2025-04-15 01:12:36,236 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 109 entradas
+2025-04-15 01:12:36,238 - NewsResearchAgent - INFO - Encontradas 5 notícias virais na categoria economia
+2025-04-15 01:22:14,245 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/financas-pessoais-licoes-do-gps-para-alcancar-a-li-20250415012214.jpg
+2025-04-15 01:22:14,245 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Finanças Pessoais: Lições do GPS para alcançar a liberdade financeira
+2025-04-15 01:22:14,273 - NewsResearchAgent - INFO - Cache de notícias salvo com 1082 entradas
+2025-04-15 01:22:14,275 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 110 entradas
+2025-04-15 01:22:14,275 - NewsResearchAgent - INFO - Notícia publicada: Finanças Pessoais: Lições do GPS para alcançar a liberdade financeira em ./categorias/economia/financas-pessoais-licoes-do-gps-para-alcancar-a-li-20250415012214.html
+2025-04-15 01:22:14,757 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 01:22:14,758 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-15 01:22:18,184 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-15 01:22:21,146 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-15 01:22:22,078 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-15 01:22:23,631 - NewsResearchAgent - INFO - Cache de notícias salvo com 1092 entradas
+2025-04-15 01:22:23,632 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 110 entradas
+2025-04-15 01:22:23,636 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria politica
+2025-04-15 01:31:56,702 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/o-que-fazer-no-distrito-federal-20250415013156.jpg
+2025-04-15 01:31:56,702 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: O que fazer no Distrito Federal
+2025-04-15 01:31:56,730 - NewsResearchAgent - INFO - Cache de notícias salvo com 1092 entradas
+2025-04-15 01:31:56,732 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 111 entradas
+2025-04-15 01:31:56,732 - NewsResearchAgent - INFO - Notícia publicada: O que fazer no Distrito Federal em ./categorias/politica/o-que-fazer-no-distrito-federal-20250415013156.html
+2025-04-15 01:31:57,395 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 01:31:57,395 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-15 01:31:57,972 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-15 01:31:59,798 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-15 01:32:01,189 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-15 01:32:02,191 - NewsResearchAgent - INFO - Cache de notícias salvo com 1101 entradas
+2025-04-15 01:32:02,192 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 111 entradas
+2025-04-15 01:32:02,196 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria tecnologia
+2025-04-15 01:41:36,879 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/eos-airfryer-6l-chef-gourmet-digital-simples-digit-20250415014136.jpg
+2025-04-15 01:41:36,879 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: EOS Airfryer 6L Chef Gourmet Digital: simples, digital e acessível
+2025-04-15 01:41:36,907 - NewsResearchAgent - INFO - Cache de notícias salvo com 1101 entradas
+2025-04-15 01:41:36,909 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 112 entradas
+2025-04-15 01:41:36,909 - NewsResearchAgent - INFO - Notícia publicada: EOS Airfryer 6L Chef Gourmet Digital: simples, digital e acessível em ./categorias/tecnologia/eos-airfryer-6l-chef-gourmet-digital-simples-digit-20250415014136.html
+2025-04-15 01:41:37,648 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 01:41:37,648 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-15 01:41:40,252 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-15 01:41:40,384 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-15 01:41:44,676 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-15 01:41:47,732 - NewsResearchAgent - INFO - Cache de notícias salvo com 1107 entradas
+2025-04-15 01:41:47,733 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 112 entradas
+2025-04-15 01:41:47,737 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria entretenimento
+2025-04-15 01:51:21,478 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/bbb-25-assista-aos-videos-mais-recentes-20250415015121.jpg
+2025-04-15 01:51:21,478 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: BBB 25: assista aos vídeos mais recentes
+2025-04-15 01:51:21,507 - NewsResearchAgent - INFO - Cache de notícias salvo com 1107 entradas
+2025-04-15 01:51:21,508 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 113 entradas
+2025-04-15 01:51:21,508 - NewsResearchAgent - INFO - Notícia publicada: BBB 25: assista aos vídeos mais recentes em ./categorias/entretenimento/bbb-25-assista-aos-videos-mais-recentes-20250415015121.html
+2025-04-15 01:51:22,057 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 01:51:22,057 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-15 01:51:24,097 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-15 01:51:26,028 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-15 01:51:27,158 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-15 01:51:27,523 - NewsResearchAgent - INFO - Cache de notícias salvo com 1110 entradas
+2025-04-15 01:51:27,525 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 113 entradas
+2025-04-15 01:51:27,530 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria curiosidades
+2025-04-15 02:00:59,750 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/mineracao-ilegal-de-ouro-deixa-rastros-de-contamin-20250415020059.jpg
+2025-04-15 02:00:59,750 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Mineração ilegal de ouro deixa rastros de contaminação em árvores da Amazônia
+2025-04-15 02:00:59,779 - NewsResearchAgent - INFO - Cache de notícias salvo com 1110 entradas
+2025-04-15 02:00:59,780 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 114 entradas
+2025-04-15 02:00:59,780 - NewsResearchAgent - INFO - Notícia publicada: Mineração ilegal de ouro deixa rastros de contaminação em árvores da Amazônia em ./categorias/curiosidades/mineracao-ilegal-de-ouro-deixa-rastros-de-contamin-20250415020059.html
