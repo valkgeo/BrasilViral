@@ -1,5 +1,19 @@
 [
   {
+    "title": "Como o avanço da inteligência artificial deve elevar uso da energia nuclear",
+    "summary": "O avanço da inteligência artificial está impulsionando o consumo de energia em todo o mundo, especialmente nos data centers que suportam as operações das grandes empresas de tecnologia. De acordo com dados da Agência Internacional de Energia, a demanda de eletricidade para o desenvolvimento e implementação de tecnologias de inteligência artificial está aumentando rapidamente, o que está levando as big techs a buscar alternativas para suprir essa necessidade.",
+    "timestamp": "2025-04-15T16:35:00",
+    "link": "categorias/economia/como-o-avan-o-da-intelig-ncia-artificial-deve-elevar-uso-da-energia-nuclear.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "title": "{{TITULO}}",
+    "summary": "",
+    "timestamp": "2025-04-15T16:13:51.532283",
+    "link": "categorias/economia/titulo.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "TST livra ex-empregado que pedia propina de indenizar empresa",
     "summary": "A 1ª Turma do Tribunal Superior do Trabalho (TST) rejeitou o recurso de uma empresa do ramo de informática que pretendia obter a condenação de um ex-empregado ao pagamento de indenização por dano moral. O ex-empregado era acusado de pedir propina de fornecedores no exterior para facilitar a aprovação de produtos. A decisão da corte foi unânime, indicando que não houve consenso entre os membros do tribunal para condenar o ex-empregado ao pagamento da indenização.",
     "timestamp": "2025-04-15T14:34:00",
@@ -7,24 +21,10 @@
     "image": "images/placeholder.jpg"
   },
   {
-    "title": "{{TITULO}}",
-    "summary": "",
-    "timestamp": "2025-04-15T14:12:53.639346",
-    "link": "categorias/economia/titulo.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
     "title": "Criptomoeda derrete 90% em um dia e fundador culpa corretoras",
     "summary": "A criptomoeda Mantra (OM) sofreu uma drástica perda de valor ontem, com uma queda de 90% em apenas um dia. O token, que era cotado a US$ 6 por unidade, caiu para apenas US$ 0,40, o que representa uma perda de mais de US$ 5 bilhões de valor de mercado. Essa derrocada ocorreu na madrugada de domingo para segunda-feira e ainda não tem um motivo claro.",
     "timestamp": "2025-04-15T12:45:00",
     "link": "categorias/economia/criptomoeda-derrete-90-em-um-dia-e-fundador-culpa-corretoras.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "Quanto recebem os pilotos de avião? Mercado precisará de mão de obra",
-    "summary": "A carreira de piloto de avião é uma das mais desafiadoras e bem remuneradas do mercado de trabalho. Após anos de estudo e treinamento, os pilotos podem alcançar salários que ultrapassam R$ 20 mil em média. No entanto, é importante destacar que a jornada para chegar ao topo da carreira é longa e exige dedicação e esforço.",
-    "timestamp": "2025-04-15T11:31:00",
-    "link": "categorias/economia/quanto-recebem-os-pilotos-de-avi-o-mercado-precisar-de-m-o-de-obra.html",
     "image": "images/placeholder.jpg"
   }
 ]

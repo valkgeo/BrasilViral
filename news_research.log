@@ -2114,3 +2114,83 @@ detail: You need to set up billing to run this model. Go to https://replicate.co
 2025-04-15 15:14:18,511 - NewsResearchAgent - INFO - Cache de notícias salvo com 1364 entradas
 2025-04-15 15:14:18,513 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 156 entradas
 2025-04-15 15:14:18,513 - NewsResearchAgent - INFO - Notícia publicada: Estátuas funerárias raras são descobertas em Pompeia em ./categorias/curiosidades/estatuas-funerarias-raras-sao-descobertas-em-pompe-20250415151418.html
+2025-04-15 16:15:28,872 - NewsResearchAgent - INFO - Cache de notícias carregado com 1364 entradas
+2025-04-15 16:15:28,874 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 156 entradas
+2025-04-15 16:15:42,021 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 16:15:42,021 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-15 16:15:45,682 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-15 16:15:46,200 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-15 16:15:46,831 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-15 16:15:50,526 - NewsResearchAgent - INFO - Cache de notícias salvo com 1372 entradas
+2025-04-15 16:15:50,528 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 156 entradas
+2025-04-15 16:15:50,534 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria esportes
+2025-04-15 16:25:19,875 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/neymar-e-ironizado-por-jornal-em-volta-ao-santos-p-20250415162519.jpg
+2025-04-15 16:25:19,875 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Neymar é ironizado por jornal em volta ao Santos: ‘Pesadelo’
+2025-04-15 16:25:19,911 - NewsResearchAgent - INFO - Cache de notícias salvo com 1372 entradas
+2025-04-15 16:25:19,913 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 157 entradas
+2025-04-15 16:25:19,913 - NewsResearchAgent - INFO - Notícia publicada: Neymar é ironizado por jornal em volta ao Santos: ‘Pesadelo’ em ./categorias/esportes/neymar-e-ironizado-por-jornal-em-volta-ao-santos-p-20250415162519.html
+2025-04-15 16:25:20,253 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 16:25:20,254 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-15 16:25:23,664 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-15 16:25:28,950 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-15 16:25:29,302 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-15 16:25:29,382 - NewsResearchAgent - INFO - Cache de notícias salvo com 1378 entradas
+2025-04-15 16:25:29,384 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 157 entradas
+2025-04-15 16:25:29,389 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria economia
+2025-04-15 16:35:02,130 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/como-o-avanco-da-inteligencia-artificial-deve-elev-20250415163502.jpg
+2025-04-15 16:35:02,130 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Como o avanço da inteligência artificial deve elevar uso da energia nuclear
+2025-04-15 16:35:02,165 - NewsResearchAgent - INFO - Cache de notícias salvo com 1378 entradas
+2025-04-15 16:35:02,167 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 158 entradas
+2025-04-15 16:35:02,167 - NewsResearchAgent - INFO - Notícia publicada: Como o avanço da inteligência artificial deve elevar uso da energia nuclear em ./categorias/economia/como-o-avanco-da-inteligencia-artificial-deve-elev-20250415163502.html
+2025-04-15 16:35:02,608 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 16:35:02,608 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-15 16:35:05,015 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-15 16:35:05,756 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-15 16:35:07,403 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-15 16:35:08,436 - NewsResearchAgent - INFO - Cache de notícias salvo com 1385 entradas
+2025-04-15 16:35:08,438 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 158 entradas
+2025-04-15 16:35:08,442 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria politica
+2025-04-15 16:44:37,053 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/quais-as-diferencas-entre-a-anistia-de-1979-e-a-de-20250415164437.jpg
+2025-04-15 16:44:37,053 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Quais as diferenças entre a anistia de 1979 e a de 2025?
+2025-04-15 16:44:37,088 - NewsResearchAgent - INFO - Cache de notícias salvo com 1385 entradas
+2025-04-15 16:44:37,090 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 159 entradas
+2025-04-15 16:44:37,090 - NewsResearchAgent - INFO - Notícia publicada: Quais as diferenças entre a anistia de 1979 e a de 2025? em ./categorias/politica/quais-as-diferencas-entre-a-anistia-de-1979-e-a-de-20250415164437.html
+2025-04-15 16:44:37,426 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 16:44:37,426 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-15 16:44:39,730 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-15 16:44:40,102 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-15 16:44:40,579 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-15 16:44:41,510 - NewsResearchAgent - INFO - Cache de notícias salvo com 1391 entradas
+2025-04-15 16:44:41,511 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 159 entradas
+2025-04-15 16:44:41,519 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria tecnologia
+2025-04-15 16:54:10,242 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/cupom-aliexpress-ofertas-com-ate-90-off-em-abril-d-20250415165410.jpg
+2025-04-15 16:54:10,242 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Cupom Aliexpress: ofertas com até 90% off em Abril de 2025
+2025-04-15 16:54:10,278 - NewsResearchAgent - INFO - Cache de notícias salvo com 1391 entradas
+2025-04-15 16:54:10,280 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 160 entradas
+2025-04-15 16:54:10,280 - NewsResearchAgent - INFO - Notícia publicada: Cupom Aliexpress: ofertas com até 90% off em Abril de 2025 em ./categorias/tecnologia/cupom-aliexpress-ofertas-com-ate-90-off-em-abril-d-20250415165410.html
+2025-04-15 16:54:10,563 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 16:54:10,563 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-15 16:54:15,432 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-15 16:54:15,683 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-15 16:54:19,178 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-15 16:54:20,432 - NewsResearchAgent - INFO - Cache de notícias salvo com 1399 entradas
+2025-04-15 16:54:20,434 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 160 entradas
+2025-04-15 16:54:20,441 - NewsResearchAgent - INFO - Encontradas 15 notícias virais na categoria entretenimento
+2025-04-15 17:03:56,443 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/gta-5-retorna-ao-game-pass-com-versao-melhorada-no-20250415170356.jpg
+2025-04-15 17:03:56,443 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: GTA 5 retorna ao Game Pass com versão melhorada no PC
+2025-04-15 17:03:56,478 - NewsResearchAgent - INFO - Cache de notícias salvo com 1399 entradas
+2025-04-15 17:03:56,480 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 161 entradas
+2025-04-15 17:03:56,480 - NewsResearchAgent - INFO - Notícia publicada: GTA 5 retorna ao Game Pass com versão melhorada no PC em ./categorias/entretenimento/gta-5-retorna-ao-game-pass-com-versao-melhorada-no-20250415170356.html
+2025-04-15 17:03:56,892 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 17:03:56,892 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-15 17:04:00,714 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-15 17:04:01,728 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-15 17:04:03,600 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-15 17:04:03,808 - NewsResearchAgent - INFO - Cache de notícias salvo com 1404 entradas
+2025-04-15 17:04:03,810 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 161 entradas
+2025-04-15 17:04:03,816 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria curiosidades
+2025-04-15 17:13:29,363 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/dependencia-a-maconha-e-associada-em-novo-estudo-c-20250415171329.jpg
+2025-04-15 17:13:29,364 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Dependência à maconha é associada em novo estudo cerebral à psicose
+2025-04-15 17:13:29,400 - NewsResearchAgent - INFO - Cache de notícias salvo com 1404 entradas
+2025-04-15 17:13:29,401 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 162 entradas
+2025-04-15 17:13:29,401 - NewsResearchAgent - INFO - Notícia publicada: Dependência à maconha é associada em novo estudo cerebral à psicose em ./categorias/curiosidades/dependencia-a-maconha-e-associada-em-novo-estudo-c-20250415171329.html
