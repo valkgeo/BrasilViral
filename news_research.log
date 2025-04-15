@@ -1954,3 +1954,83 @@ detail: You need to set up billing to run this model. Go to https://replicate.co
 2025-04-15 12:10:52,620 - NewsResearchAgent - INFO - Cache de notícias salvo com 1286 entradas
 2025-04-15 12:10:52,622 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 144 entradas
 2025-04-15 12:10:52,622 - NewsResearchAgent - INFO - Notícia publicada: Existem multas para navios e aviões? em ./categorias/curiosidades/existem-multas-para-navios-e-avioes-20250415121052.html
+2025-04-15 12:26:06,466 - NewsResearchAgent - INFO - Cache de notícias carregado com 1286 entradas
+2025-04-15 12:26:06,468 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 144 entradas
+2025-04-15 12:26:19,463 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 12:26:19,463 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-15 12:26:23,388 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-15 12:26:24,545 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-15 12:26:25,060 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-15 12:26:28,079 - NewsResearchAgent - INFO - Cache de notícias salvo com 1295 entradas
+2025-04-15 12:26:28,081 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 144 entradas
+2025-04-15 12:26:28,087 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria esportes
+2025-04-15 12:35:57,622 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/raiox-do-novo-recorde-de-roger-machado-no-internac-20250415123557.jpg
+2025-04-15 12:35:57,622 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Raio-X do novo recorde de Roger Machado no Internacional
+2025-04-15 12:35:57,656 - NewsResearchAgent - INFO - Cache de notícias salvo com 1295 entradas
+2025-04-15 12:35:57,658 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 145 entradas
+2025-04-15 12:35:57,658 - NewsResearchAgent - INFO - Notícia publicada: Raio-X do novo recorde de Roger Machado no Internacional em ./categorias/esportes/raiox-do-novo-recorde-de-roger-machado-no-internac-20250415123557.html
+2025-04-15 12:35:58,146 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 12:35:58,147 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-15 12:36:02,318 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-15 12:36:08,589 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-15 12:36:10,420 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-15 12:36:10,542 - NewsResearchAgent - INFO - Cache de notícias salvo com 1305 entradas
+2025-04-15 12:36:10,544 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 145 entradas
+2025-04-15 12:36:10,549 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria economia
+2025-04-15 12:45:39,533 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/criptomoeda-derrete-90-em-um-dia-e-fundador-culpa--20250415124539.jpg
+2025-04-15 12:45:39,533 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Criptomoeda derrete 90% em um dia e fundador culpa corretoras
+2025-04-15 12:45:39,566 - NewsResearchAgent - INFO - Cache de notícias salvo com 1305 entradas
+2025-04-15 12:45:39,568 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 146 entradas
+2025-04-15 12:45:39,568 - NewsResearchAgent - INFO - Notícia publicada: Criptomoeda derrete 90% em um dia e fundador culpa corretoras em ./categorias/economia/criptomoeda-derrete-90-em-um-dia-e-fundador-culpa--20250415124539.html
+2025-04-15 12:45:39,893 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 12:45:39,893 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-15 12:45:43,286 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-15 12:45:44,361 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-15 12:45:45,854 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-15 12:45:48,443 - NewsResearchAgent - INFO - Cache de notícias salvo com 1314 entradas
+2025-04-15 12:45:48,444 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 146 entradas
+2025-04-15 12:45:48,449 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria politica
+2025-04-15 12:55:16,710 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/elite-brasileira-deveria-ter-vergonha-diz-lula-em--20250415125516.jpg
+2025-04-15 12:55:16,711 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: 'Elite brasileira deveria ter vergonha', diz Lula em evento sobre educação
+2025-04-15 12:55:16,744 - NewsResearchAgent - INFO - Cache de notícias salvo com 1314 entradas
+2025-04-15 12:55:16,746 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 147 entradas
+2025-04-15 12:55:16,746 - NewsResearchAgent - INFO - Notícia publicada: 'Elite brasileira deveria ter vergonha', diz Lula em evento sobre educação em ./categorias/politica/elite-brasileira-deveria-ter-vergonha-diz-lula-em--20250415125516.html
+2025-04-15 12:55:17,149 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 12:55:17,149 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-15 12:55:17,445 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-15 12:55:17,771 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-15 12:55:19,776 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-15 12:55:20,587 - NewsResearchAgent - INFO - Cache de notícias salvo com 1318 entradas
+2025-04-15 12:55:20,589 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 147 entradas
+2025-04-15 12:55:20,595 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria tecnologia
+2025-04-15 13:04:48,581 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/confira-o-olhar-digital-news-na-integra-11042025-20250415130448.jpg
+2025-04-15 13:04:48,582 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Confira o Olhar Digital News na íntegra (11/04/2025)
+2025-04-15 13:04:48,616 - NewsResearchAgent - INFO - Cache de notícias salvo com 1318 entradas
+2025-04-15 13:04:48,618 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 148 entradas
+2025-04-15 13:04:48,618 - NewsResearchAgent - INFO - Notícia publicada: Confira o Olhar Digital News na íntegra (11/04/2025) em ./categorias/tecnologia/confira-o-olhar-digital-news-na-integra-11042025-20250415130448.html
+2025-04-15 13:04:48,985 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 13:04:48,985 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-15 13:04:51,919 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-15 13:04:52,080 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-15 13:04:55,295 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-15 13:04:57,696 - NewsResearchAgent - INFO - Cache de notícias salvo com 1323 entradas
+2025-04-15 13:04:57,698 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 148 entradas
+2025-04-15 13:04:57,704 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria entretenimento
+2025-04-15 13:14:29,491 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/elenco-do-reboot-de-a-mumia-e-revelado-confira-tod-20250415131429.jpg
+2025-04-15 13:14:29,491 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Elenco do reboot de A Múmia é revelado; confira todos os nomes
+2025-04-15 13:14:29,525 - NewsResearchAgent - INFO - Cache de notícias salvo com 1323 entradas
+2025-04-15 13:14:29,527 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 149 entradas
+2025-04-15 13:14:29,527 - NewsResearchAgent - INFO - Notícia publicada: Elenco do reboot de A Múmia é revelado; confira todos os nomes em ./categorias/entretenimento/elenco-do-reboot-de-a-mumia-e-revelado-confira-tod-20250415131429.html
+2025-04-15 13:14:30,094 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 13:14:30,095 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-15 13:14:32,112 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-15 13:14:34,489 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-15 13:14:37,225 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-15 13:14:37,492 - NewsResearchAgent - INFO - Cache de notícias salvo com 1327 entradas
+2025-04-15 13:14:37,495 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 149 entradas
+2025-04-15 13:14:37,501 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria curiosidades
+2025-04-15 13:24:09,723 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/combinacao-de-dois-remedios-comuns-pode-salvar-vid-20250415132409.jpg
+2025-04-15 13:24:09,723 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Combinação de dois remédios comuns pode salvar vidas após ataques cardíacos
+2025-04-15 13:24:09,757 - NewsResearchAgent - INFO - Cache de notícias salvo com 1327 entradas
+2025-04-15 13:24:09,759 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 150 entradas
+2025-04-15 13:24:09,759 - NewsResearchAgent - INFO - Notícia publicada: Combinação de dois remédios comuns pode salvar vidas após ataques cardíacos em ./categorias/curiosidades/combinacao-de-dois-remedios-comuns-pode-salvar-vid-20250415132409.html
