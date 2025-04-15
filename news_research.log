@@ -2274,3 +2274,83 @@ detail: You need to set up billing to run this model. Go to https://replicate.co
 2025-04-15 19:15:59,586 - NewsResearchAgent - INFO - Cache de notícias salvo com 1440 entradas
 2025-04-15 19:15:59,588 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 168 entradas
 2025-04-15 19:15:59,588 - NewsResearchAgent - INFO - Notícia publicada: A tecnologia em Duna: Profecia | Super Entrevista em ./categorias/curiosidades/a-tecnologia-em-duna-profecia-super-entrevista-20250415191559.html
+2025-04-15 20:15:26,104 - NewsResearchAgent - INFO - Cache de notícias carregado com 1440 entradas
+2025-04-15 20:15:26,106 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 168 entradas
+2025-04-15 20:16:10,885 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 20:16:10,885 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-15 20:16:13,305 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-15 20:16:14,067 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-15 20:16:14,671 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-15 20:16:18,074 - NewsResearchAgent - INFO - Cache de notícias salvo com 1446 entradas
+2025-04-15 20:16:18,076 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 168 entradas
+2025-04-15 20:16:18,083 - NewsResearchAgent - INFO - Encontradas 15 notícias virais na categoria esportes
+2025-04-15 20:25:49,536 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/santos-x-atleticomg-onde-assistir-ao-vivo-horario--20250415202549.jpg
+2025-04-15 20:25:49,536 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Santos x Atlético-MG: onde assistir ao vivo, horário e prováveis escalações
+2025-04-15 20:25:49,573 - NewsResearchAgent - INFO - Cache de notícias salvo com 1446 entradas
+2025-04-15 20:25:49,575 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 169 entradas
+2025-04-15 20:25:49,575 - NewsResearchAgent - INFO - Notícia publicada: Santos x Atlético-MG: onde assistir ao vivo, horário e prováveis escalações em ./categorias/esportes/santos-x-atleticomg-onde-assistir-ao-vivo-horario--20250415202549.html
+2025-04-15 20:25:49,959 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 20:25:49,959 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-15 20:25:53,304 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-15 20:25:59,041 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-15 20:26:00,024 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-15 20:26:00,152 - NewsResearchAgent - INFO - Cache de notícias salvo com 1451 entradas
+2025-04-15 20:26:00,154 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 169 entradas
+2025-04-15 20:26:00,158 - NewsResearchAgent - INFO - Encontradas 6 notícias virais na categoria economia
+2025-04-15 20:35:34,573 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/exclusivo-guararapes-dona-da-riachuelo-vai-vender--20250415203534.jpg
+2025-04-15 20:35:34,573 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Exclusivo: Guararapes, dona da Riachuelo, vai vender shopping Midway Mall, dizem fontes
+2025-04-15 20:35:34,610 - NewsResearchAgent - INFO - Cache de notícias salvo com 1451 entradas
+2025-04-15 20:35:34,612 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 170 entradas
+2025-04-15 20:35:34,612 - NewsResearchAgent - INFO - Notícia publicada: Exclusivo: Guararapes, dona da Riachuelo, vai vender shopping Midway Mall, dizem fontes em ./categorias/economia/exclusivo-guararapes-dona-da-riachuelo-vai-vender--20250415203534.html
+2025-04-15 20:35:34,966 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 20:35:34,967 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-15 20:35:37,468 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-15 20:35:39,284 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-15 20:35:44,026 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-15 20:35:45,704 - NewsResearchAgent - INFO - Cache de notícias salvo com 1459 entradas
+2025-04-15 20:35:45,706 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 170 entradas
+2025-04-15 20:35:45,711 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria politica
+2025-04-15 20:45:25,513 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/lula-elogia-bndes-obrigados-a-pedir-desculpa-por-a-20250415204525.jpg
+2025-04-15 20:45:25,513 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Lula elogia BNDES: 'Obrigados a pedir desculpa' por acusação de caixa-preta
+2025-04-15 20:45:25,550 - NewsResearchAgent - INFO - Cache de notícias salvo com 1459 entradas
+2025-04-15 20:45:25,552 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 171 entradas
+2025-04-15 20:45:25,552 - NewsResearchAgent - INFO - Notícia publicada: Lula elogia BNDES: 'Obrigados a pedir desculpa' por acusação de caixa-preta em ./categorias/politica/lula-elogia-bndes-obrigados-a-pedir-desculpa-por-a-20250415204525.html
+2025-04-15 20:45:26,002 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 20:45:26,002 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-15 20:45:28,681 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-15 20:45:31,515 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-15 20:45:36,848 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-15 20:45:39,213 - NewsResearchAgent - INFO - Cache de notícias salvo com 1467 entradas
+2025-04-15 20:45:39,215 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 171 entradas
+2025-04-15 20:45:39,221 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria tecnologia
+2025-04-15 20:55:13,853 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/7-melhores-melhores-robos-aspiradores-para-comprar-20250415205513.jpg
+2025-04-15 20:55:13,853 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: 7 melhores melhores robôs aspiradores para comprar em 2025
+2025-04-15 20:55:13,891 - NewsResearchAgent - INFO - Cache de notícias salvo com 1467 entradas
+2025-04-15 20:55:13,893 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 172 entradas
+2025-04-15 20:55:13,893 - NewsResearchAgent - INFO - Notícia publicada: 7 melhores melhores robôs aspiradores para comprar em 2025 em ./categorias/tecnologia/7-melhores-melhores-robos-aspiradores-para-comprar-20250415205513.html
+2025-04-15 20:55:14,282 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 20:55:14,282 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-15 20:55:16,222 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-15 20:55:17,330 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-15 20:55:20,160 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-15 20:55:22,615 - NewsResearchAgent - INFO - Cache de notícias salvo com 1473 entradas
+2025-04-15 20:55:22,617 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 172 entradas
+2025-04-15 20:55:22,622 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria entretenimento
+2025-04-15 21:04:58,623 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/sentinela-desafia-thunderbolts-em-novo-video-confi-20250415210458.jpg
+2025-04-15 21:04:58,623 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Sentinela desafia Thunderbolts* em novo vídeo; confira
+2025-04-15 21:04:58,661 - NewsResearchAgent - INFO - Cache de notícias salvo com 1473 entradas
+2025-04-15 21:04:58,663 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 173 entradas
+2025-04-15 21:04:58,663 - NewsResearchAgent - INFO - Notícia publicada: Sentinela desafia Thunderbolts* em novo vídeo; confira em ./categorias/entretenimento/sentinela-desafia-thunderbolts-em-novo-video-confi-20250415210458.html
+2025-04-15 21:04:59,079 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 21:04:59,079 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-15 21:05:00,609 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-15 21:05:01,116 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-15 21:05:03,580 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-15 21:05:03,800 - NewsResearchAgent - INFO - Cache de notícias salvo com 1474 entradas
+2025-04-15 21:05:03,803 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 173 entradas
+2025-04-15 21:05:03,808 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria curiosidades
+2025-04-15 21:14:41,996 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/agua-a-substancia-mais-estranha-da-face-da-terra-20250415211441.jpg
+2025-04-15 21:14:41,996 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Água, a substância mais estranha da face da Terra
+2025-04-15 21:14:42,034 - NewsResearchAgent - INFO - Cache de notícias salvo com 1474 entradas
+2025-04-15 21:14:42,036 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 174 entradas
+2025-04-15 21:14:42,036 - NewsResearchAgent - INFO - Notícia publicada: Água, a substância mais estranha da face da Terra em ./categorias/curiosidades/agua-a-substancia-mais-estranha-da-face-da-terra-20250415211441.html
