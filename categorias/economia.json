@@ -1,5 +1,19 @@
 [
   {
+    "title": "Eleições 2024: notícias, datas, candidatos e como votar",
+    "summary": "Um juiz da 1ª Zona Eleitoral de São Paulo condenou o influenciador e coaching Pablo Marçal, filiado ao PRTB, por abuso de poder político e econômico. A decisão foi tomada nesta sexta-feira, 21, e cabe recurso. A condenação se deve a uma declaração feita por Marçal durante a pré-campanha para a prefeitura de São Paulo, que teve a intenção de abalar a reputação de sua concorrente na disputa.",
+    "timestamp": "2025-04-15T22:33:00",
+    "link": "categorias/economia/elei-es-2024-not-cias-datas-candidatos-e-como-votar.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "title": "{{TITULO}}",
+    "summary": "",
+    "timestamp": "2025-04-15T22:11:57.831486",
+    "link": "categorias/economia/titulo.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "Exclusivo: Guararapes, dona da Riachuelo, vai vender shopping Midway Mall, dizem fontes",
     "summary": "A Guararapes, empresa controladora da Riachuelo, está considerando a venda de seu shopping Midway Mall, localizado em Natal. De acordo com informações apuradas, a empresa está em contato com bancos para fechar um mandato que permita a venda do empreendimento.",
     "timestamp": "2025-04-15T20:35:00",
@@ -7,24 +21,10 @@
     "image": "images/placeholder.jpg"
   },
   {
-    "title": "{{TITULO}}",
-    "summary": "",
-    "timestamp": "2025-04-15T20:13:46.104162",
-    "link": "categorias/economia/titulo.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
     "title": "SNFF11 vai pagar dividendos de 1,01% ao mês; saiba quem recebe",
     "summary": "Os cotistas do fundo imobiliário SNFF11 já sabem quais serão os rendimentos que receberão em abril. A gestão do fundo anunciou a distribuição de R$ 0,72 por cota, mantendo o valor do mês anterior. Esse montante representa um retorno de 1,01% ao mês, considerando a cotação do SNFF11 de R$ 70,95 registrada no fechamento de março.",
     "timestamp": "2025-04-15T18:36:00",
     "link": "categorias/economia/snff11-vai-pagar-dividendos-de-1-01-ao-m-s-saiba-quem-recebe.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "Como o avanço da inteligência artificial deve elevar uso da energia nuclear",
-    "summary": "O avanço da inteligência artificial está impulsionando o consumo de energia em todo o mundo, especialmente nos data centers que suportam as operações das grandes empresas de tecnologia. De acordo com dados da Agência Internacional de Energia, a demanda de eletricidade para o desenvolvimento e implementação de tecnologias de inteligência artificial está aumentando rapidamente, o que está levando as big techs a buscar alternativas para suprir essa necessidade.",
-    "timestamp": "2025-04-15T16:35:00",
-    "link": "categorias/economia/como-o-avan-o-da-intelig-ncia-artificial-deve-elevar-uso-da-energia-nuclear.html",
     "image": "images/placeholder.jpg"
   }
 ]

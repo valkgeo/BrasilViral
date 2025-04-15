@@ -2354,3 +2354,83 @@ detail: You need to set up billing to run this model. Go to https://replicate.co
 2025-04-15 21:14:42,034 - NewsResearchAgent - INFO - Cache de notícias salvo com 1474 entradas
 2025-04-15 21:14:42,036 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 174 entradas
 2025-04-15 21:14:42,036 - NewsResearchAgent - INFO - Notícia publicada: Água, a substância mais estranha da face da Terra em ./categorias/curiosidades/agua-a-substancia-mais-estranha-da-face-da-terra-20250415211441.html
+2025-04-15 22:13:34,622 - NewsResearchAgent - INFO - Cache de notícias carregado com 1474 entradas
+2025-04-15 22:13:34,624 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 174 entradas
+2025-04-15 22:13:48,784 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 22:13:48,784 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-15 22:13:53,279 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-15 22:13:54,760 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-15 22:13:56,028 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-15 22:14:02,561 - NewsResearchAgent - INFO - Cache de notícias salvo com 1484 entradas
+2025-04-15 22:14:02,563 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 174 entradas
+2025-04-15 22:14:02,569 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria esportes
+2025-04-15 22:23:39,681 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/neto-crava-melhor-camisa-10-do-brasileirao-galvao--20250415222339.jpg
+2025-04-15 22:23:39,682 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Neto crava melhor camisa 10 do Brasileirão; Galvão concorda
+2025-04-15 22:23:39,720 - NewsResearchAgent - INFO - Cache de notícias salvo com 1484 entradas
+2025-04-15 22:23:39,722 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 175 entradas
+2025-04-15 22:23:39,723 - NewsResearchAgent - INFO - Notícia publicada: Neto crava melhor camisa 10 do Brasileirão; Galvão concorda em ./categorias/esportes/neto-crava-melhor-camisa-10-do-brasileirao-galvao--20250415222339.html
+2025-04-15 22:23:40,054 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 22:23:40,055 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-15 22:23:48,743 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-15 22:23:56,163 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-15 22:23:57,689 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-15 22:23:57,823 - NewsResearchAgent - INFO - Cache de notícias salvo com 1487 entradas
+2025-04-15 22:23:57,825 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 175 entradas
+2025-04-15 22:23:57,829 - NewsResearchAgent - INFO - Encontradas 6 notícias virais na categoria economia
+2025-04-15 22:33:36,197 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/eleicoes-2024-noticias-datas-candidatos-e-como-vot-20250415223336.jpg
+2025-04-15 22:33:36,197 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Eleições 2024: notícias, datas, candidatos e como votar
+2025-04-15 22:33:36,235 - NewsResearchAgent - INFO - Cache de notícias salvo com 1487 entradas
+2025-04-15 22:33:36,237 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 176 entradas
+2025-04-15 22:33:36,237 - NewsResearchAgent - INFO - Notícia publicada: Eleições 2024: notícias, datas, candidatos e como votar em ./categorias/economia/eleicoes-2024-noticias-datas-candidatos-e-como-vot-20250415223336.html
+2025-04-15 22:33:36,495 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 22:33:36,495 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-15 22:33:41,555 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-15 22:33:47,789 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-15 22:33:48,248 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-15 22:33:49,372 - NewsResearchAgent - INFO - Cache de notícias salvo com 1495 entradas
+2025-04-15 22:33:49,374 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 176 entradas
+2025-04-15 22:33:49,380 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria politica
+2025-04-15 22:43:27,932 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/videos-meio-dia-parana-foz-do-iguacu-20250415224327.jpg
+2025-04-15 22:43:27,932 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Vídeos Meio Dia Paraná - Foz do Iguaçu
+2025-04-15 22:43:27,971 - NewsResearchAgent - INFO - Cache de notícias salvo com 1495 entradas
+2025-04-15 22:43:27,973 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 177 entradas
+2025-04-15 22:43:27,973 - NewsResearchAgent - INFO - Notícia publicada: Vídeos Meio Dia Paraná - Foz do Iguaçu em ./categorias/politica/videos-meio-dia-parana-foz-do-iguacu-20250415224327.html
+2025-04-15 22:43:28,366 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 22:43:28,366 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-15 22:43:33,219 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-15 22:43:37,356 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-15 22:43:40,039 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-15 22:43:41,274 - NewsResearchAgent - INFO - Cache de notícias salvo com 1503 entradas
+2025-04-15 22:43:41,276 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 177 entradas
+2025-04-15 22:43:41,284 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria tecnologia
+2025-04-15 22:53:21,593 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/10c-em-sao-paulo-saiba-quando-vai-esfriar-de-novo--20250415225321.jpg
+2025-04-15 22:53:21,593 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: 10ºC em São Paulo? Saiba quando vai esfriar de novo no Brasil
+2025-04-15 22:53:21,632 - NewsResearchAgent - INFO - Cache de notícias salvo com 1503 entradas
+2025-04-15 22:53:21,634 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 178 entradas
+2025-04-15 22:53:21,634 - NewsResearchAgent - INFO - Notícia publicada: 10ºC em São Paulo? Saiba quando vai esfriar de novo no Brasil em ./categorias/tecnologia/10c-em-sao-paulo-saiba-quando-vai-esfriar-de-novo--20250415225321.html
+2025-04-15 22:53:22,083 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 22:53:22,083 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-15 22:53:29,908 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-15 22:53:30,380 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-15 22:53:35,944 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-15 22:53:38,215 - NewsResearchAgent - INFO - Cache de notícias salvo com 1508 entradas
+2025-04-15 22:53:38,217 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 178 entradas
+2025-04-15 22:53:38,224 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria entretenimento
+2025-04-15 23:03:16,473 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/thunderbolts-ganha-trailer-com-yelena-em-acao-assi-20250415230316.jpg
+2025-04-15 23:03:16,473 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Thunderbolts* ganha trailer com Yelena em ação; assista
+2025-04-15 23:03:16,512 - NewsResearchAgent - INFO - Cache de notícias salvo com 1508 entradas
+2025-04-15 23:03:16,514 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 179 entradas
+2025-04-15 23:03:16,514 - NewsResearchAgent - INFO - Notícia publicada: Thunderbolts* ganha trailer com Yelena em ação; assista em ./categorias/entretenimento/thunderbolts-ganha-trailer-com-yelena-em-acao-assi-20250415230316.html
+2025-04-15 23:03:17,049 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 23:03:17,049 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-15 23:03:22,117 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-15 23:03:23,293 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-15 23:03:26,606 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-15 23:03:26,914 - NewsResearchAgent - INFO - Cache de notícias salvo com 1511 entradas
+2025-04-15 23:03:26,917 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 179 entradas
+2025-04-15 23:03:26,923 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria curiosidades
+2025-04-15 23:13:08,692 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/video-inedito-mostra-dna-se-compactando-em-tempo-r-20250415231308.jpg
+2025-04-15 23:13:08,692 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Vídeo inédito mostra DNA se compactando em tempo real dentro de espermatozoide
+2025-04-15 23:13:08,731 - NewsResearchAgent - INFO - Cache de notícias salvo com 1511 entradas
+2025-04-15 23:13:08,733 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 180 entradas
+2025-04-15 23:13:08,733 - NewsResearchAgent - INFO - Notícia publicada: Vídeo inédito mostra DNA se compactando em tempo real dentro de espermatozoide em ./categorias/curiosidades/video-inedito-mostra-dna-se-compactando-em-tempo-r-20250415231308.html
