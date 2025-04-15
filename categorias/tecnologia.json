@@ -1,5 +1,19 @@
 [
   {
+    "title": "Vanguard 1: engenheiros querem trazer satélite mais velho do mundo à Terra",
+    "summary": "O satélite Vanguard 1, lançado em 17 de março de 1958, é um dos primeiros dispositivos espaciais da Guerra Fria entre os EUA e a União Soviética. Ele foi utilizado para medir a forma do planeta e estudar a densidade da alta atmosfera, cumprindo essas funções até encerrar suas transmissões em 1964. Atualmente, o Vanguard 1 continua orbitando a Terra, tornando-se o satélite mais velho do mundo ainda em órbita.",
+    "timestamp": "2025-04-15T03:41:00",
+    "link": "categorias/tecnologia/vanguard-1-engenheiros-querem-trazer-sat-lite-mais-velho-do-mundo-terra.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "title": "Exemplo de notícia de tecnologia",
+    "summary": "Este é um exemplo de notícia tecnológica. Aqui você encontrará informações sobre lançamentos de produtos, inovações tecnológicas, tendências digitais e avanços científicos. O BrasilViral traz as novidades mais recentes do mundo da tecnologia. tecnologia.",
+    "timestamp": "2025-04-15T03:00:37.788923",
+    "link": "categorias/tecnologia/exemplo-de-not-cia-de-tecnologia.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "EOS Airfryer 6L Chef Gourmet Digital: simples, digital e acessível",
     "summary": "A EOS Airfryer 6L Chef Gourmet Digital é um aparelho que combina potência e versatilidade em um design compacto. Com uma capacidade de 6,2 litros, oferece cinco funções em um único aparelho, incluindo forno, air fryer, descongelamento, desidratação e reaquecimento. Isso torna o produto uma opção atraente para aqueles que buscam um aparelho multifuncional para sua cozinha.",
     "timestamp": "2025-04-15T01:41:00",
@@ -7,24 +21,10 @@
     "image": "images/placeholder.jpg"
   },
   {
-    "title": "Exemplo de notícia de tecnologia",
-    "summary": "Este é um exemplo de notícia tecnológica. Aqui você encontrará informações sobre lançamentos de produtos, inovações tecnológicas, tendências digitais e avanços científicos. O BrasilViral traz as novidades mais recentes do mundo da tecnologia. tecnologia.",
-    "timestamp": "2025-04-15T01:00:33.760977",
-    "link": "categorias/tecnologia/exemplo-de-not-cia-de-tecnologia.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
     "title": "Poco M7 Pro 5G chegará ao Brasil em breve, confirma Xiaomi",
     "summary": "O Poco M7 Pro 5G, um novo modelo de smartphone da Xiaomi, será lançado em breve no Brasil. De acordo com a empresa, o aparelho chega para disputar espaço entre os intermediários, embora o preço oficial ainda não tenha sido revelado. Com isso, os consumidores brasileiros terão mais uma opção de smartphone com tecnologia 5G e recursos avançados.",
     "timestamp": "2025-04-14T23:52:00",
     "link": "categorias/tecnologia/poco-m7-pro-5g-chegar-ao-brasil-em-breve-confirma-xiaomi.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "One UI 7: atualização é suspensa após descoberta de 'bug grave'",
-    "summary": "A distribuição da One UI 7 foi interrompida em todo o mundo após a descoberta de um bug grave. De acordo com relatos de usuários, a suspensão do update ocorreu na segunda-feira, dia 14. A informação foi divulgada por um informante, que afirmou que após o início da distribuição do novo firmware do Galaxy S24, um bug grave foi encontrado, o que levou a uma suspensão no plano de distribuição em todas as outras regiões, incluindo a China.",
-    "timestamp": "2025-04-14T22:51:00",
-    "link": "categorias/tecnologia/one-ui-7-atualiza-o-suspensa-ap-s-descoberta-de-bug-grave.html",
     "image": "images/placeholder.jpg"
   }
 ]

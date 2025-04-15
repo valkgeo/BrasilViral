@@ -1550,3 +1550,83 @@ detail: You need to set up billing to run this model. Go to https://replicate.co
 2025-04-15 02:00:59,779 - NewsResearchAgent - INFO - Cache de notícias salvo com 1110 entradas
 2025-04-15 02:00:59,780 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 114 entradas
 2025-04-15 02:00:59,780 - NewsResearchAgent - INFO - Notícia publicada: Mineração ilegal de ouro deixa rastros de contaminação em árvores da Amazônia em ./categorias/curiosidades/mineracao-ilegal-de-ouro-deixa-rastros-de-contamin-20250415020059.html
+2025-04-15 03:02:16,692 - NewsResearchAgent - INFO - Cache de notícias carregado com 1110 entradas
+2025-04-15 03:02:16,693 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 114 entradas
+2025-04-15 03:02:32,962 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 03:02:32,962 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-15 03:02:34,803 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-15 03:02:35,427 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-15 03:02:36,285 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-15 03:02:40,324 - NewsResearchAgent - INFO - Cache de notícias salvo com 1116 entradas
+2025-04-15 03:02:40,325 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 114 entradas
+2025-04-15 03:02:40,329 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria esportes
+2025-04-15 03:12:04,645 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/porrada-neles-romario-responde-se-entrevista-com-r-20250415031204.jpg
+2025-04-15 03:12:04,645 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Porrada neles? Romário responde se entrevista com Raphinha influenciou Argentina x Brasil e 'festeja' polêmica
+2025-04-15 03:12:04,673 - NewsResearchAgent - INFO - Cache de notícias salvo com 1116 entradas
+2025-04-15 03:12:04,675 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 115 entradas
+2025-04-15 03:12:04,675 - NewsResearchAgent - INFO - Notícia publicada: Porrada neles? Romário responde se entrevista com Raphinha influenciou Argentina x Brasil e 'festeja' polêmica em ./categorias/esportes/porrada-neles-romario-responde-se-entrevista-com-r-20250415031204.html
+2025-04-15 03:12:05,300 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 03:12:05,300 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-15 03:12:09,141 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-15 03:12:14,115 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-15 03:12:14,562 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-15 03:12:14,707 - NewsResearchAgent - INFO - Cache de notícias salvo com 1118 entradas
+2025-04-15 03:12:14,709 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 115 entradas
+2025-04-15 03:12:14,711 - NewsResearchAgent - INFO - Encontradas 6 notícias virais na categoria economia
+2025-04-15 03:21:44,555 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/congelar-salario-minimo-como-quer-arminio-ja-nao-d-20250415032144.jpg
+2025-04-15 03:21:44,555 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Congelar salário mínimo, como quer Armínio, já não desatou nó da economia
+2025-04-15 03:21:44,584 - NewsResearchAgent - INFO - Cache de notícias salvo com 1118 entradas
+2025-04-15 03:21:44,585 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 116 entradas
+2025-04-15 03:21:44,586 - NewsResearchAgent - INFO - Notícia publicada: Congelar salário mínimo, como quer Armínio, já não desatou nó da economia em ./categorias/economia/congelar-salario-minimo-como-quer-arminio-ja-nao-d-20250415032144.html
+2025-04-15 03:21:45,417 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 03:21:45,417 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-15 03:21:50,467 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-15 03:21:51,928 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-15 03:21:53,541 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-15 03:21:55,653 - NewsResearchAgent - INFO - Cache de notícias salvo com 1126 entradas
+2025-04-15 03:21:55,655 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 116 entradas
+2025-04-15 03:21:55,658 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria politica
+2025-04-15 03:31:28,960 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/ministerio-publico-denuncia-marcal-sob-acusacao-de-20250415033128.jpg
+2025-04-15 03:31:28,960 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Ministério Público denuncia Marçal sob acusação de atacar honra de Tabata
+2025-04-15 03:31:28,989 - NewsResearchAgent - INFO - Cache de notícias salvo com 1126 entradas
+2025-04-15 03:31:28,990 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 117 entradas
+2025-04-15 03:31:28,990 - NewsResearchAgent - INFO - Notícia publicada: Ministério Público denuncia Marçal sob acusação de atacar honra de Tabata em ./categorias/politica/ministerio-publico-denuncia-marcal-sob-acusacao-de-20250415033128.html
+2025-04-15 03:31:29,711 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 03:31:29,711 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-15 03:31:32,589 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-15 03:31:33,869 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-15 03:31:34,925 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-15 03:31:35,276 - NewsResearchAgent - INFO - Cache de notícias salvo com 1134 entradas
+2025-04-15 03:31:35,277 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 117 entradas
+2025-04-15 03:31:35,283 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria tecnologia
+2025-04-15 03:41:12,789 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/vanguard-1-engenheiros-querem-trazer-satelite-mais-20250415034112.jpg
+2025-04-15 03:41:12,789 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Vanguard 1: engenheiros querem trazer satélite mais velho do mundo à Terra
+2025-04-15 03:41:12,818 - NewsResearchAgent - INFO - Cache de notícias salvo com 1134 entradas
+2025-04-15 03:41:12,820 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 118 entradas
+2025-04-15 03:41:12,820 - NewsResearchAgent - INFO - Notícia publicada: Vanguard 1: engenheiros querem trazer satélite mais velho do mundo à Terra em ./categorias/tecnologia/vanguard-1-engenheiros-querem-trazer-satelite-mais-20250415034112.html
+2025-04-15 03:41:13,241 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 03:41:13,241 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-15 03:41:14,018 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-15 03:41:14,233 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-15 03:41:18,251 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-15 03:41:20,082 - NewsResearchAgent - INFO - Cache de notícias salvo com 1139 entradas
+2025-04-15 03:41:20,083 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 118 entradas
+2025-04-15 03:41:20,088 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria entretenimento
+2025-04-15 03:50:58,598 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/a-odisseia-tom-holland-e-samantha-morton-aparecem--20250415035058.jpg
+2025-04-15 03:50:58,598 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: A Odisseia | Tom Holland e Samantha Morton aparecem em imagens; veja
+2025-04-15 03:50:58,628 - NewsResearchAgent - INFO - Cache de notícias salvo com 1139 entradas
+2025-04-15 03:50:58,629 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 119 entradas
+2025-04-15 03:50:58,629 - NewsResearchAgent - INFO - Notícia publicada: A Odisseia | Tom Holland e Samantha Morton aparecem em imagens; veja em ./categorias/entretenimento/a-odisseia-tom-holland-e-samantha-morton-aparecem--20250415035058.html
+2025-04-15 03:50:58,936 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-15 03:50:58,936 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-15 03:50:59,797 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-15 03:51:00,259 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-15 03:51:02,023 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-15 03:51:02,247 - NewsResearchAgent - INFO - Cache de notícias salvo com 1141 entradas
+2025-04-15 03:51:02,249 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 119 entradas
+2025-04-15 03:51:02,254 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria curiosidades
+2025-04-15 04:00:37,440 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/mochila-tech-ajuda-pessoas-com-deficiencia-visual--20250415040037.jpg
+2025-04-15 04:00:37,440 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Mochila tech ajuda pessoas com deficiência visual a detectar obstáculos
+2025-04-15 04:00:37,469 - NewsResearchAgent - INFO - Cache de notícias salvo com 1141 entradas
+2025-04-15 04:00:37,471 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 120 entradas
+2025-04-15 04:00:37,471 - NewsResearchAgent - INFO - Notícia publicada: Mochila tech ajuda pessoas com deficiência visual a detectar obstáculos em ./categorias/curiosidades/mochila-tech-ajuda-pessoas-com-deficiencia-visual--20250415040037.html
