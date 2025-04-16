@@ -2836,3 +2836,84 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-16 09:17:31,348 - NewsResearchAgent - INFO - Cache de notícias salvo com 1680 entradas
 2025-04-16 09:17:31,350 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 210 entradas
 2025-04-16 09:17:31,350 - NewsResearchAgent - INFO - Notícia publicada: Abril traz primeira chuva de meteoros intensa do ano; veja calendário astronômico em ./categorias/curiosidades/abril-traz-primeira-chuva-de-meteoros-intensa-do-a-20250416091731.html
+2025-04-16 10:14:55,501 - NewsResearchAgent - INFO - Cache de notícias carregado com 1680 entradas
+2025-04-16 10:14:55,503 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 210 entradas
+2025-04-16 10:15:10,552 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 10:15:10,552 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-16 10:15:13,816 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-16 10:15:14,576 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-16 10:15:15,480 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-16 10:15:22,433 - NewsResearchAgent - INFO - Cache de notícias salvo com 1687 entradas
+2025-04-16 10:15:22,435 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 210 entradas
+2025-04-16 10:15:22,444 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria esportes
+2025-04-16 10:24:57,800 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/sobre-meninos-e-porcos-episodio-1-respeito-e-pra-q-20250416102457.jpg
+2025-04-16 10:24:57,800 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Sobre Meninos e Porcos - Epísódio 1: 'Respeito é pra quem tem'
+2025-04-16 10:24:57,843 - NewsResearchAgent - INFO - Cache de notícias salvo com 1687 entradas
+2025-04-16 10:24:57,847 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 211 entradas
+2025-04-16 10:24:57,847 - NewsResearchAgent - INFO - Notícia publicada: Sobre Meninos e Porcos - Epísódio 1: 'Respeito é pra quem tem' em ./categorias/esportes/sobre-meninos-e-porcos-episodio-1-respeito-e-pra-q-20250416102457.html
+2025-04-16 10:24:58,291 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 10:24:58,292 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-16 10:25:04,908 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-16 10:25:09,658 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-16 10:25:11,114 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-16 10:25:11,225 - NewsResearchAgent - INFO - Cache de notícias salvo com 1693 entradas
+2025-04-16 10:25:11,228 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 211 entradas
+2025-04-16 10:25:11,234 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria economia
+2025-04-16 10:34:41,326 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/tjmg-condena-transportadora-que-se-apropriou-de-ca-20250416103441.jpg
+2025-04-16 10:34:41,327 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: TJMG condena transportadora que se apropriou de carga
+2025-04-16 10:34:41,370 - NewsResearchAgent - INFO - Cache de notícias salvo com 1693 entradas
+2025-04-16 10:34:41,372 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 212 entradas
+2025-04-16 10:34:41,372 - NewsResearchAgent - INFO - Notícia publicada: TJMG condena transportadora que se apropriou de carga em ./categorias/economia/tjmg-condena-transportadora-que-se-apropriou-de-ca-20250416103441.html
+2025-04-16 10:34:41,961 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 10:34:41,961 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-16 10:34:46,463 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-16 10:34:57,842 - NewsResearchAgent - ERROR - Erro ao processar link de notícia https://noticias.uol.com.br/blogs-e-colunas/: HTTPSConnectionPool(host='noticias.uol.com.br', port=443): Read timed out. (read timeout=10)
+2025-04-16 10:34:58,976 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-16 10:34:59,887 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-16 10:35:00,556 - NewsResearchAgent - INFO - Cache de notícias salvo com 1702 entradas
+2025-04-16 10:35:00,559 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 212 entradas
+2025-04-16 10:35:00,565 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria politica
+2025-04-16 10:44:35,878 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/conheca-a-historia-do-globo-reporter-20250416104435.jpg
+2025-04-16 10:44:35,879 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Conheça a história do Globo Repórter
+2025-04-16 10:44:35,922 - NewsResearchAgent - INFO - Cache de notícias salvo com 1702 entradas
+2025-04-16 10:44:35,925 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 213 entradas
+2025-04-16 10:44:35,925 - NewsResearchAgent - INFO - Notícia publicada: Conheça a história do Globo Repórter em ./categorias/politica/conheca-a-historia-do-globo-reporter-20250416104435.html
+2025-04-16 10:44:36,431 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 10:44:36,431 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-16 10:44:36,796 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-16 10:44:39,068 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-16 10:44:42,057 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-16 10:44:42,836 - NewsResearchAgent - INFO - Cache de notícias salvo com 1706 entradas
+2025-04-16 10:44:42,838 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 213 entradas
+2025-04-16 10:44:42,846 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria tecnologia
+2025-04-16 10:54:13,397 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/10-filmes-vencedores-do-oscar-para-assistir-na-net-20250416105413.jpg
+2025-04-16 10:54:13,397 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: 10 filmes vencedores do Oscar para assistir na Netflix
+2025-04-16 10:54:13,441 - NewsResearchAgent - INFO - Cache de notícias salvo com 1706 entradas
+2025-04-16 10:54:13,443 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 214 entradas
+2025-04-16 10:54:13,443 - NewsResearchAgent - INFO - Notícia publicada: 10 filmes vencedores do Oscar para assistir na Netflix em ./categorias/tecnologia/10-filmes-vencedores-do-oscar-para-assistir-na-net-20250416105413.html
+2025-04-16 10:54:13,952 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 10:54:13,952 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-16 10:54:17,902 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-16 10:54:18,683 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-16 10:54:23,585 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-16 10:54:24,213 - NewsResearchAgent - INFO - Cache de notícias salvo com 1709 entradas
+2025-04-16 10:54:24,216 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 214 entradas
+2025-04-16 10:54:24,225 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria entretenimento
+2025-04-16 11:03:53,239 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/supergirl-video-do-set-mostra-estacao-especial-ass-20250416110353.jpg
+2025-04-16 11:03:53,239 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Supergirl | Vídeo do set mostra estação especial - assista
+2025-04-16 11:03:53,283 - NewsResearchAgent - INFO - Cache de notícias salvo com 1709 entradas
+2025-04-16 11:03:53,285 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 215 entradas
+2025-04-16 11:03:53,285 - NewsResearchAgent - INFO - Notícia publicada: Supergirl | Vídeo do set mostra estação especial - assista em ./categorias/entretenimento/supergirl-video-do-set-mostra-estacao-especial-ass-20250416110353.html
+2025-04-16 11:03:53,782 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 11:03:53,782 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-16 11:03:54,991 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-16 11:03:55,491 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-16 11:03:58,176 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-16 11:03:58,526 - NewsResearchAgent - INFO - Cache de notícias salvo com 1709 entradas
+2025-04-16 11:03:58,529 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 215 entradas
+2025-04-16 11:03:58,535 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria curiosidades
+2025-04-16 11:13:25,959 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/muito-antes-dos-debates-identitarios-epicuro-const-20250416111325.jpg
+2025-04-16 11:13:25,960 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Muito antes dos debates identitários, Epicuro construiu uma filosofia inclusiva
+2025-04-16 11:13:26,003 - NewsResearchAgent - INFO - Cache de notícias salvo com 1709 entradas
+2025-04-16 11:13:26,005 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 216 entradas
+2025-04-16 11:13:26,005 - NewsResearchAgent - INFO - Notícia publicada: Muito antes dos debates identitários, Epicuro construiu uma filosofia inclusiva em ./categorias/curiosidades/muito-antes-dos-debates-identitarios-epicuro-const-20250416111325.html

@@ -1,5 +1,19 @@
 [
   {
+    "title": "TJMG condena transportadora que se apropriou de carga",
+    "summary": "A 18ª Câmara Cível do Tribunal de Justiça de Minas Gerais manteve uma decisão que condenou uma transportadora a restituir a uma empresa do ramo alimentício o valor de R$ 523 mil. A empresa havia contratado a transportadora para levar 100 toneladas de feijão carioquinha da cidade de Sorriso, no Mato Grosso, até a cidade de Recife, em Pernambuco, e pagou R$ 30 mil pelo serviço.",
+    "timestamp": "2025-04-16T10:34:00",
+    "link": "categorias/economia/tjmg-condena-transportadora-que-se-apropriou-de-carga.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "title": "{{TITULO}}",
+    "summary": "",
+    "timestamp": "2025-04-16T10:13:16.148453",
+    "link": "categorias/economia/titulo.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "Páscoa desperta intenção de compra em 86% dos brasileiros, diz pesquisa",
     "summary": "Uma pesquisa realizada pelo Instituto Locomotiva revelou que 86% dos brasileiros, o que corresponde a aproximadamente 140 milhões de pessoas, pretendem comprar produtos relacionados à Páscoa neste ano. Esse número representa um aumento de cinco pontos percentuais em relação ao ano passado, quando 81% dos brasileiros tinham a mesma intenção.",
     "timestamp": "2025-04-16T08:38:00",
@@ -7,24 +21,10 @@
     "image": "images/placeholder.jpg"
   },
   {
-    "title": "{{TITULO}}",
-    "summary": "",
-    "timestamp": "2025-04-16T08:17:27.030867",
-    "link": "categorias/economia/titulo.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
     "title": "Jaques Wagner descarta acordo sobre projeto de anistia: 'a classe política pirou'",
     "summary": "O líder do governo no Senado, Jaques Wagner, do Partido dos Trabalhadores da Bahia, afirmou que não há possibilidade de negociação em relação ao projeto de lei que visa anistiar os envolvidos nos atos de 8 de janeiro. O projeto teve seu requerimento de urgência protocolado recentemente na Câmara dos Deputados, com 262 assinaturas, o que representa a maioria absoluta na Casa.",
     "timestamp": "2025-04-16T06:39:00",
     "link": "categorias/economia/jaques-wagner-descarta-acordo-sobre-projeto-de-anistia-a-classe-pol-tica-pirou.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "Trump pressiona China a pedir negociação com os EUA",
-    "summary": "O presidente dos Estados Unidos, Donald Trump, está pressionando a China a iniciar negociações sobre tarifas, na tentativa de conter a crescente guerra comercial entre as duas maiores economias globais. Trump acredita que a China precisa fazer um acordo com os Estados Unidos, pois depende do consumidor americano para manter sua economia em funcionamento.",
-    "timestamp": "2025-04-16T04:36:00",
-    "link": "categorias/economia/trump-pressiona-china-a-pedir-negocia-o-com-os-eua.html",
     "image": "images/placeholder.jpg"
   }
 ]
