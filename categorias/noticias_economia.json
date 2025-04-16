@@ -1,18 +1,18 @@
 [
   {
+    "title": "{{TITULO}}",
+    "summary": "",
+    "timestamp": "2025-04-16T19:09:14.708025",
+    "link": "categorias/economia/exemplo_economia.html",
+    "image": "{{IMAGEM_URL}}",
+    "category": "economia"
+  },
+  {
     "title": "Não há grandes projetos depois do IR",
     "summary": "A reforma do Imposto de Renda é considerada o último grande projeto a ser negociado no Congresso Nacional, de acordo com a estratégia do Ministério da Fazenda. Não há expectativas de que outras discussões de grande envergadura sejam realizadas até o fim de 2026. Esse cenário sugere que o governo está focado em concluir essa importante reforma tributária antes de avançar com outras propostas significativas.",
     "timestamp": "2025-04-16T16:37:00",
     "link": "categorias/economia/nao-ha-grandes-projetos-depois-do-ir-20250416163725.html",
     "image": "../../images/economia/nao-ha-grandes-projetos-depois-do-ir-20250416163725.jpg",
-    "category": "economia"
-  },
-  {
-    "title": "{{TITULO}}",
-    "summary": "",
-    "timestamp": "2025-04-16T16:15:56.425405",
-    "link": "categorias/economia/exemplo_economia.html",
-    "image": "{{IMAGEM_URL}}",
     "category": "economia"
   },
   {

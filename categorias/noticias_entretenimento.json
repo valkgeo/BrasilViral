@@ -1,18 +1,18 @@
 [
   {
+    "title": "Exemplo de notícia de entretenimento",
+    "summary": "Este é um exemplo de notícia de entretenimento. Aqui você encontrará informações sobre cinema, música, celebridades, eventos culturais e lançamentos de streaming. O BrasilViral traz as novidades mais quentes do mundo do entretenimento. entretenimento.",
+    "timestamp": "2025-04-16T19:09:14.710025",
+    "link": "categorias/entretenimento/exemplo_entretenimento.html",
+    "image": "{{IMAGEM_URL}}",
+    "category": "entretenimento"
+  },
+  {
     "title": "gamescom latam 2025 | Tudo sobre o evento",
     "summary": "A gamescom latam 2025 está próxima de acontecer, trazendo consigo uma grande expectativa para os fãs de jogos eletrônicos. O evento será realizado entre os dias 1 e 4 de maio deste ano, no Distrito Anhembi, localizado no bairro de Santana, em São Paulo. Essa edição promete reunir gamers, empresas de jogos, influenciadores e muito mais, tornando-se um palco para grandes novidades do mercado.",
     "timestamp": "2025-04-16T17:06:00",
     "link": "categorias/entretenimento/gamescom-latam-2025-tudo-sobre-o-evento-20250416170632.html",
     "image": "../../images/entretenimento/gamescom-latam-2025-tudo-sobre-o-evento-20250416170632.jpg",
-    "category": "entretenimento"
-  },
-  {
-    "title": "Exemplo de notícia de entretenimento",
-    "summary": "Este é um exemplo de notícia de entretenimento. Aqui você encontrará informações sobre cinema, música, celebridades, eventos culturais e lançamentos de streaming. O BrasilViral traz as novidades mais quentes do mundo do entretenimento. entretenimento.",
-    "timestamp": "2025-04-16T16:15:56.427405",
-    "link": "categorias/entretenimento/exemplo_entretenimento.html",
-    "image": "{{IMAGEM_URL}}",
     "category": "entretenimento"
   },
   {
