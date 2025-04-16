@@ -3077,3 +3077,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-16 15:12:41,776 - NewsResearchAgent - INFO - Cache de notícias salvo com 1774 entradas
 2025-04-16 15:12:41,779 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 228 entradas
 2025-04-16 15:12:41,779 - NewsResearchAgent - INFO - Notícia publicada: Idosos que usam smartphones podem manter cérebro mais saudável em ./categorias/curiosidades/idosos-que-usam-smartphones-podem-manter-cerebro-m-20250416151241.html
+2025-04-16 15:15:07,947 - NewsResearchAgent - INFO - Cache de notícias carregado com 1774 entradas
+2025-04-16 15:15:07,949 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 228 entradas
+2025-04-16 15:15:22,756 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 15:15:22,757 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-16 15:15:29,460 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-16 15:15:30,146 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-16 15:15:31,596 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-16 15:15:40,597 - NewsResearchAgent - INFO - Cache de notícias salvo com 1781 entradas
+2025-04-16 15:15:40,600 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 228 entradas
+2025-04-16 15:15:40,608 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria esportes
+2025-04-16 15:25:06,687 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/nico-harrison-se-pronuncia-sobre-troca-de-doncic-n-20250416152506.jpg
+2025-04-16 15:25:06,687 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Nico Harrison se pronuncia sobre troca de Doncic: "Não há arrependimentos"
+2025-04-16 15:25:06,734 - NewsResearchAgent - INFO - Cache de notícias salvo com 1781 entradas
+2025-04-16 15:25:06,737 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 229 entradas
+2025-04-16 15:25:06,737 - NewsResearchAgent - INFO - Notícia publicada: Nico Harrison se pronuncia sobre troca de Doncic: "Não há arrependimentos" em ./categorias/esportes/nico-harrison-se-pronuncia-sobre-troca-de-doncic-n-20250416152506.html
+2025-04-16 15:25:07,412 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 15:25:07,412 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-16 15:25:13,030 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-16 15:25:20,470 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-16 15:25:22,465 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-16 15:25:22,617 - NewsResearchAgent - INFO - Cache de notícias salvo com 1785 entradas
+2025-04-16 15:25:22,620 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 229 entradas
+2025-04-16 15:25:22,626 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria economia
+2025-04-16 15:34:56,321 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/brasileiros-sao-expert-em-reality-shows-diz-presid-20250416153456.jpg
+2025-04-16 15:34:56,321 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Brasileiros são expert em reality shows, diz presidente da Endemol
+2025-04-16 15:34:56,367 - NewsResearchAgent - INFO - Cache de notícias salvo com 1785 entradas
+2025-04-16 15:34:56,369 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 230 entradas
+2025-04-16 15:34:56,369 - NewsResearchAgent - INFO - Notícia publicada: Brasileiros são expert em reality shows, diz presidente da Endemol em ./categorias/economia/brasileiros-sao-expert-em-reality-shows-diz-presid-20250416153456.html
+2025-04-16 15:34:56,853 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 15:34:56,854 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-16 15:35:00,384 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-16 15:35:03,529 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-16 15:35:05,143 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-16 15:35:06,691 - NewsResearchAgent - INFO - Cache de notícias salvo com 1791 entradas
+2025-04-16 15:35:06,694 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 230 entradas
+2025-04-16 15:35:06,701 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria politica
+2025-04-16 15:44:36,605 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/escuta-que-o-filho-e-teu-20250416154436.jpg
+2025-04-16 15:44:36,605 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Escuta Que O Filho É Teu
+2025-04-16 15:44:36,651 - NewsResearchAgent - INFO - Cache de notícias salvo com 1791 entradas
+2025-04-16 15:44:36,653 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 231 entradas
+2025-04-16 15:44:36,653 - NewsResearchAgent - INFO - Notícia publicada: Escuta Que O Filho É Teu em ./categorias/politica/escuta-que-o-filho-e-teu-20250416154436.html
+2025-04-16 15:44:37,155 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 15:44:37,155 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-16 15:44:43,340 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-16 15:44:44,342 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-16 15:44:46,934 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-16 15:44:47,927 - NewsResearchAgent - INFO - Cache de notícias salvo com 1796 entradas
+2025-04-16 15:44:47,929 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 231 entradas
+2025-04-16 15:44:47,938 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria tecnologia
+2025-04-16 15:54:17,933 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/cortaram-a-unica-internet-que-tinha-aqui-trafico-e-20250416155417.jpg
+2025-04-16 15:54:17,933 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: “Cortaram a única internet que tinha aqui”: tráfico expulsa empresas de internet
+2025-04-16 15:54:17,979 - NewsResearchAgent - INFO - Cache de notícias salvo com 1796 entradas
+2025-04-16 15:54:17,981 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 232 entradas
+2025-04-16 15:54:17,981 - NewsResearchAgent - INFO - Notícia publicada: “Cortaram a única internet que tinha aqui”: tráfico expulsa empresas de internet em ./categorias/tecnologia/cortaram-a-unica-internet-que-tinha-aqui-trafico-e-20250416155417.html
+2025-04-16 15:54:18,669 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 15:54:18,669 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-16 15:54:21,983 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-16 15:54:22,653 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-16 15:54:28,309 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-16 15:54:30,776 - NewsResearchAgent - INFO - Cache de notícias salvo com 1804 entradas
+2025-04-16 15:54:30,779 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 232 entradas
+2025-04-16 15:54:30,792 - NewsResearchAgent - INFO - Encontradas 18 notícias virais na categoria entretenimento
+2025-04-16 16:04:01,682 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/premonicao-6-lacos-de-sangue-ganha-poster-apocalip-20250416160401.jpg
+2025-04-16 16:04:01,682 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Premonição 6: Laços de Sangue ganha pôster apocalíptico; confira
+2025-04-16 16:04:01,728 - NewsResearchAgent - INFO - Cache de notícias salvo com 1804 entradas
+2025-04-16 16:04:01,731 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 233 entradas
+2025-04-16 16:04:01,731 - NewsResearchAgent - INFO - Notícia publicada: Premonição 6: Laços de Sangue ganha pôster apocalíptico; confira em ./categorias/entretenimento/premonicao-6-lacos-de-sangue-ganha-poster-apocalip-20250416160401.html
+2025-04-16 16:04:02,357 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 16:04:02,357 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-16 16:04:04,848 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-16 16:04:05,186 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-16 16:04:06,884 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-16 16:04:07,278 - NewsResearchAgent - INFO - Cache de notícias salvo com 1805 entradas
+2025-04-16 16:04:07,281 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 233 entradas
+2025-04-16 16:04:07,289 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria curiosidades
+2025-04-16 16:13:35,264 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/quanto-tempo-durou-a-chuva-mais-longa-da-historia--20250416161335.jpg
+2025-04-16 16:13:35,264 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Quanto tempo durou a chuva mais longa da história da Terra?
+2025-04-16 16:13:35,310 - NewsResearchAgent - INFO - Cache de notícias salvo com 1805 entradas
+2025-04-16 16:13:35,313 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 234 entradas
+2025-04-16 16:13:35,313 - NewsResearchAgent - INFO - Notícia publicada: Quanto tempo durou a chuva mais longa da história da Terra? em ./categorias/curiosidades/quanto-tempo-durou-a-chuva-mais-longa-da-historia--20250416161335.html
