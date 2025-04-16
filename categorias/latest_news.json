@@ -1,44 +1,44 @@
 {
   "esportes": {
-    "title": "Exemplo de notícia de esportes",
-    "summary": "Este é um exemplo de notícia esportiva. Aqui você encontrará as últimas informações sobre competições, resultados de jogos, transferências de jogadores e muito mais. O BrasilViral traz cobertura completa dos principais eventos esportivos nacionais e internacionais. esportes.",
-    "timestamp": "2025-04-16T19:09:14.712025",
-    "link": "categorias/esportes/exemplo-de-not-cia-de-esportes.html",
+    "title": "Quadro de Medalhas das Olimpíadas 2024 em Paris",
+    "summary": "O Quadro de Medalhas das Olimpíadas 2024 em Paris está a todo vapor, com os países competindo em diversas modalidades esportivas. Até o momento, os atletas brasileiros têm se destacado em várias áreas, incluindo o vôlei de praia feminino, onde Duda e Ana Patrícia conquistaram o título de campeãs. Em entrevista, as atletas compartilharam suas impressões sobre a competição e a emoção de representar o Brasil em um evento tão importante.",
+    "timestamp": "2025-04-16T20:25:00",
+    "link": "categorias/esportes/quadro-de-medalhas-das-olimp-adas-2024-em-paris.html",
     "image": "images/placeholder.jpg"
   },
   "economia": {
-    "title": "{{TITULO}}",
-    "summary": "",
-    "timestamp": "2025-04-16T19:09:14.708025",
-    "link": "categorias/economia/titulo.html",
+    "title": "Uso de IA generativa ganha escala entre empresas do setor",
+    "summary": "O uso de inteligência artificial generativa está se tornando cada vez mais comum entre as empresas do setor de previdência. Essas empresas têm investido pesadamente em tecnologia e consultoria financeira para alcançar mais pessoas e elevar os índices de eficiência. A aplicação da inteligência artificial na orientação de investimentos é acompanhada por uma curadoria de profissionais especializados, com o objetivo de evitar a \"alucinação\" técnica, quando a inteligência artificial generativa começa a se confundir com o acesso a uma grande base de informações.",
+    "timestamp": "2025-04-16T20:35:00",
+    "link": "categorias/economia/uso-de-ia-generativa-ganha-escala-entre-empresas-do-setor.html",
     "image": "images/placeholder.jpg"
   },
   "politica": {
-    "title": "Exemplo de notícia de politica",
-    "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
-    "timestamp": "2025-04-16T19:09:14.715025",
-    "link": "categorias/politica/exemplo-de-not-cia-de-politica.html",
+    "title": "Governo tenta acordo com hotéis em Belém para conter preços na COP30",
+    "summary": "O Governo Federal está prestes a assinar um acordo com representantes do setor hoteleiro de Belém para garantir equilíbrio nos preços de hospedagem durante a realização da COP30, em novembro. A negociação, que visa limitar cobranças consideradas abusivas, foi anunciada recentemente e contou com a participação de Rui Costa, ministro da Casa Civil, Celso Sabino, ministro do Turismo, membros da organização da COP30 e empresários da área de hospedagem de Belém.",
+    "timestamp": "2025-04-16T20:45:00",
+    "link": "categorias/politica/governo-tenta-acordo-com-hot-is-em-bel-m-para-conter-pre-os-na-cop30.html",
     "image": "images/placeholder.jpg"
   },
   "tecnologia": {
-    "title": "Exemplo de notícia de tecnologia",
-    "summary": "Este é um exemplo de notícia tecnológica. Aqui você encontrará informações sobre lançamentos de produtos, inovações tecnológicas, tendências digitais e avanços científicos. O BrasilViral traz as novidades mais recentes do mundo da tecnologia. tecnologia.",
-    "timestamp": "2025-04-16T19:09:14.718024",
-    "link": "categorias/tecnologia/exemplo-de-not-cia-de-tecnologia.html",
+    "title": "Samsung pede desculpas por atraso na One UI 7",
+    "summary": "A Samsung pediu desculpas aos consumidores por causa do atraso na entrega da One UI 7, o novo sistema para os smartphones da linha Galaxy. A empresa confirmou que a atualização foi suspensa devido a erros técnicos que afetam o desbloqueio dos aparelhos.",
+    "timestamp": "2025-04-16T20:55:00",
+    "link": "categorias/tecnologia/samsung-pede-desculpas-por-atraso-na-one-ui-7.html",
     "image": "images/placeholder.jpg"
   },
   "entretenimento": {
-    "title": "Exemplo de notícia de entretenimento",
-    "summary": "Este é um exemplo de notícia de entretenimento. Aqui você encontrará informações sobre cinema, música, celebridades, eventos culturais e lançamentos de streaming. O BrasilViral traz as novidades mais quentes do mundo do entretenimento. entretenimento.",
-    "timestamp": "2025-04-16T19:09:14.710025",
-    "link": "categorias/entretenimento/exemplo-de-not-cia-de-entretenimento.html",
+    "title": "Spotify está fora do ar, entenda o problema",
+    "summary": "O serviço de streaming de música Spotify está enfrentando problemas técnicos em diversas partes do mundo. Os usuários da plataforma, tanto os assinantes quanto os que utilizam a versão gratuita, relataram dificuldades em acessar o serviço na manhã de quarta-feira. De acordo com o Spotify, o problema não está relacionado a um ataque cibernético.",
+    "timestamp": "2025-04-16T21:04:00",
+    "link": "categorias/entretenimento/spotify-est-fora-do-ar-entenda-o-problema.html",
     "image": "images/placeholder.jpg"
   },
   "curiosidades": {
-    "title": "Exemplo de notícia de curiosidades",
-    "summary": "Este é um exemplo de notícia de curiosidades. Aqui você encontrará fatos interessantes, descobertas científicas, histórias inusitadas e fenômenos surpreendentes. O BrasilViral traz conteúdo que vai expandir seus conhecimentos e surpreender você. curiosidades.",
-    "timestamp": "2025-04-16T19:09:14.705025",
-    "link": "categorias/curiosidades/exemplo-de-not-cia-de-curiosidades.html",
+    "title": "Bióloga marinha encontra família de polvos vivendo dentro de garrafa; vídeo",
+    "summary": "Uma bióloga marinha americana fez uma descoberta surpreendente enquanto praticava mergulho em Florida Keys, nos EUA. Hanna Koch encontrou uma garrafa de cerveja no fundo do mar e, ao tentar retirá-la, percebeu que o interior da garrafa era habitado por uma família de polvos. A especialista relatou que, antes de descartar a garrafa, verificou se havia algo vivo dentro dela e foi quando notou um olho a encarando.",
+    "timestamp": "2025-04-16T21:14:00",
+    "link": "categorias/curiosidades/bi-loga-marinha-encontra-fam-lia-de-polvos-vivendo-dentro-de-garrafa-v-deo.html",
     "image": "images/placeholder.jpg"
   }
 }

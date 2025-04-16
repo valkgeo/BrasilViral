@@ -1918,5 +1918,53 @@
     "filepath": "./categorias/curiosidades/podcast-terapia-2-transtorno-de-deficit-de-atencao-20250416171609.html",
     "url_path": "categorias/curiosidades/podcast-terapia-2-transtorno-de-deficit-de-atencao-20250416171609.html",
     "publish_timestamp": "2025-04-16T17:16:09.693791"
+  },
+  "657e559b049d1f456bf6b81f8011870e": {
+    "title": "Quadro de Medalhas das Olimpíadas 2024 em Paris",
+    "category": "esportes",
+    "source_url": "https://ge.globo.com/olimpiadas/quadro-de-medalhas-olimpiadas-paris-2024/",
+    "filepath": "./categorias/esportes/quadro-de-medalhas-das-olimpiadas-2024-em-paris-20250416202544.html",
+    "url_path": "categorias/esportes/quadro-de-medalhas-das-olimpiadas-2024-em-paris-20250416202544.html",
+    "publish_timestamp": "2025-04-16T20:25:44.035605"
+  },
+  "16daab627f1fe7d10327a087839fc70d": {
+    "title": "Uso de IA generativa ganha escala entre empresas do setor",
+    "category": "economia",
+    "source_url": "https://valor.globo.com/publicacoes/especiais/guia-de-previdencia/noticia/2024/11/29/uso-de-ia-generativa-ganha-escala-entre-empresas-do-setor.ghtml",
+    "filepath": "./categorias/economia/uso-de-ia-generativa-ganha-escala-entre-empresas-d-20250416203539.html",
+    "url_path": "categorias/economia/uso-de-ia-generativa-ganha-escala-entre-empresas-d-20250416203539.html",
+    "publish_timestamp": "2025-04-16T20:35:39.718591"
+  },
+  "bfb33634f125833b87aed57d1a52b81e": {
+    "title": "Governo tenta acordo com hotéis em Belém para conter preços na COP30",
+    "category": "politica",
+    "source_url": "https://noticias.uol.com.br/politica/ultimas-noticias/2025/04/16/governo-tenta-acordo-com-hoteis-em-belem-para-conter-precos-na-cop30.htm",
+    "filepath": "./categorias/politica/governo-tenta-acordo-com-hoteis-em-belem-para-cont-20250416204519.html",
+    "url_path": "categorias/politica/governo-tenta-acordo-com-hoteis-em-belem-para-cont-20250416204519.html",
+    "publish_timestamp": "2025-04-16T20:45:19.688614"
+  },
+  "ffde3611c73678de333602068e4a7858": {
+    "title": "Samsung pede desculpas por atraso na One UI 7",
+    "category": "tecnologia",
+    "source_url": "https://tecnoblog.net/noticias/samsung-pede-desculpas-por-atraso-na-one-ui-7/",
+    "filepath": "./categorias/tecnologia/samsung-pede-desculpas-por-atraso-na-one-ui-7-20250416205500.html",
+    "url_path": "categorias/tecnologia/samsung-pede-desculpas-por-atraso-na-one-ui-7-20250416205500.html",
+    "publish_timestamp": "2025-04-16T20:55:00.535532"
+  },
+  "398a1d372114ed921f00a1cc2ed44582": {
+    "title": "Spotify está fora do ar, entenda o problema",
+    "category": "entretenimento",
+    "source_url": "https://www.omelete.com.br/musica/spotify-fora-do-ar-entenda",
+    "filepath": "./categorias/entretenimento/spotify-esta-fora-do-ar-entenda-o-problema-20250416210447.html",
+    "url_path": "categorias/entretenimento/spotify-esta-fora-do-ar-entenda-o-problema-20250416210447.html",
+    "publish_timestamp": "2025-04-16T21:04:47.251921"
+  },
+  "3a3421f957921d5b2c825163ffe6b90a": {
+    "title": "Bióloga marinha encontra família de polvos vivendo dentro de garrafa; vídeo",
+    "category": "curiosidades",
+    "source_url": "https://revistagalileu.globo.com/um-so-planeta/noticia/2025/04/biologa-marinha-encontra-familia-de-polvos-vivendo-dentro-de-garrafa-video.ghtml",
+    "filepath": "./categorias/curiosidades/biologa-marinha-encontra-familia-de-polvos-vivendo-20250416211421.html",
+    "url_path": "categorias/curiosidades/biologa-marinha-encontra-familia-de-polvos-vivendo-20250416211421.html",
+    "publish_timestamp": "2025-04-16T21:14:21.810221"
   }
 }

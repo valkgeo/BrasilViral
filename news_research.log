@@ -3239,3 +3239,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-16 17:16:09,743 - NewsResearchAgent - INFO - Notícia publicada: Podcast Terapia #2: Transtorno de Déficit de Atenção e Hiperatividade em ./categorias/curiosidades/podcast-terapia-2-transtorno-de-deficit-de-atencao-20250416171609.html
 2025-04-16 19:10:51,318 - NewsResearchAgent - INFO - Cache de notícias carregado com 1836 entradas
 2025-04-16 19:10:51,320 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 240 entradas
+2025-04-16 20:15:47,355 - NewsResearchAgent - INFO - Cache de notícias carregado com 1836 entradas
+2025-04-16 20:15:47,356 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 240 entradas
+2025-04-16 20:16:00,359 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 20:16:00,359 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-16 20:16:08,807 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-16 20:16:09,522 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-16 20:16:10,434 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-16 20:16:15,487 - NewsResearchAgent - INFO - Cache de notícias salvo com 1844 entradas
+2025-04-16 20:16:15,490 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 240 entradas
+2025-04-16 20:16:15,500 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria esportes
+2025-04-16 20:25:44,034 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/quadro-de-medalhas-das-olimpiadas-2024-em-paris-20250416202544.jpg
+2025-04-16 20:25:44,034 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Quadro de Medalhas das Olimpíadas 2024 em Paris
+2025-04-16 20:25:44,081 - NewsResearchAgent - INFO - Cache de notícias salvo com 1844 entradas
+2025-04-16 20:25:44,084 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 241 entradas
+2025-04-16 20:25:44,084 - NewsResearchAgent - INFO - Notícia publicada: Quadro de Medalhas das Olimpíadas 2024 em Paris em ./categorias/esportes/quadro-de-medalhas-das-olimpiadas-2024-em-paris-20250416202544.html
+2025-04-16 20:25:44,575 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 20:25:44,575 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-16 20:25:47,800 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-16 20:25:54,204 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-16 20:25:56,883 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-16 20:25:56,993 - NewsResearchAgent - INFO - Cache de notícias salvo com 1849 entradas
+2025-04-16 20:25:56,996 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 241 entradas
+2025-04-16 20:25:57,001 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria economia
+2025-04-16 20:35:39,717 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/uso-de-ia-generativa-ganha-escala-entre-empresas-d-20250416203539.jpg
+2025-04-16 20:35:39,718 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Uso de IA generativa ganha escala entre empresas do setor
+2025-04-16 20:35:39,765 - NewsResearchAgent - INFO - Cache de notícias salvo com 1849 entradas
+2025-04-16 20:35:39,767 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 242 entradas
+2025-04-16 20:35:39,768 - NewsResearchAgent - INFO - Notícia publicada: Uso de IA generativa ganha escala entre empresas do setor em ./categorias/economia/uso-de-ia-generativa-ganha-escala-entre-empresas-d-20250416203539.html
+2025-04-16 20:35:40,109 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 20:35:40,109 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-16 20:35:44,592 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-16 20:35:46,576 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-16 20:35:48,451 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-16 20:35:50,423 - NewsResearchAgent - INFO - Cache de notícias salvo com 1859 entradas
+2025-04-16 20:35:50,426 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 242 entradas
+2025-04-16 20:35:50,436 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria politica
+2025-04-16 20:45:19,688 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/governo-tenta-acordo-com-hoteis-em-belem-para-cont-20250416204519.jpg
+2025-04-16 20:45:19,688 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Governo tenta acordo com hotéis em Belém para conter preços na COP30
+2025-04-16 20:45:19,736 - NewsResearchAgent - INFO - Cache de notícias salvo com 1859 entradas
+2025-04-16 20:45:19,738 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 243 entradas
+2025-04-16 20:45:19,738 - NewsResearchAgent - INFO - Notícia publicada: Governo tenta acordo com hotéis em Belém para conter preços na COP30 em ./categorias/politica/governo-tenta-acordo-com-hoteis-em-belem-para-cont-20250416204519.html
+2025-04-16 20:45:20,224 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 20:45:20,224 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-16 20:45:25,409 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-16 20:45:26,225 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-16 20:45:28,303 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-16 20:45:29,213 - NewsResearchAgent - INFO - Cache de notícias salvo com 1866 entradas
+2025-04-16 20:45:29,216 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 243 entradas
+2025-04-16 20:45:29,225 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria tecnologia
+2025-04-16 20:55:00,534 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/samsung-pede-desculpas-por-atraso-na-one-ui-7-20250416205500.jpg
+2025-04-16 20:55:00,535 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Samsung pede desculpas por atraso na One UI 7
+2025-04-16 20:55:00,582 - NewsResearchAgent - INFO - Cache de notícias salvo com 1866 entradas
+2025-04-16 20:55:00,585 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 244 entradas
+2025-04-16 20:55:00,585 - NewsResearchAgent - INFO - Notícia publicada: Samsung pede desculpas por atraso na One UI 7 em ./categorias/tecnologia/samsung-pede-desculpas-por-atraso-na-one-ui-7-20250416205500.html
+2025-04-16 20:55:01,218 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 20:55:01,218 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-16 20:55:05,280 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-16 20:55:05,569 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-16 20:55:07,000 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-16 20:55:09,056 - NewsResearchAgent - INFO - Cache de notícias salvo com 1871 entradas
+2025-04-16 20:55:09,059 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 244 entradas
+2025-04-16 20:55:09,068 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria entretenimento
+2025-04-16 21:04:47,251 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/spotify-esta-fora-do-ar-entenda-o-problema-20250416210447.jpg
+2025-04-16 21:04:47,251 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Spotify está fora do ar, entenda o problema
+2025-04-16 21:04:47,298 - NewsResearchAgent - INFO - Cache de notícias salvo com 1871 entradas
+2025-04-16 21:04:47,301 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 245 entradas
+2025-04-16 21:04:47,301 - NewsResearchAgent - INFO - Notícia publicada: Spotify está fora do ar, entenda o problema em ./categorias/entretenimento/spotify-esta-fora-do-ar-entenda-o-problema-20250416210447.html
+2025-04-16 21:04:47,758 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 21:04:47,759 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-16 21:04:49,777 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-16 21:04:51,421 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-16 21:04:54,655 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-16 21:04:54,908 - NewsResearchAgent - INFO - Cache de notícias salvo com 1873 entradas
+2025-04-16 21:04:54,910 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 245 entradas
+2025-04-16 21:04:54,919 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria curiosidades
+2025-04-16 21:14:21,809 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/biologa-marinha-encontra-familia-de-polvos-vivendo-20250416211421.jpg
+2025-04-16 21:14:21,809 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Bióloga marinha encontra família de polvos vivendo dentro de garrafa; vídeo
+2025-04-16 21:14:21,856 - NewsResearchAgent - INFO - Cache de notícias salvo com 1873 entradas
+2025-04-16 21:14:21,859 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 246 entradas
+2025-04-16 21:14:21,859 - NewsResearchAgent - INFO - Notícia publicada: Bióloga marinha encontra família de polvos vivendo dentro de garrafa; vídeo em ./categorias/curiosidades/biologa-marinha-encontra-familia-de-polvos-vivendo-20250416211421.html
