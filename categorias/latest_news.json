@@ -1,44 +1,44 @@
 {
   "esportes": {
-    "title": "ESPN Brasil - Tudo Pelo Esporte",
-    "summary": "O cenário esportivo brasileiro está se movimentando com várias novidades em diferentes áreas. Recentemente, o campeonato de um popular jogo de tiro em primeira pessoa, conhecido como FPS, aconteceu pela primeira vez no Brasil, mais especificamente no Ginásio do Ibirapuera, em São Paulo. Essa competição é um marco importante para o esporte eletrônico no país.",
-    "timestamp": "2025-04-16T01:12:00",
-    "link": "categorias/esportes/espn-brasil-tudo-pelo-esporte.html",
+    "title": "Tironi no Lance!: O Palmeiras reina solitário em São Paulo",
+    "summary": "O Campeonato Brasileiro está em sua terceira rodada e já é possível perceber qual caminho os times paulistas vão trilhar na competição. Ao analisar a tabela, nota-se um abismo de posições entre o líder e os demais times do estado. O Palmeiras se destaca como o mais bem colocado, enquanto os outros times, como o Corinthians, o São Paulo e o Santos, ainda buscam encontrar seu ritmo.",
+    "timestamp": "2025-04-16T03:11:00",
+    "link": "categorias/esportes/tironi-no-lance-o-palmeiras-reina-solit-rio-em-s-o-paulo.html",
     "image": "images/placeholder.jpg"
   },
   "economia": {
-    "title": "OpenAI lança novos modelos 4.1 para o ChatGPT; veja o que muda",
-    "summary": "A OpenAI lançou recentemente um novo modelo de inteligência artificial, o GPT-4.1, juntamente com as versões menores GPT-4.1 mini e GPT-4.1 nano. De acordo com a empresa, esses novos modelos trazem significativas melhorias em relação à codificação, execução de instruções e compreensão de contexto longo. Essas melhorias são resultado de avanços tecnológicos que permitem que os modelos processem e entendam melhor as informações.",
-    "timestamp": "2025-04-16T01:21:00",
-    "link": "categorias/economia/openai-lan-a-novos-modelos-4-1-para-o-chatgpt-veja-o-que-muda.html",
+    "title": "Justiça suspende eleição para representantes de municípios no Comitê Gestor do IBS",
+    "summary": "A 11ª Vara Cível de Brasília decidiu suspender as deliberações para a eleição de representantes dos municípios no Conselho Superior do Comitê Gestor do Imposto sobre Bens e Serviços (IBS). Essa decisão foi tomada em resposta a um pedido feito pela Frente Nacional de Prefeitos (FNP), que está disputando a participação no órgão com a Confederação Nacional de Municípios (CNM).",
+    "timestamp": "2025-04-16T03:21:00",
+    "link": "categorias/economia/justi-a-suspende-elei-o-para-representantes-de-munic-pios-no-comit-gestor-do-ibs.html",
     "image": "images/placeholder.jpg"
   },
   "politica": {
-    "title": "Concursos e Emprego",
-    "summary": "A semana começa com uma grande oferta de empregos no Espírito Santo, com mais de 6,5 mil vagas disponíveis em todo o estado. Essas oportunidades abrangem dezenas de cargos e são destinadas a candidatos de todos os níveis de escolaridade, desde o fundamental até o superior.",
-    "timestamp": "2025-04-16T01:31:00",
-    "link": "categorias/politica/concursos-e-emprego.html",
+    "title": "Da série: Trump vai acabar reelegendo o Lula",
+    "summary": "A nova ordem mundial patrocinada por Donald Trump pode ter um efeito inesperado no Brasil: contribuir para a reeleição de Luiz Inácio Lula da Silva. Isso pode parecer surpreendente, mas é importante entender os eventos que vêm ocorrendo nos últimos dias.",
+    "timestamp": "2025-04-16T03:31:00",
+    "link": "categorias/politica/da-s-rie-trump-vai-acabar-reelegendo-o-lula.html",
     "image": "images/placeholder.jpg"
   },
   "tecnologia": {
-    "title": "OpenAI lança GPT-4.1: confira todas as melhoras da nova IA",
-    "summary": "A OpenAI lançou recentemente o GPT-4.1, seu mais novo modelo generativo de inteligência artificial. Este modelo é considerado o sucessor direto do GPT-4 e foi apresentado como uma versão aprimorada, com melhorias gerais em relação à geração anterior. De acordo com a empresa, o GPT-4.1 oferece capacidades superiores ou equivalentes às do GPT-4.5, mas com um menor custo computacional.",
-    "timestamp": "2025-04-16T01:41:00",
-    "link": "categorias/tecnologia/openai-lan-a-gpt-4-1-confira-todas-as-melhoras-da-nova-ia.html",
+    "title": "10 maneiras criativas de utilizar o Excel e que você nem imaginava",
+    "summary": "O Excel é um programa amplamente utilizado para realizar cálculos, criar planilhas e gerenciar dados, especialmente no ambiente empresarial. No entanto, suas funcionalidades vão além dessas aplicações tradicionais. Existem maneiras criativas de utilizar o Excel que podem ser úteis em diversas situações da vida pessoal e profissional.",
+    "timestamp": "2025-04-16T03:41:00",
+    "link": "categorias/tecnologia/10-maneiras-criativas-de-utilizar-o-excel-e-que-voc-nem-imaginava.html",
     "image": "images/placeholder.jpg"
   },
   "entretenimento": {
-    "title": "The Elder Scrolls IV: Oblivion Remastered | Imagens vazadas confirmam o jogo",
-    "summary": "Há anos, circula pela internet o rumor de que The Elder Scrolls IV: Oblivion ganharia uma versão remasterizada. Recentemente, imagens vazadas do desenvolvimento do jogo confirmaram a produção. Essas imagens foram encontradas no site do desenvolvedor Virtuous e mostram os mesmos cenários vistos no jogo original, lançado em 2006, mas com gráficos contemporâneos.",
-    "timestamp": "2025-04-16T01:51:00",
-    "link": "categorias/entretenimento/the-elder-scrolls-iv-oblivion-remastered-imagens-vazadas-confirmam-o-jogo.html",
+    "title": "“Entrevista com o Vampiro”: terceira temporada é confirmada para 2026",
+    "summary": "A série \"Entrevista com o Vampiro\", adaptação dos livros de Anne Rice, terá sua terceira temporada estreando em 2026, de acordo com o canal norte-americano AMC. A produção, criada por Rolin Jones, conta a história de Louis de Pointe du Lac, que concede uma entrevista ao jornalista Daniel Molloy e relata sua vida e relação com Lestat de Lioncourt, o homem que o transformou em vampiro no início do século XX.",
+    "timestamp": "2025-04-16T03:50:00",
+    "link": "categorias/entretenimento/entrevista-com-o-vampiro-terceira-temporada-confirmada-para-2026.html",
     "image": "images/placeholder.jpg"
   },
   "curiosidades": {
-    "title": "Conheça 4 alterações nas unhas que podem indicar problemas de saúde",
-    "summary": "As unhas são uma extensão da pele e desempenham um papel essencial na proteção das falanges, que são os últimos ossinhos dos dedos, e na funcionalidade das mãos e dos pés. Além disso, elas também exercem uma função estética. De acordo com o dermatologista Andrey Malvestiti, do Hospital Israelita Albert Einstein, as unhas servem como uma camada de defesa para as pontas dos dedos, que são áreas muito sensíveis e ricas em terminações nervosas. Elas também nos auxiliam em tarefas diárias, como segurar objetos, coçar e até mesmo proporcionar mais firmeza ao toque.",
-    "timestamp": "2025-04-16T02:00:00",
-    "link": "categorias/curiosidades/conhe-a-4-altera-es-nas-unhas-que-podem-indicar-problemas-de-sa-de.html",
+    "title": "Casos de cólera na Europa estão ligados a consumo de \"água sagrada\"",
+    "summary": "Casos de cólera na Europa estão ligados a consumo de \"água sagrada\"",
+    "timestamp": "2025-04-16T04:00:00",
+    "link": "categorias/curiosidades/casos-de-c-lera-na-europa-est-o-ligados-a-consumo-de-gua-sagrada.html",
     "image": "images/placeholder.jpg"
   }
 }

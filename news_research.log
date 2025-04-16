@@ -2514,3 +2514,83 @@ detail: You need to set up billing to run this model. Go to https://replicate.co
 2025-04-16 02:00:47,964 - NewsResearchAgent - INFO - Cache de notícias salvo com 1546 entradas
 2025-04-16 02:00:47,966 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 186 entradas
 2025-04-16 02:00:47,966 - NewsResearchAgent - INFO - Notícia publicada: Conheça 4 alterações nas unhas que podem indicar problemas de saúde em ./categorias/curiosidades/conheca-4-alteracoes-nas-unhas-que-podem-indicar-p-20250416020047.html
+2025-04-16 03:01:52,378 - NewsResearchAgent - INFO - Cache de notícias carregado com 1546 entradas
+2025-04-16 03:01:52,379 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 186 entradas
+2025-04-16 03:02:17,780 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 03:02:17,780 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-16 03:02:20,677 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-16 03:02:21,250 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-16 03:02:22,113 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-16 03:02:26,186 - NewsResearchAgent - INFO - Cache de notícias salvo com 1551 entradas
+2025-04-16 03:02:26,188 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 186 entradas
+2025-04-16 03:02:26,194 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria esportes
+2025-04-16 03:11:59,742 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/tironi-no-lance-o-palmeiras-reina-solitario-em-sao-20250416031159.jpg
+2025-04-16 03:11:59,742 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Tironi no Lance!: O Palmeiras reina solitário em São Paulo
+2025-04-16 03:11:59,782 - NewsResearchAgent - INFO - Cache de notícias salvo com 1551 entradas
+2025-04-16 03:11:59,785 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 187 entradas
+2025-04-16 03:11:59,785 - NewsResearchAgent - INFO - Notícia publicada: Tironi no Lance!: O Palmeiras reina solitário em São Paulo em ./categorias/esportes/tironi-no-lance-o-palmeiras-reina-solitario-em-sao-20250416031159.html
+2025-04-16 03:12:00,185 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 03:12:00,185 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-16 03:12:03,126 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-16 03:12:08,674 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-16 03:12:09,498 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-16 03:12:09,640 - NewsResearchAgent - INFO - Cache de notícias salvo com 1557 entradas
+2025-04-16 03:12:09,642 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 187 entradas
+2025-04-16 03:12:09,648 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria economia
+2025-04-16 03:21:41,588 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/justica-suspende-eleicao-para-representantes-de-mu-20250416032141.jpg
+2025-04-16 03:21:41,588 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Justiça suspende eleição para representantes de municípios no Comitê Gestor do IBS
+2025-04-16 03:21:41,628 - NewsResearchAgent - INFO - Cache de notícias salvo com 1557 entradas
+2025-04-16 03:21:41,630 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 188 entradas
+2025-04-16 03:21:41,630 - NewsResearchAgent - INFO - Notícia publicada: Justiça suspende eleição para representantes de municípios no Comitê Gestor do IBS em ./categorias/economia/justica-suspende-eleicao-para-representantes-de-mu-20250416032141.html
+2025-04-16 03:21:41,955 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 03:21:41,955 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-16 03:21:44,614 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-16 03:21:47,074 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-16 03:21:51,052 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-16 03:21:51,602 - NewsResearchAgent - INFO - Cache de notícias salvo com 1564 entradas
+2025-04-16 03:21:51,604 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 188 entradas
+2025-04-16 03:21:51,611 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria politica
+2025-04-16 03:31:26,506 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/da-serie-trump-vai-acabar-reelegendo-o-lula-20250416033126.jpg
+2025-04-16 03:31:26,507 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Da série: Trump vai acabar reelegendo o Lula
+2025-04-16 03:31:26,547 - NewsResearchAgent - INFO - Cache de notícias salvo com 1564 entradas
+2025-04-16 03:31:26,549 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 189 entradas
+2025-04-16 03:31:26,549 - NewsResearchAgent - INFO - Notícia publicada: Da série: Trump vai acabar reelegendo o Lula em ./categorias/politica/da-serie-trump-vai-acabar-reelegendo-o-lula-20250416033126.html
+2025-04-16 03:31:26,932 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 03:31:26,932 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-16 03:31:29,870 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-16 03:31:30,880 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-16 03:31:32,323 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-16 03:31:33,356 - NewsResearchAgent - INFO - Cache de notícias salvo com 1571 entradas
+2025-04-16 03:31:33,358 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 189 entradas
+2025-04-16 03:31:33,365 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria tecnologia
+2025-04-16 03:41:11,399 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/10-maneiras-criativas-de-utilizar-o-excel-e-que-vo-20250416034111.jpg
+2025-04-16 03:41:11,399 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: 10 maneiras criativas de utilizar o Excel e que você nem imaginava
+2025-04-16 03:41:11,440 - NewsResearchAgent - INFO - Cache de notícias salvo com 1571 entradas
+2025-04-16 03:41:11,442 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 190 entradas
+2025-04-16 03:41:11,442 - NewsResearchAgent - INFO - Notícia publicada: 10 maneiras criativas de utilizar o Excel e que você nem imaginava em ./categorias/tecnologia/10-maneiras-criativas-de-utilizar-o-excel-e-que-vo-20250416034111.html
+2025-04-16 03:41:11,698 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 03:41:11,699 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-16 03:41:12,276 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-16 03:41:12,544 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-16 03:41:16,437 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-16 03:41:17,636 - NewsResearchAgent - INFO - Cache de notícias salvo com 1575 entradas
+2025-04-16 03:41:17,639 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 190 entradas
+2025-04-16 03:41:17,651 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria entretenimento
+2025-04-16 03:50:49,613 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/entrevista-com-o-vampiro-terceira-temporada-e-conf-20250416035049.jpg
+2025-04-16 03:50:49,613 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: “Entrevista com o Vampiro”: terceira temporada é confirmada para 2026
+2025-04-16 03:50:49,653 - NewsResearchAgent - INFO - Cache de notícias salvo com 1575 entradas
+2025-04-16 03:50:49,656 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 191 entradas
+2025-04-16 03:50:49,656 - NewsResearchAgent - INFO - Notícia publicada: “Entrevista com o Vampiro”: terceira temporada é confirmada para 2026 em ./categorias/entretenimento/entrevista-com-o-vampiro-terceira-temporada-e-conf-20250416035049.html
+2025-04-16 03:50:50,098 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 03:50:50,098 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-16 03:50:53,144 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-16 03:50:54,144 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-16 03:50:55,579 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-16 03:50:55,790 - NewsResearchAgent - INFO - Cache de notícias salvo com 1579 entradas
+2025-04-16 03:50:55,792 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 191 entradas
+2025-04-16 03:50:55,798 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria curiosidades
+2025-04-16 04:00:32,470 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/casos-de-colera-na-europa-estao-ligados-a-consumo--20250416040032.jpg
+2025-04-16 04:00:32,470 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Casos de cólera na Europa estão ligados a consumo de "água sagrada"
+2025-04-16 04:00:32,510 - NewsResearchAgent - INFO - Cache de notícias salvo com 1579 entradas
+2025-04-16 04:00:32,512 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 192 entradas
+2025-04-16 04:00:32,512 - NewsResearchAgent - INFO - Notícia publicada: Casos de cólera na Europa estão ligados a consumo de "água sagrada" em ./categorias/curiosidades/casos-de-colera-na-europa-estao-ligados-a-consumo--20250416040032.html

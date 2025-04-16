@@ -1,18 +1,26 @@
 [
   {
-    "title": "ESPN Brasil - Tudo Pelo Esporte",
-    "summary": "O cenário esportivo brasileiro está se movimentando com várias novidades em diferentes áreas. Recentemente, o campeonato de um popular jogo de tiro em primeira pessoa, conhecido como FPS, aconteceu pela primeira vez no Brasil, mais especificamente no Ginásio do Ibirapuera, em São Paulo. Essa competição é um marco importante para o esporte eletrônico no país.",
-    "timestamp": "2025-04-16T01:12:00",
-    "link": "categorias/esportes/espn-brasil-tudo-pelo-esporte-20250416011207.html",
-    "image": "../../images/esportes/espn-brasil-tudo-pelo-esporte-20250416011207.jpg",
+    "title": "Tironi no Lance!: O Palmeiras reina solitário em São Paulo",
+    "summary": "O Campeonato Brasileiro está em sua terceira rodada e já é possível perceber qual caminho os times paulistas vão trilhar na competição. Ao analisar a tabela, nota-se um abismo de posições entre o líder e os demais times do estado. O Palmeiras se destaca como o mais bem colocado, enquanto os outros times, como o Corinthians, o São Paulo e o Santos, ainda buscam encontrar seu ritmo.",
+    "timestamp": "2025-04-16T03:11:00",
+    "link": "categorias/esportes/tironi-no-lance-o-palmeiras-reina-solitario-em-sao-20250416031159.html",
+    "image": "../../images/esportes/tironi-no-lance-o-palmeiras-reina-solitario-em-sao-20250416031159.jpg",
     "category": "esportes"
   },
   {
     "title": "Exemplo de notícia de esportes",
     "summary": "Este é um exemplo de notícia esportiva. Aqui você encontrará as últimas informações sobre competições, resultados de jogos, transferências de jogadores e muito mais. O BrasilViral traz cobertura completa dos principais eventos esportivos nacionais e internacionais. esportes.",
-    "timestamp": "2025-04-16T01:00:30.358132",
+    "timestamp": "2025-04-16T03:00:13.316559",
     "link": "categorias/esportes/exemplo_esportes.html",
     "image": "{{IMAGEM_URL}}",
+    "category": "esportes"
+  },
+  {
+    "title": "ESPN Brasil - Tudo Pelo Esporte",
+    "summary": "O cenário esportivo brasileiro está se movimentando com várias novidades em diferentes áreas. Recentemente, o campeonato de um popular jogo de tiro em primeira pessoa, conhecido como FPS, aconteceu pela primeira vez no Brasil, mais especificamente no Ginásio do Ibirapuera, em São Paulo. Essa competição é um marco importante para o esporte eletrônico no país.",
+    "timestamp": "2025-04-16T01:12:00",
+    "link": "categorias/esportes/espn-brasil-tudo-pelo-esporte-20250416011207.html",
+    "image": "../../images/esportes/espn-brasil-tudo-pelo-esporte-20250416011207.jpg",
     "category": "esportes"
   },
   {
