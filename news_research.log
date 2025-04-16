@@ -2594,3 +2594,83 @@ detail: You need to set up billing to run this model. Go to https://replicate.co
 2025-04-16 04:00:32,510 - NewsResearchAgent - INFO - Cache de notícias salvo com 1579 entradas
 2025-04-16 04:00:32,512 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 192 entradas
 2025-04-16 04:00:32,512 - NewsResearchAgent - INFO - Notícia publicada: Casos de cólera na Europa estão ligados a consumo de "água sagrada" em ./categorias/curiosidades/casos-de-colera-na-europa-estao-ligados-a-consumo--20250416040032.html
+2025-04-16 04:16:35,742 - NewsResearchAgent - INFO - Cache de notícias carregado com 1579 entradas
+2025-04-16 04:16:35,743 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 192 entradas
+2025-04-16 04:16:50,266 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 04:16:50,266 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-16 04:16:54,125 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-16 04:16:56,833 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-16 04:16:57,738 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-16 04:17:05,746 - NewsResearchAgent - INFO - Cache de notícias salvo com 1585 entradas
+2025-04-16 04:17:05,748 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 192 entradas
+2025-04-16 04:17:05,753 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria esportes
+2025-04-16 04:26:37,973 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/torcedores-do-flamengo-lamentam-polemica-de-bruno--20250416042637.jpg
+2025-04-16 04:26:37,973 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Torcedores do Flamengo lamentam polêmica de Bruno Henrique: ‘Inacreditável’
+2025-04-16 04:26:38,014 - NewsResearchAgent - INFO - Cache de notícias salvo com 1585 entradas
+2025-04-16 04:26:38,017 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 193 entradas
+2025-04-16 04:26:38,017 - NewsResearchAgent - INFO - Notícia publicada: Torcedores do Flamengo lamentam polêmica de Bruno Henrique: ‘Inacreditável’ em ./categorias/esportes/torcedores-do-flamengo-lamentam-polemica-de-bruno--20250416042637.html
+2025-04-16 04:26:38,608 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 04:26:38,608 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-16 04:26:45,611 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-16 04:26:52,718 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-16 04:26:53,578 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-16 04:26:53,675 - NewsResearchAgent - INFO - Cache de notícias salvo com 1589 entradas
+2025-04-16 04:26:53,677 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 193 entradas
+2025-04-16 04:26:53,681 - NewsResearchAgent - INFO - Encontradas 6 notícias virais na categoria economia
+2025-04-16 04:36:24,229 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/trump-pressiona-china-a-pedir-negociacao-com-os-eu-20250416043624.jpg
+2025-04-16 04:36:24,229 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Trump pressiona China a pedir negociação com os EUA
+2025-04-16 04:36:24,270 - NewsResearchAgent - INFO - Cache de notícias salvo com 1589 entradas
+2025-04-16 04:36:24,272 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 194 entradas
+2025-04-16 04:36:24,272 - NewsResearchAgent - INFO - Notícia publicada: Trump pressiona China a pedir negociação com os EUA em ./categorias/economia/trump-pressiona-china-a-pedir-negociacao-com-os-eu-20250416043624.html
+2025-04-16 04:36:24,678 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 04:36:24,678 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-16 04:36:30,857 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-16 04:36:35,693 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-16 04:36:36,439 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-16 04:36:37,186 - NewsResearchAgent - INFO - Cache de notícias salvo com 1599 entradas
+2025-04-16 04:36:37,188 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 194 entradas
+2025-04-16 04:36:37,195 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria politica
+2025-04-16 04:46:11,205 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/janja-pede-regulamentacao-das-redes-apos-morte-de--20250416044611.jpg
+2025-04-16 04:46:11,205 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Janja pede regulamentação das redes após morte de criança por desodorante
+2025-04-16 04:46:11,246 - NewsResearchAgent - INFO - Cache de notícias salvo com 1599 entradas
+2025-04-16 04:46:11,249 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 195 entradas
+2025-04-16 04:46:11,249 - NewsResearchAgent - INFO - Notícia publicada: Janja pede regulamentação das redes após morte de criança por desodorante em ./categorias/politica/janja-pede-regulamentacao-das-redes-apos-morte-de--20250416044611.html
+2025-04-16 04:46:11,630 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 04:46:11,630 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-16 04:46:14,915 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-16 04:46:18,264 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-16 04:46:19,782 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-16 04:46:21,092 - NewsResearchAgent - INFO - Cache de notícias salvo com 1606 entradas
+2025-04-16 04:46:21,094 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 195 entradas
+2025-04-16 04:46:21,102 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria tecnologia
+2025-04-16 04:55:54,679 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/cupom-casas-bahia-ate-80-off-em-abril-de-2025-20250416045554.jpg
+2025-04-16 04:55:54,679 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Cupom Casas Bahia: até 80% off em Abril de 2025
+2025-04-16 04:55:54,721 - NewsResearchAgent - INFO - Cache de notícias salvo com 1606 entradas
+2025-04-16 04:55:54,723 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 196 entradas
+2025-04-16 04:55:54,723 - NewsResearchAgent - INFO - Notícia publicada: Cupom Casas Bahia: até 80% off em Abril de 2025 em ./categorias/tecnologia/cupom-casas-bahia-ate-80-off-em-abril-de-2025-20250416045554.html
+2025-04-16 04:55:55,109 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 04:55:55,109 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-16 04:55:56,981 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-16 04:55:57,461 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-16 04:56:05,133 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-16 04:56:07,661 - NewsResearchAgent - INFO - Cache de notícias salvo com 1614 entradas
+2025-04-16 04:56:07,663 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 196 entradas
+2025-04-16 04:56:07,671 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria entretenimento
+2025-04-16 05:05:36,738 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/bbb-25-depois-de-pedir-para-sair-delma-e-a-17-elim-20250416050536.jpg
+2025-04-16 05:05:36,738 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: BBB 25 | Depois de pedir para sair, Delma é a 17ª eliminada da edição
+2025-04-16 05:05:36,779 - NewsResearchAgent - INFO - Cache de notícias salvo com 1614 entradas
+2025-04-16 05:05:36,781 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 197 entradas
+2025-04-16 05:05:36,781 - NewsResearchAgent - INFO - Notícia publicada: BBB 25 | Depois de pedir para sair, Delma é a 17ª eliminada da edição em ./categorias/entretenimento/bbb-25-depois-de-pedir-para-sair-delma-e-a-17-elim-20250416050536.html
+2025-04-16 05:05:37,522 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 05:05:37,522 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-16 05:05:41,031 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-16 05:05:41,568 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-16 05:05:42,207 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-16 05:05:42,566 - NewsResearchAgent - INFO - Cache de notícias salvo com 1616 entradas
+2025-04-16 05:05:42,569 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 197 entradas
+2025-04-16 05:05:42,576 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria curiosidades
+2025-04-16 05:15:24,264 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/ampulheta-espacial-morte-de-estrela-cria-cena-unic-20250416051524.jpg
+2025-04-16 05:15:24,264 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Ampulheta espacial? Morte de estrela cria cena única flagrada pela Nasa
+2025-04-16 05:15:24,305 - NewsResearchAgent - INFO - Cache de notícias salvo com 1616 entradas
+2025-04-16 05:15:24,307 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 198 entradas
+2025-04-16 05:15:24,308 - NewsResearchAgent - INFO - Notícia publicada: Ampulheta espacial? Morte de estrela cria cena única flagrada pela Nasa em ./categorias/curiosidades/ampulheta-espacial-morte-de-estrela-cria-cena-unic-20250416051524.html

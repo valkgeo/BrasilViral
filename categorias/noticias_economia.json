@@ -1,18 +1,26 @@
 [
   {
-    "title": "Justiça suspende eleição para representantes de municípios no Comitê Gestor do IBS",
-    "summary": "A 11ª Vara Cível de Brasília decidiu suspender as deliberações para a eleição de representantes dos municípios no Conselho Superior do Comitê Gestor do Imposto sobre Bens e Serviços (IBS). Essa decisão foi tomada em resposta a um pedido feito pela Frente Nacional de Prefeitos (FNP), que está disputando a participação no órgão com a Confederação Nacional de Municípios (CNM).",
-    "timestamp": "2025-04-16T03:21:00",
-    "link": "categorias/economia/justica-suspende-eleicao-para-representantes-de-mu-20250416032141.html",
-    "image": "../../images/economia/justica-suspende-eleicao-para-representantes-de-mu-20250416032141.jpg",
+    "title": "Trump pressiona China a pedir negociação com os EUA",
+    "summary": "O presidente dos Estados Unidos, Donald Trump, está pressionando a China a iniciar negociações sobre tarifas, na tentativa de conter a crescente guerra comercial entre as duas maiores economias globais. Trump acredita que a China precisa fazer um acordo com os Estados Unidos, pois depende do consumidor americano para manter sua economia em funcionamento.",
+    "timestamp": "2025-04-16T04:36:00",
+    "link": "categorias/economia/trump-pressiona-china-a-pedir-negociacao-com-os-eu-20250416043624.html",
+    "image": "../../images/economia/trump-pressiona-china-a-pedir-negociacao-com-os-eu-20250416043624.jpg",
     "category": "economia"
   },
   {
     "title": "{{TITULO}}",
     "summary": "",
-    "timestamp": "2025-04-16T03:00:13.314559",
+    "timestamp": "2025-04-16T04:14:54.462602",
     "link": "categorias/economia/exemplo_economia.html",
     "image": "{{IMAGEM_URL}}",
+    "category": "economia"
+  },
+  {
+    "title": "Justiça suspende eleição para representantes de municípios no Comitê Gestor do IBS",
+    "summary": "A 11ª Vara Cível de Brasília decidiu suspender as deliberações para a eleição de representantes dos municípios no Conselho Superior do Comitê Gestor do Imposto sobre Bens e Serviços (IBS). Essa decisão foi tomada em resposta a um pedido feito pela Frente Nacional de Prefeitos (FNP), que está disputando a participação no órgão com a Confederação Nacional de Municípios (CNM).",
+    "timestamp": "2025-04-16T03:21:00",
+    "link": "categorias/economia/justica-suspende-eleicao-para-representantes-de-mu-20250416032141.html",
+    "image": "../../images/economia/justica-suspende-eleicao-para-representantes-de-mu-20250416032141.jpg",
     "category": "economia"
   },
   {
