@@ -1,5 +1,19 @@
 [
   {
+    "title": "IA monopoliza tarefas e ameaça empregos em setores como criação e indústria",
+    "summary": "O crescimento da inteligência artificial tem trazido uma ameaça significativa para trabalhadores de alguns setores da economia. Embora a tecnologia ainda esteja em seu início, já é possível observar mudanças em áreas como as industriais e de criação. Especialistas em tecnologia afirmam que a inteligência artificial já está tendo um impacto considerável em profissões criativas, como a publicidade, onde ilustradores eram contratados para criar materiais, mas agora as agências estão usando a inteligência artificial para realizar essas tarefas.",
+    "timestamp": "2025-04-16T12:45:00",
+    "link": "categorias/economia/ia-monopoliza-tarefas-e-amea-a-empregos-em-setores-como-cria-o-e-ind-stria.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "title": "{{TITULO}}",
+    "summary": "",
+    "timestamp": "2025-04-16T12:24:12.033714",
+    "link": "categorias/economia/titulo.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "TJMG condena transportadora que se apropriou de carga",
     "summary": "A 18ª Câmara Cível do Tribunal de Justiça de Minas Gerais manteve uma decisão que condenou uma transportadora a restituir a uma empresa do ramo alimentício o valor de R$ 523 mil. A empresa havia contratado a transportadora para levar 100 toneladas de feijão carioquinha da cidade de Sorriso, no Mato Grosso, até a cidade de Recife, em Pernambuco, e pagou R$ 30 mil pelo serviço.",
     "timestamp": "2025-04-16T10:34:00",
@@ -7,24 +21,10 @@
     "image": "images/placeholder.jpg"
   },
   {
-    "title": "{{TITULO}}",
-    "summary": "",
-    "timestamp": "2025-04-16T10:13:16.148453",
-    "link": "categorias/economia/titulo.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
     "title": "Páscoa desperta intenção de compra em 86% dos brasileiros, diz pesquisa",
     "summary": "Uma pesquisa realizada pelo Instituto Locomotiva revelou que 86% dos brasileiros, o que corresponde a aproximadamente 140 milhões de pessoas, pretendem comprar produtos relacionados à Páscoa neste ano. Esse número representa um aumento de cinco pontos percentuais em relação ao ano passado, quando 81% dos brasileiros tinham a mesma intenção.",
     "timestamp": "2025-04-16T08:38:00",
     "link": "categorias/economia/p-scoa-desperta-inten-o-de-compra-em-86-dos-brasileiros-diz-pesquisa.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "Jaques Wagner descarta acordo sobre projeto de anistia: 'a classe política pirou'",
-    "summary": "O líder do governo no Senado, Jaques Wagner, do Partido dos Trabalhadores da Bahia, afirmou que não há possibilidade de negociação em relação ao projeto de lei que visa anistiar os envolvidos nos atos de 8 de janeiro. O projeto teve seu requerimento de urgência protocolado recentemente na Câmara dos Deputados, com 262 assinaturas, o que representa a maioria absoluta na Casa.",
-    "timestamp": "2025-04-16T06:39:00",
-    "link": "categorias/economia/jaques-wagner-descarta-acordo-sobre-projeto-de-anistia-a-classe-pol-tica-pirou.html",
     "image": "images/placeholder.jpg"
   }
 ]

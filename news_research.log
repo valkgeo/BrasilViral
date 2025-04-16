@@ -2917,3 +2917,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-16 11:13:26,003 - NewsResearchAgent - INFO - Cache de notícias salvo com 1709 entradas
 2025-04-16 11:13:26,005 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 216 entradas
 2025-04-16 11:13:26,005 - NewsResearchAgent - INFO - Notícia publicada: Muito antes dos debates identitários, Epicuro construiu uma filosofia inclusiva em ./categorias/curiosidades/muito-antes-dos-debates-identitarios-epicuro-const-20250416111325.html
+2025-04-16 12:25:48,051 - NewsResearchAgent - INFO - Cache de notícias carregado com 1709 entradas
+2025-04-16 12:25:48,053 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 216 entradas
+2025-04-16 12:26:02,377 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 12:26:02,377 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-16 12:26:04,022 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-16 12:26:06,017 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-16 12:26:06,388 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-16 12:26:09,533 - NewsResearchAgent - INFO - Cache de notícias salvo com 1712 entradas
+2025-04-16 12:26:09,535 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 216 entradas
+2025-04-16 12:26:09,543 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria esportes
+2025-04-16 12:35:43,311 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/corinthians-ganha-reforcos-e-fica-perto-de-escalac-20250416123543.jpg
+2025-04-16 12:35:43,311 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Corinthians ganha reforços e fica perto de ‘escalação ideal’ contra o Fluminense
+2025-04-16 12:35:43,355 - NewsResearchAgent - INFO - Cache de notícias salvo com 1712 entradas
+2025-04-16 12:35:43,358 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 217 entradas
+2025-04-16 12:35:43,358 - NewsResearchAgent - INFO - Notícia publicada: Corinthians ganha reforços e fica perto de ‘escalação ideal’ contra o Fluminense em ./categorias/esportes/corinthians-ganha-reforcos-e-fica-perto-de-escalac-20250416123543.html
+2025-04-16 12:35:43,758 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 12:35:43,758 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-16 12:35:47,625 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-16 12:35:52,098 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-16 12:35:52,994 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-16 12:35:53,109 - NewsResearchAgent - INFO - Cache de notícias salvo com 1718 entradas
+2025-04-16 12:35:53,111 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 217 entradas
+2025-04-16 12:35:53,118 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria economia
+2025-04-16 12:45:27,680 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/ia-monopoliza-tarefas-e-ameaca-empregos-em-setores-20250416124527.jpg
+2025-04-16 12:45:27,680 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: IA monopoliza tarefas e ameaça empregos em setores como criação e indústria
+2025-04-16 12:45:27,724 - NewsResearchAgent - INFO - Cache de notícias salvo com 1718 entradas
+2025-04-16 12:45:27,727 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 218 entradas
+2025-04-16 12:45:27,727 - NewsResearchAgent - INFO - Notícia publicada: IA monopoliza tarefas e ameaça empregos em setores como criação e indústria em ./categorias/economia/ia-monopoliza-tarefas-e-ameaca-empregos-em-setores-20250416124527.html
+2025-04-16 12:45:28,062 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 12:45:28,062 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-16 12:45:31,858 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-16 12:45:33,267 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-16 12:45:36,271 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-16 12:45:36,796 - NewsResearchAgent - INFO - Cache de notícias salvo com 1727 entradas
+2025-04-16 12:45:36,799 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 218 entradas
+2025-04-16 12:45:36,806 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria politica
+2025-04-16 12:55:10,076 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/minha-casa-minha-vida-veja-como-ficam-as-regras-do-20250416125510.jpg
+2025-04-16 12:55:10,076 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Minha Casa, Minha Vida: veja como ficam as regras do programa com nova 'Faixa 4' para a classe média
+2025-04-16 12:55:10,120 - NewsResearchAgent - INFO - Cache de notícias salvo com 1727 entradas
+2025-04-16 12:55:10,123 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 219 entradas
+2025-04-16 12:55:10,123 - NewsResearchAgent - INFO - Notícia publicada: Minha Casa, Minha Vida: veja como ficam as regras do programa com nova 'Faixa 4' para a classe média em ./categorias/politica/minha-casa-minha-vida-veja-como-ficam-as-regras-do-20250416125510.html
+2025-04-16 12:55:10,494 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 12:55:10,495 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-16 12:55:11,202 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-16 12:55:12,050 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-16 12:55:12,808 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-16 12:55:13,506 - NewsResearchAgent - INFO - Cache de notícias salvo com 1735 entradas
+2025-04-16 12:55:13,509 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 219 entradas
+2025-04-16 12:55:13,517 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria tecnologia
+2025-04-16 13:04:46,299 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/sandisk-lancara-nova-linha-de-armazenamento-na-gam-20250416130446.jpg
+2025-04-16 13:04:46,299 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: SanDisk lançará nova linha de armazenamento na gamescom latam 2025
+2025-04-16 13:04:46,344 - NewsResearchAgent - INFO - Cache de notícias salvo com 1735 entradas
+2025-04-16 13:04:46,346 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 220 entradas
+2025-04-16 13:04:46,346 - NewsResearchAgent - INFO - Notícia publicada: SanDisk lançará nova linha de armazenamento na gamescom latam 2025 em ./categorias/tecnologia/sandisk-lancara-nova-linha-de-armazenamento-na-gam-20250416130446.html
+2025-04-16 13:04:47,416 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 13:04:47,416 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-16 13:04:47,754 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-16 13:04:47,930 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-16 13:04:53,983 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-16 13:04:55,799 - NewsResearchAgent - INFO - Cache de notícias salvo com 1741 entradas
+2025-04-16 13:04:55,802 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 220 entradas
+2025-04-16 13:04:55,812 - NewsResearchAgent - INFO - Encontradas 15 notícias virais na categoria entretenimento
+2025-04-16 13:14:25,219 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/dune-awakening-e-adiado-para-junho-20250416131425.jpg
+2025-04-16 13:14:25,219 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Dune Awakening é adiado para junho
+2025-04-16 13:14:25,264 - NewsResearchAgent - INFO - Cache de notícias salvo com 1741 entradas
+2025-04-16 13:14:25,267 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 221 entradas
+2025-04-16 13:14:25,267 - NewsResearchAgent - INFO - Notícia publicada: Dune Awakening é adiado para junho em ./categorias/entretenimento/dune-awakening-e-adiado-para-junho-20250416131425.html
+2025-04-16 13:14:25,620 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 13:14:25,620 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-16 13:14:26,463 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-16 13:14:27,443 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-16 13:14:28,921 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-16 13:14:29,168 - NewsResearchAgent - INFO - Cache de notícias salvo com 1742 entradas
+2025-04-16 13:14:29,171 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 221 entradas
+2025-04-16 13:14:29,180 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria curiosidades
+2025-04-16 13:23:59,593 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/alfred-wallace-o-outro-pai-da-evolucao-20250416132359.jpg
+2025-04-16 13:23:59,594 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Alfred Wallace: O outro pai da evolução
+2025-04-16 13:23:59,638 - NewsResearchAgent - INFO - Cache de notícias salvo com 1742 entradas
+2025-04-16 13:23:59,641 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 222 entradas
+2025-04-16 13:23:59,641 - NewsResearchAgent - INFO - Notícia publicada: Alfred Wallace: O outro pai da evolução em ./categorias/curiosidades/alfred-wallace-o-outro-pai-da-evolucao-20250416132359.html
