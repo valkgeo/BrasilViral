@@ -1,18 +1,26 @@
 [
   {
-    "title": "10ºC em São Paulo? Saiba quando vai esfriar de novo no Brasil",
-    "summary": "A primeira onda de frio do outono já passou e o calor está retornando, deixando muitas pessoas se perguntando quando o frio vai voltar a fazer presença no Brasil. Além disso, uma notícia tem circulado sobre a possibilidade de uma temperatura de 10°C em São Paulo nesta semana. No entanto, de acordo com a Climatempo, essa informação é falsa e não há previsão de frio intenso para os próximos dias.",
-    "timestamp": "2025-04-15T22:53:00",
-    "link": "categorias/tecnologia/10c-em-sao-paulo-saiba-quando-vai-esfriar-de-novo--20250415225321.html",
-    "image": "../../images/tecnologia/10c-em-sao-paulo-saiba-quando-vai-esfriar-de-novo--20250415225321.jpg",
+    "title": "OpenAI lança GPT-4.1: confira todas as melhoras da nova IA",
+    "summary": "A OpenAI lançou recentemente o GPT-4.1, seu mais novo modelo generativo de inteligência artificial. Este modelo é considerado o sucessor direto do GPT-4 e foi apresentado como uma versão aprimorada, com melhorias gerais em relação à geração anterior. De acordo com a empresa, o GPT-4.1 oferece capacidades superiores ou equivalentes às do GPT-4.5, mas com um menor custo computacional.",
+    "timestamp": "2025-04-16T01:41:00",
+    "link": "categorias/tecnologia/openai-lanca-gpt41-confira-todas-as-melhoras-da-no-20250416014116.html",
+    "image": "../../images/tecnologia/openai-lanca-gpt41-confira-todas-as-melhoras-da-no-20250416014116.jpg",
     "category": "tecnologia"
   },
   {
     "title": "Exemplo de notícia de tecnologia",
     "summary": "Este é um exemplo de notícia tecnológica. Aqui você encontrará informações sobre lançamentos de produtos, inovações tecnológicas, tendências digitais e avanços científicos. O BrasilViral traz as novidades mais recentes do mundo da tecnologia. tecnologia.",
-    "timestamp": "2025-04-15T22:11:57.838486",
+    "timestamp": "2025-04-16T01:00:30.362132",
     "link": "categorias/tecnologia/exemplo_tecnologia.html",
     "image": "{{IMAGEM_URL}}",
+    "category": "tecnologia"
+  },
+  {
+    "title": "10ºC em São Paulo? Saiba quando vai esfriar de novo no Brasil",
+    "summary": "A primeira onda de frio do outono já passou e o calor está retornando, deixando muitas pessoas se perguntando quando o frio vai voltar a fazer presença no Brasil. Além disso, uma notícia tem circulado sobre a possibilidade de uma temperatura de 10°C em São Paulo nesta semana. No entanto, de acordo com a Climatempo, essa informação é falsa e não há previsão de frio intenso para os próximos dias.",
+    "timestamp": "2025-04-15T22:53:00",
+    "link": "categorias/tecnologia/10c-em-sao-paulo-saiba-quando-vai-esfriar-de-novo--20250415225321.html",
+    "image": "../../images/tecnologia/10c-em-sao-paulo-saiba-quando-vai-esfriar-de-novo--20250415225321.jpg",
     "category": "tecnologia"
   },
   {

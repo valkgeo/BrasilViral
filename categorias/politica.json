@@ -1,5 +1,19 @@
 [
   {
+    "title": "Concursos e Emprego",
+    "summary": "A semana começa com uma grande oferta de empregos no Espírito Santo, com mais de 6,5 mil vagas disponíveis em todo o estado. Essas oportunidades abrangem dezenas de cargos e são destinadas a candidatos de todos os níveis de escolaridade, desde o fundamental até o superior.",
+    "timestamp": "2025-04-16T01:31:00",
+    "link": "categorias/politica/concursos-e-emprego.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "title": "Exemplo de notícia de politica",
+    "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
+    "timestamp": "2025-04-16T01:00:30.360132",
+    "link": "categorias/politica/exemplo-de-not-cia-de-politica.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "Vídeos Meio Dia Paraná - Foz do Iguaçu",
     "summary": "Uma megaoperação contra o tráfico de drogas resultou na prisão de 15 pessoas em Foz do Iguaçu. A ação é fruto de uma investigação que teve início em 2023, no Sudoeste do estado. A operação policial culminou na apreensão de material ilícito e na prisão dos suspeitos, que ocorreu próximo à Ponte da Integração.",
     "timestamp": "2025-04-15T22:43:00",
@@ -7,24 +21,10 @@
     "image": "images/placeholder.jpg"
   },
   {
-    "title": "Exemplo de notícia de politica",
-    "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
-    "timestamp": "2025-04-15T22:11:57.836487",
-    "link": "categorias/politica/exemplo-de-not-cia-de-politica.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
     "title": "Lula elogia BNDES: 'Obrigados a pedir desculpa' por acusação de caixa-preta",
     "summary": "O presidente Lula elogiou o presidente do BNDES, Aloízio Mercadante, durante uma visita às obras da rodovia Presidente Dutra, na Serra das Araras, no Rio de Janeiro. Lula lembrou que Mercadante assumiu o banco após acusações de corrupção feitas pelo governo Jair Bolsonaro, que afirmava que o BNDES era uma \"caixa-preta\". No entanto, uma auditoria encomendada pelo banco, no valor de R$ 48 milhões, não encontrou nenhuma evidência de corrupção.",
     "timestamp": "2025-04-15T20:45:00",
     "link": "categorias/politica/lula-elogia-bndes-obrigados-a-pedir-desculpa-por-acusa-o-de-caixa-preta.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "Entenda por que Michelle não quis que Bolsonaro fosse internado em SP",
-    "summary": "A ex-primeira-dama Michelle Bolsonaro foi a responsável por escolher a nova equipe médica que realizou a cirurgia no intestino do ex-presidente Jair Bolsonaro, em Brasília, no último domingo. O ex-presidente era atendido pelo médico Antônio Luiz Macedo, que havia realizado cinco cirurgias nele desde a facada sofrida durante a campanha presidencial de 2018, em Juiz de Fora.",
-    "timestamp": "2025-04-15T18:46:00",
-    "link": "categorias/politica/entenda-por-que-michelle-n-o-quis-que-bolsonaro-fosse-internado-em-sp.html",
     "image": "images/placeholder.jpg"
   }
 ]

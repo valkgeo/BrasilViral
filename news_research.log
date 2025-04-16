@@ -2434,3 +2434,83 @@ detail: You need to set up billing to run this model. Go to https://replicate.co
 2025-04-15 23:13:08,731 - NewsResearchAgent - INFO - Cache de notícias salvo com 1511 entradas
 2025-04-15 23:13:08,733 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 180 entradas
 2025-04-15 23:13:08,733 - NewsResearchAgent - INFO - Notícia publicada: Vídeo inédito mostra DNA se compactando em tempo real dentro de espermatozoide em ./categorias/curiosidades/video-inedito-mostra-dna-se-compactando-em-tempo-r-20250415231308.html
+2025-04-16 01:02:08,378 - NewsResearchAgent - INFO - Cache de notícias carregado com 1511 entradas
+2025-04-16 01:02:08,380 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 180 entradas
+2025-04-16 01:02:21,674 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 01:02:21,674 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-16 01:02:26,852 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-16 01:02:27,579 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-16 01:02:28,354 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-16 01:02:36,703 - NewsResearchAgent - INFO - Cache de notícias salvo com 1517 entradas
+2025-04-16 01:02:36,705 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 180 entradas
+2025-04-16 01:02:36,712 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria esportes
+2025-04-16 01:12:07,294 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/espn-brasil-tudo-pelo-esporte-20250416011207.jpg
+2025-04-16 01:12:07,294 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: ESPN Brasil - Tudo Pelo Esporte
+2025-04-16 01:12:07,333 - NewsResearchAgent - INFO - Cache de notícias salvo com 1517 entradas
+2025-04-16 01:12:07,335 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 181 entradas
+2025-04-16 01:12:07,335 - NewsResearchAgent - INFO - Notícia publicada: ESPN Brasil - Tudo Pelo Esporte em ./categorias/esportes/espn-brasil-tudo-pelo-esporte-20250416011207.html
+2025-04-16 01:12:07,938 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 01:12:07,938 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-16 01:12:14,848 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-16 01:12:20,471 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-16 01:12:21,397 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-16 01:12:21,517 - NewsResearchAgent - INFO - Cache de notícias salvo com 1520 entradas
+2025-04-16 01:12:21,519 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 181 entradas
+2025-04-16 01:12:21,523 - NewsResearchAgent - INFO - Encontradas 6 notícias virais na categoria economia
+2025-04-16 01:21:54,254 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/openai-lanca-novos-modelos-41-para-o-chatgpt-veja--20250416012154.jpg
+2025-04-16 01:21:54,255 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: OpenAI lança novos modelos 4.1 para o ChatGPT; veja o que muda
+2025-04-16 01:21:54,294 - NewsResearchAgent - INFO - Cache de notícias salvo com 1520 entradas
+2025-04-16 01:21:54,296 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 182 entradas
+2025-04-16 01:21:54,296 - NewsResearchAgent - INFO - Notícia publicada: OpenAI lança novos modelos 4.1 para o ChatGPT; veja o que muda em ./categorias/economia/openai-lanca-novos-modelos-41-para-o-chatgpt-veja--20250416012154.html
+2025-04-16 01:21:54,796 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 01:21:54,796 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-16 01:22:00,376 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-16 01:22:02,582 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-16 01:22:04,174 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-16 01:22:05,623 - NewsResearchAgent - INFO - Cache de notícias salvo com 1527 entradas
+2025-04-16 01:22:05,626 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 182 entradas
+2025-04-16 01:22:05,631 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria politica
+2025-04-16 01:31:36,618 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/concursos-e-emprego-20250416013136.jpg
+2025-04-16 01:31:36,618 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Concursos e Emprego
+2025-04-16 01:31:36,657 - NewsResearchAgent - INFO - Cache de notícias salvo com 1527 entradas
+2025-04-16 01:31:36,659 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 183 entradas
+2025-04-16 01:31:36,659 - NewsResearchAgent - INFO - Notícia publicada: Concursos e Emprego em ./categorias/politica/concursos-e-emprego-20250416013136.html
+2025-04-16 01:31:37,179 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 01:31:37,179 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-16 01:31:38,386 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-16 01:31:42,205 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-16 01:31:44,043 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-16 01:31:45,531 - NewsResearchAgent - INFO - Cache de notícias salvo com 1533 entradas
+2025-04-16 01:31:45,533 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 183 entradas
+2025-04-16 01:31:45,538 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria tecnologia
+2025-04-16 01:41:16,197 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/openai-lanca-gpt41-confira-todas-as-melhoras-da-no-20250416014116.jpg
+2025-04-16 01:41:16,197 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: OpenAI lança GPT-4.1: confira todas as melhoras da nova IA
+2025-04-16 01:41:16,236 - NewsResearchAgent - INFO - Cache de notícias salvo com 1533 entradas
+2025-04-16 01:41:16,239 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 184 entradas
+2025-04-16 01:41:16,239 - NewsResearchAgent - INFO - Notícia publicada: OpenAI lança GPT-4.1: confira todas as melhoras da nova IA em ./categorias/tecnologia/openai-lanca-gpt41-confira-todas-as-melhoras-da-no-20250416014116.html
+2025-04-16 01:41:16,767 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 01:41:16,767 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-16 01:41:19,575 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-16 01:41:20,107 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-16 01:41:24,743 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-16 01:41:30,508 - NewsResearchAgent - INFO - Cache de notícias salvo com 1542 entradas
+2025-04-16 01:41:30,510 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 184 entradas
+2025-04-16 01:41:30,520 - NewsResearchAgent - INFO - Encontradas 17 notícias virais na categoria entretenimento
+2025-04-16 01:51:01,699 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/the-elder-scrolls-iv-oblivion-remastered-imagens-v-20250416015101.jpg
+2025-04-16 01:51:01,700 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: The Elder Scrolls IV: Oblivion Remastered | Imagens vazadas confirmam o jogo
+2025-04-16 01:51:01,739 - NewsResearchAgent - INFO - Cache de notícias salvo com 1542 entradas
+2025-04-16 01:51:01,741 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 185 entradas
+2025-04-16 01:51:01,741 - NewsResearchAgent - INFO - Notícia publicada: The Elder Scrolls IV: Oblivion Remastered | Imagens vazadas confirmam o jogo em ./categorias/entretenimento/the-elder-scrolls-iv-oblivion-remastered-imagens-v-20250416015101.html
+2025-04-16 01:51:02,169 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 01:51:02,169 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-16 01:51:06,254 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-16 01:51:07,853 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-16 01:51:11,436 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-16 01:51:11,818 - NewsResearchAgent - INFO - Cache de notícias salvo com 1546 entradas
+2025-04-16 01:51:11,820 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 185 entradas
+2025-04-16 01:51:11,826 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria curiosidades
+2025-04-16 02:00:47,924 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/conheca-4-alteracoes-nas-unhas-que-podem-indicar-p-20250416020047.jpg
+2025-04-16 02:00:47,924 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Conheça 4 alterações nas unhas que podem indicar problemas de saúde
+2025-04-16 02:00:47,964 - NewsResearchAgent - INFO - Cache de notícias salvo com 1546 entradas
+2025-04-16 02:00:47,966 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 186 entradas
+2025-04-16 02:00:47,966 - NewsResearchAgent - INFO - Notícia publicada: Conheça 4 alterações nas unhas que podem indicar problemas de saúde em ./categorias/curiosidades/conheca-4-alteracoes-nas-unhas-que-podem-indicar-p-20250416020047.html

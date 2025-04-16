@@ -1,5 +1,19 @@
 [
   {
+    "title": "OpenAI lança novos modelos 4.1 para o ChatGPT; veja o que muda",
+    "summary": "A OpenAI lançou recentemente um novo modelo de inteligência artificial, o GPT-4.1, juntamente com as versões menores GPT-4.1 mini e GPT-4.1 nano. De acordo com a empresa, esses novos modelos trazem significativas melhorias em relação à codificação, execução de instruções e compreensão de contexto longo. Essas melhorias são resultado de avanços tecnológicos que permitem que os modelos processem e entendam melhor as informações.",
+    "timestamp": "2025-04-16T01:21:00",
+    "link": "categorias/economia/openai-lan-a-novos-modelos-4-1-para-o-chatgpt-veja-o-que-muda.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "title": "{{TITULO}}",
+    "summary": "",
+    "timestamp": "2025-04-16T01:00:30.355132",
+    "link": "categorias/economia/titulo.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "Eleições 2024: notícias, datas, candidatos e como votar",
     "summary": "Um juiz da 1ª Zona Eleitoral de São Paulo condenou o influenciador e coaching Pablo Marçal, filiado ao PRTB, por abuso de poder político e econômico. A decisão foi tomada nesta sexta-feira, 21, e cabe recurso. A condenação se deve a uma declaração feita por Marçal durante a pré-campanha para a prefeitura de São Paulo, que teve a intenção de abalar a reputação de sua concorrente na disputa.",
     "timestamp": "2025-04-15T22:33:00",
@@ -7,24 +21,10 @@
     "image": "images/placeholder.jpg"
   },
   {
-    "title": "{{TITULO}}",
-    "summary": "",
-    "timestamp": "2025-04-15T22:11:57.831486",
-    "link": "categorias/economia/titulo.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
     "title": "Exclusivo: Guararapes, dona da Riachuelo, vai vender shopping Midway Mall, dizem fontes",
     "summary": "A Guararapes, empresa controladora da Riachuelo, está considerando a venda de seu shopping Midway Mall, localizado em Natal. De acordo com informações apuradas, a empresa está em contato com bancos para fechar um mandato que permita a venda do empreendimento.",
     "timestamp": "2025-04-15T20:35:00",
     "link": "categorias/economia/exclusivo-guararapes-dona-da-riachuelo-vai-vender-shopping-midway-mall-dizem-fontes.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "SNFF11 vai pagar dividendos de 1,01% ao mês; saiba quem recebe",
-    "summary": "Os cotistas do fundo imobiliário SNFF11 já sabem quais serão os rendimentos que receberão em abril. A gestão do fundo anunciou a distribuição de R$ 0,72 por cota, mantendo o valor do mês anterior. Esse montante representa um retorno de 1,01% ao mês, considerando a cotação do SNFF11 de R$ 70,95 registrada no fechamento de março.",
-    "timestamp": "2025-04-15T18:36:00",
-    "link": "categorias/economia/snff11-vai-pagar-dividendos-de-1-01-ao-m-s-saiba-quem-recebe.html",
     "image": "images/placeholder.jpg"
   }
 ]

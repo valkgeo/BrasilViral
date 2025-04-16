@@ -1438,5 +1438,53 @@
     "filepath": "./categorias/curiosidades/video-inedito-mostra-dna-se-compactando-em-tempo-r-20250415231308.html",
     "url_path": "categorias/curiosidades/video-inedito-mostra-dna-se-compactando-em-tempo-r-20250415231308.html",
     "publish_timestamp": "2025-04-15T23:13:08.692868"
+  },
+  "bc77f0dee823605d71186a819299a251": {
+    "title": "ESPN Brasil - Tudo Pelo Esporte",
+    "category": "esportes",
+    "source_url": "https://www.espn.com.br/gaming/",
+    "filepath": "./categorias/esportes/espn-brasil-tudo-pelo-esporte-20250416011207.html",
+    "url_path": "categorias/esportes/espn-brasil-tudo-pelo-esporte-20250416011207.html",
+    "publish_timestamp": "2025-04-16T01:12:07.295414"
+  },
+  "ae05b96ef175bf02346b40646f81c0be": {
+    "title": "OpenAI lança novos modelos 4.1 para o ChatGPT; veja o que muda",
+    "category": "economia",
+    "source_url": "https://www.infomoney.com.br/consumo/openai-lanca-novos-modelos-4-1-para-o-chatgpt-veja-o-que-muda/",
+    "filepath": "./categorias/economia/openai-lanca-novos-modelos-41-para-o-chatgpt-veja--20250416012154.html",
+    "url_path": "categorias/economia/openai-lanca-novos-modelos-41-para-o-chatgpt-veja--20250416012154.html",
+    "publish_timestamp": "2025-04-16T01:21:54.255485"
+  },
+  "d14ad3e39c5555809eb18d0d6da84b3e": {
+    "title": "Concursos e Emprego",
+    "category": "politica",
+    "source_url": "https://g1.globo.com/es/espirito-santo/concursos-e-emprego/",
+    "filepath": "./categorias/politica/concursos-e-emprego-20250416013136.html",
+    "url_path": "categorias/politica/concursos-e-emprego-20250416013136.html",
+    "publish_timestamp": "2025-04-16T01:31:36.619137"
+  },
+  "161a5448674e1a6c8677c160a97bae65": {
+    "title": "OpenAI lança GPT-4.1: confira todas as melhoras da nova IA",
+    "category": "tecnologia",
+    "source_url": "https://www.tecmundo.com.br/software/403973-openai-lanca-gpt-41-confira-todas-as-melhoras-da-nova-ia.htm",
+    "filepath": "./categorias/tecnologia/openai-lanca-gpt41-confira-todas-as-melhoras-da-no-20250416014116.html",
+    "url_path": "categorias/tecnologia/openai-lanca-gpt41-confira-todas-as-melhoras-da-no-20250416014116.html",
+    "publish_timestamp": "2025-04-16T01:41:16.197691"
+  },
+  "40e2dbefbab68b554c0ec896c7c14389": {
+    "title": "The Elder Scrolls IV: Oblivion Remastered | Imagens vazadas confirmam o jogo",
+    "category": "entretenimento",
+    "source_url": "https://www.omelete.com.br/games/the-elder-scrolls-iv-oblivion-remastered-imagens-vazadas-confirmam-o-jogo",
+    "filepath": "./categorias/entretenimento/the-elder-scrolls-iv-oblivion-remastered-imagens-v-20250416015101.html",
+    "url_path": "categorias/entretenimento/the-elder-scrolls-iv-oblivion-remastered-imagens-v-20250416015101.html",
+    "publish_timestamp": "2025-04-16T01:51:01.700578"
+  },
+  "388cc214f0c8e4f150bc2f020601f540": {
+    "title": "Conheça 4 alterações nas unhas que podem indicar problemas de saúde",
+    "category": "curiosidades",
+    "source_url": "https://revistagalileu.globo.com/saude/noticia/2025/04/conheca-4-alteracoes-nas-unhas-que-podem-indicar-problemas-de-saude.ghtml#GALILEU-POST-TOP-24H-item,top,b06483a2-f2a6-4b1f-9d36-c88b75603fcc",
+    "filepath": "./categorias/curiosidades/conheca-4-alteracoes-nas-unhas-que-podem-indicar-p-20250416020047.html",
+    "url_path": "categorias/curiosidades/conheca-4-alteracoes-nas-unhas-que-podem-indicar-p-20250416020047.html",
+    "publish_timestamp": "2025-04-16T02:00:47.924866"
   }
 }
