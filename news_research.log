@@ -2674,3 +2674,83 @@ detail: You need to set up billing to run this model. Go to https://replicate.co
 2025-04-16 05:15:24,305 - NewsResearchAgent - INFO - Cache de notícias salvo com 1616 entradas
 2025-04-16 05:15:24,307 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 198 entradas
 2025-04-16 05:15:24,308 - NewsResearchAgent - INFO - Notícia publicada: Ampulheta espacial? Morte de estrela cria cena única flagrada pela Nasa em ./categorias/curiosidades/ampulheta-espacial-morte-de-estrela-cria-cena-unic-20250416051524.html
+2025-04-16 06:19:52,589 - NewsResearchAgent - INFO - Cache de notícias carregado com 1616 entradas
+2025-04-16 06:19:52,590 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 198 entradas
+2025-04-16 06:20:34,467 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 06:20:34,467 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-16 06:20:40,845 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-16 06:20:41,955 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-16 06:20:42,298 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-16 06:20:45,531 - NewsResearchAgent - INFO - Cache de notícias salvo com 1622 entradas
+2025-04-16 06:20:45,533 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 198 entradas
+2025-04-16 06:20:45,541 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria esportes
+2025-04-16 06:30:13,928 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/carille-se-irrita-com-postura-do-vasco-em-derrota--20250416063013.jpg
+2025-04-16 06:30:13,929 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Carille se irrita com postura do Vasco em derrota: ‘Muito ruim’
+2025-04-16 06:30:13,971 - NewsResearchAgent - INFO - Cache de notícias salvo com 1622 entradas
+2025-04-16 06:30:13,973 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 199 entradas
+2025-04-16 06:30:13,973 - NewsResearchAgent - INFO - Notícia publicada: Carille se irrita com postura do Vasco em derrota: ‘Muito ruim’ em ./categorias/esportes/carille-se-irrita-com-postura-do-vasco-em-derrota--20250416063013.html
+2025-04-16 06:30:14,401 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 06:30:14,402 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-16 06:30:18,718 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-16 06:30:23,489 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-16 06:30:24,162 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-16 06:30:24,245 - NewsResearchAgent - INFO - Cache de notícias salvo com 1625 entradas
+2025-04-16 06:30:24,247 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 199 entradas
+2025-04-16 06:30:24,252 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria economia
+2025-04-16 06:39:53,506 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/jaques-wagner-descarta-acordo-sobre-projeto-de-ani-20250416063953.jpg
+2025-04-16 06:39:53,507 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Jaques Wagner descarta acordo sobre projeto de anistia: 'a classe política pirou'
+2025-04-16 06:39:53,549 - NewsResearchAgent - INFO - Cache de notícias salvo com 1625 entradas
+2025-04-16 06:39:53,551 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 200 entradas
+2025-04-16 06:39:53,551 - NewsResearchAgent - INFO - Notícia publicada: Jaques Wagner descarta acordo sobre projeto de anistia: 'a classe política pirou' em ./categorias/economia/jaques-wagner-descarta-acordo-sobre-projeto-de-ani-20250416063953.html
+2025-04-16 06:39:53,963 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 06:39:53,963 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-16 06:39:57,191 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-16 06:40:00,071 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-16 06:40:01,351 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-16 06:40:01,950 - NewsResearchAgent - INFO - Cache de notícias salvo com 1631 entradas
+2025-04-16 06:40:01,952 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 200 entradas
+2025-04-16 06:40:01,959 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria politica
+2025-04-16 06:49:32,158 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/kotscho-denuncia-de-nunes-sobre-ministro-e-enel-pr-20250416064932.jpg
+2025-04-16 06:49:32,158 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Kotscho: Denúncia de Nunes sobre ministro e Enel precisa ser investigada
+2025-04-16 06:49:32,200 - NewsResearchAgent - INFO - Cache de notícias salvo com 1631 entradas
+2025-04-16 06:49:32,203 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 201 entradas
+2025-04-16 06:49:32,203 - NewsResearchAgent - INFO - Notícia publicada: Kotscho: Denúncia de Nunes sobre ministro e Enel precisa ser investigada em ./categorias/politica/kotscho-denuncia-de-nunes-sobre-ministro-e-enel-pr-20250416064932.html
+2025-04-16 06:49:32,489 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 06:49:32,489 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-16 06:49:35,518 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-16 06:49:36,433 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-16 06:49:37,364 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-16 06:49:38,035 - NewsResearchAgent - INFO - Cache de notícias salvo com 1639 entradas
+2025-04-16 06:49:38,038 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 201 entradas
+2025-04-16 06:49:38,046 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria tecnologia
+2025-04-16 06:59:11,462 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/brasileiros-boicotam-gladiador-2-apos-corte-de-den-20250416065911.jpg
+2025-04-16 06:59:11,462 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Brasileiros boicotam Gladiador 2 após 'corte' de Denzel Washington em Isabela Boscov
+2025-04-16 06:59:11,505 - NewsResearchAgent - INFO - Cache de notícias salvo com 1639 entradas
+2025-04-16 06:59:11,507 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 202 entradas
+2025-04-16 06:59:11,508 - NewsResearchAgent - INFO - Notícia publicada: Brasileiros boicotam Gladiador 2 após 'corte' de Denzel Washington em Isabela Boscov em ./categorias/tecnologia/brasileiros-boicotam-gladiador-2-apos-corte-de-den-20250416065911.html
+2025-04-16 06:59:11,941 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 06:59:11,941 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-16 06:59:12,799 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-16 06:59:13,235 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-16 06:59:16,828 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-16 06:59:17,240 - NewsResearchAgent - INFO - Cache de notícias salvo com 1644 entradas
+2025-04-16 06:59:17,242 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 202 entradas
+2025-04-16 06:59:17,252 - NewsResearchAgent - INFO - Encontradas 15 notícias virais na categoria entretenimento
+2025-04-16 07:08:51,851 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/vale-tudo-resumo-dos-capitulos-da-novela-da-globo--20250416070851.jpg
+2025-04-16 07:08:51,851 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Vale Tudo: Resumo dos capítulos da novela da Globo (16 a 26/4)
+2025-04-16 07:08:51,894 - NewsResearchAgent - INFO - Cache de notícias salvo com 1644 entradas
+2025-04-16 07:08:51,896 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 203 entradas
+2025-04-16 07:08:51,896 - NewsResearchAgent - INFO - Notícia publicada: Vale Tudo: Resumo dos capítulos da novela da Globo (16 a 26/4) em ./categorias/entretenimento/vale-tudo-resumo-dos-capitulos-da-novela-da-globo--20250416070851.html
+2025-04-16 07:08:52,076 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 07:08:52,076 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-16 07:08:53,192 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-16 07:08:53,475 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-16 07:08:58,850 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-16 07:08:59,068 - NewsResearchAgent - INFO - Cache de notícias salvo com 1645 entradas
+2025-04-16 07:08:59,070 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 203 entradas
+2025-04-16 07:08:59,076 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria curiosidades
+2025-04-16 07:18:29,789 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/o-misterio-das-rochas-que-cantam-na-pensilvania-20250416071829.jpg
+2025-04-16 07:18:29,789 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: O mistério das rochas que "cantam" na Pensilvânia
+2025-04-16 07:18:29,831 - NewsResearchAgent - INFO - Cache de notícias salvo com 1645 entradas
+2025-04-16 07:18:29,834 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 204 entradas
+2025-04-16 07:18:29,834 - NewsResearchAgent - INFO - Notícia publicada: O mistério das rochas que "cantam" na Pensilvânia em ./categorias/curiosidades/o-misterio-das-rochas-que-cantam-na-pensilvania-20250416071829.html
