@@ -2997,3 +2997,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-16 13:23:59,638 - NewsResearchAgent - INFO - Cache de notícias salvo com 1742 entradas
 2025-04-16 13:23:59,641 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 222 entradas
 2025-04-16 13:23:59,641 - NewsResearchAgent - INFO - Notícia publicada: Alfred Wallace: O outro pai da evolução em ./categorias/curiosidades/alfred-wallace-o-outro-pai-da-evolucao-20250416132359.html
+2025-04-16 14:14:46,209 - NewsResearchAgent - INFO - Cache de notícias carregado com 1742 entradas
+2025-04-16 14:14:46,211 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 222 entradas
+2025-04-16 14:14:58,624 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 14:14:58,624 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-16 14:15:00,378 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-16 14:15:00,928 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-16 14:15:01,566 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-16 14:15:06,691 - NewsResearchAgent - INFO - Cache de notícias salvo com 1747 entradas
+2025-04-16 14:15:06,694 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 222 entradas
+2025-04-16 14:15:06,703 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria esportes
+2025-04-16 14:24:37,040 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/gestao-esportiva-na-pratica-a-cabeca-o-corpo-e-a-b-20250416142437.jpg
+2025-04-16 14:24:37,040 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Gestão Esportiva na Prática: A cabeça, o corpo e a bola
+2025-04-16 14:24:37,085 - NewsResearchAgent - INFO - Cache de notícias salvo com 1747 entradas
+2025-04-16 14:24:37,088 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 223 entradas
+2025-04-16 14:24:37,088 - NewsResearchAgent - INFO - Notícia publicada: Gestão Esportiva na Prática: A cabeça, o corpo e a bola em ./categorias/esportes/gestao-esportiva-na-pratica-a-cabeca-o-corpo-e-a-b-20250416142437.html
+2025-04-16 14:24:37,511 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 14:24:37,511 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-16 14:24:42,080 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-16 14:24:45,490 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-16 14:24:46,150 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-16 14:24:46,254 - NewsResearchAgent - INFO - Cache de notícias salvo com 1751 entradas
+2025-04-16 14:24:46,257 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 223 entradas
+2025-04-16 14:24:46,263 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria economia
+2025-04-16 14:34:20,931 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/seguro-para-celular-como-funciona-quanto-custa-e-o-20250416143420.jpg
+2025-04-16 14:34:20,931 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Seguro para celular: como funciona, quanto custa e o que cobre?
+2025-04-16 14:34:20,975 - NewsResearchAgent - INFO - Cache de notícias salvo com 1751 entradas
+2025-04-16 14:34:20,978 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 224 entradas
+2025-04-16 14:34:20,978 - NewsResearchAgent - INFO - Notícia publicada: Seguro para celular: como funciona, quanto custa e o que cobre? em ./categorias/economia/seguro-para-celular-como-funciona-quanto-custa-e-o-20250416143420.html
+2025-04-16 14:34:21,284 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 14:34:21,284 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-16 14:34:23,050 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-16 14:34:25,702 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-16 14:34:28,484 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-16 14:34:29,394 - NewsResearchAgent - INFO - Cache de notícias salvo com 1758 entradas
+2025-04-16 14:34:29,397 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 224 entradas
+2025-04-16 14:34:29,403 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria politica
+2025-04-16 14:44:00,296 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/trump-denuncia-a-estupidez-praticandoa-cotidianame-20250416144400.jpg
+2025-04-16 14:44:00,296 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Trump denuncia a estupidez praticando-a cotidianamente
+2025-04-16 14:44:00,341 - NewsResearchAgent - INFO - Cache de notícias salvo com 1758 entradas
+2025-04-16 14:44:00,344 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 225 entradas
+2025-04-16 14:44:00,344 - NewsResearchAgent - INFO - Notícia publicada: Trump denuncia a estupidez praticando-a cotidianamente em ./categorias/politica/trump-denuncia-a-estupidez-praticandoa-cotidianame-20250416144400.html
+2025-04-16 14:44:00,630 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 14:44:00,630 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-16 14:44:03,636 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-16 14:44:04,237 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-16 14:44:04,709 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-16 14:44:05,542 - NewsResearchAgent - INFO - Cache de notícias salvo com 1766 entradas
+2025-04-16 14:44:05,544 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 225 entradas
+2025-04-16 14:44:05,556 - NewsResearchAgent - INFO - Encontradas 16 notícias virais na categoria tecnologia
+2025-04-16 14:53:33,747 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/spotify-caiu-app-de-musica-apresenta-instabilidade-20250416145333.jpg
+2025-04-16 14:53:33,747 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Spotify caiu? App de música apresenta instabilidade nesta quarta-feira (16)
+2025-04-16 14:53:33,792 - NewsResearchAgent - INFO - Cache de notícias salvo com 1766 entradas
+2025-04-16 14:53:33,794 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 226 entradas
+2025-04-16 14:53:33,794 - NewsResearchAgent - INFO - Notícia publicada: Spotify caiu? App de música apresenta instabilidade nesta quarta-feira (16) em ./categorias/tecnologia/spotify-caiu-app-de-musica-apresenta-instabilidade-20250416145333.html
+2025-04-16 14:53:34,078 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 14:53:34,078 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-16 14:53:36,139 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-16 14:53:36,410 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-16 14:53:40,160 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-16 14:53:41,812 - NewsResearchAgent - INFO - Cache de notícias salvo com 1771 entradas
+2025-04-16 14:53:41,815 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 226 entradas
+2025-04-16 14:53:41,823 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria entretenimento
+2025-04-16 15:03:09,611 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/exterminio-a-evolucao-assista-ao-trailer-novo-de-2-20250416150309.jpg
+2025-04-16 15:03:09,611 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Extermínio: A Evolução | Assista ao trailer novo de 28 Years Later
+2025-04-16 15:03:09,657 - NewsResearchAgent - INFO - Cache de notícias salvo com 1771 entradas
+2025-04-16 15:03:09,659 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 227 entradas
+2025-04-16 15:03:09,659 - NewsResearchAgent - INFO - Notícia publicada: Extermínio: A Evolução | Assista ao trailer novo de 28 Years Later em ./categorias/entretenimento/exterminio-a-evolucao-assista-ao-trailer-novo-de-2-20250416150309.html
+2025-04-16 15:03:09,958 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 15:03:09,958 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-16 15:03:12,799 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-16 15:03:13,174 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-16 15:03:15,595 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-16 15:03:15,827 - NewsResearchAgent - INFO - Cache de notícias salvo com 1774 entradas
+2025-04-16 15:03:15,830 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 227 entradas
+2025-04-16 15:03:15,836 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria curiosidades
+2025-04-16 15:12:41,731 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/idosos-que-usam-smartphones-podem-manter-cerebro-m-20250416151241.jpg
+2025-04-16 15:12:41,731 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Idosos que usam smartphones podem manter cérebro mais saudável
+2025-04-16 15:12:41,776 - NewsResearchAgent - INFO - Cache de notícias salvo com 1774 entradas
+2025-04-16 15:12:41,779 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 228 entradas
+2025-04-16 15:12:41,779 - NewsResearchAgent - INFO - Notícia publicada: Idosos que usam smartphones podem manter cérebro mais saudável em ./categorias/curiosidades/idosos-que-usam-smartphones-podem-manter-cerebro-m-20250416151241.html

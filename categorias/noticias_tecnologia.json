@@ -1,18 +1,26 @@
 [
   {
-    "title": "SanDisk lançará nova linha de armazenamento na gamescom latam 2025",
-    "summary": "A SanDisk confirmou sua presença na gamescom latam 2025, um dos principais eventos de games e tecnologia da América Latina. Durante o evento, que ocorrerá entre os dias 1 e 4 de maio no Distrito Anhembi, em São Paulo, a empresa terá um estande de 120 m² onde apresentará uma série de lançamentos, parcerias e ativações exclusivas. Além disso, o público também poderá encontrar uma loja oficial KaBuM! no local, onde poderá comprar vários itens com desconto.",
-    "timestamp": "2025-04-16T13:04:00",
-    "link": "categorias/tecnologia/sandisk-lancara-nova-linha-de-armazenamento-na-gam-20250416130446.html",
-    "image": "../../images/tecnologia/sandisk-lancara-nova-linha-de-armazenamento-na-gam-20250416130446.jpg",
+    "title": "Spotify caiu? App de música apresenta instabilidade nesta quarta-feira (16)",
+    "summary": "O Spotify, uma das principais plataformas de streaming de música do mundo, está enfrentando problemas de instabilidade nesta quarta-feira. De acordo com relatos de usuários, a plataforma está apresentando dificuldades para carregar, tornando-se lenta ou até mesmo inacessível para milhares de pessoas.",
+    "timestamp": "2025-04-16T14:53:00",
+    "link": "categorias/tecnologia/spotify-caiu-app-de-musica-apresenta-instabilidade-20250416145333.html",
+    "image": "../../images/tecnologia/spotify-caiu-app-de-musica-apresenta-instabilidade-20250416145333.jpg",
     "category": "tecnologia"
   },
   {
     "title": "Exemplo de notícia de tecnologia",
     "summary": "Este é um exemplo de notícia tecnológica. Aqui você encontrará informações sobre lançamentos de produtos, inovações tecnológicas, tendências digitais e avanços científicos. O BrasilViral traz as novidades mais recentes do mundo da tecnologia. tecnologia.",
-    "timestamp": "2025-04-16T12:24:12.042714",
+    "timestamp": "2025-04-16T14:13:07.617790",
     "link": "categorias/tecnologia/exemplo_tecnologia.html",
     "image": "{{IMAGEM_URL}}",
+    "category": "tecnologia"
+  },
+  {
+    "title": "SanDisk lançará nova linha de armazenamento na gamescom latam 2025",
+    "summary": "A SanDisk confirmou sua presença na gamescom latam 2025, um dos principais eventos de games e tecnologia da América Latina. Durante o evento, que ocorrerá entre os dias 1 e 4 de maio no Distrito Anhembi, em São Paulo, a empresa terá um estande de 120 m² onde apresentará uma série de lançamentos, parcerias e ativações exclusivas. Além disso, o público também poderá encontrar uma loja oficial KaBuM! no local, onde poderá comprar vários itens com desconto.",
+    "timestamp": "2025-04-16T13:04:00",
+    "link": "categorias/tecnologia/sandisk-lancara-nova-linha-de-armazenamento-na-gam-20250416130446.html",
+    "image": "../../images/tecnologia/sandisk-lancara-nova-linha-de-armazenamento-na-gam-20250416130446.jpg",
     "category": "tecnologia"
   },
   {
