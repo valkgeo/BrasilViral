@@ -1,5 +1,19 @@
 [
   {
+    "title": "Não há grandes projetos depois do IR",
+    "summary": "A reforma do Imposto de Renda é considerada o último grande projeto a ser negociado no Congresso Nacional, de acordo com a estratégia do Ministério da Fazenda. Não há expectativas de que outras discussões de grande envergadura sejam realizadas até o fim de 2026. Esse cenário sugere que o governo está focado em concluir essa importante reforma tributária antes de avançar com outras propostas significativas.",
+    "timestamp": "2025-04-16T16:37:00",
+    "link": "categorias/economia/n-o-h-grandes-projetos-depois-do-ir.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "title": "{{TITULO}}",
+    "summary": "",
+    "timestamp": "2025-04-16T16:15:56.425405",
+    "link": "categorias/economia/titulo.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "Brasileiros são expert em reality shows, diz presidente da Endemol",
     "summary": "De acordo com Nani Freitas, presidente da Endemol Shine Brasil, 81% dos brasileiros já consumiram ou consomem reality shows. Essa informação foi divulgada durante uma entrevista no programa \"UOL Líderes\", que é um videocast do UOL Economia que entrevista líderes do mundo empresarial. Nani Freitas destacou que a novela e os reality shows atraem um grande público e audiência porque refletem a cultura brasileira, sendo um experimento social que traz a vivência da realidade.",
     "timestamp": "2025-04-16T15:34:00",
@@ -7,24 +21,10 @@
     "image": "images/placeholder.jpg"
   },
   {
-    "title": "{{TITULO}}",
-    "summary": "",
-    "timestamp": "2025-04-16T15:13:20.184596",
-    "link": "categorias/economia/titulo.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
     "title": "Seguro para celular: como funciona, quanto custa e o que cobre?",
     "summary": "Com os celulares se tornando cada vez mais caros e indispensáveis no dia a dia, contratar um seguro para o aparelho pode ser uma forma de evitar prejuízos em caso de danos acidentais, roubo ou furto. Especialmente em datas como o Carnaval, que costumam concentrar uma grande quantidade de ocorrências do tipo, é importante considerar a contratação de um seguro.",
     "timestamp": "2025-04-16T14:34:00",
     "link": "categorias/economia/seguro-para-celular-como-funciona-quanto-custa-e-o-que-cobre.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "IA monopoliza tarefas e ameaça empregos em setores como criação e indústria",
-    "summary": "O crescimento da inteligência artificial tem trazido uma ameaça significativa para trabalhadores de alguns setores da economia. Embora a tecnologia ainda esteja em seu início, já é possível observar mudanças em áreas como as industriais e de criação. Especialistas em tecnologia afirmam que a inteligência artificial já está tendo um impacto considerável em profissões criativas, como a publicidade, onde ilustradores eram contratados para criar materiais, mas agora as agências estão usando a inteligência artificial para realizar essas tarefas.",
-    "timestamp": "2025-04-16T12:45:00",
-    "link": "categorias/economia/ia-monopoliza-tarefas-e-amea-a-empregos-em-setores-como-cria-o-e-ind-stria.html",
     "image": "images/placeholder.jpg"
   }
 ]

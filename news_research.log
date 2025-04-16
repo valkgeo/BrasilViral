@@ -3157,3 +3157,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-16 16:13:35,310 - NewsResearchAgent - INFO - Cache de notícias salvo com 1805 entradas
 2025-04-16 16:13:35,313 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 234 entradas
 2025-04-16 16:13:35,313 - NewsResearchAgent - INFO - Notícia publicada: Quanto tempo durou a chuva mais longa da história da Terra? em ./categorias/curiosidades/quanto-tempo-durou-a-chuva-mais-longa-da-historia--20250416161335.html
+2025-04-16 16:17:48,967 - NewsResearchAgent - INFO - Cache de notícias carregado com 1805 entradas
+2025-04-16 16:17:48,969 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 234 entradas
+2025-04-16 16:18:03,624 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 16:18:03,624 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-16 16:18:04,701 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-16 16:18:05,651 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-16 16:18:06,627 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-16 16:18:11,082 - NewsResearchAgent - INFO - Cache de notícias salvo com 1810 entradas
+2025-04-16 16:18:11,085 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 234 entradas
+2025-04-16 16:18:11,093 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria esportes
+2025-04-16 16:27:45,649 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/o-que-pode-acontecer-com-bruno-henrique-investigad-20250416162745.jpg
+2025-04-16 16:27:45,649 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: O que pode acontecer com Bruno Henrique, investigado em caso de apostas
+2025-04-16 16:27:45,696 - NewsResearchAgent - INFO - Cache de notícias salvo com 1810 entradas
+2025-04-16 16:27:45,698 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 235 entradas
+2025-04-16 16:27:45,698 - NewsResearchAgent - INFO - Notícia publicada: O que pode acontecer com Bruno Henrique, investigado em caso de apostas em ./categorias/esportes/o-que-pode-acontecer-com-bruno-henrique-investigad-20250416162745.html
+2025-04-16 16:27:46,080 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 16:27:46,080 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-16 16:27:48,508 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-16 16:27:51,473 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-16 16:27:52,984 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-16 16:27:53,095 - NewsResearchAgent - INFO - Cache de notícias salvo com 1813 entradas
+2025-04-16 16:27:53,098 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 235 entradas
+2025-04-16 16:27:53,103 - NewsResearchAgent - INFO - Encontradas 6 notícias virais na categoria economia
+2025-04-16 16:37:25,073 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/nao-ha-grandes-projetos-depois-do-ir-20250416163725.jpg
+2025-04-16 16:37:25,073 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Não há grandes projetos depois do IR
+2025-04-16 16:37:25,119 - NewsResearchAgent - INFO - Cache de notícias salvo com 1813 entradas
+2025-04-16 16:37:25,122 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 236 entradas
+2025-04-16 16:37:25,122 - NewsResearchAgent - INFO - Notícia publicada: Não há grandes projetos depois do IR em ./categorias/economia/nao-ha-grandes-projetos-depois-do-ir-20250416163725.html
+2025-04-16 16:37:25,498 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 16:37:25,498 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-16 16:37:28,126 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-16 16:37:31,540 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-16 16:37:32,219 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-16 16:37:34,534 - NewsResearchAgent - INFO - Cache de notícias salvo com 1822 entradas
+2025-04-16 16:37:34,537 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 236 entradas
+2025-04-16 16:37:34,546 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria politica
+2025-04-16 16:47:07,106 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/sem-interlocucao-com-trump-lula-prioriza-china-e-e-20250416164707.jpg
+2025-04-16 16:47:07,106 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Sem interlocução com Trump, Lula prioriza China e Europa
+2025-04-16 16:47:07,153 - NewsResearchAgent - INFO - Cache de notícias salvo com 1822 entradas
+2025-04-16 16:47:07,155 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 237 entradas
+2025-04-16 16:47:07,155 - NewsResearchAgent - INFO - Notícia publicada: Sem interlocução com Trump, Lula prioriza China e Europa em ./categorias/politica/sem-interlocucao-com-trump-lula-prioriza-china-e-e-20250416164707.html
+2025-04-16 16:47:07,489 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 16:47:07,489 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-16 16:47:11,906 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-16 16:47:12,598 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-16 16:47:13,690 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-16 16:47:15,075 - NewsResearchAgent - INFO - Cache de notícias salvo com 1830 entradas
+2025-04-16 16:47:15,078 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 237 entradas
+2025-04-16 16:47:15,088 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria tecnologia
+2025-04-16 16:56:49,091 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/qual-o-tamanho-do-universo-a-jornada-aos-limites-d-20250416165649.jpg
+2025-04-16 16:56:49,091 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Qual o tamanho do Universo? A jornada aos limites do cosmos
+2025-04-16 16:56:49,138 - NewsResearchAgent - INFO - Cache de notícias salvo com 1830 entradas
+2025-04-16 16:56:49,141 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 238 entradas
+2025-04-16 16:56:49,141 - NewsResearchAgent - INFO - Notícia publicada: Qual o tamanho do Universo? A jornada aos limites do cosmos em ./categorias/tecnologia/qual-o-tamanho-do-universo-a-jornada-aos-limites-d-20250416165649.html
+2025-04-16 16:56:49,503 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 16:56:49,503 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-16 16:56:50,578 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-16 16:56:51,100 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-16 16:56:54,027 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-16 16:56:55,223 - NewsResearchAgent - INFO - Cache de notícias salvo com 1833 entradas
+2025-04-16 16:56:55,225 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 238 entradas
+2025-04-16 16:56:55,235 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria entretenimento
+2025-04-16 17:06:32,948 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/gamescom-latam-2025-tudo-sobre-o-evento-20250416170632.jpg
+2025-04-16 17:06:32,948 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: gamescom latam 2025 | Tudo sobre o evento
+2025-04-16 17:06:32,995 - NewsResearchAgent - INFO - Cache de notícias salvo com 1833 entradas
+2025-04-16 17:06:32,998 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 239 entradas
+2025-04-16 17:06:32,998 - NewsResearchAgent - INFO - Notícia publicada: gamescom latam 2025 | Tudo sobre o evento em ./categorias/entretenimento/gamescom-latam-2025-tudo-sobre-o-evento-20250416170632.html
+2025-04-16 17:06:33,355 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 17:06:33,355 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-16 17:06:35,011 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-16 17:06:35,367 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-16 17:06:37,184 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-16 17:06:37,442 - NewsResearchAgent - INFO - Cache de notícias salvo com 1836 entradas
+2025-04-16 17:06:37,445 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 239 entradas
+2025-04-16 17:06:37,453 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria curiosidades
+2025-04-16 17:16:09,693 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/podcast-terapia-2-transtorno-de-deficit-de-atencao-20250416171609.jpg
+2025-04-16 17:16:09,693 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Podcast Terapia #2: Transtorno de Déficit de Atenção e Hiperatividade
+2025-04-16 17:16:09,740 - NewsResearchAgent - INFO - Cache de notícias salvo com 1836 entradas
+2025-04-16 17:16:09,743 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 240 entradas
+2025-04-16 17:16:09,743 - NewsResearchAgent - INFO - Notícia publicada: Podcast Terapia #2: Transtorno de Déficit de Atenção e Hiperatividade em ./categorias/curiosidades/podcast-terapia-2-transtorno-de-deficit-de-atencao-20250416171609.html

@@ -1,18 +1,26 @@
 [
   {
-    "title": "Escuta Que O Filho É Teu",
-    "summary": "O podcast Escuta que o filho é teu é uma produção que aborda temas variados relacionados à parentalidade e ao desenvolvimento dos filhos. Apresentado por Karina Godoy e Natalia Ariede, o programa é lançado semanalmente e oferece uma oportunidade para os ouvintes refletirem sobre questões importantes que afetam a vida familiar.",
-    "timestamp": "2025-04-16T15:44:00",
-    "link": "categorias/politica/escuta-que-o-filho-e-teu-20250416154436.html",
-    "image": "../../images/politica/escuta-que-o-filho-e-teu-20250416154436.jpg",
+    "title": "Sem interlocução com Trump, Lula prioriza China e Europa",
+    "summary": "O presidente Luiz Inácio Lula da Silva está priorizando a China e a Europa em suas relações internacionais, devido à falta de interlocução com o presidente dos Estados Unidos, Donald Trump. As negociações tarifárias entre o Brasil e os Estados Unidos estão emperradas, com conversas limitadas ao terceiro escalão entre o Itamaraty e o Departamento de Comércio americano.",
+    "timestamp": "2025-04-16T16:47:00",
+    "link": "categorias/politica/sem-interlocucao-com-trump-lula-prioriza-china-e-e-20250416164707.html",
+    "image": "../../images/politica/sem-interlocucao-com-trump-lula-prioriza-china-e-e-20250416164707.jpg",
     "category": "politica"
   },
   {
     "title": "Exemplo de notícia de politica",
     "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
-    "timestamp": "2025-04-16T15:13:20.190596",
+    "timestamp": "2025-04-16T16:15:56.432405",
     "link": "categorias/politica/exemplo_politica.html",
     "image": "{{IMAGEM_URL}}",
+    "category": "politica"
+  },
+  {
+    "title": "Escuta Que O Filho É Teu",
+    "summary": "O podcast Escuta que o filho é teu é uma produção que aborda temas variados relacionados à parentalidade e ao desenvolvimento dos filhos. Apresentado por Karina Godoy e Natalia Ariede, o programa é lançado semanalmente e oferece uma oportunidade para os ouvintes refletirem sobre questões importantes que afetam a vida familiar.",
+    "timestamp": "2025-04-16T15:44:00",
+    "link": "categorias/politica/escuta-que-o-filho-e-teu-20250416154436.html",
+    "image": "../../images/politica/escuta-que-o-filho-e-teu-20250416154436.jpg",
     "category": "politica"
   },
   {
