@@ -1,5 +1,19 @@
 [
   {
+    "title": "Rede D'Or vende sua participação na GSH",
+    "summary": "A Rede D'Or, uma das principais redes de hospitais do país, anunciou recentemente a venda de sua participação na empresa GSH, que atua no setor de hemoterapia e terapia celular. A transação foi formalizada por meio da assinatura de documentos definitivos, que estabelecem a transferência de 98,5% das ações da GSH para a George Holding, uma empresa controlada pela gestora CVC Capital Partners.",
+    "timestamp": "2025-04-16T22:32:00",
+    "link": "categorias/economia/rede-d-or-vende-sua-participa-o-na-gsh.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "title": "{{TITULO}}",
+    "summary": "",
+    "timestamp": "2025-04-16T22:11:32.022792",
+    "link": "categorias/economia/titulo.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "Uso de IA generativa ganha escala entre empresas do setor",
     "summary": "O uso de inteligência artificial generativa está se tornando cada vez mais comum entre as empresas do setor de previdência. Essas empresas têm investido pesadamente em tecnologia e consultoria financeira para alcançar mais pessoas e elevar os índices de eficiência. A aplicação da inteligência artificial na orientação de investimentos é acompanhada por uma curadoria de profissionais especializados, com o objetivo de evitar a \"alucinação\" técnica, quando a inteligência artificial generativa começa a se confundir com o acesso a uma grande base de informações.",
     "timestamp": "2025-04-16T20:35:00",
@@ -7,24 +21,10 @@
     "image": "images/placeholder.jpg"
   },
   {
-    "title": "{{TITULO}}",
-    "summary": "",
-    "timestamp": "2025-04-16T20:14:04.625890",
-    "link": "categorias/economia/titulo.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
     "title": "Não há grandes projetos depois do IR",
     "summary": "A reforma do Imposto de Renda é considerada o último grande projeto a ser negociado no Congresso Nacional, de acordo com a estratégia do Ministério da Fazenda. Não há expectativas de que outras discussões de grande envergadura sejam realizadas até o fim de 2026. Esse cenário sugere que o governo está focado em concluir essa importante reforma tributária antes de avançar com outras propostas significativas.",
     "timestamp": "2025-04-16T16:37:00",
     "link": "categorias/economia/n-o-h-grandes-projetos-depois-do-ir.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "Brasileiros são expert em reality shows, diz presidente da Endemol",
-    "summary": "De acordo com Nani Freitas, presidente da Endemol Shine Brasil, 81% dos brasileiros já consumiram ou consomem reality shows. Essa informação foi divulgada durante uma entrevista no programa \"UOL Líderes\", que é um videocast do UOL Economia que entrevista líderes do mundo empresarial. Nani Freitas destacou que a novela e os reality shows atraem um grande público e audiência porque refletem a cultura brasileira, sendo um experimento social que traz a vivência da realidade.",
-    "timestamp": "2025-04-16T15:34:00",
-    "link": "categorias/economia/brasileiros-s-o-expert-em-reality-shows-diz-presidente-da-endemol.html",
     "image": "images/placeholder.jpg"
   }
 ]
