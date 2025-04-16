@@ -2754,3 +2754,85 @@ detail: You need to set up billing to run this model. Go to https://replicate.co
 2025-04-16 07:18:29,831 - NewsResearchAgent - INFO - Cache de notícias salvo com 1645 entradas
 2025-04-16 07:18:29,834 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 204 entradas
 2025-04-16 07:18:29,834 - NewsResearchAgent - INFO - Notícia publicada: O mistério das rochas que "cantam" na Pensilvânia em ./categorias/curiosidades/o-misterio-das-rochas-que-cantam-na-pensilvania-20250416071829.html
+2025-04-16 08:19:00,774 - NewsResearchAgent - INFO - Cache de notícias carregado com 1645 entradas
+2025-04-16 08:19:00,776 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 204 entradas
+2025-04-16 08:19:15,860 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 08:19:15,860 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-16 08:19:22,707 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-16 08:19:23,414 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-16 08:19:23,963 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-16 08:19:28,359 - NewsResearchAgent - INFO - Cache de notícias salvo com 1653 entradas
+2025-04-16 08:19:28,362 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 204 entradas
+2025-04-16 08:19:28,369 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria esportes
+2025-04-16 08:29:01,519 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/encontre-o-produto-certo-pra-voce-com-nossas-tabel-20250416082901.jpg
+2025-04-16 08:29:01,519 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Encontre o produto certo pra você, 
+com nossas tabelas comparativas!
+2025-04-16 08:29:01,564 - NewsResearchAgent - INFO - Cache de notícias salvo com 1653 entradas
+2025-04-16 08:29:01,567 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 205 entradas
+2025-04-16 08:29:01,567 - NewsResearchAgent - INFO - Notícia publicada: Encontre o produto certo pra você, 
+com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-certo-pra-voce-com-nossas-tabel-20250416082901.html
+2025-04-16 08:29:02,142 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 08:29:02,143 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-16 08:29:06,941 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-16 08:29:12,389 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-16 08:29:13,314 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-16 08:29:13,386 - NewsResearchAgent - INFO - Cache de notícias salvo com 1658 entradas
+2025-04-16 08:29:13,388 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 205 entradas
+2025-04-16 08:29:13,393 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria economia
+2025-04-16 08:38:42,625 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/pascoa-desperta-intencao-de-compra-em-86-dos-brasi-20250416083842.jpg
+2025-04-16 08:38:42,625 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Páscoa desperta intenção de compra em 86% dos brasileiros, diz pesquisa
+2025-04-16 08:38:42,667 - NewsResearchAgent - INFO - Cache de notícias salvo com 1658 entradas
+2025-04-16 08:38:42,670 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 206 entradas
+2025-04-16 08:38:42,670 - NewsResearchAgent - INFO - Notícia publicada: Páscoa desperta intenção de compra em 86% dos brasileiros, diz pesquisa em ./categorias/economia/pascoa-desperta-intencao-de-compra-em-86-dos-brasi-20250416083842.html
+2025-04-16 08:38:43,213 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 08:38:43,213 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-16 08:38:49,746 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-16 08:38:53,859 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-16 08:38:55,318 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-16 08:38:58,124 - NewsResearchAgent - INFO - Cache de notícias salvo com 1664 entradas
+2025-04-16 08:38:58,127 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 206 entradas
+2025-04-16 08:38:58,132 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria politica
+2025-04-16 08:48:31,305 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/michelle-e-carlos-centralizam-cuidados-e-comunicac-20250416084831.jpg
+2025-04-16 08:48:31,305 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Michelle e Carlos centralizam cuidados e comunicação de Bolsonaro
+2025-04-16 08:48:31,347 - NewsResearchAgent - INFO - Cache de notícias salvo com 1664 entradas
+2025-04-16 08:48:31,350 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 207 entradas
+2025-04-16 08:48:31,350 - NewsResearchAgent - INFO - Notícia publicada: Michelle e Carlos centralizam cuidados e comunicação de Bolsonaro em ./categorias/politica/michelle-e-carlos-centralizam-cuidados-e-comunicac-20250416084831.html
+2025-04-16 08:48:31,904 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 08:48:31,904 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-16 08:48:34,899 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-16 08:48:36,052 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-16 08:48:37,366 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-16 08:48:37,933 - NewsResearchAgent - INFO - Cache de notícias salvo com 1672 entradas
+2025-04-16 08:48:37,936 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 207 entradas
+2025-04-16 08:48:37,945 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria tecnologia
+2025-04-16 08:58:04,662 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/4-recursos-do-samsung-one-ui-7-para-voce-testar-no-20250416085804.jpg
+2025-04-16 08:58:04,662 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: 4 recursos do Samsung One UI 7 para você testar no smartphone
+2025-04-16 08:58:04,704 - NewsResearchAgent - INFO - Cache de notícias salvo com 1672 entradas
+2025-04-16 08:58:04,706 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 208 entradas
+2025-04-16 08:58:04,707 - NewsResearchAgent - INFO - Notícia publicada: 4 recursos do Samsung One UI 7 para você testar no smartphone em ./categorias/tecnologia/4-recursos-do-samsung-one-ui-7-para-voce-testar-no-20250416085804.html
+2025-04-16 08:58:05,167 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 08:58:05,167 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-16 08:58:06,958 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-16 08:58:07,103 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-16 08:58:12,199 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-16 08:58:15,471 - NewsResearchAgent - INFO - Cache de notícias salvo com 1677 entradas
+2025-04-16 08:58:15,474 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 208 entradas
+2025-04-16 08:58:15,482 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria entretenimento
+2025-04-16 09:07:52,056 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/demolidor-renascido-entenda-o-que-significa-a-cena-20250416090752.jpg
+2025-04-16 09:07:52,056 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Demolidor: Renascido | Entenda o que significa a cena pós-créditos
+2025-04-16 09:07:52,101 - NewsResearchAgent - INFO - Cache de notícias salvo com 1677 entradas
+2025-04-16 09:07:52,103 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 209 entradas
+2025-04-16 09:07:52,103 - NewsResearchAgent - INFO - Notícia publicada: Demolidor: Renascido | Entenda o que significa a cena pós-créditos em ./categorias/entretenimento/demolidor-renascido-entenda-o-que-significa-a-cena-20250416090752.html
+2025-04-16 09:07:52,659 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-16 09:07:52,659 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-16 09:07:55,679 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-16 09:07:56,676 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-16 09:07:58,625 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-16 09:07:58,893 - NewsResearchAgent - INFO - Cache de notícias salvo com 1680 entradas
+2025-04-16 09:07:58,895 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 209 entradas
+2025-04-16 09:07:58,902 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria curiosidades
+2025-04-16 09:17:31,305 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/abril-traz-primeira-chuva-de-meteoros-intensa-do-a-20250416091731.jpg
+2025-04-16 09:17:31,305 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Abril traz primeira chuva de meteoros intensa do ano; veja calendário astronômico
+2025-04-16 09:17:31,348 - NewsResearchAgent - INFO - Cache de notícias salvo com 1680 entradas
+2025-04-16 09:17:31,350 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 210 entradas
+2025-04-16 09:17:31,350 - NewsResearchAgent - INFO - Notícia publicada: Abril traz primeira chuva de meteoros intensa do ano; veja calendário astronômico em ./categorias/curiosidades/abril-traz-primeira-chuva-de-meteoros-intensa-do-a-20250416091731.html
