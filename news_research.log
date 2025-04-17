@@ -4360,3 +4360,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-17 21:14:30,222 - NewsResearchAgent - INFO - Cache de notícias salvo com 2259 entradas
 2025-04-17 21:14:30,226 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 324 entradas
 2025-04-17 21:14:30,226 - NewsResearchAgent - INFO - Notícia publicada: Os indícios de sociedades pré-cabralinas ocultos na vegetação da Amazônia em ./categorias/curiosidades/os-indicios-de-sociedades-precabralinas-ocultos-na-20250417211430.html
+2025-04-17 22:13:00,836 - NewsResearchAgent - INFO - Cache de notícias carregado com 2259 entradas
+2025-04-17 22:13:00,838 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 324 entradas
+2025-04-17 22:13:47,808 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 22:13:47,809 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-17 22:13:48,912 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-17 22:13:49,808 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-17 22:13:50,676 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-17 22:13:53,762 - NewsResearchAgent - INFO - Cache de notícias salvo com 2264 entradas
+2025-04-17 22:13:53,765 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 324 entradas
+2025-04-17 22:13:53,782 - NewsResearchAgent - INFO - Encontradas 16 notícias virais na categoria esportes
+2025-04-17 22:23:19,483 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/leclerc-admite-que-recuperacao-da-na-f1-ferrari-se-20250417222319.jpg
+2025-04-17 22:23:19,483 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Leclerc admite que recuperação da na F1 Ferrari será longa
+2025-04-17 22:23:19,544 - NewsResearchAgent - INFO - Cache de notícias salvo com 2264 entradas
+2025-04-17 22:23:19,548 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 325 entradas
+2025-04-17 22:23:19,548 - NewsResearchAgent - INFO - Notícia publicada: Leclerc admite que recuperação da na F1 Ferrari será longa em ./categorias/esportes/leclerc-admite-que-recuperacao-da-na-f1-ferrari-se-20250417222319.html
+2025-04-17 22:23:20,066 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 22:23:20,066 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-17 22:23:23,123 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-17 22:23:29,048 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-17 22:23:30,346 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-17 22:23:30,556 - NewsResearchAgent - INFO - Cache de notícias salvo com 2267 entradas
+2025-04-17 22:23:30,560 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 325 entradas
+2025-04-17 22:23:30,567 - NewsResearchAgent - INFO - Encontradas 6 notícias virais na categoria economia
+2025-04-17 22:32:53,658 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/o-que-a-serie-adolescencia-tem-a-ver-com-educacao--20250417223253.jpg
+2025-04-17 22:32:53,658 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: O que a série 'Adolescência' tem a ver com educação financeira?
+2025-04-17 22:32:53,716 - NewsResearchAgent - INFO - Cache de notícias salvo com 2267 entradas
+2025-04-17 22:32:53,720 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 326 entradas
+2025-04-17 22:32:53,720 - NewsResearchAgent - INFO - Notícia publicada: O que a série 'Adolescência' tem a ver com educação financeira? em ./categorias/economia/o-que-a-serie-adolescencia-tem-a-ver-com-educacao--20250417223253.html
+2025-04-17 22:32:54,084 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 22:32:54,084 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-17 22:32:57,395 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-17 22:32:59,787 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-17 22:33:00,502 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-17 22:33:01,029 - NewsResearchAgent - INFO - Cache de notícias salvo com 2269 entradas
+2025-04-17 22:33:01,032 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 326 entradas
+2025-04-17 22:33:01,042 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria politica
+2025-04-17 22:42:39,216 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/tabela-eliminatorias-2026-20250417224239.jpg
+2025-04-17 22:42:39,217 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Tabela Eliminatórias 2026
+2025-04-17 22:42:39,274 - NewsResearchAgent - INFO - Cache de notícias salvo com 2269 entradas
+2025-04-17 22:42:39,278 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 327 entradas
+2025-04-17 22:42:39,278 - NewsResearchAgent - INFO - Notícia publicada: Tabela Eliminatórias 2026 em ./categorias/politica/tabela-eliminatorias-2026-20250417224239.html
+2025-04-17 22:42:39,795 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 22:42:39,795 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-17 22:42:41,879 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-17 22:42:42,343 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-17 22:42:43,462 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-17 22:42:44,954 - NewsResearchAgent - INFO - Cache de notícias salvo com 2275 entradas
+2025-04-17 22:42:44,958 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 327 entradas
+2025-04-17 22:42:44,969 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria tecnologia
+2025-04-17 22:52:09,687 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/maior-lago-do-mundo-esta-sumindo-saiba-os-impactos-20250417225209.jpg
+2025-04-17 22:52:09,688 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Maior lago do mundo está sumindo, saiba os impactos
+2025-04-17 22:52:09,746 - NewsResearchAgent - INFO - Cache de notícias salvo com 2275 entradas
+2025-04-17 22:52:09,750 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 328 entradas
+2025-04-17 22:52:09,750 - NewsResearchAgent - INFO - Notícia publicada: Maior lago do mundo está sumindo, saiba os impactos em ./categorias/tecnologia/maior-lago-do-mundo-esta-sumindo-saiba-os-impactos-20250417225209.html
+2025-04-17 22:52:10,122 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 22:52:10,122 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-17 22:52:11,090 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-17 22:52:11,232 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-17 22:52:13,917 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-17 22:52:16,731 - NewsResearchAgent - INFO - Cache de notícias salvo com 2282 entradas
+2025-04-17 22:52:16,735 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 328 entradas
+2025-04-17 22:52:16,753 - NewsResearchAgent - INFO - Encontradas 17 notícias virais na categoria entretenimento
+2025-04-17 23:01:49,456 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/remake-de-highlander-com-henry-cavill-sera-produzi-20250417230149.jpg
+2025-04-17 23:01:49,456 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Remake de Highlander com Henry Cavill será produzido pela Amazon
+2025-04-17 23:01:49,515 - NewsResearchAgent - INFO - Cache de notícias salvo com 2282 entradas
+2025-04-17 23:01:49,518 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 329 entradas
+2025-04-17 23:01:49,518 - NewsResearchAgent - INFO - Notícia publicada: Remake de Highlander com Henry Cavill será produzido pela Amazon em ./categorias/entretenimento/remake-de-highlander-com-henry-cavill-sera-produzi-20250417230149.html
+2025-04-17 23:01:49,908 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 23:01:49,908 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-17 23:01:50,725 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-17 23:01:51,436 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-17 23:01:53,341 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-17 23:01:53,662 - NewsResearchAgent - INFO - Cache de notícias salvo com 2283 entradas
+2025-04-17 23:01:53,666 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 329 entradas
+2025-04-17 23:01:53,673 - NewsResearchAgent - INFO - Encontradas 5 notícias virais na categoria curiosidades
+2025-04-17 23:11:18,901 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/por-que-havia-mais-animais-gigantes-na-prehistoria-20250417231118.jpg
+2025-04-17 23:11:18,901 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Por que havia mais animais gigantes na pré-história?
+2025-04-17 23:11:18,960 - NewsResearchAgent - INFO - Cache de notícias salvo com 2283 entradas
+2025-04-17 23:11:18,963 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 330 entradas
+2025-04-17 23:11:18,964 - NewsResearchAgent - INFO - Notícia publicada: Por que havia mais animais gigantes na pré-história? em ./categorias/curiosidades/por-que-havia-mais-animais-gigantes-na-prehistoria-20250417231118.html
