@@ -3720,3 +3720,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-17 07:18:45,201 - NewsResearchAgent - INFO - Cache de notícias salvo com 2025 entradas
 2025-04-17 07:18:45,204 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 276 entradas
 2025-04-17 07:18:45,204 - NewsResearchAgent - INFO - Notícia publicada: De borboleta marinha a porco-do-mar: seres únicos são coletados na Antártida em ./categorias/curiosidades/de-borboleta-marinha-a-porcodomar-seres-unicos-sao-20250417071845.html
+2025-04-17 08:18:49,372 - NewsResearchAgent - INFO - Cache de notícias carregado com 2025 entradas
+2025-04-17 08:18:49,374 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 276 entradas
+2025-04-17 08:19:03,292 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 08:19:03,292 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-17 08:19:05,907 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-17 08:19:06,693 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-17 08:19:07,186 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-17 08:19:09,820 - NewsResearchAgent - INFO - Cache de notícias salvo com 2030 entradas
+2025-04-17 08:19:09,823 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 276 entradas
+2025-04-17 08:19:09,834 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria esportes
+2025-04-17 08:28:18,621 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/norris-reforca-desconforto-com-mclaren-e-dispara-n-20250417082818.jpg
+2025-04-17 08:28:18,621 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Norris reforça desconforto com McLaren e dispara: ‘Não sei como estou liderando a F1’
+2025-04-17 08:28:18,674 - NewsResearchAgent - INFO - Cache de notícias salvo com 2030 entradas
+2025-04-17 08:28:18,677 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 277 entradas
+2025-04-17 08:28:18,677 - NewsResearchAgent - INFO - Notícia publicada: Norris reforça desconforto com McLaren e dispara: ‘Não sei como estou liderando a F1’ em ./categorias/esportes/norris-reforca-desconforto-com-mclaren-e-dispara-n-20250417082818.html
+2025-04-17 08:28:19,176 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 08:28:19,177 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-17 08:28:23,603 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-17 08:28:32,043 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-17 08:28:33,285 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-17 08:28:33,435 - NewsResearchAgent - INFO - Cache de notícias salvo com 2035 entradas
+2025-04-17 08:28:33,438 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 277 entradas
+2025-04-17 08:28:33,444 - NewsResearchAgent - INFO - Encontradas 6 notícias virais na categoria economia
+2025-04-17 08:37:45,495 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/exprimeiradama-do-peru-chega-ao-brasil-apos-recebe-20250417083745.jpg
+2025-04-17 08:37:45,495 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Ex-primeira-dama do Peru chega ao Brasil após receber asilo diplomático de Lula
+2025-04-17 08:37:45,546 - NewsResearchAgent - INFO - Cache de notícias salvo com 2035 entradas
+2025-04-17 08:37:45,548 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 278 entradas
+2025-04-17 08:37:45,549 - NewsResearchAgent - INFO - Notícia publicada: Ex-primeira-dama do Peru chega ao Brasil após receber asilo diplomático de Lula em ./categorias/economia/exprimeiradama-do-peru-chega-ao-brasil-apos-recebe-20250417083745.html
+2025-04-17 08:37:45,891 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 08:37:45,891 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-17 08:37:48,793 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-17 08:37:49,981 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-17 08:37:52,096 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-17 08:37:53,374 - NewsResearchAgent - INFO - Cache de notícias salvo com 2042 entradas
+2025-04-17 08:37:53,377 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 278 entradas
+2025-04-17 08:37:53,384 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria politica
+2025-04-17 08:47:01,762 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/quem-e-a-exprimeiradama-condenada-por-corrupcao-qu-20250417084701.jpg
+2025-04-17 08:47:01,762 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Quem é a ex-primeira-dama condenada por corrupção que ganhou asilo no Brasil
+2025-04-17 08:47:01,813 - NewsResearchAgent - INFO - Cache de notícias salvo com 2042 entradas
+2025-04-17 08:47:01,816 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 279 entradas
+2025-04-17 08:47:01,816 - NewsResearchAgent - INFO - Notícia publicada: Quem é a ex-primeira-dama condenada por corrupção que ganhou asilo no Brasil em ./categorias/politica/quem-e-a-exprimeiradama-condenada-por-corrupcao-qu-20250417084701.html
+2025-04-17 08:47:02,263 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 08:47:02,263 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-17 08:47:05,209 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-17 08:47:06,031 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-17 08:47:07,221 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-17 08:47:07,939 - NewsResearchAgent - INFO - Cache de notícias salvo com 2044 entradas
+2025-04-17 08:47:07,942 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 279 entradas
+2025-04-17 08:47:07,951 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria tecnologia
+2025-04-17 08:56:19,510 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/whatsapp-finalmente-permite-criar-e-compartilhar-p-20250417085619.jpg
+2025-04-17 08:56:19,510 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: WhatsApp finalmente permite criar e compartilhar pacotes de figurinhas
+2025-04-17 08:56:19,560 - NewsResearchAgent - INFO - Cache de notícias salvo com 2044 entradas
+2025-04-17 08:56:19,563 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 280 entradas
+2025-04-17 08:56:19,563 - NewsResearchAgent - INFO - Notícia publicada: WhatsApp finalmente permite criar e compartilhar pacotes de figurinhas em ./categorias/tecnologia/whatsapp-finalmente-permite-criar-e-compartilhar-p-20250417085619.html
+2025-04-17 08:56:20,069 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 08:56:20,069 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-17 08:56:20,984 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-17 08:56:21,105 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-17 08:56:24,367 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-17 08:56:27,163 - NewsResearchAgent - INFO - Cache de notícias salvo com 2047 entradas
+2025-04-17 08:56:27,165 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 280 entradas
+2025-04-17 08:56:27,176 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria entretenimento
+2025-04-17 09:05:42,127 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/grama-sintetica-eleva-o-charme-e-a-inovacao-no-bbb-20250417090542.jpg
+2025-04-17 09:05:42,127 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Grama sintética eleva o charme e a inovação no BBB 25
+2025-04-17 09:05:42,180 - NewsResearchAgent - INFO - Cache de notícias salvo com 2047 entradas
+2025-04-17 09:05:42,182 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 281 entradas
+2025-04-17 09:05:42,183 - NewsResearchAgent - INFO - Notícia publicada: Grama sintética eleva o charme e a inovação no BBB 25 em ./categorias/entretenimento/grama-sintetica-eleva-o-charme-e-a-inovacao-no-bbb-20250417090542.html
+2025-04-17 09:05:42,667 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 09:05:42,667 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-17 09:05:43,483 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-17 09:05:44,029 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-17 09:05:45,721 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-17 09:05:45,979 - NewsResearchAgent - INFO - Cache de notícias salvo com 2047 entradas
+2025-04-17 09:05:45,982 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 281 entradas
+2025-04-17 09:05:45,992 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria curiosidades
+2025-04-17 09:15:05,598 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/oito-maneiras-de-reduzir-o-risco-de-avc-em-qualque-20250417091505.jpg
+2025-04-17 09:15:05,598 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Oito maneiras de reduzir o risco de AVC, em qualquer idade
+2025-04-17 09:15:05,648 - NewsResearchAgent - INFO - Cache de notícias salvo com 2047 entradas
+2025-04-17 09:15:05,651 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 282 entradas
+2025-04-17 09:15:05,651 - NewsResearchAgent - INFO - Notícia publicada: Oito maneiras de reduzir o risco de AVC, em qualquer idade em ./categorias/curiosidades/oito-maneiras-de-reduzir-o-risco-de-avc-em-qualque-20250417091505.html
