@@ -1,5 +1,19 @@
 [
   {
+    "title": "Guia de Compras",
+    "summary": "Guia de Compras",
+    "timestamp": "2025-04-17T18:48:00",
+    "link": "categorias/politica/guia-de-compras.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "title": "Exemplo de notícia de politica",
+    "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
+    "timestamp": "2025-04-17T18:17:02.011367",
+    "link": "categorias/politica/exemplo-de-not-cia-de-politica.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "Mortos na ditadura: 314 famílias devem receber certidões atualizadas",
     "summary": "Cerca de 314 famílias de mortos ou desaparecidos durante a ditadura militar no Brasil devem receber, no início de maio, uma nova certidão de óbito com informações atualizadas. Essa nova certidão deve trazer detalhes como data, local, estado civil e quantidade de filhos, além de registrar a causa da morte como não natural, violenta, causada por perseguição política do estado brasileiro.",
     "timestamp": "2025-04-17T16:46:00",
@@ -7,24 +21,10 @@
     "image": "images/placeholder.jpg"
   },
   {
-    "title": "Exemplo de notícia de politica",
-    "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
-    "timestamp": "2025-04-17T16:15:30.126245",
-    "link": "categorias/politica/exemplo-de-not-cia-de-politica.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
     "title": "VÍDEOS: G1 em 1 Minuto Santos, apresentado por Alê Lopes",
     "summary": "Uma série de notícias importantes tem chamado a atenção do público nos últimos dias. Em áreas urbanas, uma grande preocupação é a falta de acessibilidade para pessoas com deficiência, com a maioria das vias não possuindo rampas para cadeirantes. Essa é uma questão que afeta diretamente a qualidade de vida dessas pessoas e precisa ser abordada pelas autoridades competentes.",
     "timestamp": "2025-04-17T15:44:00",
     "link": "categorias/politica/v-deos-g1-em-1-minuto-santos-apresentado-por-al-lopes.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "Novo Código Civil: projeto permite proibição de aluguel no modelo Airbnb",
-    "summary": "Um projeto de reforma do Código Civil que está em tramitação no Senado Federal pode permitir que condomínios proíbam o aluguel de imóveis por meio de plataformas digitais de hospedagem, como o Airbnb e o Booking. A proposta tem como objetivo regulamentar a utilização de imóveis em condomínios residenciais para fins de hospedagem atípica.",
-    "timestamp": "2025-04-17T14:43:00",
-    "link": "categorias/politica/novo-c-digo-civil-projeto-permite-proibi-o-de-aluguel-no-modelo-airbnb.html",
     "image": "images/placeholder.jpg"
   }
 ]
