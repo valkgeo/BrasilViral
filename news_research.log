@@ -3479,3 +3479,84 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-17 01:58:53,222 - NewsResearchAgent - INFO - Cache de notícias salvo com 1937 entradas
 2025-04-17 01:58:53,225 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 258 entradas
 2025-04-17 01:58:53,225 - NewsResearchAgent - INFO - Notícia publicada: O que não te contam sobre o mundo wellness em ./categorias/curiosidades/o-que-nao-te-contam-sobre-o-mundo-wellness-20250417015853.html
+2025-04-17 02:37:44,615 - NewsResearchAgent - INFO - Cache de notícias carregado com 1937 entradas
+2025-04-17 02:37:44,617 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 258 entradas
+2025-04-17 02:37:59,381 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 02:37:59,382 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-17 02:38:05,604 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-17 02:38:06,388 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-17 02:38:07,611 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-17 02:38:13,802 - NewsResearchAgent - INFO - Cache de notícias salvo com 1944 entradas
+2025-04-17 02:38:13,805 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 258 entradas
+2025-04-17 02:38:13,814 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria esportes
+2025-04-17 02:47:36,893 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/abel-explica-alteracoes-na-escalacao-do-palmeiras--20250417024736.jpg
+2025-04-17 02:47:36,893 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Abel explica alterações na escalação do Palmeiras e avalia calendário
+2025-04-17 02:47:36,943 - NewsResearchAgent - INFO - Cache de notícias salvo com 1944 entradas
+2025-04-17 02:47:36,946 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 259 entradas
+2025-04-17 02:47:36,946 - NewsResearchAgent - INFO - Notícia publicada: Abel explica alterações na escalação do Palmeiras e avalia calendário em ./categorias/esportes/abel-explica-alteracoes-na-escalacao-do-palmeiras--20250417024736.html
+2025-04-17 02:47:37,492 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 02:47:37,492 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-17 02:47:43,893 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-17 02:47:48,390 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-17 02:47:49,287 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-17 02:47:49,442 - NewsResearchAgent - INFO - Cache de notícias salvo com 1946 entradas
+2025-04-17 02:47:49,445 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 259 entradas
+2025-04-17 02:47:49,450 - NewsResearchAgent - INFO - Encontradas 6 notícias virais na categoria economia
+2025-04-17 02:57:12,906 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/petrobras-acionistas-mudam-apenas-1-dos-11-membros-20250417025712.jpg
+2025-04-17 02:57:12,907 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Petrobras: acionistas mudam apenas 1 dos 11 membros do Conselho em assembleia
+2025-04-17 02:57:12,955 - NewsResearchAgent - INFO - Cache de notícias salvo com 1946 entradas
+2025-04-17 02:57:12,958 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 260 entradas
+2025-04-17 02:57:12,958 - NewsResearchAgent - INFO - Notícia publicada: Petrobras: acionistas mudam apenas 1 dos 11 membros do Conselho em assembleia em ./categorias/economia/petrobras-acionistas-mudam-apenas-1-dos-11-membros-20250417025712.html
+2025-04-17 02:57:13,324 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 02:57:13,324 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-17 02:57:26,330 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-17 02:57:29,114 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-17 02:57:29,859 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-17 02:57:40,541 - NewsResearchAgent - ERROR - Erro ao processar link de notícia https://www.cnnbrasil.com.br/sitemap_index.xml: HTTPSConnectionPool(host='www.cnnbrasil.com.br', port=443): Read timed out. (read timeout=10)
+2025-04-17 02:57:40,681 - NewsResearchAgent - INFO - Cache de notícias salvo com 1956 entradas
+2025-04-17 02:57:40,684 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 260 entradas
+2025-04-17 02:57:40,693 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria politica
+2025-04-17 03:07:04,625 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/reinaldo-sostenes-quer-desmoralizar-motta-e-se-gol-20250417030704.jpg
+2025-04-17 03:07:04,625 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Reinaldo: Sóstenes quer desmoralizar Motta. E se golpistas voltassem, hein?
+2025-04-17 03:07:04,674 - NewsResearchAgent - INFO - Cache de notícias salvo com 1956 entradas
+2025-04-17 03:07:04,677 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 261 entradas
+2025-04-17 03:07:04,677 - NewsResearchAgent - INFO - Notícia publicada: Reinaldo: Sóstenes quer desmoralizar Motta. E se golpistas voltassem, hein? em ./categorias/politica/reinaldo-sostenes-quer-desmoralizar-motta-e-se-gol-20250417030704.html
+2025-04-17 03:07:05,184 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 03:07:05,184 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-17 03:07:05,698 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-17 03:07:07,166 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-17 03:07:09,056 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-17 03:07:10,181 - NewsResearchAgent - INFO - Cache de notícias salvo com 1960 entradas
+2025-04-17 03:07:10,184 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 261 entradas
+2025-04-17 03:07:10,192 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria tecnologia
+2025-04-17 03:16:35,861 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/ofertas-do-dia-celular-motorola-em-promocao-aprove-20250417031635.jpg
+2025-04-17 03:16:35,861 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Ofertas do dia: celular Motorola em promoção! Aproveite até 20% off
+2025-04-17 03:16:35,910 - NewsResearchAgent - INFO - Cache de notícias salvo com 1960 entradas
+2025-04-17 03:16:35,913 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 262 entradas
+2025-04-17 03:16:35,913 - NewsResearchAgent - INFO - Notícia publicada: Ofertas do dia: celular Motorola em promoção! Aproveite até 20% off em ./categorias/tecnologia/ofertas-do-dia-celular-motorola-em-promocao-aprove-20250417031635.html
+2025-04-17 03:16:36,217 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 03:16:36,217 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-17 03:16:41,409 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-17 03:16:41,591 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-17 03:16:46,521 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-17 03:16:52,757 - NewsResearchAgent - INFO - Cache de notícias salvo com 1967 entradas
+2025-04-17 03:16:52,760 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 262 entradas
+2025-04-17 03:16:52,769 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria entretenimento
+2025-04-17 03:26:20,360 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/10-melhores-filmes-para-ver-na-netflix-agora-abril-20250417032620.jpg
+2025-04-17 03:26:20,360 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: 10 Melhores Filmes para ver na Netflix agora (Abril 2025)
+2025-04-17 03:26:20,411 - NewsResearchAgent - INFO - Cache de notícias salvo com 1967 entradas
+2025-04-17 03:26:20,414 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 263 entradas
+2025-04-17 03:26:20,414 - NewsResearchAgent - INFO - Notícia publicada: 10 Melhores Filmes para ver na Netflix agora (Abril 2025) em ./categorias/entretenimento/10-melhores-filmes-para-ver-na-netflix-agora-abril-20250417032620.html
+2025-04-17 03:26:20,819 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 03:26:20,819 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-17 03:26:24,766 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-17 03:26:25,848 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-17 03:26:28,410 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-17 03:26:28,791 - NewsResearchAgent - INFO - Cache de notícias salvo com 1969 entradas
+2025-04-17 03:26:28,794 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 263 entradas
+2025-04-17 03:26:28,804 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria curiosidades
+2025-04-17 03:35:52,208 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/lulacolossal-e-registrada-em-video-no-mar-profundo-20250417033552.jpg
+2025-04-17 03:35:52,208 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Lula-colossal é registrada em vídeo no mar profundo pela 1ª vez; assista
+2025-04-17 03:35:52,259 - NewsResearchAgent - INFO - Cache de notícias salvo com 1969 entradas
+2025-04-17 03:35:52,261 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 264 entradas
+2025-04-17 03:35:52,262 - NewsResearchAgent - INFO - Notícia publicada: Lula-colossal é registrada em vídeo no mar profundo pela 1ª vez; assista em ./categorias/curiosidades/lulacolossal-e-registrada-em-video-no-mar-profundo-20250417033552.html
