@@ -3800,3 +3800,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-17 09:15:05,648 - NewsResearchAgent - INFO - Cache de notícias salvo com 2047 entradas
 2025-04-17 09:15:05,651 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 282 entradas
 2025-04-17 09:15:05,651 - NewsResearchAgent - INFO - Notícia publicada: Oito maneiras de reduzir o risco de AVC, em qualquer idade em ./categorias/curiosidades/oito-maneiras-de-reduzir-o-risco-de-avc-em-qualque-20250417091505.html
+2025-04-17 10:15:27,582 - NewsResearchAgent - INFO - Cache de notícias carregado com 2047 entradas
+2025-04-17 10:15:27,584 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 282 entradas
+2025-04-17 10:16:08,865 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 10:16:08,865 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-17 10:16:11,344 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-17 10:16:12,185 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-17 10:16:12,977 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-17 10:16:18,224 - NewsResearchAgent - INFO - Cache de notícias salvo com 2055 entradas
+2025-04-17 10:16:18,228 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 282 entradas
+2025-04-17 10:16:18,238 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria esportes
+2025-04-17 10:26:40,631 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/analise-botafogo-pede-paciencia-mas-tambem-abusa-d-20250417102640.jpg
+2025-04-17 10:26:40,631 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Análise – Botafogo pede paciência, mas também abusa dela
+2025-04-17 10:26:40,699 - NewsResearchAgent - INFO - Cache de notícias salvo com 2055 entradas
+2025-04-17 10:26:40,704 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 283 entradas
+2025-04-17 10:26:40,705 - NewsResearchAgent - INFO - Notícia publicada: Análise – Botafogo pede paciência, mas também abusa dela em ./categorias/esportes/analise-botafogo-pede-paciencia-mas-tambem-abusa-d-20250417102640.html
+2025-04-17 10:26:41,129 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 10:26:41,129 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-17 10:26:44,075 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-17 10:26:49,289 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-17 10:26:50,371 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-17 10:26:50,500 - NewsResearchAgent - INFO - Cache de notícias salvo com 2063 entradas
+2025-04-17 10:26:50,506 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 283 entradas
+2025-04-17 10:26:50,520 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria economia
+2025-04-17 10:37:08,765 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/como-o-dreamers-chegou-a-r-2-bi-de-faturamento-20250417103708.jpg
+2025-04-17 10:37:08,765 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Como o Dreamers chegou a R$ 2 bi de faturamento
+2025-04-17 10:37:08,817 - NewsResearchAgent - INFO - Cache de notícias salvo com 2063 entradas
+2025-04-17 10:37:08,820 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 284 entradas
+2025-04-17 10:37:08,820 - NewsResearchAgent - INFO - Notícia publicada: Como o Dreamers chegou a R$ 2 bi de faturamento em ./categorias/economia/como-o-dreamers-chegou-a-r-2-bi-de-faturamento-20250417103708.html
+2025-04-17 10:37:09,320 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 10:37:09,320 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-17 10:37:12,033 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-17 10:37:15,147 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-17 10:37:16,246 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-17 10:37:18,183 - NewsResearchAgent - INFO - Cache de notícias salvo com 2069 entradas
+2025-04-17 10:37:18,186 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 284 entradas
+2025-04-17 10:37:18,194 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria politica
+2025-04-17 10:47:33,474 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/meio-ambiente-20250417104733.jpg
+2025-04-17 10:47:33,474 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Meio Ambiente
+2025-04-17 10:47:33,530 - NewsResearchAgent - INFO - Cache de notícias salvo com 2069 entradas
+2025-04-17 10:47:33,534 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 285 entradas
+2025-04-17 10:47:33,534 - NewsResearchAgent - INFO - Notícia publicada: Meio Ambiente em ./categorias/politica/meio-ambiente-20250417104733.html
+2025-04-17 10:47:33,882 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 10:47:33,882 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-17 10:47:37,985 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-17 10:47:39,021 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-17 10:47:39,734 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-17 10:47:40,368 - NewsResearchAgent - INFO - Cache de notícias salvo com 2078 entradas
+2025-04-17 10:47:40,371 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 285 entradas
+2025-04-17 10:47:40,384 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria tecnologia
+2025-04-17 10:58:00,479 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/netflix-recebe-9-lancamentos-de-peso-nesta-semana--20250417105800.jpg
+2025-04-17 10:58:00,480 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Netflix recebe 9 lançamentos de peso nesta semana! Confira os destaques
+2025-04-17 10:58:00,533 - NewsResearchAgent - INFO - Cache de notícias salvo com 2078 entradas
+2025-04-17 10:58:00,536 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 286 entradas
+2025-04-17 10:58:00,536 - NewsResearchAgent - INFO - Notícia publicada: Netflix recebe 9 lançamentos de peso nesta semana! Confira os destaques em ./categorias/tecnologia/netflix-recebe-9-lancamentos-de-peso-nesta-semana--20250417105800.html
+2025-04-17 10:58:00,932 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 10:58:00,932 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-17 10:58:02,404 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-17 10:58:02,605 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-17 10:58:07,079 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-17 10:58:08,452 - NewsResearchAgent - INFO - Cache de notícias salvo com 2082 entradas
+2025-04-17 10:58:08,456 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 286 entradas
+2025-04-17 10:58:08,467 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria entretenimento
+2025-04-17 11:08:34,580 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/vingadores-doomsday-ator-promete-a-velha-formula-d-20250417110834.jpg
+2025-04-17 11:08:34,580 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Vingadores: Doomsday | Ator promete a velha fórmula da Marvel
+2025-04-17 11:08:34,633 - NewsResearchAgent - INFO - Cache de notícias salvo com 2082 entradas
+2025-04-17 11:08:34,636 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 287 entradas
+2025-04-17 11:08:34,636 - NewsResearchAgent - INFO - Notícia publicada: Vingadores: Doomsday | Ator promete a velha fórmula da Marvel em ./categorias/entretenimento/vingadores-doomsday-ator-promete-a-velha-formula-d-20250417110834.html
+2025-04-17 11:08:35,062 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 11:08:35,062 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-17 11:08:35,892 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-17 11:08:36,210 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-17 11:08:38,257 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-17 11:08:38,495 - NewsResearchAgent - INFO - Cache de notícias salvo com 2083 entradas
+2025-04-17 11:08:38,498 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 287 entradas
+2025-04-17 11:08:38,507 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria curiosidades
+2025-04-17 11:19:06,684 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/playlist-5-coisas-para-ler-e-jogar-em-abril-20250417111906.jpg
+2025-04-17 11:19:06,684 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Playlist: 5 coisas para ler e jogar em abril
+2025-04-17 11:19:06,737 - NewsResearchAgent - INFO - Cache de notícias salvo com 2083 entradas
+2025-04-17 11:19:06,740 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 288 entradas
+2025-04-17 11:19:06,740 - NewsResearchAgent - INFO - Notícia publicada: Playlist: 5 coisas para ler e jogar em abril em ./categorias/curiosidades/playlist-5-coisas-para-ler-e-jogar-em-abril-20250417111906.html

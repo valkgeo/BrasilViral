@@ -1,5 +1,19 @@
 [
   {
+    "title": "Como o Dreamers chegou a R$ 2 bi de faturamento",
+    "summary": "O grupo Dreamers, fundado por Roberto Medina, criador do Rock in Rio, alcançou um faturamento de pouco mais de R$ 2 bilhões no ano passado. Isso representa um crescimento de 50% em relação ao ano anterior. Além disso, a receita da empresa, ou seja, o que efetivamente entrou no caixa, aumentou 20% no mesmo período.",
+    "timestamp": "2025-04-17T10:37:00",
+    "link": "categorias/economia/como-o-dreamers-chegou-a-r-2-bi-de-faturamento.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "title": "{{TITULO}}",
+    "summary": "",
+    "timestamp": "2025-04-17T10:13:43.583515",
+    "link": "categorias/economia/titulo.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "Ex-primeira-dama do Peru chega ao Brasil após receber asilo diplomático de Lula",
     "summary": "Nadine Heredia, ex-primeira-dama do Peru, chegou ao Brasil na manhã de quarta-feira após receber asilo diplomático do governo brasileiro. Ela desembarcou em Brasília acompanhada de seu filho menor de idade. A decisão de conceder asilo foi tomada um dia após a Justiça peruana condená-la a 15 anos de prisão por lavagem de dinheiro em um caso relacionado à construtora Odebrecht.",
     "timestamp": "2025-04-17T08:37:00",
@@ -7,24 +21,10 @@
     "image": "images/placeholder.jpg"
   },
   {
-    "title": "{{TITULO}}",
-    "summary": "",
-    "timestamp": "2025-04-17T08:17:16.221464",
-    "link": "categorias/economia/titulo.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
     "title": "Em alta, gastos tributários de Estados e União beiram 7,2% do PIB",
     "summary": "Os gastos tributários de Estados e União estão em alta e devem atingir 7,2% do Produto Interno Bruto (PIB) este ano. Isso representa um aumento em relação aos 6,9% registrados em 2024. Os gastos tributários federais, que eram de 1,3% do PIB em 2002, devem crescer para 4,8% em 2025. Já nos Estados, o nível de gastos tributários deve ser de 2,4% este ano, metade da taxa da União.",
     "timestamp": "2025-04-17T06:40:00",
     "link": "categorias/economia/em-alta-gastos-tribut-rios-de-estados-e-uni-o-beiram-7-2-do-pib.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "Decisão sobre PJs expõe 'guerra de tribunais' e afeta milhares de processos",
-    "summary": "A decisão do ministro do Superior Tribunal Federal, Gilmar Mendes, que suspendeu todos os processos relacionados à pejotização, tem um impacto significativo em milhares de ações em tramitação na Justiça. Essa medida expõe um embate entre o STF e a Justiça trabalhista, segundo advogados ouvidos.",
-    "timestamp": "2025-04-17T04:36:00",
-    "link": "categorias/economia/decis-o-sobre-pjs-exp-e-guerra-de-tribunais-e-afeta-milhares-de-processos.html",
     "image": "images/placeholder.jpg"
   }
 ]
