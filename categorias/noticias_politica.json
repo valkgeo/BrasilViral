@@ -1,18 +1,26 @@
 [
   {
-    "title": "Rio de Janeiro",
-    "summary": "Rio de Janeiro",
-    "timestamp": "2025-04-17T04:46:00",
-    "link": "categorias/politica/rio-de-janeiro-20250417044637.html",
-    "image": "../../images/politica/rio-de-janeiro-20250417044637.jpg",
+    "title": "Risco fiscal exige esforço entre Poderes para manter máquina pública ativa",
+    "summary": "Risco fiscal exige esforço entre Poderes para manter máquina pública ativa",
+    "timestamp": "2025-04-17T06:49:00",
+    "link": "categorias/politica/risco-fiscal-exige-esforco-entre-poderes-para-mant-20250417064948.html",
+    "image": "../../images/politica/risco-fiscal-exige-esforco-entre-poderes-para-mant-20250417064948.jpg",
     "category": "politica"
   },
   {
     "title": "Exemplo de notícia de politica",
     "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
-    "timestamp": "2025-04-17T04:15:05.158918",
+    "timestamp": "2025-04-17T06:18:04.006134",
     "link": "categorias/politica/exemplo_politica.html",
     "image": "{{IMAGEM_URL}}",
+    "category": "politica"
+  },
+  {
+    "title": "Rio de Janeiro",
+    "summary": "Rio de Janeiro",
+    "timestamp": "2025-04-17T04:46:00",
+    "link": "categorias/politica/rio-de-janeiro-20250417044637.html",
+    "image": "../../images/politica/rio-de-janeiro-20250417044637.jpg",
     "category": "politica"
   },
   {

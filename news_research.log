@@ -3640,3 +3640,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-17 05:15:38,182 - NewsResearchAgent - INFO - Cache de notícias salvo com 1997 entradas
 2025-04-17 05:15:38,185 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 270 entradas
 2025-04-17 05:15:38,185 - NewsResearchAgent - INFO - Notícia publicada: 53% dos brasileiros já teve algum relacionamento não monogâmico, estima estudo em ./categorias/curiosidades/53-dos-brasileiros-ja-teve-algum-relacionamento-na-20250417051538.html
+2025-04-17 06:19:49,789 - NewsResearchAgent - INFO - Cache de notícias carregado com 1997 entradas
+2025-04-17 06:19:49,791 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 270 entradas
+2025-04-17 06:20:52,047 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 06:20:52,047 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-17 06:20:56,802 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-17 06:20:57,813 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-17 06:20:58,715 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-17 06:21:02,100 - NewsResearchAgent - INFO - Cache de notícias salvo com 2004 entradas
+2025-04-17 06:21:02,103 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 270 entradas
+2025-04-17 06:21:02,113 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria esportes
+2025-04-17 06:30:33,392 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/ranking-espn-dos-25-maiores-atletas-brasileiros-do-20250417063033.jpg
+2025-04-17 06:30:33,392 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Ranking ESPN dos 25 maiores atletas brasileiros do século 21
+2025-04-17 06:30:33,445 - NewsResearchAgent - INFO - Cache de notícias salvo com 2004 entradas
+2025-04-17 06:30:33,448 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 271 entradas
+2025-04-17 06:30:33,448 - NewsResearchAgent - INFO - Notícia publicada: Ranking ESPN dos 25 maiores atletas brasileiros do século 21 em ./categorias/esportes/ranking-espn-dos-25-maiores-atletas-brasileiros-do-20250417063033.html
+2025-04-17 06:30:33,946 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 06:30:33,946 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-17 06:30:38,467 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-17 06:30:44,540 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-17 06:30:45,199 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-17 06:30:45,319 - NewsResearchAgent - INFO - Cache de notícias salvo com 2008 entradas
+2025-04-17 06:30:45,322 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 271 entradas
+2025-04-17 06:30:45,328 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria economia
+2025-04-17 06:40:13,852 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/em-alta-gastos-tributarios-de-estados-e-uniao-beir-20250417064013.jpg
+2025-04-17 06:40:13,852 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Em alta, gastos tributários de Estados e União beiram 7,2% do PIB
+2025-04-17 06:40:13,903 - NewsResearchAgent - INFO - Cache de notícias salvo com 2008 entradas
+2025-04-17 06:40:13,906 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 272 entradas
+2025-04-17 06:40:13,906 - NewsResearchAgent - INFO - Notícia publicada: Em alta, gastos tributários de Estados e União beiram 7,2% do PIB em ./categorias/economia/em-alta-gastos-tributarios-de-estados-e-uniao-beir-20250417064013.html
+2025-04-17 06:40:14,474 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 06:40:14,474 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-17 06:40:16,517 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-17 06:40:19,145 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-17 06:40:19,897 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-17 06:40:20,681 - NewsResearchAgent - INFO - Cache de notícias salvo com 2011 entradas
+2025-04-17 06:40:20,684 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 272 entradas
+2025-04-17 06:40:20,691 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria politica
+2025-04-17 06:49:48,104 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/risco-fiscal-exige-esforco-entre-poderes-para-mant-20250417064948.jpg
+2025-04-17 06:49:48,104 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Risco fiscal exige esforço entre Poderes para manter máquina pública ativa
+2025-04-17 06:49:48,155 - NewsResearchAgent - INFO - Cache de notícias salvo com 2011 entradas
+2025-04-17 06:49:48,157 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 273 entradas
+2025-04-17 06:49:48,157 - NewsResearchAgent - INFO - Notícia publicada: Risco fiscal exige esforço entre Poderes para manter máquina pública ativa em ./categorias/politica/risco-fiscal-exige-esforco-entre-poderes-para-mant-20250417064948.html
+2025-04-17 06:49:48,643 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 06:49:48,643 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-17 06:49:51,190 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-17 06:49:51,624 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-17 06:49:52,441 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-17 06:49:53,064 - NewsResearchAgent - INFO - Cache de notícias salvo com 2018 entradas
+2025-04-17 06:49:53,067 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 273 entradas
+2025-04-17 06:49:53,081 - NewsResearchAgent - INFO - Encontradas 16 notícias virais na categoria tecnologia
+2025-04-17 06:59:20,227 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/melhores-casas-de-apostas-do-brasil-em-2025-20250417065920.jpg
+2025-04-17 06:59:20,227 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Melhores casas de apostas do Brasil em 2025
+2025-04-17 06:59:20,278 - NewsResearchAgent - INFO - Cache de notícias salvo com 2018 entradas
+2025-04-17 06:59:20,281 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 274 entradas
+2025-04-17 06:59:20,281 - NewsResearchAgent - INFO - Notícia publicada: Melhores casas de apostas do Brasil em 2025 em ./categorias/tecnologia/melhores-casas-de-apostas-do-brasil-em-2025-20250417065920.html
+2025-04-17 06:59:20,705 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 06:59:20,706 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-17 06:59:21,364 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-17 06:59:21,494 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-17 06:59:24,884 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-17 06:59:27,862 - NewsResearchAgent - INFO - Cache de notícias salvo com 2024 entradas
+2025-04-17 06:59:27,865 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 274 entradas
+2025-04-17 06:59:27,878 - NewsResearchAgent - INFO - Encontradas 15 notícias virais na categoria entretenimento
+2025-04-17 07:09:01,555 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/tocante-e-subversivo-regras-do-amor-faz-um-bom-his-20250417070901.jpg
+2025-04-17 07:09:01,555 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Tocante e subversivo, Regras do Amor faz um bom histórico dos excluídos
+2025-04-17 07:09:01,608 - NewsResearchAgent - INFO - Cache de notícias salvo com 2024 entradas
+2025-04-17 07:09:01,611 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 275 entradas
+2025-04-17 07:09:01,611 - NewsResearchAgent - INFO - Notícia publicada: Tocante e subversivo, Regras do Amor faz um bom histórico dos excluídos em ./categorias/entretenimento/tocante-e-subversivo-regras-do-amor-faz-um-bom-his-20250417070901.html
+2025-04-17 07:09:01,975 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 07:09:01,976 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-17 07:09:03,645 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-17 07:09:03,889 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-17 07:09:07,038 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-17 07:09:07,310 - NewsResearchAgent - INFO - Cache de notícias salvo com 2025 entradas
+2025-04-17 07:09:07,313 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 275 entradas
+2025-04-17 07:09:07,322 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria curiosidades
+2025-04-17 07:18:45,149 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/de-borboleta-marinha-a-porcodomar-seres-unicos-sao-20250417071845.jpg
+2025-04-17 07:18:45,149 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: De borboleta marinha a porco-do-mar: seres únicos são coletados na Antártida
+2025-04-17 07:18:45,201 - NewsResearchAgent - INFO - Cache de notícias salvo com 2025 entradas
+2025-04-17 07:18:45,204 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 276 entradas
+2025-04-17 07:18:45,204 - NewsResearchAgent - INFO - Notícia publicada: De borboleta marinha a porco-do-mar: seres únicos são coletados na Antártida em ./categorias/curiosidades/de-borboleta-marinha-a-porcodomar-seres-unicos-sao-20250417071845.html
