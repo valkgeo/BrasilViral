@@ -4120,3 +4120,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-17 16:13:29,211 - NewsResearchAgent - INFO - Cache de notícias salvo com 2174 entradas
 2025-04-17 16:13:29,215 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 306 entradas
 2025-04-17 16:13:29,215 - NewsResearchAgent - INFO - Notícia publicada: Uso estético do botox não é inofensivo à saúde, aponta estudo brasileiro em ./categorias/curiosidades/uso-estetico-do-botox-nao-e-inofensivo-a-saude-apo-20250417161329.html
+2025-04-17 16:17:10,222 - NewsResearchAgent - INFO - Cache de notícias carregado com 2174 entradas
+2025-04-17 16:17:10,224 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 306 entradas
+2025-04-17 16:17:23,961 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 16:17:23,961 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-17 16:17:28,760 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-17 16:17:29,381 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-17 16:17:30,273 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-17 16:17:39,649 - NewsResearchAgent - INFO - Cache de notícias salvo com 2179 entradas
+2025-04-17 16:17:39,652 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 306 entradas
+2025-04-17 16:17:39,662 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria esportes
+2025-04-17 16:27:21,861 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/corinthians-bira-e-juca-debatem-memphis-x-ramon-e--20250417162721.jpg
+2025-04-17 16:27:21,861 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Corinthians: Bira e Juca debatem Memphis x Ramón e sombra de Dorival
+2025-04-17 16:27:21,917 - NewsResearchAgent - INFO - Cache de notícias salvo com 2179 entradas
+2025-04-17 16:27:21,920 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 307 entradas
+2025-04-17 16:27:21,920 - NewsResearchAgent - INFO - Notícia publicada: Corinthians: Bira e Juca debatem Memphis x Ramón e sombra de Dorival em ./categorias/esportes/corinthians-bira-e-juca-debatem-memphis-x-ramon-e--20250417162721.html
+2025-04-17 16:27:22,392 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 16:27:22,392 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-17 16:27:28,538 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-17 16:27:34,300 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-17 16:27:36,036 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-17 16:27:36,152 - NewsResearchAgent - INFO - Cache de notícias salvo com 2184 entradas
+2025-04-17 16:27:36,156 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 307 entradas
+2025-04-17 16:27:36,164 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria economia
+2025-04-17 16:37:12,441 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/fii-rzat11-enfrenta-inadimplencia-em-imovel-de-goi-20250417163712.jpg
+2025-04-17 16:37:12,441 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: FII RZAT11 enfrenta inadimplência em imóvel de Goiânia; fundo manterá dividendos?
+2025-04-17 16:37:12,496 - NewsResearchAgent - INFO - Cache de notícias salvo com 2184 entradas
+2025-04-17 16:37:12,500 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 308 entradas
+2025-04-17 16:37:12,500 - NewsResearchAgent - INFO - Notícia publicada: FII RZAT11 enfrenta inadimplência em imóvel de Goiânia; fundo manterá dividendos? em ./categorias/economia/fii-rzat11-enfrenta-inadimplencia-em-imovel-de-goi-20250417163712.html
+2025-04-17 16:37:12,965 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 16:37:12,965 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-17 16:37:19,271 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-17 16:37:20,042 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-17 16:37:20,914 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-17 16:37:21,542 - NewsResearchAgent - INFO - Cache de notícias salvo com 2189 entradas
+2025-04-17 16:37:21,546 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 308 entradas
+2025-04-17 16:37:21,557 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria politica
+2025-04-17 16:46:56,473 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/mortos-na-ditadura-314-familias-devem-receber-cert-20250417164656.jpg
+2025-04-17 16:46:56,473 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Mortos na ditadura: 314 famílias devem receber certidões atualizadas
+2025-04-17 16:46:56,529 - NewsResearchAgent - INFO - Cache de notícias salvo com 2189 entradas
+2025-04-17 16:46:56,533 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 309 entradas
+2025-04-17 16:46:56,533 - NewsResearchAgent - INFO - Notícia publicada: Mortos na ditadura: 314 famílias devem receber certidões atualizadas em ./categorias/politica/mortos-na-ditadura-314-familias-devem-receber-cert-20250417164656.html
+2025-04-17 16:46:56,952 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 16:46:56,952 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-17 16:47:00,558 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-17 16:47:01,646 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-17 16:47:03,157 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-17 16:47:05,358 - NewsResearchAgent - INFO - Cache de notícias salvo com 2194 entradas
+2025-04-17 16:47:05,362 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 309 entradas
+2025-04-17 16:47:05,373 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria tecnologia
+2025-04-17 16:56:38,047 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/pare-menos-produza-mais-a-forca-da-ia-na-industria-20250417165638.jpg
+2025-04-17 16:56:38,047 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Pare menos, produza mais: a força da IA na indústria
+2025-04-17 16:56:38,103 - NewsResearchAgent - INFO - Cache de notícias salvo com 2194 entradas
+2025-04-17 16:56:38,106 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 310 entradas
+2025-04-17 16:56:38,106 - NewsResearchAgent - INFO - Notícia publicada: Pare menos, produza mais: a força da IA na indústria em ./categorias/tecnologia/pare-menos-produza-mais-a-forca-da-ia-na-industria-20250417165638.html
+2025-04-17 16:56:38,473 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 16:56:38,473 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-17 16:56:41,445 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-17 16:56:41,956 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-17 16:56:49,457 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-17 16:56:52,649 - NewsResearchAgent - INFO - Cache de notícias salvo com 2201 entradas
+2025-04-17 16:56:52,653 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 310 entradas
+2025-04-17 16:56:52,667 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria entretenimento
+2025-04-17 17:06:35,359 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/anna-muylaert-responde-polemica-envolvendo-filme-d-20250417170635.jpg
+2025-04-17 17:06:35,359 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Anna Muylaert responde polêmica envolvendo filme de Geni, de Chico Buarque
+2025-04-17 17:06:35,415 - NewsResearchAgent - INFO - Cache de notícias salvo com 2201 entradas
+2025-04-17 17:06:35,418 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 311 entradas
+2025-04-17 17:06:35,418 - NewsResearchAgent - INFO - Notícia publicada: Anna Muylaert responde polêmica envolvendo filme de Geni, de Chico Buarque em ./categorias/entretenimento/anna-muylaert-responde-polemica-envolvendo-filme-d-20250417170635.html
+2025-04-17 17:06:35,762 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 17:06:35,762 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-17 17:06:36,999 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-17 17:06:38,120 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-17 17:06:38,802 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-17 17:06:39,135 - NewsResearchAgent - INFO - Cache de notícias salvo com 2201 entradas
+2025-04-17 17:06:39,138 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 311 entradas
+2025-04-17 17:06:39,149 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria curiosidades
+2025-04-17 17:16:10,585 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/candy-cane-as-montanhas-com-cara-de-bengalas-de-na-20250417171610.jpg
+2025-04-17 17:16:10,585 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Candy Cane: as montanhas com cara de bengalas de Natal no Azerbaijão
+2025-04-17 17:16:10,641 - NewsResearchAgent - INFO - Cache de notícias salvo com 2201 entradas
+2025-04-17 17:16:10,645 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 312 entradas
+2025-04-17 17:16:10,645 - NewsResearchAgent - INFO - Notícia publicada: Candy Cane: as montanhas com cara de bengalas de Natal no Azerbaijão em ./categorias/curiosidades/candy-cane-as-montanhas-com-cara-de-bengalas-de-na-20250417171610.html
