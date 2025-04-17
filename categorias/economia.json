@@ -1,5 +1,19 @@
 [
   {
+    "title": "GWM desembarca 900 veículos em porto de Vitória",
+    "summary": "Um navio cargueiro com 900 veículos da montadora chinesa GWM chegou ao porto de Vitória nesta semana, após ter partido de Xangai em meados de março. A informação foi confirmada pela própria montadora em nota divulgada na quarta-feira, 16 de abril. O carregamento inclui veículos utilitários esportivos da linha Haval H6, que é uma das mais vendidas da marca no Brasil, além do utilitário offroad híbrido Tank 300, que foi lançado no início do mês no país.",
+    "timestamp": "2025-04-17T15:34:00",
+    "link": "categorias/economia/gwm-desembarca-900-ve-culos-em-porto-de-vit-ria.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "title": "{{TITULO}}",
+    "summary": "",
+    "timestamp": "2025-04-17T15:12:59.725806",
+    "link": "categorias/economia/titulo.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "Estrangeiros debandam da B3 após bom 1T: o que explica – e por que podem retornar",
     "summary": "O Brasil voltou a ser um destino atraente para o capital estrangeiro no primeiro trimestre de 2025, graças à rotação global de investimentos para fora dos Estados Unidos, o que beneficiou os mercados emergentes. Como resultado, os fluxos de investimentos estrangeiros em ações brasileiras registraram um saldo positivo no trimestre, com entradas líquidas de R$ 11,0 bilhões no mercado à vista e R$ 500 milhões em futuros.",
     "timestamp": "2025-04-17T14:33:00",
@@ -7,24 +21,10 @@
     "image": "images/placeholder.jpg"
   },
   {
-    "title": "{{TITULO}}",
-    "summary": "",
-    "timestamp": "2025-04-17T14:12:18.419142",
-    "link": "categorias/economia/titulo.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
     "title": "STJ limita atualização de créditos na recuperação",
     "summary": "O Superior Tribunal de Justiça (STJ) decidiu, por unanimidade, que um credor que não habilitou um crédito em um primeiro processo de recuperação judicial não pode atualizar o valor para habilitação em um segundo processo. Essa decisão foi tomada pela 3ª Turma do STJ e estabelece um importante precedente para casos de recuperação judicial.",
     "timestamp": "2025-04-17T12:45:00",
     "link": "categorias/economia/stj-limita-atualiza-o-de-cr-ditos-na-recupera-o.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "Como o Dreamers chegou a R$ 2 bi de faturamento",
-    "summary": "O grupo Dreamers, fundado por Roberto Medina, criador do Rock in Rio, alcançou um faturamento de pouco mais de R$ 2 bilhões no ano passado. Isso representa um crescimento de 50% em relação ao ano anterior. Além disso, a receita da empresa, ou seja, o que efetivamente entrou no caixa, aumentou 20% no mesmo período.",
-    "timestamp": "2025-04-17T10:37:00",
-    "link": "categorias/economia/como-o-dreamers-chegou-a-r-2-bi-de-faturamento.html",
     "image": "images/placeholder.jpg"
   }
 ]

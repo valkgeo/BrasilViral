@@ -1,5 +1,19 @@
 [
   {
+    "title": "VÍDEOS: G1 em 1 Minuto Santos, apresentado por Alê Lopes",
+    "summary": "Uma série de notícias importantes tem chamado a atenção do público nos últimos dias. Em áreas urbanas, uma grande preocupação é a falta de acessibilidade para pessoas com deficiência, com a maioria das vias não possuindo rampas para cadeirantes. Essa é uma questão que afeta diretamente a qualidade de vida dessas pessoas e precisa ser abordada pelas autoridades competentes.",
+    "timestamp": "2025-04-17T15:44:00",
+    "link": "categorias/politica/v-deos-g1-em-1-minuto-santos-apresentado-por-al-lopes.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "title": "Exemplo de notícia de politica",
+    "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
+    "timestamp": "2025-04-17T15:12:59.733806",
+    "link": "categorias/politica/exemplo-de-not-cia-de-politica.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "Novo Código Civil: projeto permite proibição de aluguel no modelo Airbnb",
     "summary": "Um projeto de reforma do Código Civil que está em tramitação no Senado Federal pode permitir que condomínios proíbam o aluguel de imóveis por meio de plataformas digitais de hospedagem, como o Airbnb e o Booking. A proposta tem como objetivo regulamentar a utilização de imóveis em condomínios residenciais para fins de hospedagem atípica.",
     "timestamp": "2025-04-17T14:43:00",
@@ -7,24 +21,10 @@
     "image": "images/placeholder.jpg"
   },
   {
-    "title": "Exemplo de notícia de politica",
-    "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
-    "timestamp": "2025-04-17T14:12:18.427142",
-    "link": "categorias/politica/exemplo-de-not-cia-de-politica.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
     "title": "Trump congela plano de combate ao racismo acertado com Biden, diz ministra",
     "summary": "O governo brasileiro está enfrentando dificuldades em obter informações sobre a cooperação com os Estados Unidos no combate ao racismo. A ministra de Igualdade Racial, Anielle Franco, confirmou que o plano de ação conjunto entre os dois países foi congelado. Ela está em Nova York para participar de reuniões na Organização das Nações Unidas.",
     "timestamp": "2025-04-17T12:54:00",
     "link": "categorias/politica/trump-congela-plano-de-combate-ao-racismo-acertado-com-biden-diz-ministra.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "Meio Ambiente",
-    "summary": "O axolote, um anfíbio endêmico do centro do México, é considerado uma espécie única devido às suas características biológicas. Ele possui a capacidade de regenerar partes do coração, da medula espinhal e até do cérebro, o que o torna um objeto de estudo fascinante para os cientistas. No entanto, apesar de sua importância, o axolote é classificado como \"criticamente ameaçado\" pela União Internacional para a Conservação da Natureza.",
-    "timestamp": "2025-04-17T10:47:00",
-    "link": "categorias/politica/meio-ambiente.html",
     "image": "images/placeholder.jpg"
   }
 ]

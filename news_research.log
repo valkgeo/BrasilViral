@@ -4040,3 +4040,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-17 15:12:11,665 - NewsResearchAgent - INFO - Cache de notícias salvo com 2148 entradas
 2025-04-17 15:12:11,668 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 300 entradas
 2025-04-17 15:12:11,668 - NewsResearchAgent - INFO - Notícia publicada: Marca japonesa anuncia robô cavalo movido a hidrogênio; vídeo em ./categorias/curiosidades/marca-japonesa-anuncia-robo-cavalo-movido-a-hidrog-20250417151211.html
+2025-04-17 15:14:39,977 - NewsResearchAgent - INFO - Cache de notícias carregado com 2148 entradas
+2025-04-17 15:14:39,979 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 300 entradas
+2025-04-17 15:14:57,542 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 15:14:57,542 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-17 15:15:02,249 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-17 15:15:03,109 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-17 15:15:03,742 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-17 15:15:14,630 - NewsResearchAgent - INFO - Cache de notícias salvo com 2152 entradas
+2025-04-17 15:15:14,633 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 300 entradas
+2025-04-17 15:15:14,645 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria esportes
+2025-04-17 15:24:50,428 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/bellingham-se-desculpa-apos-eliminacao-na-champion-20250417152450.jpg
+2025-04-17 15:24:50,428 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Bellingham se desculpa após eliminação na Champions: "Não estivemos à altura"
+2025-04-17 15:24:50,485 - NewsResearchAgent - INFO - Cache de notícias salvo com 2152 entradas
+2025-04-17 15:24:50,488 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 301 entradas
+2025-04-17 15:24:50,488 - NewsResearchAgent - INFO - Notícia publicada: Bellingham se desculpa após eliminação na Champions: "Não estivemos à altura" em ./categorias/esportes/bellingham-se-desculpa-apos-eliminacao-na-champion-20250417152450.html
+2025-04-17 15:24:51,164 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 15:24:51,164 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-17 15:24:57,041 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-17 15:25:02,875 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-17 15:25:04,244 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-17 15:25:04,437 - NewsResearchAgent - INFO - Cache de notícias salvo com 2157 entradas
+2025-04-17 15:25:04,440 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 301 entradas
+2025-04-17 15:25:04,449 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria economia
+2025-04-17 15:34:36,496 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/gwm-desembarca-900-veiculos-em-porto-de-vitoria-20250417153436.jpg
+2025-04-17 15:34:36,496 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: GWM desembarca 900 veículos em porto de Vitória
+2025-04-17 15:34:36,550 - NewsResearchAgent - INFO - Cache de notícias salvo com 2157 entradas
+2025-04-17 15:34:36,554 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 302 entradas
+2025-04-17 15:34:36,554 - NewsResearchAgent - INFO - Notícia publicada: GWM desembarca 900 veículos em porto de Vitória em ./categorias/economia/gwm-desembarca-900-veiculos-em-porto-de-vitoria-20250417153436.html
+2025-04-17 15:34:37,416 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 15:34:37,416 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-17 15:34:41,645 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-17 15:34:48,786 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-17 15:34:49,414 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-17 15:34:50,364 - NewsResearchAgent - INFO - Cache de notícias salvo com 2161 entradas
+2025-04-17 15:34:50,367 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 302 entradas
+2025-04-17 15:34:50,375 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria politica
+2025-04-17 15:44:19,628 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/videos-g1-em-1-minuto-santos-apresentado-por-ale-l-20250417154419.jpg
+2025-04-17 15:44:19,628 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: VÍDEOS: G1 em 1 Minuto Santos, apresentado por Alê Lopes
+2025-04-17 15:44:19,682 - NewsResearchAgent - INFO - Cache de notícias salvo com 2161 entradas
+2025-04-17 15:44:19,685 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 303 entradas
+2025-04-17 15:44:19,685 - NewsResearchAgent - INFO - Notícia publicada: VÍDEOS: G1 em 1 Minuto Santos, apresentado por Alê Lopes em ./categorias/politica/videos-g1-em-1-minuto-santos-apresentado-por-ale-l-20250417154419.html
+2025-04-17 15:44:20,240 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 15:44:20,240 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-17 15:44:25,095 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-17 15:44:25,835 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-17 15:44:28,713 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-17 15:44:29,664 - NewsResearchAgent - INFO - Cache de notícias salvo com 2166 entradas
+2025-04-17 15:44:29,667 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 303 entradas
+2025-04-17 15:44:29,678 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria tecnologia
+2025-04-17 15:53:57,731 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/aviao-da-airbus-tera-quarto-de-hotel-voador-para-1-20250417155357.jpg
+2025-04-17 15:53:57,732 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Avião da Airbus terá "quarto de hotel voador" para 1ª classe
+2025-04-17 15:53:57,787 - NewsResearchAgent - INFO - Cache de notícias salvo com 2166 entradas
+2025-04-17 15:53:57,790 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 304 entradas
+2025-04-17 15:53:57,790 - NewsResearchAgent - INFO - Notícia publicada: Avião da Airbus terá "quarto de hotel voador" para 1ª classe em ./categorias/tecnologia/aviao-da-airbus-tera-quarto-de-hotel-voador-para-1-20250417155357.html
+2025-04-17 15:53:58,478 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 15:53:58,478 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-17 15:54:07,575 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-17 15:54:08,026 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-17 15:54:12,839 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-17 15:54:14,937 - NewsResearchAgent - INFO - Cache de notícias salvo com 2171 entradas
+2025-04-17 15:54:14,941 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 304 entradas
+2025-04-17 15:54:14,954 - NewsResearchAgent - INFO - Encontradas 15 notícias virais na categoria entretenimento
+2025-04-17 16:03:48,571 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/quarteto-fantastico-primeiros-passos-ganha-poster--20250417160348.jpg
+2025-04-17 16:03:48,571 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Quarteto Fantástico: Primeiros Passos ganha pôster com Reed Richards em destaque
+2025-04-17 16:03:48,627 - NewsResearchAgent - INFO - Cache de notícias salvo com 2171 entradas
+2025-04-17 16:03:48,630 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 305 entradas
+2025-04-17 16:03:48,630 - NewsResearchAgent - INFO - Notícia publicada: Quarteto Fantástico: Primeiros Passos ganha pôster com Reed Richards em destaque em ./categorias/entretenimento/quarteto-fantastico-primeiros-passos-ganha-poster--20250417160348.html
+2025-04-17 16:03:49,227 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 16:03:49,227 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-17 16:03:52,945 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-17 16:03:53,516 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-17 16:03:56,656 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-17 16:03:57,095 - NewsResearchAgent - INFO - Cache de notícias salvo com 2174 entradas
+2025-04-17 16:03:57,099 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 305 entradas
+2025-04-17 16:03:57,110 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria curiosidades
+2025-04-17 16:13:29,156 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/uso-estetico-do-botox-nao-e-inofensivo-a-saude-apo-20250417161329.jpg
+2025-04-17 16:13:29,156 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Uso estético do botox não é inofensivo à saúde, aponta estudo brasileiro
+2025-04-17 16:13:29,211 - NewsResearchAgent - INFO - Cache de notícias salvo com 2174 entradas
+2025-04-17 16:13:29,215 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 306 entradas
+2025-04-17 16:13:29,215 - NewsResearchAgent - INFO - Notícia publicada: Uso estético do botox não é inofensivo à saúde, aponta estudo brasileiro em ./categorias/curiosidades/uso-estetico-do-botox-nao-e-inofensivo-a-saude-apo-20250417161329.html
