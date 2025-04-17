@@ -3560,3 +3560,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-17 03:35:52,259 - NewsResearchAgent - INFO - Cache de notícias salvo com 1969 entradas
 2025-04-17 03:35:52,261 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 264 entradas
 2025-04-17 03:35:52,262 - NewsResearchAgent - INFO - Notícia publicada: Lula-colossal é registrada em vídeo no mar profundo pela 1ª vez; assista em ./categorias/curiosidades/lulacolossal-e-registrada-em-video-no-mar-profundo-20250417033552.html
+2025-04-17 04:16:43,885 - NewsResearchAgent - INFO - Cache de notícias carregado com 1969 entradas
+2025-04-17 04:16:43,887 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 264 entradas
+2025-04-17 04:17:28,756 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 04:17:28,757 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-17 04:17:32,086 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-17 04:17:33,016 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-17 04:17:33,582 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-17 04:17:40,538 - NewsResearchAgent - INFO - Cache de notícias salvo com 1974 entradas
+2025-04-17 04:17:40,541 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 264 entradas
+2025-04-17 04:17:40,551 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria esportes
+2025-04-17 04:27:06,914 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/tabela-jogos-e-horarios-do-sulamericano-sub20-2025-20250417042706.jpg
+2025-04-17 04:27:06,914 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Tabela, jogos e horários do Sul-Americano Sub-20 2025 | ge | sul-americano sub-20 | ge
+2025-04-17 04:27:06,965 - NewsResearchAgent - INFO - Cache de notícias salvo com 1974 entradas
+2025-04-17 04:27:06,968 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 265 entradas
+2025-04-17 04:27:06,968 - NewsResearchAgent - INFO - Notícia publicada: Tabela, jogos e horários do Sul-Americano Sub-20 2025 | ge | sul-americano sub-20 | ge em ./categorias/esportes/tabela-jogos-e-horarios-do-sulamericano-sub20-2025-20250417042706.html
+2025-04-17 04:27:07,362 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 04:27:07,362 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-17 04:27:11,731 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-17 04:27:16,970 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-17 04:27:17,292 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-17 04:27:17,409 - NewsResearchAgent - INFO - Cache de notícias salvo com 1978 entradas
+2025-04-17 04:27:17,412 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 265 entradas
+2025-04-17 04:27:17,420 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria economia
+2025-04-17 04:36:53,736 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/decisao-sobre-pjs-expoe-guerra-de-tribunais-e-afet-20250417043653.jpg
+2025-04-17 04:36:53,736 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Decisão sobre PJs expõe 'guerra de tribunais' e afeta milhares de processos
+2025-04-17 04:36:53,786 - NewsResearchAgent - INFO - Cache de notícias salvo com 1978 entradas
+2025-04-17 04:36:53,789 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 266 entradas
+2025-04-17 04:36:53,789 - NewsResearchAgent - INFO - Notícia publicada: Decisão sobre PJs expõe 'guerra de tribunais' e afeta milhares de processos em ./categorias/economia/decisao-sobre-pjs-expoe-guerra-de-tribunais-e-afet-20250417043653.html
+2025-04-17 04:36:54,068 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 04:36:54,069 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-17 04:36:57,503 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-17 04:37:00,021 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-17 04:37:00,528 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-17 04:37:01,105 - NewsResearchAgent - INFO - Cache de notícias salvo com 1982 entradas
+2025-04-17 04:37:01,107 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 266 entradas
+2025-04-17 04:37:01,115 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria politica
+2025-04-17 04:46:37,190 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/rio-de-janeiro-20250417044637.jpg
+2025-04-17 04:46:37,190 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Rio de Janeiro
+2025-04-17 04:46:37,241 - NewsResearchAgent - INFO - Cache de notícias salvo com 1982 entradas
+2025-04-17 04:46:37,244 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 267 entradas
+2025-04-17 04:46:37,244 - NewsResearchAgent - INFO - Notícia publicada: Rio de Janeiro em ./categorias/politica/rio-de-janeiro-20250417044637.html
+2025-04-17 04:46:37,567 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 04:46:37,567 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-17 04:46:39,998 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-17 04:46:40,947 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-17 04:46:41,811 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-17 04:46:42,538 - NewsResearchAgent - INFO - Cache de notícias salvo com 1987 entradas
+2025-04-17 04:46:42,541 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 267 entradas
+2025-04-17 04:46:42,550 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria tecnologia
+2025-04-17 04:56:13,961 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/google-comeca-a-barrar-dispositivos-android-com-ap-20250417045613.jpg
+2025-04-17 04:56:13,961 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Google começa a barrar dispositivos Android com apenas 16 GB de armazenamento
+2025-04-17 04:56:14,011 - NewsResearchAgent - INFO - Cache de notícias salvo com 1987 entradas
+2025-04-17 04:56:14,014 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 268 entradas
+2025-04-17 04:56:14,014 - NewsResearchAgent - INFO - Notícia publicada: Google começa a barrar dispositivos Android com apenas 16 GB de armazenamento em ./categorias/tecnologia/google-comeca-a-barrar-dispositivos-android-com-ap-20250417045613.html
+2025-04-17 04:56:14,416 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 04:56:14,416 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-17 04:56:15,425 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-17 04:56:15,595 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-17 04:56:20,172 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-17 04:56:21,833 - NewsResearchAgent - INFO - Cache de notícias salvo com 1994 entradas
+2025-04-17 04:56:21,836 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 268 entradas
+2025-04-17 04:56:21,851 - NewsResearchAgent - INFO - Encontradas 17 notícias virais na categoria entretenimento
+2025-04-17 05:06:00,123 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/resumo-novela-vale-tudo-da-semana-confira-capitulo-20250417050600.jpg
+2025-04-17 05:06:00,123 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Resumo novela 'Vale Tudo' da semana: confira capítulos de 17 a 26/4
+2025-04-17 05:06:00,174 - NewsResearchAgent - INFO - Cache de notícias salvo com 1994 entradas
+2025-04-17 05:06:00,177 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 269 entradas
+2025-04-17 05:06:00,177 - NewsResearchAgent - INFO - Notícia publicada: Resumo novela 'Vale Tudo' da semana: confira capítulos de 17 a 26/4 em ./categorias/entretenimento/resumo-novela-vale-tudo-da-semana-confira-capitulo-20250417050600.html
+2025-04-17 05:06:00,471 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 05:06:00,472 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-17 05:06:03,137 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-17 05:06:03,473 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-17 05:06:04,684 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-17 05:06:04,906 - NewsResearchAgent - INFO - Cache de notícias salvo com 1997 entradas
+2025-04-17 05:06:04,909 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 269 entradas
+2025-04-17 05:06:04,919 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria curiosidades
+2025-04-17 05:15:38,131 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/53-dos-brasileiros-ja-teve-algum-relacionamento-na-20250417051538.jpg
+2025-04-17 05:15:38,131 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: 53% dos brasileiros já teve algum relacionamento não monogâmico, estima estudo
+2025-04-17 05:15:38,182 - NewsResearchAgent - INFO - Cache de notícias salvo com 1997 entradas
+2025-04-17 05:15:38,185 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 270 entradas
+2025-04-17 05:15:38,185 - NewsResearchAgent - INFO - Notícia publicada: 53% dos brasileiros já teve algum relacionamento não monogâmico, estima estudo em ./categorias/curiosidades/53-dos-brasileiros-ja-teve-algum-relacionamento-na-20250417051538.html
