@@ -3399,3 +3399,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-16 23:11:58,475 - NewsResearchAgent - INFO - Cache de notícias salvo com 1902 entradas
 2025-04-16 23:11:58,478 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 252 entradas
 2025-04-16 23:11:58,478 - NewsResearchAgent - INFO - Notícia publicada: Arqueólogos encontram “kit de caçada” de 6.500 anos no Texas em ./categorias/curiosidades/arqueologos-encontram-kit-de-cacada-de-6500-anos-n-20250416231158.html
+2025-04-17 01:01:15,555 - NewsResearchAgent - INFO - Cache de notícias carregado com 1902 entradas
+2025-04-17 01:01:15,557 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 252 entradas
+2025-04-17 01:01:29,557 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 01:01:29,558 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-17 01:01:32,749 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-17 01:01:34,051 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-17 01:01:35,473 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-17 01:01:40,640 - NewsResearchAgent - INFO - Cache de notícias salvo com 1912 entradas
+2025-04-17 01:01:40,643 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 252 entradas
+2025-04-17 01:01:40,653 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria esportes
+2025-04-17 01:11:05,156 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/mclaren-faz-melhor-inicio-na-f1-desde-que-norris-e-20250417011105.jpg
+2025-04-17 01:11:05,157 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: McLaren faz melhor início na F1 desde que Norris e Piastri nasceram
+2025-04-17 01:11:05,205 - NewsResearchAgent - INFO - Cache de notícias salvo com 1912 entradas
+2025-04-17 01:11:05,211 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 253 entradas
+2025-04-17 01:11:05,211 - NewsResearchAgent - INFO - Notícia publicada: McLaren faz melhor início na F1 desde que Norris e Piastri nasceram em ./categorias/esportes/mclaren-faz-melhor-inicio-na-f1-desde-que-norris-e-20250417011105.html
+2025-04-17 01:11:05,686 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 01:11:05,686 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-17 01:11:09,549 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-17 01:11:13,350 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-17 01:11:14,372 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-17 01:11:14,476 - NewsResearchAgent - INFO - Cache de notícias salvo com 1915 entradas
+2025-04-17 01:11:14,479 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 253 entradas
+2025-04-17 01:11:14,485 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria economia
+2025-04-17 01:20:41,083 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/china-esta-aberta-a-negociacoes-se-eua-demonstrare-20250417012041.jpg
+2025-04-17 01:20:41,083 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: China está aberta a negociações se EUA demonstrarem respeito
+2025-04-17 01:20:41,132 - NewsResearchAgent - INFO - Cache de notícias salvo com 1915 entradas
+2025-04-17 01:20:41,134 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 254 entradas
+2025-04-17 01:20:41,134 - NewsResearchAgent - INFO - Notícia publicada: China está aberta a negociações se EUA demonstrarem respeito em ./categorias/economia/china-esta-aberta-a-negociacoes-se-eua-demonstrare-20250417012041.html
+2025-04-17 01:20:41,520 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 01:20:41,520 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-17 01:20:47,435 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-17 01:20:49,921 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-17 01:20:50,761 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-17 01:20:51,485 - NewsResearchAgent - INFO - Cache de notícias salvo com 1924 entradas
+2025-04-17 01:20:51,488 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 254 entradas
+2025-04-17 01:20:51,495 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria politica
+2025-04-17 01:30:15,753 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/sarney-e-diagnosticado-com-covid19-e-passa-por-exa-20250417013015.jpg
+2025-04-17 01:30:15,753 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Sarney é diagnosticado com Covid-19 e passa por exames
+2025-04-17 01:30:15,802 - NewsResearchAgent - INFO - Cache de notícias salvo com 1924 entradas
+2025-04-17 01:30:15,805 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 255 entradas
+2025-04-17 01:30:15,805 - NewsResearchAgent - INFO - Notícia publicada: Sarney é diagnosticado com Covid-19 e passa por exames em ./categorias/politica/sarney-e-diagnosticado-com-covid19-e-passa-por-exa-20250417013015.html
+2025-04-17 01:30:16,508 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 01:30:16,508 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-17 01:30:18,445 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-17 01:30:18,997 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-17 01:30:20,131 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-17 01:30:21,009 - NewsResearchAgent - INFO - Cache de notícias salvo com 1932 entradas
+2025-04-17 01:30:21,012 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 255 entradas
+2025-04-17 01:30:21,025 - NewsResearchAgent - INFO - Encontradas 16 notícias virais na categoria tecnologia
+2025-04-17 01:39:47,233 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/rastreador-inteligente-baseus-por-menos-de-r63-na--20250417013947.jpg
+2025-04-17 01:39:47,233 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Rastreador Inteligente Baseus por menos de R$63 na Shopee; aproveite
+2025-04-17 01:39:47,282 - NewsResearchAgent - INFO - Cache de notícias salvo com 1932 entradas
+2025-04-17 01:39:47,285 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 256 entradas
+2025-04-17 01:39:47,285 - NewsResearchAgent - INFO - Notícia publicada: Rastreador Inteligente Baseus por menos de R$63 na Shopee; aproveite em ./categorias/tecnologia/rastreador-inteligente-baseus-por-menos-de-r63-na--20250417013947.html
+2025-04-17 01:39:48,050 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 01:39:48,051 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-17 01:39:48,589 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-17 01:39:48,794 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-17 01:39:51,771 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-17 01:39:53,150 - NewsResearchAgent - INFO - Cache de notícias salvo com 1934 entradas
+2025-04-17 01:39:53,152 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 256 entradas
+2025-04-17 01:39:53,163 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria entretenimento
+2025-04-17 01:49:18,322 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/watchmen-chapter-1-tudo-sobre-o-novo-filme-animado-20250417014918.jpg
+2025-04-17 01:49:18,322 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Watchmen Chapter 1: tudo sobre o novo filme animado da DC
+2025-04-17 01:49:18,371 - NewsResearchAgent - INFO - Cache de notícias salvo com 1934 entradas
+2025-04-17 01:49:18,374 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 257 entradas
+2025-04-17 01:49:18,374 - NewsResearchAgent - INFO - Notícia publicada: Watchmen Chapter 1: tudo sobre o novo filme animado da DC em ./categorias/entretenimento/watchmen-chapter-1-tudo-sobre-o-novo-filme-animado-20250417014918.html
+2025-04-17 01:49:18,745 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 01:49:18,745 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-17 01:49:21,303 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-17 01:49:21,527 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-17 01:49:23,341 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-17 01:49:23,568 - NewsResearchAgent - INFO - Cache de notícias salvo com 1937 entradas
+2025-04-17 01:49:23,571 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 257 entradas
+2025-04-17 01:49:23,579 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria curiosidades
+2025-04-17 01:58:53,172 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/o-que-nao-te-contam-sobre-o-mundo-wellness-20250417015853.jpg
+2025-04-17 01:58:53,172 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: O que não te contam sobre o mundo wellness
+2025-04-17 01:58:53,222 - NewsResearchAgent - INFO - Cache de notícias salvo com 1937 entradas
+2025-04-17 01:58:53,225 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 258 entradas
+2025-04-17 01:58:53,225 - NewsResearchAgent - INFO - Notícia publicada: O que não te contam sobre o mundo wellness em ./categorias/curiosidades/o-que-nao-te-contam-sobre-o-mundo-wellness-20250417015853.html
