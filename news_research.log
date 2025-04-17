@@ -3960,3 +3960,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-17 13:23:40,778 - NewsResearchAgent - INFO - Cache de notícias salvo com 2118 entradas
 2025-04-17 13:23:40,781 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 294 entradas
 2025-04-17 13:23:40,781 - NewsResearchAgent - INFO - Notícia publicada: Opinião: Nós somos tão influenciáveis quanto qualquer outra pessoa em ./categorias/curiosidades/opiniao-nos-somos-tao-influenciaveis-quanto-qualqu-20250417132340.html
+2025-04-17 14:14:01,758 - NewsResearchAgent - INFO - Cache de notícias carregado com 2118 entradas
+2025-04-17 14:14:01,760 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 294 entradas
+2025-04-17 14:14:15,733 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 14:14:15,734 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-17 14:14:19,444 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-17 14:14:20,250 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-17 14:14:20,733 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-17 14:14:28,670 - NewsResearchAgent - INFO - Cache de notícias salvo com 2123 entradas
+2025-04-17 14:14:28,673 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 294 entradas
+2025-04-17 14:14:28,684 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria esportes
+2025-04-17 14:23:55,703 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/audios-de-robinho-ep1-podcast-traz-grampos-que-con-20250417142355.jpg
+2025-04-17 14:23:55,703 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Áudios de Robinho EP1: podcast traz grampos que condenaram o ex-jogador
+2025-04-17 14:23:55,758 - NewsResearchAgent - INFO - Cache de notícias salvo com 2123 entradas
+2025-04-17 14:23:55,762 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 295 entradas
+2025-04-17 14:23:55,762 - NewsResearchAgent - INFO - Notícia publicada: Áudios de Robinho EP1: podcast traz grampos que condenaram o ex-jogador em ./categorias/esportes/audios-de-robinho-ep1-podcast-traz-grampos-que-con-20250417142355.html
+2025-04-17 14:23:56,233 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 14:23:56,233 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-17 14:23:59,891 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-17 14:24:05,385 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-17 14:24:06,786 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-17 14:24:06,879 - NewsResearchAgent - INFO - Cache de notícias salvo com 2128 entradas
+2025-04-17 14:24:06,882 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 295 entradas
+2025-04-17 14:24:06,891 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria economia
+2025-04-17 14:33:33,539 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/estrangeiros-debandam-da-b3-apos-bom-1t-o-que-expl-20250417143333.jpg
+2025-04-17 14:33:33,539 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Estrangeiros debandam da B3 após bom 1T: o que explica – e por que podem retornar
+2025-04-17 14:33:33,594 - NewsResearchAgent - INFO - Cache de notícias salvo com 2128 entradas
+2025-04-17 14:33:33,597 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 296 entradas
+2025-04-17 14:33:33,597 - NewsResearchAgent - INFO - Notícia publicada: Estrangeiros debandam da B3 após bom 1T: o que explica – e por que podem retornar em ./categorias/economia/estrangeiros-debandam-da-b3-apos-bom-1t-o-que-expl-20250417143333.html
+2025-04-17 14:33:34,260 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 14:33:34,261 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-17 14:33:38,580 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-17 14:33:42,621 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-17 14:33:44,774 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-17 14:33:45,491 - NewsResearchAgent - INFO - Cache de notícias salvo com 2136 entradas
+2025-04-17 14:33:45,494 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 296 entradas
+2025-04-17 14:33:45,501 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria politica
+2025-04-17 14:43:14,575 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/novo-codigo-civil-projeto-permite-proibicao-de-alu-20250417144314.jpg
+2025-04-17 14:43:14,575 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Novo Código Civil: projeto permite proibição de aluguel no modelo Airbnb
+2025-04-17 14:43:14,630 - NewsResearchAgent - INFO - Cache de notícias salvo com 2136 entradas
+2025-04-17 14:43:14,633 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 297 entradas
+2025-04-17 14:43:14,633 - NewsResearchAgent - INFO - Notícia publicada: Novo Código Civil: projeto permite proibição de aluguel no modelo Airbnb em ./categorias/politica/novo-codigo-civil-projeto-permite-proibicao-de-alu-20250417144314.html
+2025-04-17 14:43:14,975 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 14:43:14,975 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-17 14:43:15,343 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-17 14:43:16,709 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-17 14:43:18,541 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-17 14:43:19,659 - NewsResearchAgent - INFO - Cache de notícias salvo com 2142 entradas
+2025-04-17 14:43:19,662 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 297 entradas
+2025-04-17 14:43:19,673 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria tecnologia
+2025-04-17 14:52:48,874 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/iphone-16e-sucesso-da-apple-tem-31-off-em-oferta-n-20250417145248.jpg
+2025-04-17 14:52:48,874 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: iPhone 16e, sucesso da Apple, tem 31% OFF em oferta na Amazon
+2025-04-17 14:52:48,928 - NewsResearchAgent - INFO - Cache de notícias salvo com 2142 entradas
+2025-04-17 14:52:48,931 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 298 entradas
+2025-04-17 14:52:48,931 - NewsResearchAgent - INFO - Notícia publicada: iPhone 16e, sucesso da Apple, tem 31% OFF em oferta na Amazon em ./categorias/tecnologia/iphone-16e-sucesso-da-apple-tem-31-off-em-oferta-n-20250417145248.html
+2025-04-17 14:52:49,237 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 14:52:49,237 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-17 14:52:54,092 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-17 14:52:54,270 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-17 14:52:58,823 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-17 14:53:01,109 - NewsResearchAgent - INFO - Cache de notícias salvo com 2147 entradas
+2025-04-17 14:53:01,112 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 298 entradas
+2025-04-17 14:53:01,124 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria entretenimento
+2025-04-17 15:02:28,845 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/5-series-true-crime-pra-ver-na-netflix-20250417150228.jpg
+2025-04-17 15:02:28,845 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: 5 séries True Crime pra ver na Netflix
+2025-04-17 15:02:28,900 - NewsResearchAgent - INFO - Cache de notícias salvo com 2147 entradas
+2025-04-17 15:02:28,903 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 299 entradas
+2025-04-17 15:02:28,903 - NewsResearchAgent - INFO - Notícia publicada: 5 séries True Crime pra ver na Netflix em ./categorias/entretenimento/5-series-true-crime-pra-ver-na-netflix-20250417150228.html
+2025-04-17 15:02:29,447 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 15:02:29,447 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-17 15:02:32,182 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-17 15:02:33,301 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-17 15:02:37,961 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-17 15:02:38,253 - NewsResearchAgent - INFO - Cache de notícias salvo com 2148 entradas
+2025-04-17 15:02:38,257 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 299 entradas
+2025-04-17 15:02:38,266 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria curiosidades
+2025-04-17 15:12:11,610 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/marca-japonesa-anuncia-robo-cavalo-movido-a-hidrog-20250417151211.jpg
+2025-04-17 15:12:11,610 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Marca japonesa anuncia robô cavalo movido a hidrogênio; vídeo
+2025-04-17 15:12:11,665 - NewsResearchAgent - INFO - Cache de notícias salvo com 2148 entradas
+2025-04-17 15:12:11,668 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 300 entradas
+2025-04-17 15:12:11,668 - NewsResearchAgent - INFO - Notícia publicada: Marca japonesa anuncia robô cavalo movido a hidrogênio; vídeo em ./categorias/curiosidades/marca-japonesa-anuncia-robo-cavalo-movido-a-hidrog-20250417151211.html
