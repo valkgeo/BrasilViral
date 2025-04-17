@@ -1,18 +1,26 @@
 [
   {
-    "title": "Guia de Compras",
-    "summary": "Guia de Compras",
-    "timestamp": "2025-04-17T18:48:00",
-    "link": "categorias/politica/guia-de-compras-20250417184824.html",
-    "image": "../../images/politica/guia-de-compras-20250417184823.jpg",
+    "title": "RG dos pets: como fazer e para que serve",
+    "summary": "O governo federal lançou recentemente o Sistema de Cadastro Nacional de Animais Domésticos, conhecido como SinPatinhas. Essa iniciativa tem como objetivo criar um banco de dados nacional para cães e gatos, gerando uma carteirinha de identificação para esses animais. O cadastro é totalmente gratuito e voluntário, e pode ser feito por meio da plataforma digital do governo federal, utilizando o login no gov.br.",
+    "timestamp": "2025-04-17T20:44:00",
+    "link": "categorias/politica/rg-dos-pets-como-fazer-e-para-que-serve-20250417204459.html",
+    "image": "../../images/politica/rg-dos-pets-como-fazer-e-para-que-serve-20250417204459.jpg",
     "category": "politica"
   },
   {
     "title": "Exemplo de notícia de politica",
     "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
-    "timestamp": "2025-04-17T18:17:02.011367",
+    "timestamp": "2025-04-17T20:13:45.164989",
     "link": "categorias/politica/exemplo_politica.html",
     "image": "{{IMAGEM_URL}}",
+    "category": "politica"
+  },
+  {
+    "title": "Guia de Compras",
+    "summary": "Guia de Compras",
+    "timestamp": "2025-04-17T18:48:00",
+    "link": "categorias/politica/guia-de-compras-20250417184824.html",
+    "image": "../../images/politica/guia-de-compras-20250417184823.jpg",
     "category": "politica"
   },
   {

@@ -4280,3 +4280,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-17 19:17:35,373 - NewsResearchAgent - INFO - Cache de notícias salvo com 2229 entradas
 2025-04-17 19:17:35,376 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 318 entradas
 2025-04-17 19:17:35,376 - NewsResearchAgent - INFO - Notícia publicada: A misteriosa ligação entre herpes e o Alzheimer em ./categorias/curiosidades/a-misteriosa-ligacao-entre-herpes-e-o-alzheimer-20250417191735.html
+2025-04-17 20:15:24,904 - NewsResearchAgent - INFO - Cache de notícias carregado com 2229 entradas
+2025-04-17 20:15:24,907 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 318 entradas
+2025-04-17 20:15:38,240 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 20:15:38,240 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-17 20:15:44,131 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-17 20:15:45,667 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-17 20:15:46,684 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-17 20:15:49,401 - NewsResearchAgent - INFO - Cache de notícias salvo com 2235 entradas
+2025-04-17 20:15:49,404 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 318 entradas
+2025-04-17 20:15:49,418 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria esportes
+2025-04-17 20:25:20,180 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/memphis-mostra-incomodo-e-faz-cobranca-generalizad-20250417202520.jpg
+2025-04-17 20:25:20,180 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Memphis mostra incômodo e faz cobrança generalizada após derrota do Corinthians
+2025-04-17 20:25:20,238 - NewsResearchAgent - INFO - Cache de notícias salvo com 2235 entradas
+2025-04-17 20:25:20,242 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 319 entradas
+2025-04-17 20:25:20,242 - NewsResearchAgent - INFO - Notícia publicada: Memphis mostra incômodo e faz cobrança generalizada após derrota do Corinthians em ./categorias/esportes/memphis-mostra-incomodo-e-faz-cobranca-generalizad-20250417202520.html
+2025-04-17 20:25:20,901 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 20:25:20,901 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-17 20:25:25,225 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-17 20:25:34,264 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-17 20:25:37,046 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-17 20:25:37,223 - NewsResearchAgent - INFO - Cache de notícias salvo com 2238 entradas
+2025-04-17 20:25:37,226 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 319 entradas
+2025-04-17 20:25:37,233 - NewsResearchAgent - INFO - Encontradas 6 notícias virais na categoria economia
+2025-04-17 20:35:13,356 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/quinta-e-sextafeira-santa-sao-feriado-entenda-as-f-20250417203513.jpg
+2025-04-17 20:35:13,357 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Quinta e Sexta-Feira Santa são feriado? Entenda as folgas da Páscoa 2025
+2025-04-17 20:35:13,414 - NewsResearchAgent - INFO - Cache de notícias salvo com 2238 entradas
+2025-04-17 20:35:13,417 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 320 entradas
+2025-04-17 20:35:13,417 - NewsResearchAgent - INFO - Notícia publicada: Quinta e Sexta-Feira Santa são feriado? Entenda as folgas da Páscoa 2025 em ./categorias/economia/quinta-e-sextafeira-santa-sao-feriado-entenda-as-f-20250417203513.html
+2025-04-17 20:35:13,717 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 20:35:13,717 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-17 20:35:15,527 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-17 20:35:18,450 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-17 20:35:19,317 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-17 20:35:20,087 - NewsResearchAgent - INFO - Cache de notícias salvo com 2245 entradas
+2025-04-17 20:35:20,090 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 320 entradas
+2025-04-17 20:35:20,103 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria politica
+2025-04-17 20:44:59,444 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/rg-dos-pets-como-fazer-e-para-que-serve-20250417204459.jpg
+2025-04-17 20:44:59,444 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: RG dos pets: como fazer e para que serve
+2025-04-17 20:44:59,502 - NewsResearchAgent - INFO - Cache de notícias salvo com 2245 entradas
+2025-04-17 20:44:59,505 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 321 entradas
+2025-04-17 20:44:59,505 - NewsResearchAgent - INFO - Notícia publicada: RG dos pets: como fazer e para que serve em ./categorias/politica/rg-dos-pets-como-fazer-e-para-que-serve-20250417204459.html
+2025-04-17 20:45:00,231 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 20:45:00,231 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-17 20:45:03,732 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-17 20:45:05,536 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-17 20:45:06,654 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-17 20:45:07,439 - NewsResearchAgent - INFO - Cache de notícias salvo com 2253 entradas
+2025-04-17 20:45:07,443 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 321 entradas
+2025-04-17 20:45:07,457 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria tecnologia
+2025-04-17 20:55:01,758 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/k218b-indicios-de-vida-em-exoplaneta-sao-os-mais-f-20250417205501.jpg
+2025-04-17 20:55:01,759 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: K2-18b: indícios de vida em exoplaneta são os mais fortes já descobertos
+2025-04-17 20:55:01,817 - NewsResearchAgent - INFO - Cache de notícias salvo com 2253 entradas
+2025-04-17 20:55:01,820 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 322 entradas
+2025-04-17 20:55:01,820 - NewsResearchAgent - INFO - Notícia publicada: K2-18b: indícios de vida em exoplaneta são os mais fortes já descobertos em ./categorias/tecnologia/k218b-indicios-de-vida-em-exoplaneta-sao-os-mais-f-20250417205501.html
+2025-04-17 20:55:02,353 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 20:55:02,353 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-17 20:55:04,477 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-17 20:55:04,893 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-17 20:55:10,598 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-17 20:55:12,636 - NewsResearchAgent - INFO - Cache de notícias salvo com 2257 entradas
+2025-04-17 20:55:12,640 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 322 entradas
+2025-04-17 20:55:12,655 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria entretenimento
+2025-04-17 21:04:46,829 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/twisted-metal-ganha-teaser-e-data-para-2-temporada-20250417210446.jpg
+2025-04-17 21:04:46,829 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Twisted Metal ganha teaser e data para 2ª temporada; confira
+2025-04-17 21:04:46,886 - NewsResearchAgent - INFO - Cache de notícias salvo com 2257 entradas
+2025-04-17 21:04:46,890 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 323 entradas
+2025-04-17 21:04:46,890 - NewsResearchAgent - INFO - Notícia publicada: Twisted Metal ganha teaser e data para 2ª temporada; confira em ./categorias/entretenimento/twisted-metal-ganha-teaser-e-data-para-2-temporada-20250417210446.html
+2025-04-17 21:04:47,207 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 21:04:47,207 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-17 21:04:52,307 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-17 21:04:54,533 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-17 21:04:56,887 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-17 21:04:57,801 - NewsResearchAgent - INFO - Cache de notícias salvo com 2259 entradas
+2025-04-17 21:04:57,804 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 323 entradas
+2025-04-17 21:04:57,815 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria curiosidades
+2025-04-17 21:14:30,164 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/os-indicios-de-sociedades-precabralinas-ocultos-na-20250417211430.jpg
+2025-04-17 21:14:30,165 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Os indícios de sociedades pré-cabralinas ocultos na vegetação da Amazônia
+2025-04-17 21:14:30,222 - NewsResearchAgent - INFO - Cache de notícias salvo com 2259 entradas
+2025-04-17 21:14:30,226 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 324 entradas
+2025-04-17 21:14:30,226 - NewsResearchAgent - INFO - Notícia publicada: Os indícios de sociedades pré-cabralinas ocultos na vegetação da Amazônia em ./categorias/curiosidades/os-indicios-de-sociedades-precabralinas-ocultos-na-20250417211430.html
