@@ -1,18 +1,26 @@
 [
   {
-    "title": "Meio Ambiente",
-    "summary": "O axolote, um anfíbio endêmico do centro do México, é considerado uma espécie única devido às suas características biológicas. Ele possui a capacidade de regenerar partes do coração, da medula espinhal e até do cérebro, o que o torna um objeto de estudo fascinante para os cientistas. No entanto, apesar de sua importância, o axolote é classificado como \"criticamente ameaçado\" pela União Internacional para a Conservação da Natureza.",
-    "timestamp": "2025-04-17T10:47:00",
-    "link": "categorias/politica/meio-ambiente-20250417104733.html",
-    "image": "../../images/politica/meio-ambiente-20250417104733.jpg",
+    "title": "Trump congela plano de combate ao racismo acertado com Biden, diz ministra",
+    "summary": "O governo brasileiro está enfrentando dificuldades em obter informações sobre a cooperação com os Estados Unidos no combate ao racismo. A ministra de Igualdade Racial, Anielle Franco, confirmou que o plano de ação conjunto entre os dois países foi congelado. Ela está em Nova York para participar de reuniões na Organização das Nações Unidas.",
+    "timestamp": "2025-04-17T12:54:00",
+    "link": "categorias/politica/trump-congela-plano-de-combate-ao-racismo-acertado-20250417125449.html",
+    "image": "../../images/politica/trump-congela-plano-de-combate-ao-racismo-acertado-20250417125449.jpg",
     "category": "politica"
   },
   {
     "title": "Exemplo de notícia de politica",
     "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
-    "timestamp": "2025-04-17T10:13:43.592515",
+    "timestamp": "2025-04-17T12:23:59.706478",
     "link": "categorias/politica/exemplo_politica.html",
     "image": "{{IMAGEM_URL}}",
+    "category": "politica"
+  },
+  {
+    "title": "Meio Ambiente",
+    "summary": "O axolote, um anfíbio endêmico do centro do México, é considerado uma espécie única devido às suas características biológicas. Ele possui a capacidade de regenerar partes do coração, da medula espinhal e até do cérebro, o que o torna um objeto de estudo fascinante para os cientistas. No entanto, apesar de sua importância, o axolote é classificado como \"criticamente ameaçado\" pela União Internacional para a Conservação da Natureza.",
+    "timestamp": "2025-04-17T10:47:00",
+    "link": "categorias/politica/meio-ambiente-20250417104733.html",
+    "image": "../../images/politica/meio-ambiente-20250417104733.jpg",
     "category": "politica"
   },
   {

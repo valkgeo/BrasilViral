@@ -1,18 +1,26 @@
 [
   {
-    "title": "Netflix recebe 9 lançamentos de peso nesta semana! Confira os destaques",
-    "summary": "A plataforma de streaming Netflix está preparando uma série de lançamentos para os próximos dias, com uma seleção diversificada de títulos que prometem agradar a todos os gostos. Desde fãs de suspense sobrenatural até amantes de dramas históricos e produções documentais, há algo para cada um.",
-    "timestamp": "2025-04-17T10:58:00",
-    "link": "categorias/tecnologia/netflix-recebe-9-lancamentos-de-peso-nesta-semana--20250417105800.html",
-    "image": "../../images/tecnologia/netflix-recebe-9-lancamentos-de-peso-nesta-semana--20250417105800.jpg",
+    "title": "Realidade Violada: uma série documental original do TecMundo",
+    "summary": "O TecMundo lançou uma série documental intitulada Realidade Violada, que aborda temas importantes relacionados à segurança na internet e no mundo físico. O terceiro episódio dessa série, em particular, destaca o combate aos predadores sexuais na internet e em outros ambientes. Nele, são apresentados relatos exclusivos de policiais que dedicam suas vidas a caçar e prender esses criminosos, além de depoimentos de vítimas e hackers envolvidos com o tema.",
+    "timestamp": "2025-04-17T13:04:00",
+    "link": "categorias/tecnologia/realidade-violada-uma-serie-documental-original-do-20250417130427.html",
+    "image": "../../images/tecnologia/realidade-violada-uma-serie-documental-original-do-20250417130427.jpg",
     "category": "tecnologia"
   },
   {
     "title": "Exemplo de notícia de tecnologia",
     "summary": "Este é um exemplo de notícia tecnológica. Aqui você encontrará informações sobre lançamentos de produtos, inovações tecnológicas, tendências digitais e avanços científicos. O BrasilViral traz as novidades mais recentes do mundo da tecnologia. tecnologia.",
-    "timestamp": "2025-04-17T10:13:43.595515",
+    "timestamp": "2025-04-17T12:23:59.709478",
     "link": "categorias/tecnologia/exemplo_tecnologia.html",
     "image": "{{IMAGEM_URL}}",
+    "category": "tecnologia"
+  },
+  {
+    "title": "Netflix recebe 9 lançamentos de peso nesta semana! Confira os destaques",
+    "summary": "A plataforma de streaming Netflix está preparando uma série de lançamentos para os próximos dias, com uma seleção diversificada de títulos que prometem agradar a todos os gostos. Desde fãs de suspense sobrenatural até amantes de dramas históricos e produções documentais, há algo para cada um.",
+    "timestamp": "2025-04-17T10:58:00",
+    "link": "categorias/tecnologia/netflix-recebe-9-lancamentos-de-peso-nesta-semana--20250417105800.html",
+    "image": "../../images/tecnologia/netflix-recebe-9-lancamentos-de-peso-nesta-semana--20250417105800.jpg",
     "category": "tecnologia"
   },
   {

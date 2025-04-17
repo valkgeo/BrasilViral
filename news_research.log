@@ -3880,3 +3880,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-17 11:19:06,737 - NewsResearchAgent - INFO - Cache de notícias salvo com 2083 entradas
 2025-04-17 11:19:06,740 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 288 entradas
 2025-04-17 11:19:06,740 - NewsResearchAgent - INFO - Notícia publicada: Playlist: 5 coisas para ler e jogar em abril em ./categorias/curiosidades/playlist-5-coisas-para-ler-e-jogar-em-abril-20250417111906.html
+2025-04-17 12:25:34,066 - NewsResearchAgent - INFO - Cache de notícias carregado com 2083 entradas
+2025-04-17 12:25:34,068 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 288 entradas
+2025-04-17 12:25:47,398 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 12:25:47,398 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-17 12:25:50,694 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-17 12:25:51,584 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-17 12:25:53,068 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-17 12:26:00,545 - NewsResearchAgent - INFO - Cache de notícias salvo com 2092 entradas
+2025-04-17 12:26:00,548 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 288 entradas
+2025-04-17 12:26:00,559 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria esportes
+2025-04-17 12:35:24,842 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/grenal-447-roger-machado-projeta-o-classico-de-sab-20250417123524.jpg
+2025-04-17 12:35:24,843 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Gre-Nal 447: Roger Machado projeta o clássico de sábado (17)
+2025-04-17 12:35:24,899 - NewsResearchAgent - INFO - Cache de notícias salvo com 2092 entradas
+2025-04-17 12:35:24,903 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 289 entradas
+2025-04-17 12:35:24,903 - NewsResearchAgent - INFO - Notícia publicada: Gre-Nal 447: Roger Machado projeta o clássico de sábado (17) em ./categorias/esportes/grenal-447-roger-machado-projeta-o-classico-de-sab-20250417123524.html
+2025-04-17 12:35:25,296 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 12:35:25,296 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-17 12:35:31,963 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-17 12:35:40,547 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-17 12:35:42,651 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-17 12:35:42,750 - NewsResearchAgent - INFO - Cache de notícias salvo com 2099 entradas
+2025-04-17 12:35:42,753 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 289 entradas
+2025-04-17 12:35:42,761 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria economia
+2025-04-17 12:45:09,027 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/stj-limita-atualizacao-de-creditos-na-recuperacao-20250417124509.jpg
+2025-04-17 12:45:09,028 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: STJ limita atualização de créditos na recuperação
+2025-04-17 12:45:09,081 - NewsResearchAgent - INFO - Cache de notícias salvo com 2099 entradas
+2025-04-17 12:45:09,084 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 290 entradas
+2025-04-17 12:45:09,084 - NewsResearchAgent - INFO - Notícia publicada: STJ limita atualização de créditos na recuperação em ./categorias/economia/stj-limita-atualizacao-de-creditos-na-recuperacao-20250417124509.html
+2025-04-17 12:45:09,345 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 12:45:09,345 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-17 12:45:12,057 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-17 12:45:15,229 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-17 12:45:16,576 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-17 12:45:18,487 - NewsResearchAgent - INFO - Cache de notícias salvo com 2107 entradas
+2025-04-17 12:45:18,490 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 290 entradas
+2025-04-17 12:45:18,498 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria politica
+2025-04-17 12:54:49,422 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/trump-congela-plano-de-combate-ao-racismo-acertado-20250417125449.jpg
+2025-04-17 12:54:49,422 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Trump congela plano de combate ao racismo acertado com Biden, diz ministra
+2025-04-17 12:54:49,476 - NewsResearchAgent - INFO - Cache de notícias salvo com 2107 entradas
+2025-04-17 12:54:49,479 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 291 entradas
+2025-04-17 12:54:49,479 - NewsResearchAgent - INFO - Notícia publicada: Trump congela plano de combate ao racismo acertado com Biden, diz ministra em ./categorias/politica/trump-congela-plano-de-combate-ao-racismo-acertado-20250417125449.html
+2025-04-17 12:54:50,000 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 12:54:50,001 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-17 12:54:57,949 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-17 12:54:59,007 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-17 12:55:01,183 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-17 12:55:02,524 - NewsResearchAgent - INFO - Cache de notícias salvo com 2112 entradas
+2025-04-17 12:55:02,527 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 291 entradas
+2025-04-17 12:55:02,538 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria tecnologia
+2025-04-17 13:04:27,399 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/realidade-violada-uma-serie-documental-original-do-20250417130427.jpg
+2025-04-17 13:04:27,399 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Realidade Violada: uma série documental original do TecMundo
+2025-04-17 13:04:27,452 - NewsResearchAgent - INFO - Cache de notícias salvo com 2112 entradas
+2025-04-17 13:04:27,455 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 292 entradas
+2025-04-17 13:04:27,455 - NewsResearchAgent - INFO - Notícia publicada: Realidade Violada: uma série documental original do TecMundo em ./categorias/tecnologia/realidade-violada-uma-serie-documental-original-do-20250417130427.html
+2025-04-17 13:04:28,016 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 13:04:28,016 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-17 13:04:29,915 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-17 13:04:30,317 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-17 13:04:38,045 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-17 13:04:40,925 - NewsResearchAgent - INFO - Cache de notícias salvo com 2116 entradas
+2025-04-17 13:04:40,929 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 292 entradas
+2025-04-17 13:04:40,939 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria entretenimento
+2025-04-17 13:14:08,294 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/casa-do-bbb25-tem-tapetes-de-couro-personalizados--20250417131408.jpg
+2025-04-17 13:14:08,294 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Casa do BBB25 tem tapetes de couro personalizados com estilo e sofisticação
+2025-04-17 13:14:08,348 - NewsResearchAgent - INFO - Cache de notícias salvo com 2116 entradas
+2025-04-17 13:14:08,351 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 293 entradas
+2025-04-17 13:14:08,351 - NewsResearchAgent - INFO - Notícia publicada: Casa do BBB25 tem tapetes de couro personalizados com estilo e sofisticação em ./categorias/entretenimento/casa-do-bbb25-tem-tapetes-de-couro-personalizados--20250417131408.html
+2025-04-17 13:14:08,671 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 13:14:08,672 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-17 13:14:11,570 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-17 13:14:12,553 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-17 13:14:14,513 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-17 13:14:15,063 - NewsResearchAgent - INFO - Cache de notícias salvo com 2118 entradas
+2025-04-17 13:14:15,066 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 293 entradas
+2025-04-17 13:14:15,074 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria curiosidades
+2025-04-17 13:23:40,724 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/opiniao-nos-somos-tao-influenciaveis-quanto-qualqu-20250417132340.jpg
+2025-04-17 13:23:40,724 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Opinião: Nós somos tão influenciáveis quanto qualquer outra pessoa
+2025-04-17 13:23:40,778 - NewsResearchAgent - INFO - Cache de notícias salvo com 2118 entradas
+2025-04-17 13:23:40,781 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 294 entradas
+2025-04-17 13:23:40,781 - NewsResearchAgent - INFO - Notícia publicada: Opinião: Nós somos tão influenciáveis quanto qualquer outra pessoa em ./categorias/curiosidades/opiniao-nos-somos-tao-influenciaveis-quanto-qualqu-20250417132340.html
