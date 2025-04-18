@@ -4920,3 +4920,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-18 07:17:15,323 - NewsResearchAgent - INFO - Cache de notícias salvo com 2430 entradas
 2025-04-18 07:17:15,327 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 366 entradas
 2025-04-18 07:17:15,327 - NewsResearchAgent - INFO - Notícia publicada: Todos os caminhos levavam mesmo a Roma? em ./categorias/curiosidades/todos-os-caminhos-levavam-mesmo-a-roma-20250418071715.html
+2025-04-18 08:18:36,877 - NewsResearchAgent - INFO - Cache de notícias carregado com 2430 entradas
+2025-04-18 08:18:36,880 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 366 entradas
+2025-04-18 08:18:58,061 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 08:18:58,061 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-18 08:19:01,815 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-18 08:19:02,270 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-18 08:19:03,373 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-18 08:19:07,804 - NewsResearchAgent - INFO - Cache de notícias salvo com 2434 entradas
+2025-04-18 08:19:07,808 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 366 entradas
+2025-04-18 08:19:07,820 - NewsResearchAgent - INFO - Encontradas 6 notícias virais na categoria esportes
+2025-04-18 08:28:39,829 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/quer-emagrecer-vivabem-conta-para-voce-as-melhores-20250418082839.jpg
+2025-04-18 08:28:39,829 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Quer emagrecer? VivaBem conta para você as melhores e piores dietas
+2025-04-18 08:28:39,894 - NewsResearchAgent - INFO - Cache de notícias salvo com 2434 entradas
+2025-04-18 08:28:39,898 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 367 entradas
+2025-04-18 08:28:39,899 - NewsResearchAgent - INFO - Notícia publicada: Quer emagrecer? VivaBem conta para você as melhores e piores dietas em ./categorias/esportes/quer-emagrecer-vivabem-conta-para-voce-as-melhores-20250418082839.html
+2025-04-18 08:28:40,444 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 08:28:40,445 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-18 08:28:44,185 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-18 08:28:48,836 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-18 08:28:50,264 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-18 08:28:50,424 - NewsResearchAgent - INFO - Cache de notícias salvo com 2438 entradas
+2025-04-18 08:28:50,428 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 367 entradas
+2025-04-18 08:28:50,435 - NewsResearchAgent - INFO - Encontradas 6 notícias virais na categoria economia
+2025-04-18 08:38:20,322 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/ebook-imposto-de-renda-2025-infomoney-20250418083820.jpg
+2025-04-18 08:38:20,322 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Ebook Imposto de Renda 2025 | InfoMoney
+2025-04-18 08:38:20,384 - NewsResearchAgent - INFO - Cache de notícias salvo com 2438 entradas
+2025-04-18 08:38:20,388 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 368 entradas
+2025-04-18 08:38:20,388 - NewsResearchAgent - INFO - Notícia publicada: Ebook Imposto de Renda 2025 | InfoMoney em ./categorias/economia/ebook-imposto-de-renda-2025-infomoney-20250418083820.html
+2025-04-18 08:38:20,980 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 08:38:20,981 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-18 08:38:23,750 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-18 08:38:26,088 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-18 08:38:26,661 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-18 08:38:28,664 - NewsResearchAgent - INFO - Cache de notícias salvo com 2442 entradas
+2025-04-18 08:38:28,668 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 368 entradas
+2025-04-18 08:38:28,678 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria politica
+2025-04-18 08:47:58,698 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/vc-no-g1-como-entrar-em-contato-enviar-videos-foto-20250418084758.jpg
+2025-04-18 08:47:58,698 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: VC no g1: como entrar em contato, enviar vídeos, fotos e mensagens
+2025-04-18 08:47:58,760 - NewsResearchAgent - INFO - Cache de notícias salvo com 2442 entradas
+2025-04-18 08:47:58,764 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 369 entradas
+2025-04-18 08:47:58,764 - NewsResearchAgent - INFO - Notícia publicada: VC no g1: como entrar em contato, enviar vídeos, fotos e mensagens em ./categorias/politica/vc-no-g1-como-entrar-em-contato-enviar-videos-foto-20250418084758.html
+2025-04-18 08:47:59,399 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 08:47:59,400 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-18 08:48:02,207 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-18 08:48:03,350 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-18 08:48:04,128 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-18 08:48:04,407 - NewsResearchAgent - INFO - Cache de notícias salvo com 2444 entradas
+2025-04-18 08:48:04,411 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 369 entradas
+2025-04-18 08:48:04,428 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria tecnologia
+2025-04-18 08:57:37,048 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/review-tforce-z540-ssd-absurdamente-rapido-para-us-20250418085737.jpg
+2025-04-18 08:57:37,048 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Review T-Force Z540 | SSD absurdamente rápido para usuários muito exigentes
+2025-04-18 08:57:37,111 - NewsResearchAgent - INFO - Cache de notícias salvo com 2444 entradas
+2025-04-18 08:57:37,115 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 370 entradas
+2025-04-18 08:57:37,115 - NewsResearchAgent - INFO - Notícia publicada: Review T-Force Z540 | SSD absurdamente rápido para usuários muito exigentes em ./categorias/tecnologia/review-tforce-z540-ssd-absurdamente-rapido-para-us-20250418085737.html
+2025-04-18 08:57:37,737 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 08:57:37,737 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-18 08:57:39,769 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-18 08:57:39,920 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-18 08:57:42,162 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-18 08:57:47,904 - NewsResearchAgent - INFO - Cache de notícias salvo com 2448 entradas
+2025-04-18 08:57:47,908 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 370 entradas
+2025-04-18 08:57:47,921 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria entretenimento
+2025-04-18 09:07:15,161 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/premonicao-6-novo-teaser-prepara-terreno-para-a-es-20250418090715.jpg
+2025-04-18 09:07:15,161 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Premonição 6 | Novo teaser prepara terreno para a estreia
+2025-04-18 09:07:15,223 - NewsResearchAgent - INFO - Cache de notícias salvo com 2448 entradas
+2025-04-18 09:07:15,227 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 371 entradas
+2025-04-18 09:07:15,228 - NewsResearchAgent - INFO - Notícia publicada: Premonição 6 | Novo teaser prepara terreno para a estreia em ./categorias/entretenimento/premonicao-6-novo-teaser-prepara-terreno-para-a-es-20250418090715.html
+2025-04-18 09:07:15,722 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 09:07:15,722 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-18 09:07:16,744 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-18 09:07:17,194 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-18 09:07:19,373 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-18 09:07:19,689 - NewsResearchAgent - INFO - Cache de notícias salvo com 2450 entradas
+2025-04-18 09:07:19,693 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 371 entradas
+2025-04-18 09:07:19,703 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria curiosidades
+2025-04-18 09:16:45,995 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/as-origens-biologicas-da-fe-por-que-o-ser-humano-e-20250418091645.jpg
+2025-04-18 09:16:45,996 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: As origens biológicas da fé: por que o ser humano é religioso?
+2025-04-18 09:16:46,058 - NewsResearchAgent - INFO - Cache de notícias salvo com 2450 entradas
+2025-04-18 09:16:46,062 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 372 entradas
+2025-04-18 09:16:46,062 - NewsResearchAgent - INFO - Notícia publicada: As origens biológicas da fé: por que o ser humano é religioso? em ./categorias/curiosidades/as-origens-biologicas-da-fe-por-que-o-ser-humano-e-20250418091645.html
