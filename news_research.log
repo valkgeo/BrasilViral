@@ -4440,3 +4440,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-17 23:11:18,960 - NewsResearchAgent - INFO - Cache de notícias salvo com 2283 entradas
 2025-04-17 23:11:18,963 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 330 entradas
 2025-04-17 23:11:18,964 - NewsResearchAgent - INFO - Notícia publicada: Por que havia mais animais gigantes na pré-história? em ./categorias/curiosidades/por-que-havia-mais-animais-gigantes-na-prehistoria-20250417231118.html
+2025-04-17 23:13:32,256 - NewsResearchAgent - INFO - Cache de notícias carregado com 2283 entradas
+2025-04-17 23:13:32,258 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 330 entradas
+2025-04-17 23:13:46,775 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 23:13:46,775 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-17 23:13:50,447 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-17 23:13:51,320 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-17 23:13:52,474 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-17 23:13:58,711 - NewsResearchAgent - INFO - Cache de notícias salvo com 2288 entradas
+2025-04-17 23:13:58,714 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 330 entradas
+2025-04-17 23:13:58,727 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria esportes
+2025-04-17 23:23:26,453 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/tenista-tem-ataque-de-furia-e-destroi-parte-de-gua-20250417232326.jpg
+2025-04-17 23:23:26,453 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Tenista tem ataque de fúria e destrói parte de guarda-sol. Veja vídeo
+2025-04-17 23:23:26,511 - NewsResearchAgent - INFO - Cache de notícias salvo com 2288 entradas
+2025-04-17 23:23:26,515 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 331 entradas
+2025-04-17 23:23:26,515 - NewsResearchAgent - INFO - Notícia publicada: Tenista tem ataque de fúria e destrói parte de guarda-sol. Veja vídeo em ./categorias/esportes/tenista-tem-ataque-de-furia-e-destroi-parte-de-gua-20250417232326.html
+2025-04-17 23:23:27,054 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 23:23:27,054 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-17 23:23:30,206 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-17 23:23:38,049 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-17 23:23:40,764 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-17 23:23:40,863 - NewsResearchAgent - INFO - Cache de notícias salvo com 2294 entradas
+2025-04-17 23:23:40,866 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 331 entradas
+2025-04-17 23:23:40,874 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria economia
+2025-04-17 23:33:11,545 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/bets-defendem-reconhecimento-facial-mas-acham-fim--20250417233311.jpg
+2025-04-17 23:33:11,546 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Bets defendem reconhecimento facial, mas acham fim da publicidade exagero
+2025-04-17 23:33:11,605 - NewsResearchAgent - INFO - Cache de notícias salvo com 2294 entradas
+2025-04-17 23:33:11,608 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 332 entradas
+2025-04-17 23:33:11,608 - NewsResearchAgent - INFO - Notícia publicada: Bets defendem reconhecimento facial, mas acham fim da publicidade exagero em ./categorias/economia/bets-defendem-reconhecimento-facial-mas-acham-fim--20250417233311.html
+2025-04-17 23:33:12,402 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 23:33:12,402 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-17 23:33:14,114 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-17 23:33:18,900 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-17 23:33:20,348 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-17 23:33:22,191 - NewsResearchAgent - INFO - Cache de notícias salvo com 2300 entradas
+2025-04-17 23:33:22,195 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 332 entradas
+2025-04-17 23:33:22,207 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria politica
+2025-04-17 23:42:53,756 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/abin-paralela-de-bolsonaro-vira-lambanca-oficial-d-20250417234253.jpg
+2025-04-17 23:42:53,756 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Abin paralela de Bolsonaro vira lambança oficial da gestão Lula
+2025-04-17 23:42:53,815 - NewsResearchAgent - INFO - Cache de notícias salvo com 2300 entradas
+2025-04-17 23:42:53,818 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 333 entradas
+2025-04-17 23:42:53,818 - NewsResearchAgent - INFO - Notícia publicada: Abin paralela de Bolsonaro vira lambança oficial da gestão Lula em ./categorias/politica/abin-paralela-de-bolsonaro-vira-lambanca-oficial-d-20250417234253.html
+2025-04-17 23:42:54,268 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 23:42:54,268 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-17 23:42:58,220 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-17 23:42:59,964 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-17 23:43:01,409 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-17 23:43:02,118 - NewsResearchAgent - INFO - Cache de notícias salvo com 2305 entradas
+2025-04-17 23:43:02,121 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 333 entradas
+2025-04-17 23:43:02,134 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria tecnologia
+2025-04-17 23:52:34,124 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/dell-lanca-notebook-14-plus-2in1-com-amd-ryzen-ai--20250417235234.jpg
+2025-04-17 23:52:34,124 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Dell lança notebook 14 Plus 2-in-1 com AMD Ryzen AI 300
+2025-04-17 23:52:34,183 - NewsResearchAgent - INFO - Cache de notícias salvo com 2305 entradas
+2025-04-17 23:52:34,187 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 334 entradas
+2025-04-17 23:52:34,187 - NewsResearchAgent - INFO - Notícia publicada: Dell lança notebook 14 Plus 2-in-1 com AMD Ryzen AI 300 em ./categorias/tecnologia/dell-lanca-notebook-14-plus-2in1-com-amd-ryzen-ai--20250417235234.html
+2025-04-17 23:52:34,781 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-17 23:52:34,781 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-17 23:52:39,063 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-17 23:52:39,164 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-17 23:52:45,167 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-17 23:52:47,886 - NewsResearchAgent - INFO - Cache de notícias salvo com 2310 entradas
+2025-04-17 23:52:47,889 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 334 entradas
+2025-04-17 23:52:47,901 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria entretenimento
+2025-04-18 00:02:16,595 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/superman-tem-poster-recriado-com-action-figure-do--20250418000216.jpg
+2025-04-18 00:02:16,595 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Superman tem pôster recriado com action figure do novo filme
+2025-04-18 00:02:16,654 - NewsResearchAgent - INFO - Cache de notícias salvo com 2310 entradas
+2025-04-18 00:02:16,657 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 335 entradas
+2025-04-18 00:02:16,657 - NewsResearchAgent - INFO - Notícia publicada: Superman tem pôster recriado com action figure do novo filme em ./categorias/entretenimento/superman-tem-poster-recriado-com-action-figure-do--20250418000216.html
+2025-04-18 00:02:16,997 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 00:02:16,997 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-18 00:02:19,423 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-18 00:02:19,734 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-18 00:02:22,441 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-18 00:02:22,715 - NewsResearchAgent - INFO - Cache de notícias salvo com 2311 entradas
+2025-04-18 00:02:22,718 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 335 entradas
+2025-04-18 00:02:22,727 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria curiosidades
+2025-04-18 00:11:50,553 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/quem-sao-os-maiores-produtores-e-consumidores-de-c-20250418001150.jpg
+2025-04-18 00:11:50,553 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Quem são os maiores produtores e consumidores de cacau do mundo?
+2025-04-18 00:11:50,613 - NewsResearchAgent - INFO - Cache de notícias salvo com 2311 entradas
+2025-04-18 00:11:50,616 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 336 entradas
+2025-04-18 00:11:50,617 - NewsResearchAgent - INFO - Notícia publicada: Quem são os maiores produtores e consumidores de cacau do mundo? em ./categorias/curiosidades/quem-sao-os-maiores-produtores-e-consumidores-de-c-20250418001150.html
