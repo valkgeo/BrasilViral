@@ -1,18 +1,26 @@
 [
   {
-    "title": "Em recuperação, Bolsonaro publica vídeo fazendo fisioterapia no hospital",
-    "summary": "O ex-presidente Jair Bolsonaro está se recuperando de uma cirurgia no intestino realizada no Hospital DF Star, em Brasília. A cirurgia foi necessária após ele passar mal durante uma agenda no Rio Grande do Norte, na última semana. Em Natal, exames de imagem detectaram uma obstrução intestinal decorrente da facada que o ex-presidente recebeu durante a campanha presidencial de 2018.",
-    "timestamp": "2025-04-18T03:59:00",
-    "link": "categorias/politica/em-recuperacao-bolsonaro-publica-video-fazendo-fis-20250418035944.html",
-    "image": "../../images/politica/em-recuperacao-bolsonaro-publica-video-fazendo-fis-20250418035944.jpg",
+    "title": "MERCADO IMOBILIÁRIO",
+    "summary": "O mercado imobiliário de Goiânia tem apresentado uma tendência positiva nos últimos tempos, com um aumento significativo no número de lançamentos de imóveis. De acordo com uma pesquisa realizada pela Ademi, em 2018, foram lançadas 4.567 unidades, enquanto de janeiro a setembro deste ano, o número já alcançou 4.779. Essa alta é um indicador de que o setor está em expansão e que as construtoras e incorporadoras estão investindo em novos empreendimentos residenciais.",
+    "timestamp": "2025-04-18T05:44:00",
+    "link": "categorias/politica/mercado-imobiliario-20250418054401.html",
+    "image": "../../images/politica/mercado-imobiliario-20250418054401.jpg",
     "category": "politica"
   },
   {
     "title": "Exemplo de notícia de politica",
     "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
-    "timestamp": "2025-04-18T03:28:39.041768",
+    "timestamp": "2025-04-18T05:12:57.051280",
     "link": "categorias/politica/exemplo_politica.html",
     "image": "{{IMAGEM_URL}}",
+    "category": "politica"
+  },
+  {
+    "title": "Em recuperação, Bolsonaro publica vídeo fazendo fisioterapia no hospital",
+    "summary": "O ex-presidente Jair Bolsonaro está se recuperando de uma cirurgia no intestino realizada no Hospital DF Star, em Brasília. A cirurgia foi necessária após ele passar mal durante uma agenda no Rio Grande do Norte, na última semana. Em Natal, exames de imagem detectaram uma obstrução intestinal decorrente da facada que o ex-presidente recebeu durante a campanha presidencial de 2018.",
+    "timestamp": "2025-04-18T03:59:00",
+    "link": "categorias/politica/em-recuperacao-bolsonaro-publica-video-fazendo-fis-20250418035944.html",
+    "image": "../../images/politica/em-recuperacao-bolsonaro-publica-video-fazendo-fis-20250418035944.jpg",
     "category": "politica"
   },
   {

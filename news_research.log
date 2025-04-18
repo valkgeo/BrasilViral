@@ -4760,3 +4760,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-18 04:28:50,520 - NewsResearchAgent - INFO - Cache de notícias salvo com 2390 entradas
 2025-04-18 04:28:50,524 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 354 entradas
 2025-04-18 04:28:50,524 - NewsResearchAgent - INFO - Notícia publicada: Buraco negro enorme acorda e astrônomos observam surgir evento explosivo inédito em ./categorias/curiosidades/buraco-negro-enorme-acorda-e-astronomos-observam-s-20250418042850.html
+2025-04-18 05:14:37,176 - NewsResearchAgent - INFO - Cache de notícias carregado com 2390 entradas
+2025-04-18 05:14:37,178 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 354 entradas
+2025-04-18 05:14:56,528 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 05:14:56,528 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-18 05:15:03,831 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-18 05:15:04,747 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-18 05:15:06,126 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-18 05:15:11,544 - NewsResearchAgent - INFO - Cache de notícias salvo com 2393 entradas
+2025-04-18 05:15:11,548 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 354 entradas
+2025-04-18 05:15:11,560 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria esportes
+2025-04-18 05:24:40,529 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/outros-esportes-20250418052440.jpg
+2025-04-18 05:24:40,529 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: outros esportes
+2025-04-18 05:24:40,592 - NewsResearchAgent - INFO - Cache de notícias salvo com 2393 entradas
+2025-04-18 05:24:40,595 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 355 entradas
+2025-04-18 05:24:40,595 - NewsResearchAgent - INFO - Notícia publicada: outros esportes em ./categorias/esportes/outros-esportes-20250418052440.html
+2025-04-18 05:24:40,849 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 05:24:40,849 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-18 05:24:46,615 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-18 05:24:53,409 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-18 05:24:54,263 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-18 05:24:54,370 - NewsResearchAgent - INFO - Cache de notícias salvo com 2395 entradas
+2025-04-18 05:24:54,374 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 355 entradas
+2025-04-18 05:24:54,379 - NewsResearchAgent - INFO - Encontradas 4 notícias virais na categoria economia
+2025-04-18 05:34:21,936 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/esqueca-os-chats-agentes-marcam-a-nova-era-da-inte-20250418053421.jpg
+2025-04-18 05:34:21,937 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Esqueça os chats: agentes marcam a nova era da inteligência artificial generativa
+2025-04-18 05:34:21,998 - NewsResearchAgent - INFO - Cache de notícias salvo com 2395 entradas
+2025-04-18 05:34:22,001 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 356 entradas
+2025-04-18 05:34:22,002 - NewsResearchAgent - INFO - Notícia publicada: Esqueça os chats: agentes marcam a nova era da inteligência artificial generativa em ./categorias/economia/esqueca-os-chats-agentes-marcam-a-nova-era-da-inte-20250418053421.html
+2025-04-18 05:34:22,372 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 05:34:22,372 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-18 05:34:24,244 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-18 05:34:28,470 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-18 05:34:30,100 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-18 05:34:31,557 - NewsResearchAgent - INFO - Cache de notícias salvo com 2400 entradas
+2025-04-18 05:34:31,561 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 356 entradas
+2025-04-18 05:34:31,571 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria politica
+2025-04-18 05:44:01,237 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/mercado-imobiliario-20250418054401.jpg
+2025-04-18 05:44:01,237 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: MERCADO IMOBILIÁRIO
+2025-04-18 05:44:01,299 - NewsResearchAgent - INFO - Cache de notícias salvo com 2400 entradas
+2025-04-18 05:44:01,303 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 357 entradas
+2025-04-18 05:44:01,304 - NewsResearchAgent - INFO - Notícia publicada: MERCADO IMOBILIÁRIO em ./categorias/politica/mercado-imobiliario-20250418054401.html
+2025-04-18 05:44:01,710 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 05:44:01,710 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-18 05:44:08,165 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-18 05:44:08,853 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-18 05:44:10,354 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-18 05:44:10,607 - NewsResearchAgent - INFO - Cache de notícias salvo com 2404 entradas
+2025-04-18 05:44:10,610 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 357 entradas
+2025-04-18 05:44:10,624 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria tecnologia
+2025-04-18 05:53:40,569 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/vivo-total-tera-reajuste-de-ate-5-nos-planos-confi-20250418055340.jpg
+2025-04-18 05:53:40,569 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Vivo Total terá reajuste de até 5% nos planos; confira novos valores
+2025-04-18 05:53:40,637 - NewsResearchAgent - INFO - Cache de notícias salvo com 2404 entradas
+2025-04-18 05:53:40,641 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 358 entradas
+2025-04-18 05:53:40,641 - NewsResearchAgent - INFO - Notícia publicada: Vivo Total terá reajuste de até 5% nos planos; confira novos valores em ./categorias/tecnologia/vivo-total-tera-reajuste-de-ate-5-nos-planos-confi-20250418055340.html
+2025-04-18 05:53:41,128 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 05:53:41,128 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-18 05:53:46,084 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-18 05:53:46,257 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-18 05:53:54,827 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-18 05:53:56,469 - NewsResearchAgent - INFO - Cache de notícias salvo com 2409 entradas
+2025-04-18 05:53:56,473 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 358 entradas
+2025-04-18 05:53:56,487 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria entretenimento
+2025-04-18 06:03:19,801 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/morre-les-binks-exbaterista-do-judas-priest-aos-73-20250418060319.jpg
+2025-04-18 06:03:19,801 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Morre Les Binks, ex-baterista do Judas Priest, aos 73 anos
+2025-04-18 06:03:19,864 - NewsResearchAgent - INFO - Cache de notícias salvo com 2409 entradas
+2025-04-18 06:03:19,868 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 359 entradas
+2025-04-18 06:03:19,868 - NewsResearchAgent - INFO - Notícia publicada: Morre Les Binks, ex-baterista do Judas Priest, aos 73 anos em ./categorias/entretenimento/morre-les-binks-exbaterista-do-judas-priest-aos-73-20250418060319.html
+2025-04-18 06:03:20,400 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 06:03:20,400 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-18 06:03:23,069 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-18 06:03:23,797 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-18 06:03:27,328 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-18 06:03:27,667 - NewsResearchAgent - INFO - Cache de notícias salvo com 2410 entradas
+2025-04-18 06:03:27,671 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 359 entradas
+2025-04-18 06:03:27,681 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria curiosidades
+2025-04-18 06:12:54,866 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/anticoncepcional-masculino-sem-hormonios-e-testado-20250418061254.jpg
+2025-04-18 06:12:54,866 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Anticoncepcional masculino sem hormônios é testado em humanos
+2025-04-18 06:12:54,928 - NewsResearchAgent - INFO - Cache de notícias salvo com 2410 entradas
+2025-04-18 06:12:54,932 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 360 entradas
+2025-04-18 06:12:54,932 - NewsResearchAgent - INFO - Notícia publicada: Anticoncepcional masculino sem hormônios é testado em humanos em ./categorias/curiosidades/anticoncepcional-masculino-sem-hormonios-e-testado-20250418061254.html

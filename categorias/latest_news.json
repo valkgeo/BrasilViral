@@ -1,44 +1,44 @@
 {
   "esportes": {
-    "title": "bahia",
-    "summary": "A equipe do Bahia tem sido destaque em várias partidas recentes, com atuações notáveis de alguns de seus jogadores. Em uma das últimas partidas, Erick Pulga e Juba se destacaram, enquanto Willian José ainda busca melhorar seu desempenho. Em outra partida, Gabriel marcou um gol para os visitantes, e Erick Pulga empatou o jogo, deixando tudo igual.",
-    "timestamp": "2025-04-18T03:40:00",
-    "link": "categorias/esportes/bahia.html",
+    "title": "outros esportes",
+    "summary": "O mundo dos esportes tem sido palco de grandes conquistas e marcos históricos recentemente. Um dos principais destaques é o jogador russo Alexander Ovechkin, que conseguiu quebrar um recorde que durava 31 anos no hóquei. Ele se tornou o maior artilheiro da NHL, superando a marca de 894 gols do lendário Wayne Gretzky, considerado por muitos o melhor jogador da história do esporte.",
+    "timestamp": "2025-04-18T05:24:00",
+    "link": "categorias/esportes/outros-esportes.html",
     "image": "images/placeholder.jpg"
   },
   "economia": {
-    "title": "Chocolates, azeite e bacalhau mais caros deixam a Páscoa 2025 mais salgada",
-    "summary": "A Páscoa de 2025 promete ser mais salgada para as famílias que desejam celebrar com um almoço tradicional ou presentear com ovos de chocolate. Isso ocorre porque os principais itens consumidos durante a data comemorativa estão mais caros em comparação com o ano anterior.",
-    "timestamp": "2025-04-18T03:50:00",
-    "link": "categorias/economia/chocolates-azeite-e-bacalhau-mais-caros-deixam-a-p-scoa-2025-mais-salgada.html",
+    "title": "Esqueça os chats: agentes marcam a nova era da inteligência artificial generativa",
+    "summary": "A inteligência artificial generativa está passando por uma nova era, e os agentes são os principais responsáveis por essa mudança. De acordo com o Google Cloud, os agentes são sistemas inteligentes que demonstram raciocínio, planejamento, memória e a capacidade de usar ferramentas. Eles são capazes de pensar vários passos à frente, usar ferramentas, incluindo trabalhar com softwares e sistemas para realizar tarefas em nome do usuário e sob sua supervisão.",
+    "timestamp": "2025-04-18T05:34:00",
+    "link": "categorias/economia/esque-a-os-chats-agentes-marcam-a-nova-era-da-intelig-ncia-artificial-generativa.html",
     "image": "images/placeholder.jpg"
   },
   "politica": {
-    "title": "Em recuperação, Bolsonaro publica vídeo fazendo fisioterapia no hospital",
-    "summary": "O ex-presidente Jair Bolsonaro está se recuperando de uma cirurgia no intestino realizada no Hospital DF Star, em Brasília. A cirurgia foi necessária após ele passar mal durante uma agenda no Rio Grande do Norte, na última semana. Em Natal, exames de imagem detectaram uma obstrução intestinal decorrente da facada que o ex-presidente recebeu durante a campanha presidencial de 2018.",
-    "timestamp": "2025-04-18T03:59:00",
-    "link": "categorias/politica/em-recupera-o-bolsonaro-publica-v-deo-fazendo-fisioterapia-no-hospital.html",
+    "title": "MERCADO IMOBILIÁRIO",
+    "summary": "O mercado imobiliário de Goiânia tem apresentado uma tendência positiva nos últimos tempos, com um aumento significativo no número de lançamentos de imóveis. De acordo com uma pesquisa realizada pela Ademi, em 2018, foram lançadas 4.567 unidades, enquanto de janeiro a setembro deste ano, o número já alcançou 4.779. Essa alta é um indicador de que o setor está em expansão e que as construtoras e incorporadoras estão investindo em novos empreendimentos residenciais.",
+    "timestamp": "2025-04-18T05:44:00",
+    "link": "categorias/politica/mercado-imobili-rio.html",
     "image": "images/placeholder.jpg"
   },
   "tecnologia": {
-    "title": "Ofertas do dia: até 31% off em smartphones Samsung Galaxy!",
-    "summary": "Os amantes de tecnologia têm uma grande oportunidade para adquirir um smartphone Samsung Galaxy com descontos atraentes. Até 31% de desconto estão sendo oferecidos em alguns dos melhores modelos da marca, que são conhecidos por sua tecnologia de ponta e estilo inovador. Essa é uma chance única para quem está procurando por um dispositivo de alta qualidade sem gastar muito.",
-    "timestamp": "2025-04-18T04:09:00",
-    "link": "categorias/tecnologia/ofertas-do-dia-at-31-off-em-smartphones-samsung-galaxy.html",
+    "title": "Vivo Total terá reajuste de até 5% nos planos; confira novos valores",
+    "summary": "A Vivo está comunicando a seus clientes que os planos do Vivo Total sofrerão um aumento de até 5% a partir deste mês de abril. Os reajustes, que variam de R$ 5 a R$ 6, afetarão pelo menos sete planos. O Vivo Total é um plano que combina os serviços de fibra, ou seja, internet residencial, e pós-pago, que é a internet móvel.",
+    "timestamp": "2025-04-18T05:53:00",
+    "link": "categorias/tecnologia/vivo-total-ter-reajuste-de-at-5-nos-planos-confira-novos-valores.html",
     "image": "images/placeholder.jpg"
   },
   "entretenimento": {
-    "title": "BBB 25 | Quem já foi eliminado da edição?",
-    "summary": "O Big Brother Brasil 25 começou no dia 13 de janeiro com um total de 24 participantes. Pela primeira vez, as inscrições foram feitas em duplas, assim como as duas primeiras eliminações. Essa novidade trouxe um toque especial para a edição, que já está mostrando ser cheia de surpresas.",
-    "timestamp": "2025-04-18T04:19:00",
-    "link": "categorias/entretenimento/bbb-25-quem-j-foi-eliminado-da-edi-o.html",
+    "title": "Morre Les Binks, ex-baterista do Judas Priest, aos 73 anos",
+    "summary": "Les Binks, ex-baterista do Judas Priest, faleceu aos 73 anos. James Leslie Binks, como era conhecido seu nome completo, integrou a banda britânica entre 1977 e 1979, período em que participou de dois álbuns de estúdio da era clássica do heavy metal: \"Stained Class\" e \"Killing Machine\", lançados em 1978.",
+    "timestamp": "2025-04-18T06:03:00",
+    "link": "categorias/entretenimento/morre-les-binks-ex-baterista-do-judas-priest-aos-73-anos.html",
     "image": "images/placeholder.jpg"
   },
   "curiosidades": {
-    "title": "Buraco negro enorme acorda e astrônomos observam surgir evento explosivo inédito",
-    "summary": "Um buraco negro supermassivo localizado no centro da galáxia SDSS1335+0728, a 300 milhões de anos-luz do Sistema Solar, pode ter acordado de seu sono. Esse gigante, que possui mais de um bilhão de massas solares, estava em uma fase \"dormente\" até que cientistas detectaram sinais de atividade em 2019. Os primeiros sinais de atividade foram detectados por meio de vários observatórios espaciais e terrestres, que registraram eventos luminosos e flashes de raios X inéditos.",
-    "timestamp": "2025-04-18T04:28:00",
-    "link": "categorias/curiosidades/buraco-negro-enorme-acorda-e-astr-nomos-observam-surgir-evento-explosivo-in-dito.html",
+    "title": "Anticoncepcional masculino sem hormônios é testado em humanos",
+    "summary": "Uma nova opção de anticoncepcional masculino sem hormônios está sendo testada em humanos, o que pode mudar o cenário atual em que as opções para os homens que não desejam ter filhos são restritas à vasectomia e ao uso de preservativos. Atualmente, existem diversas opções de anticoncepcionais para mulheres, mas as alternativas hormonais para homens geralmente têm efeitos colaterais, como ganho de peso, depressão e alterações metabólicas, o que tem impedido o desenvolvimento de soluções anticoncepcionais para homens.",
+    "timestamp": "2025-04-18T06:12:00",
+    "link": "categorias/curiosidades/anticoncepcional-masculino-sem-horm-nios-testado-em-humanos.html",
     "image": "images/placeholder.jpg"
   }
 }

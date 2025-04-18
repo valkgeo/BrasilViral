@@ -2830,5 +2830,53 @@
     "filepath": "./categorias/curiosidades/buraco-negro-enorme-acorda-e-astronomos-observam-s-20250418042850.html",
     "url_path": "categorias/curiosidades/buraco-negro-enorme-acorda-e-astronomos-observam-s-20250418042850.html",
     "publish_timestamp": "2025-04-18T04:28:50.460119"
+  },
+  "b232693d7f32dc2c7f9c0c8d9a9c0d4e": {
+    "title": "outros esportes",
+    "category": "esportes",
+    "source_url": "https://ge.globo.com/outros-esportes/",
+    "filepath": "./categorias/esportes/outros-esportes-20250418052440.html",
+    "url_path": "categorias/esportes/outros-esportes-20250418052440.html",
+    "publish_timestamp": "2025-04-18T05:24:40.530389"
+  },
+  "2e96173804c58f10424f1928cd7b345f": {
+    "title": "Esqueça os chats: agentes marcam a nova era da inteligência artificial generativa",
+    "category": "economia",
+    "source_url": "https://www.infomoney.com.br/business/esqueca-os-chats-agentes-marcam-a-nova-era-da-inteligencia-artificial-generativa/",
+    "filepath": "./categorias/economia/esqueca-os-chats-agentes-marcam-a-nova-era-da-inte-20250418053421.html",
+    "url_path": "categorias/economia/esqueca-os-chats-agentes-marcam-a-nova-era-da-inte-20250418053421.html",
+    "publish_timestamp": "2025-04-18T05:34:21.937512"
+  },
+  "9b01ed2a097d8bf8de3aec5026d5b52d": {
+    "title": "MERCADO IMOBILIÁRIO",
+    "category": "politica",
+    "source_url": "https://g1.globo.com/go/goias/mercado-imobiliario/",
+    "filepath": "./categorias/politica/mercado-imobiliario-20250418054401.html",
+    "url_path": "categorias/politica/mercado-imobiliario-20250418054401.html",
+    "publish_timestamp": "2025-04-18T05:44:01.238231"
+  },
+  "3044cddb6ce5630b3107806c959e876b": {
+    "title": "Vivo Total terá reajuste de até 5% nos planos; confira novos valores",
+    "category": "tecnologia",
+    "source_url": "https://www.tecmundo.com.br/mercado/404067-vivo-total-tera-reajuste-de-ate-5-nos-planos-confira-novos-valores.htm",
+    "filepath": "./categorias/tecnologia/vivo-total-tera-reajuste-de-ate-5-nos-planos-confi-20250418055340.html",
+    "url_path": "categorias/tecnologia/vivo-total-tera-reajuste-de-ate-5-nos-planos-confi-20250418055340.html",
+    "publish_timestamp": "2025-04-18T05:53:40.570245"
+  },
+  "95ed810efa09b673dbbc6b4da2cd3774": {
+    "title": "Morre Les Binks, ex-baterista do Judas Priest, aos 73 anos",
+    "category": "entretenimento",
+    "source_url": "https://www.uol.com.br/splash/noticias/2025/04/15/morre-les-binks-ex-baterista-do-judas-priest-aos-73-anos.htm",
+    "filepath": "./categorias/entretenimento/morre-les-binks-exbaterista-do-judas-priest-aos-73-20250418060319.html",
+    "url_path": "categorias/entretenimento/morre-les-binks-exbaterista-do-judas-priest-aos-73-20250418060319.html",
+    "publish_timestamp": "2025-04-18T06:03:19.802229"
+  },
+  "709388fc61b0cd7c33ed3e074cbb7288": {
+    "title": "Anticoncepcional masculino sem hormônios é testado em humanos",
+    "category": "curiosidades",
+    "source_url": "https://super.abril.com.br/saude/anticoncepcional-masculino-sem-hormonios-e-testado-em-humanos-pela-primeira-vez/",
+    "filepath": "./categorias/curiosidades/anticoncepcional-masculino-sem-hormonios-e-testado-20250418061254.html",
+    "url_path": "categorias/curiosidades/anticoncepcional-masculino-sem-hormonios-e-testado-20250418061254.html",
+    "publish_timestamp": "2025-04-18T06:12:54.866979"
   }
 }

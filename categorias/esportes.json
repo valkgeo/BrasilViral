@@ -1,5 +1,19 @@
 [
   {
+    "title": "outros esportes",
+    "summary": "O mundo dos esportes tem sido palco de grandes conquistas e marcos históricos recentemente. Um dos principais destaques é o jogador russo Alexander Ovechkin, que conseguiu quebrar um recorde que durava 31 anos no hóquei. Ele se tornou o maior artilheiro da NHL, superando a marca de 894 gols do lendário Wayne Gretzky, considerado por muitos o melhor jogador da história do esporte.",
+    "timestamp": "2025-04-18T05:24:00",
+    "link": "categorias/esportes/outros-esportes.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "title": "Exemplo de notícia de esportes",
+    "summary": "Este é um exemplo de notícia esportiva. Aqui você encontrará as últimas informações sobre competições, resultados de jogos, transferências de jogadores e muito mais. O BrasilViral traz cobertura completa dos principais eventos esportivos nacionais e internacionais. esportes.",
+    "timestamp": "2025-04-18T05:12:57.047280",
+    "link": "categorias/esportes/exemplo-de-not-cia-de-esportes.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "bahia",
     "summary": "A equipe do Bahia tem sido destaque em várias partidas recentes, com atuações notáveis de alguns de seus jogadores. Em uma das últimas partidas, Erick Pulga e Juba se destacaram, enquanto Willian José ainda busca melhorar seu desempenho. Em outra partida, Gabriel marcou um gol para os visitantes, e Erick Pulga empatou o jogo, deixando tudo igual.",
     "timestamp": "2025-04-18T03:40:00",
@@ -7,24 +21,10 @@
     "image": "images/placeholder.jpg"
   },
   {
-    "title": "Exemplo de notícia de esportes",
-    "summary": "Este é um exemplo de notícia esportiva. Aqui você encontrará as últimas informações sobre competições, resultados de jogos, transferências de jogadores e muito mais. O BrasilViral traz cobertura completa dos principais eventos esportivos nacionais e internacionais. esportes.",
-    "timestamp": "2025-04-18T03:28:39.037768",
-    "link": "categorias/esportes/exemplo-de-not-cia-de-esportes.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
     "title": "“E o Oscar dos Esportes vai para…”",
     "summary": "A cerimônia de premiação do Laureus, considerada o \"Oscar dos Esportes\", está próxima e promete ser um evento emocionante. A nossa maior medalhista olímpica, a ginasta Rebeca Andrade, que conquistou 6 medalhas olímpicas, incluindo 2 ouros, é uma das concorrentes na categoria \"Retorno do Ano\", com grandes chances de vitória.",
     "timestamp": "2025-04-18T02:36:00",
     "link": "categorias/esportes/e-o-oscar-dos-esportes-vai-para.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "tabela | liga europa | ge | liga europa | ge",
-    "summary": "A Liga Europa está a todo vapor, com times importantes disputando vagas nas semifinais. Nesse contexto, o Tottenham conseguiu uma importante vitória sobre o Eintracht Frankfurt, garantindo sua classificação para a próxima fase da competição. O jogo foi decidido por um gol de Solanke, que cobrou um pênalti com precisão, dando a vitória ao time inglês na Alemanha.",
-    "timestamp": "2025-04-18T01:10:00",
-    "link": "categorias/esportes/tabela-liga-europa-ge-liga-europa-ge.html",
     "image": "images/placeholder.jpg"
   }
 ]
