@@ -1,44 +1,44 @@
 {
   "esportes": {
-    "title": "Quer emagrecer? VivaBem conta para você as melhores e piores dietas",
-    "summary": "Quer emagrecer? É comum que as pessoas façam essa promessa no início de cada ano, mas logo se perdem diante da vasta oferta de dietas disponíveis. A falta de orientação médica é um dos principais motivos que levam as pessoas a escolher dietas que não são saudáveis ou que não trazem resultados duradouros. Além disso, a maioria das dietas se torna uma mudança temporária, e ao voltar à vida de antes, é normal recuperar o peso anterior.",
-    "timestamp": "2025-04-18T08:28:00",
-    "link": "categorias/esportes/quer-emagrecer-vivabem-conta-para-voc-as-melhores-e-piores-dietas.html",
+    "title": "Exemplo de notícia de esportes",
+    "summary": "Este é um exemplo de notícia esportiva. Aqui você encontrará as últimas informações sobre competições, resultados de jogos, transferências de jogadores e muito mais. O BrasilViral traz cobertura completa dos principais eventos esportivos nacionais e internacionais. esportes.",
+    "timestamp": "2025-04-18T11:10:22.190267",
+    "link": "categorias/esportes/exemplo-de-not-cia-de-esportes.html",
     "image": "images/placeholder.jpg"
   },
   "economia": {
-    "title": "Ebook Imposto de Renda 2025 | InfoMoney",
-    "summary": "A declaração de imposto de renda é uma obrigação anual para muitos brasileiros, e quando se trata de investimentos, o processo pode se tornar ainda mais complexo. No entanto, com as informações certas, é possível evitar erros e garantir a conformidade com a Receita Federal. Um guia completo sobre como declarar investimentos de forma simples e correta pode ser fundamental para quem busca evitar problemas fiscais.",
-    "timestamp": "2025-04-18T08:38:00",
-    "link": "categorias/economia/ebook-imposto-de-renda-2025-infomoney.html",
+    "title": "{{TITULO}}",
+    "summary": "",
+    "timestamp": "2025-04-18T11:10:22.183266",
+    "link": "categorias/economia/titulo.html",
     "image": "images/placeholder.jpg"
   },
   "politica": {
-    "title": "VC no g1: como entrar em contato, enviar vídeos, fotos e mensagens",
-    "summary": "Para entrar em contato com o g1 e enviar vídeos, fotos e mensagens, é possível utilizar os canais de comunicação disponíveis para cada estado e região. Além disso, também é possível contatar as páginas dos telejornais da TV Globo.",
-    "timestamp": "2025-04-18T08:47:00",
-    "link": "categorias/politica/vc-no-g1-como-entrar-em-contato-enviar-v-deos-fotos-e-mensagens.html",
+    "title": "Exemplo de notícia de politica",
+    "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
+    "timestamp": "2025-04-18T11:10:22.194267",
+    "link": "categorias/politica/exemplo-de-not-cia-de-politica.html",
     "image": "images/placeholder.jpg"
   },
   "tecnologia": {
-    "title": "Review T-Force Z540 | SSD absurdamente rápido para usuários muito exigentes",
-    "summary": "O novo SSD T-Force Z540, lançado pelo TeamGroup, promete revolucionar o armazenamento de alta performance, alcançando velocidades impressionantes de 12.400 MB/s. Equipado com componentes premium, como o controlador Phison E26 e memórias NAND flash da Micron, este SSD PCIe 5.0 oferece um desempenho excepcional para usuários muito exigentes. No entanto, ele enfrenta os mesmos desafios de seus concorrentes, como as altas temperaturas de operação e o preço elevado.",
-    "timestamp": "2025-04-18T08:57:00",
-    "link": "categorias/tecnologia/review-t-force-z540-ssd-absurdamente-r-pido-para-usu-rios-muito-exigentes.html",
+    "title": "Exemplo de notícia de tecnologia",
+    "summary": "Este é um exemplo de notícia tecnológica. Aqui você encontrará informações sobre lançamentos de produtos, inovações tecnológicas, tendências digitais e avanços científicos. O BrasilViral traz as novidades mais recentes do mundo da tecnologia. tecnologia.",
+    "timestamp": "2025-04-18T11:10:22.197267",
+    "link": "categorias/tecnologia/exemplo-de-not-cia-de-tecnologia.html",
     "image": "images/placeholder.jpg"
   },
   "entretenimento": {
-    "title": "Premonição 6 | Novo teaser prepara terreno para a estreia",
-    "summary": "A franquia de terror Premonição está prestes a ganhar um novo capítulo, intitulado Premonição 6: Laços de Sangue. Com a estreia marcada para dentro de um mês, um novo teaser foi lançado, preparando o terreno para o que promete ser um filme emocionante. Embora o teaser seja curto, ele revela uma pista importante sobre a trama, mostrando como um dos personagens vai morrer.",
-    "timestamp": "2025-04-18T09:07:00",
-    "link": "categorias/entretenimento/premoni-o-6-novo-teaser-prepara-terreno-para-a-estreia.html",
+    "title": "Exemplo de notícia de entretenimento",
+    "summary": "Este é um exemplo de notícia de entretenimento. Aqui você encontrará informações sobre cinema, música, celebridades, eventos culturais e lançamentos de streaming. O BrasilViral traz as novidades mais quentes do mundo do entretenimento. entretenimento.",
+    "timestamp": "2025-04-18T11:10:22.187267",
+    "link": "categorias/entretenimento/exemplo-de-not-cia-de-entretenimento.html",
     "image": "images/placeholder.jpg"
   },
   "curiosidades": {
-    "title": "As origens biológicas da fé: por que o ser humano é religioso?",
-    "summary": "O rochedo de Gibraltar, localizado no extremo sul da Espanha, e o monte Muça, situado no extremo norte do Marrocos, são duas formações geológicas litorâneas que se destacam por sua beleza natural. O rochedo de Gibraltar tem 472 metros de altura, enquanto o monte Muça alcança 851 metros. Essas duas montanhas são separadas por uma faixa de apenas 13 km de mar, conhecida como o estreito de Gibraltar. Juntos, elas são conhecidas como Pilares de Hércules, um nome que reflete a grandiosidade da região.",
-    "timestamp": "2025-04-18T09:16:00",
-    "link": "categorias/curiosidades/as-origens-biol-gicas-da-f-por-que-o-ser-humano-religioso.html",
+    "title": "Exemplo de notícia de curiosidades",
+    "summary": "Este é um exemplo de notícia de curiosidades. Aqui você encontrará fatos interessantes, descobertas científicas, histórias inusitadas e fenômenos surpreendentes. O BrasilViral traz conteúdo que vai expandir seus conhecimentos e surpreender você. curiosidades.",
+    "timestamp": "2025-04-18T11:10:22.179266",
+    "link": "categorias/curiosidades/exemplo-de-not-cia-de-curiosidades.html",
     "image": "images/placeholder.jpg"
   }
 }

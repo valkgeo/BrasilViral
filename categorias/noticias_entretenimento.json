@@ -1,18 +1,18 @@
 [
   {
+    "title": "Exemplo de notícia de entretenimento",
+    "summary": "Este é um exemplo de notícia de entretenimento. Aqui você encontrará informações sobre cinema, música, celebridades, eventos culturais e lançamentos de streaming. O BrasilViral traz as novidades mais quentes do mundo do entretenimento. entretenimento.",
+    "timestamp": "2025-04-18T11:10:22.187267",
+    "link": "categorias/entretenimento/exemplo_entretenimento.html",
+    "image": "{{IMAGEM_URL}}",
+    "category": "entretenimento"
+  },
+  {
     "title": "Premonição 6 | Novo teaser prepara terreno para a estreia",
     "summary": "A franquia de terror Premonição está prestes a ganhar um novo capítulo, intitulado Premonição 6: Laços de Sangue. Com a estreia marcada para dentro de um mês, um novo teaser foi lançado, preparando o terreno para o que promete ser um filme emocionante. Embora o teaser seja curto, ele revela uma pista importante sobre a trama, mostrando como um dos personagens vai morrer.",
     "timestamp": "2025-04-18T09:07:00",
     "link": "categorias/entretenimento/premonicao-6-novo-teaser-prepara-terreno-para-a-es-20250418090715.html",
     "image": "../../images/entretenimento/premonicao-6-novo-teaser-prepara-terreno-para-a-es-20250418090715.jpg",
-    "category": "entretenimento"
-  },
-  {
-    "title": "Exemplo de notícia de entretenimento",
-    "summary": "Este é um exemplo de notícia de entretenimento. Aqui você encontrará informações sobre cinema, música, celebridades, eventos culturais e lançamentos de streaming. O BrasilViral traz as novidades mais quentes do mundo do entretenimento. entretenimento.",
-    "timestamp": "2025-04-18T08:16:29.720824",
-    "link": "categorias/entretenimento/exemplo_entretenimento.html",
-    "image": "{{IMAGEM_URL}}",
     "category": "entretenimento"
   },
   {

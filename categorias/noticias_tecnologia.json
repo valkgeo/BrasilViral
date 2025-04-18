@@ -1,18 +1,18 @@
 [
   {
+    "title": "Exemplo de notícia de tecnologia",
+    "summary": "Este é um exemplo de notícia tecnológica. Aqui você encontrará informações sobre lançamentos de produtos, inovações tecnológicas, tendências digitais e avanços científicos. O BrasilViral traz as novidades mais recentes do mundo da tecnologia. tecnologia.",
+    "timestamp": "2025-04-18T11:10:22.197267",
+    "link": "categorias/tecnologia/exemplo_tecnologia.html",
+    "image": "{{IMAGEM_URL}}",
+    "category": "tecnologia"
+  },
+  {
     "title": "Review T-Force Z540 | SSD absurdamente rápido para usuários muito exigentes",
     "summary": "O novo SSD T-Force Z540, lançado pelo TeamGroup, promete revolucionar o armazenamento de alta performance, alcançando velocidades impressionantes de 12.400 MB/s. Equipado com componentes premium, como o controlador Phison E26 e memórias NAND flash da Micron, este SSD PCIe 5.0 oferece um desempenho excepcional para usuários muito exigentes. No entanto, ele enfrenta os mesmos desafios de seus concorrentes, como as altas temperaturas de operação e o preço elevado.",
     "timestamp": "2025-04-18T08:57:00",
     "link": "categorias/tecnologia/review-tforce-z540-ssd-absurdamente-rapido-para-us-20250418085737.html",
     "image": "../../images/tecnologia/review-tforce-z540-ssd-absurdamente-rapido-para-us-20250418085737.jpg",
-    "category": "tecnologia"
-  },
-  {
-    "title": "Exemplo de notícia de tecnologia",
-    "summary": "Este é um exemplo de notícia tecnológica. Aqui você encontrará informações sobre lançamentos de produtos, inovações tecnológicas, tendências digitais e avanços científicos. O BrasilViral traz as novidades mais recentes do mundo da tecnologia. tecnologia.",
-    "timestamp": "2025-04-18T08:16:29.730824",
-    "link": "categorias/tecnologia/exemplo_tecnologia.html",
-    "image": "{{IMAGEM_URL}}",
     "category": "tecnologia"
   },
   {
