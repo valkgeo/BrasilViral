@@ -4600,3 +4600,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-18 01:58:45,722 - NewsResearchAgent - INFO - Cache de notícias salvo com 2337 entradas
 2025-04-18 01:58:45,726 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 342 entradas
 2025-04-18 01:58:45,726 - NewsResearchAgent - INFO - Notícia publicada: Podcast Terapia #6: Sono: por que nunca dormimos tão mal em ./categorias/curiosidades/podcast-terapia-6-sono-por-que-nunca-dormimos-tao--20250418015845.html
+2025-04-18 02:26:56,167 - NewsResearchAgent - INFO - Cache de notícias carregado com 2337 entradas
+2025-04-18 02:26:56,170 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 342 entradas
+2025-04-18 02:27:14,280 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 02:27:14,280 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-18 02:27:17,181 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-18 02:27:18,650 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-18 02:27:19,377 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-18 02:27:23,435 - NewsResearchAgent - INFO - Cache de notícias salvo com 2343 entradas
+2025-04-18 02:27:23,439 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 342 entradas
+2025-04-18 02:27:23,450 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria esportes
+2025-04-18 02:36:51,172 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/e-o-oscar-dos-esportes-vai-para-20250418023651.jpg
+2025-04-18 02:36:51,172 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: “E o Oscar dos Esportes vai para…”
+2025-04-18 02:36:51,234 - NewsResearchAgent - INFO - Cache de notícias salvo com 2343 entradas
+2025-04-18 02:36:51,239 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 343 entradas
+2025-04-18 02:36:51,239 - NewsResearchAgent - INFO - Notícia publicada: “E o Oscar dos Esportes vai para…” em ./categorias/esportes/e-o-oscar-dos-esportes-vai-para-20250418023651.html
+2025-04-18 02:36:52,231 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 02:36:52,231 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-18 02:36:54,902 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-18 02:37:00,117 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-18 02:37:00,728 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-18 02:37:00,877 - NewsResearchAgent - INFO - Cache de notícias salvo com 2348 entradas
+2025-04-18 02:37:00,881 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 343 entradas
+2025-04-18 02:37:00,890 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria economia
+2025-04-18 02:46:33,026 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/titulos-de-renda-fixa-seguem-como-os-queridinhos-p-20250418024633.jpg
+2025-04-18 02:46:33,026 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Títulos de Renda fixa seguem como os queridinhos para investir em maio
+2025-04-18 02:46:33,085 - NewsResearchAgent - INFO - Cache de notícias salvo com 2348 entradas
+2025-04-18 02:46:33,089 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 344 entradas
+2025-04-18 02:46:33,089 - NewsResearchAgent - INFO - Notícia publicada: Títulos de Renda fixa seguem como os queridinhos para investir em maio em ./categorias/economia/titulos-de-renda-fixa-seguem-como-os-queridinhos-p-20250418024633.html
+2025-04-18 02:46:33,471 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 02:46:33,471 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-18 02:46:37,084 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-18 02:46:40,403 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-18 02:46:41,014 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-18 02:46:41,669 - NewsResearchAgent - INFO - Cache de notícias salvo com 2353 entradas
+2025-04-18 02:46:41,673 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 344 entradas
+2025-04-18 02:46:41,685 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria politica
+2025-04-18 02:56:12,049 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/o-que-fazer-em-sao-paulo-20250418025612.jpg
+2025-04-18 02:56:12,049 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: O que fazer em São Paulo
+2025-04-18 02:56:12,109 - NewsResearchAgent - INFO - Cache de notícias salvo com 2353 entradas
+2025-04-18 02:56:12,113 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 345 entradas
+2025-04-18 02:56:12,113 - NewsResearchAgent - INFO - Notícia publicada: O que fazer em São Paulo em ./categorias/politica/o-que-fazer-em-sao-paulo-20250418025612.html
+2025-04-18 02:56:12,490 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 02:56:12,490 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-18 02:56:12,786 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-18 02:56:13,956 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-18 02:56:14,752 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-18 02:56:15,495 - NewsResearchAgent - INFO - Cache de notícias salvo com 2358 entradas
+2025-04-18 02:56:15,498 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 345 entradas
+2025-04-18 02:56:15,509 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria tecnologia
+2025-04-18 03:05:48,510 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/por-que-os-avioes-da-boeing-comecam-e-terminam-com-20250418030548.jpg
+2025-04-18 03:05:48,510 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Por que os aviões da Boeing começam e terminam com 7?
+2025-04-18 03:05:48,570 - NewsResearchAgent - INFO - Cache de notícias salvo com 2358 entradas
+2025-04-18 03:05:48,574 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 346 entradas
+2025-04-18 03:05:48,574 - NewsResearchAgent - INFO - Notícia publicada: Por que os aviões da Boeing começam e terminam com 7? em ./categorias/tecnologia/por-que-os-avioes-da-boeing-comecam-e-terminam-com-20250418030548.html
+2025-04-18 03:05:48,931 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 03:05:48,931 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-18 03:05:50,164 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-18 03:05:50,353 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-18 03:05:54,519 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-18 03:05:56,125 - NewsResearchAgent - INFO - Cache de notícias salvo com 2360 entradas
+2025-04-18 03:05:56,128 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 346 entradas
+2025-04-18 03:05:56,144 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria entretenimento
+2025-04-18 03:15:31,964 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/spotify-fora-do-ar-servico-diz-que-nao-foi-hackead-20250418031531.jpg
+2025-04-18 03:15:31,964 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Spotify Fora do Ar | Serviço diz que não foi hackeado
+2025-04-18 03:15:32,024 - NewsResearchAgent - INFO - Cache de notícias salvo com 2360 entradas
+2025-04-18 03:15:32,028 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 347 entradas
+2025-04-18 03:15:32,028 - NewsResearchAgent - INFO - Notícia publicada: Spotify Fora do Ar | Serviço diz que não foi hackeado em ./categorias/entretenimento/spotify-fora-do-ar-servico-diz-que-nao-foi-hackead-20250418031531.html
+2025-04-18 03:15:32,510 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 03:15:32,511 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-18 03:15:35,020 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-18 03:15:35,289 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-18 03:15:36,628 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-18 03:15:36,898 - NewsResearchAgent - INFO - Cache de notícias salvo com 2362 entradas
+2025-04-18 03:15:36,902 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 347 entradas
+2025-04-18 03:15:36,913 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria curiosidades
+2025-04-18 03:25:10,748 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/a-volta-de-three-mile-island-20250418032510.jpg
+2025-04-18 03:25:10,748 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: A volta de Three Mile Island
+2025-04-18 03:25:10,809 - NewsResearchAgent - INFO - Cache de notícias salvo com 2362 entradas
+2025-04-18 03:25:10,812 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 348 entradas
+2025-04-18 03:25:10,812 - NewsResearchAgent - INFO - Notícia publicada: A volta de Three Mile Island em ./categorias/curiosidades/a-volta-de-three-mile-island-20250418032510.html

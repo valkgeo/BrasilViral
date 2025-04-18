@@ -1,5 +1,19 @@
 [
   {
+    "title": "A volta de Three Mile Island",
+    "summary": "A Central Nuclear de Three Mile Island, localizada na Pensilvânia, nos Estados Unidos, foi palco de um acidente nuclear grave em 1979. No entanto, recentemente, a companhia americana Constellation Energy, operadora da usina, anunciou planos para reativar o reator 2, que foi desativado após o acidente.",
+    "timestamp": "2025-04-18T03:25:00",
+    "link": "categorias/curiosidades/a-volta-de-three-mile-island.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "title": "Exemplo de notícia de curiosidades",
+    "summary": "Este é um exemplo de notícia de curiosidades. Aqui você encontrará fatos interessantes, descobertas científicas, histórias inusitadas e fenômenos surpreendentes. O BrasilViral traz conteúdo que vai expandir seus conhecimentos e surpreender você. curiosidades.",
+    "timestamp": "2025-04-18T02:25:15.194334",
+    "link": "categorias/curiosidades/exemplo-de-not-cia-de-curiosidades.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "Podcast Terapia #6: Sono: por que nunca dormimos tão mal",
     "summary": "A qualidade do sono dos brasileiros tem sido um tema de grande preocupação nos últimos anos. De acordo com uma pesquisa realizada pelo Instituto do Sono de São Paulo, os brasileiros estão dormindo, em média, 1 hora e 30 minutos a menos do que na década de 1990, chegando a apenas 6 horas e 30 minutos por noite. Essa redução no tempo de sono é um problema grave, afetando mais de 70 milhões de brasileiros, que apresentam algum grau de insônia, com muitos dormindo apenas 4 horas por noite.",
     "timestamp": "2025-04-18T01:58:00",
@@ -7,24 +21,10 @@
     "image": "images/placeholder.jpg"
   },
   {
-    "title": "Exemplo de notícia de curiosidades",
-    "summary": "Este é um exemplo de notícia de curiosidades. Aqui você encontrará fatos interessantes, descobertas científicas, histórias inusitadas e fenômenos surpreendentes. O BrasilViral traz conteúdo que vai expandir seus conhecimentos e surpreender você. curiosidades.",
-    "timestamp": "2025-04-18T00:58:50.535393",
-    "link": "categorias/curiosidades/exemplo-de-not-cia-de-curiosidades.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
     "title": "Quem são os maiores produtores e consumidores de cacau do mundo?",
     "summary": "Quem são os maiores produtores e consumidores de cacau do mundo",
     "timestamp": "2025-04-18T00:11:00",
     "link": "categorias/curiosidades/quem-s-o-os-maiores-produtores-e-consumidores-de-cacau-do-mundo.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "Por que havia mais animais gigantes na pré-história?",
-    "summary": "A pergunta que muitos se fazem é por que não existem mais tantos animais terrestres de grande porte, como era comum na pré-história. É importante notar que essa observação não se aplica à biologia marinha, onde a baleia-azul é o maior animal que já existiu, de acordo com o registro fóssil.",
-    "timestamp": "2025-04-17T23:11:00",
-    "link": "categorias/curiosidades/por-que-havia-mais-animais-gigantes-na-pr-hist-ria.html",
     "image": "images/placeholder.jpg"
   }
 ]
