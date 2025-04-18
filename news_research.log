@@ -4520,3 +4520,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-18 00:11:50,613 - NewsResearchAgent - INFO - Cache de notícias salvo com 2311 entradas
 2025-04-18 00:11:50,616 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 336 entradas
 2025-04-18 00:11:50,617 - NewsResearchAgent - INFO - Notícia publicada: Quem são os maiores produtores e consumidores de cacau do mundo? em ./categorias/curiosidades/quem-sao-os-maiores-produtores-e-consumidores-de-c-20250418001150.html
+2025-04-18 01:00:31,811 - NewsResearchAgent - INFO - Cache de notícias carregado com 2311 entradas
+2025-04-18 01:00:31,813 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 336 entradas
+2025-04-18 01:00:49,272 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 01:00:49,272 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-18 01:00:55,139 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-18 01:00:56,837 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-18 01:00:57,734 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-18 01:01:04,670 - NewsResearchAgent - INFO - Cache de notícias salvo com 2320 entradas
+2025-04-18 01:01:04,674 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 336 entradas
+2025-04-18 01:01:04,687 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria esportes
+2025-04-18 01:10:31,165 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/tabela-liga-europa-ge-liga-europa-ge-20250418011031.jpg
+2025-04-18 01:10:31,165 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: tabela | liga europa | ge | liga europa | ge
+2025-04-18 01:10:31,228 - NewsResearchAgent - INFO - Cache de notícias salvo com 2320 entradas
+2025-04-18 01:10:31,232 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 337 entradas
+2025-04-18 01:10:31,232 - NewsResearchAgent - INFO - Notícia publicada: tabela | liga europa | ge | liga europa | ge em ./categorias/esportes/tabela-liga-europa-ge-liga-europa-ge-20250418011031.html
+2025-04-18 01:10:31,614 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 01:10:31,614 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-18 01:10:37,611 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-18 01:10:39,124 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-18 01:10:39,968 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-18 01:10:40,077 - NewsResearchAgent - INFO - Cache de notícias salvo com 2322 entradas
+2025-04-18 01:10:40,081 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 337 entradas
+2025-04-18 01:10:40,090 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria economia
+2025-04-18 01:20:10,549 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/quanto-investir-em-cdb-para-receber-r-5-mil-por-me-20250418012010.jpg
+2025-04-18 01:20:10,549 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Quanto investir em CDB para receber R$ 5 mil por mês para o resto da vida?
+2025-04-18 01:20:10,609 - NewsResearchAgent - INFO - Cache de notícias salvo com 2322 entradas
+2025-04-18 01:20:10,613 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 338 entradas
+2025-04-18 01:20:10,613 - NewsResearchAgent - INFO - Notícia publicada: Quanto investir em CDB para receber R$ 5 mil por mês para o resto da vida? em ./categorias/economia/quanto-investir-em-cdb-para-receber-r-5-mil-por-me-20250418012010.html
+2025-04-18 01:20:10,862 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 01:20:10,862 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-18 01:20:12,330 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-18 01:20:16,821 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-18 01:20:17,390 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-18 01:20:18,280 - NewsResearchAgent - INFO - Cache de notícias salvo com 2327 entradas
+2025-04-18 01:20:18,284 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 338 entradas
+2025-04-18 01:20:18,296 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria politica
+2025-04-18 01:29:46,151 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/presidente-da-camara-de-sp-propoe-cota-para-veread-20250418012946.jpg
+2025-04-18 01:29:46,152 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Presidente da Câmara de SP propõe 'cota' para vereadoras chefiarem a Casa
+2025-04-18 01:29:46,212 - NewsResearchAgent - INFO - Cache de notícias salvo com 2327 entradas
+2025-04-18 01:29:46,215 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 339 entradas
+2025-04-18 01:29:46,216 - NewsResearchAgent - INFO - Notícia publicada: Presidente da Câmara de SP propõe 'cota' para vereadoras chefiarem a Casa em ./categorias/politica/presidente-da-camara-de-sp-propoe-cota-para-veread-20250418012946.html
+2025-04-18 01:29:46,797 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 01:29:46,797 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-18 01:29:49,182 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-18 01:29:49,956 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-18 01:29:51,443 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-18 01:29:52,203 - NewsResearchAgent - INFO - Cache de notícias salvo com 2330 entradas
+2025-04-18 01:29:52,207 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 339 entradas
+2025-04-18 01:29:52,218 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria tecnologia
+2025-04-18 01:39:23,519 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/gulfstream-g800-jato-mais-moderno-do-mundo-ganha-l-20250418013923.jpg
+2025-04-18 01:39:23,520 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Gulfstream G800: jato mais moderno do mundo ganha licença para voar
+2025-04-18 01:39:23,580 - NewsResearchAgent - INFO - Cache de notícias salvo com 2330 entradas
+2025-04-18 01:39:23,585 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 340 entradas
+2025-04-18 01:39:23,585 - NewsResearchAgent - INFO - Notícia publicada: Gulfstream G800: jato mais moderno do mundo ganha licença para voar em ./categorias/tecnologia/gulfstream-g800-jato-mais-moderno-do-mundo-ganha-l-20250418013923.html
+2025-04-18 01:39:24,061 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 01:39:24,061 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-18 01:39:26,361 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-18 01:39:26,574 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-18 01:39:33,295 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-18 01:39:36,351 - NewsResearchAgent - INFO - Cache de notícias salvo com 2334 entradas
+2025-04-18 01:39:36,355 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 340 entradas
+2025-04-18 01:39:36,367 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria entretenimento
+2025-04-18 01:49:07,155 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/marathon-novo-game-do-estudio-de-destiny-nao-sera--20250418014907.jpg
+2025-04-18 01:49:07,155 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Marathon | Novo game do estúdio de Destiny não será free-to-play
+2025-04-18 01:49:07,215 - NewsResearchAgent - INFO - Cache de notícias salvo com 2334 entradas
+2025-04-18 01:49:07,219 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 341 entradas
+2025-04-18 01:49:07,219 - NewsResearchAgent - INFO - Notícia publicada: Marathon | Novo game do estúdio de Destiny não será free-to-play em ./categorias/entretenimento/marathon-novo-game-do-estudio-de-destiny-nao-sera--20250418014907.html
+2025-04-18 01:49:07,759 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 01:49:07,759 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-18 01:49:09,893 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-18 01:49:10,953 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-18 01:49:12,155 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-18 01:49:12,426 - NewsResearchAgent - INFO - Cache de notícias salvo com 2337 entradas
+2025-04-18 01:49:12,430 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 341 entradas
+2025-04-18 01:49:12,442 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria curiosidades
+2025-04-18 01:58:45,661 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/podcast-terapia-6-sono-por-que-nunca-dormimos-tao--20250418015845.jpg
+2025-04-18 01:58:45,661 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Podcast Terapia #6: Sono: por que nunca dormimos tão mal
+2025-04-18 01:58:45,722 - NewsResearchAgent - INFO - Cache de notícias salvo com 2337 entradas
+2025-04-18 01:58:45,726 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 342 entradas
+2025-04-18 01:58:45,726 - NewsResearchAgent - INFO - Notícia publicada: Podcast Terapia #6: Sono: por que nunca dormimos tão mal em ./categorias/curiosidades/podcast-terapia-6-sono-por-que-nunca-dormimos-tao--20250418015845.html

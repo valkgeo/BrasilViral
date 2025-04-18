@@ -1,18 +1,26 @@
 [
   {
-    "title": "Dell lança notebook 14 Plus 2-in-1 com AMD Ryzen AI 300",
-    "summary": "A Dell lançou recentemente um novo notebook da linha Plus 14 2 em 1, equipado com processadores AMD Ryzen AI 300. Essa nova opção se soma aos modelos já existentes, que contam com CPUs Intel Core Ultra 200. O destaque desse novo lançamento é a presença de NPUs que alcançam até 50 TOPs de desempenho em Inteligência Artificial, o que é considerado o maior do mercado até o momento. Além disso, esses notebooks oferecem autonomia de bateria de até 19 horas, tornando-os uma opção atraente para usuários que buscam dispositivos versáteis e com longa duração.",
-    "timestamp": "2025-04-17T23:52:00",
-    "link": "categorias/tecnologia/dell-lanca-notebook-14-plus-2in1-com-amd-ryzen-ai--20250417235234.html",
-    "image": "../../images/tecnologia/dell-lanca-notebook-14-plus-2in1-com-amd-ryzen-ai--20250417235234.jpg",
+    "title": "Gulfstream G800: jato mais moderno do mundo ganha licença para voar",
+    "summary": "O jato executivo mais moderno do mundo, o Gulfstream G800, recebeu recentemente a certificação para voos da Administração Federal de Aviação dos Estados Unidos e da Agência Europeia para a Segurança da Aviação. Com essa autorização, o G800 se torna o jato executivo de maior alcance do mundo, capaz de alcançar até 8.200 milhas náuticas, o que corresponde a 15.186 quilômetros, a uma velocidade de Mach 0.85, ou 1.049 km/h.",
+    "timestamp": "2025-04-18T01:39:00",
+    "link": "categorias/tecnologia/gulfstream-g800-jato-mais-moderno-do-mundo-ganha-l-20250418013923.html",
+    "image": "../../images/tecnologia/gulfstream-g800-jato-mais-moderno-do-mundo-ganha-l-20250418013923.jpg",
     "category": "tecnologia"
   },
   {
     "title": "Exemplo de notícia de tecnologia",
     "summary": "Este é um exemplo de notícia tecnológica. Aqui você encontrará informações sobre lançamentos de produtos, inovações tecnológicas, tendências digitais e avanços científicos. O BrasilViral traz as novidades mais recentes do mundo da tecnologia. tecnologia.",
-    "timestamp": "2025-04-17T23:11:52.262002",
+    "timestamp": "2025-04-18T00:58:50.552393",
     "link": "categorias/tecnologia/exemplo_tecnologia.html",
     "image": "{{IMAGEM_URL}}",
+    "category": "tecnologia"
+  },
+  {
+    "title": "Dell lança notebook 14 Plus 2-in-1 com AMD Ryzen AI 300",
+    "summary": "A Dell lançou recentemente um novo notebook da linha Plus 14 2 em 1, equipado com processadores AMD Ryzen AI 300. Essa nova opção se soma aos modelos já existentes, que contam com CPUs Intel Core Ultra 200. O destaque desse novo lançamento é a presença de NPUs que alcançam até 50 TOPs de desempenho em Inteligência Artificial, o que é considerado o maior do mercado até o momento. Além disso, esses notebooks oferecem autonomia de bateria de até 19 horas, tornando-os uma opção atraente para usuários que buscam dispositivos versáteis e com longa duração.",
+    "timestamp": "2025-04-17T23:52:00",
+    "link": "categorias/tecnologia/dell-lanca-notebook-14-plus-2in1-com-amd-ryzen-ai--20250417235234.html",
+    "image": "../../images/tecnologia/dell-lanca-notebook-14-plus-2in1-com-amd-ryzen-ai--20250417235234.jpg",
     "category": "tecnologia"
   },
   {
