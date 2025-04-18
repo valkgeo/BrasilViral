@@ -5162,3 +5162,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-18 15:11:32,598 - NewsResearchAgent - INFO - Cache de notícias salvo com 2493 entradas
 2025-04-18 15:11:32,602 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 384 entradas
 2025-04-18 15:11:32,602 - NewsResearchAgent - INFO - Notícia publicada: No ninho deste pássaro estão 30 anos de lixo humano em ./categorias/curiosidades/no-ninho-deste-passaro-estao-30-anos-de-lixo-human-20250418151132.html
+2025-04-18 15:14:16,035 - NewsResearchAgent - INFO - Cache de notícias carregado com 2493 entradas
+2025-04-18 15:14:16,038 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 384 entradas
+2025-04-18 15:14:28,984 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 15:14:28,984 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-18 15:14:31,738 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-18 15:14:32,745 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-18 15:14:33,180 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-18 15:14:37,952 - NewsResearchAgent - INFO - Cache de notícias salvo com 2497 entradas
+2025-04-18 15:14:37,956 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 384 entradas
+2025-04-18 15:14:37,967 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria esportes
+2025-04-18 15:24:10,669 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/futebol-na-espn-jogos-estatisticas-e-lances-20250418152410.jpg
+2025-04-18 15:24:10,669 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Futebol na ESPN - Jogos, estatísticas e lances
+2025-04-18 15:24:10,737 - NewsResearchAgent - INFO - Cache de notícias salvo com 2497 entradas
+2025-04-18 15:24:10,741 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 385 entradas
+2025-04-18 15:24:10,741 - NewsResearchAgent - INFO - Notícia publicada: Futebol na ESPN - Jogos, estatísticas e lances em ./categorias/esportes/futebol-na-espn-jogos-estatisticas-e-lances-20250418152410.html
+2025-04-18 15:24:11,134 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 15:24:11,134 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-18 15:24:14,005 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-18 15:24:18,401 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-18 15:24:20,099 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-18 15:24:20,272 - NewsResearchAgent - INFO - Cache de notícias salvo com 2499 entradas
+2025-04-18 15:24:20,276 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 385 entradas
+2025-04-18 15:24:20,285 - NewsResearchAgent - INFO - Encontradas 6 notícias virais na categoria economia
+2025-04-18 15:33:52,856 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/governador-da-california-processa-trump-por-tarifa-20250418153352.jpg
+2025-04-18 15:33:52,856 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Governador da Califórnia processa Trump por tarifaço
+2025-04-18 15:33:52,921 - NewsResearchAgent - INFO - Cache de notícias salvo com 2499 entradas
+2025-04-18 15:33:52,925 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 386 entradas
+2025-04-18 15:33:52,925 - NewsResearchAgent - INFO - Notícia publicada: Governador da Califórnia processa Trump por tarifaço em ./categorias/economia/governador-da-california-processa-trump-por-tarifa-20250418153352.html
+2025-04-18 15:33:53,407 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 15:33:53,407 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-18 15:33:55,707 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-18 15:33:59,175 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-18 15:34:00,141 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-18 15:34:01,346 - NewsResearchAgent - INFO - Cache de notícias salvo com 2505 entradas
+2025-04-18 15:34:01,351 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 386 entradas
+2025-04-18 15:34:01,365 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria politica
+2025-04-18 15:43:33,165 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/ipsosipec-50-acham-que-politica-comercial-de-trump-20250418154333.jpg
+2025-04-18 15:43:33,165 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Ipsos-Ipec: 50% acham que política comercial de Trump prejudica Brasil
+2025-04-18 15:43:33,230 - NewsResearchAgent - INFO - Cache de notícias salvo com 2505 entradas
+2025-04-18 15:43:33,234 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 387 entradas
+2025-04-18 15:43:33,234 - NewsResearchAgent - INFO - Notícia publicada: Ipsos-Ipec: 50% acham que política comercial de Trump prejudica Brasil em ./categorias/politica/ipsosipec-50-acham-que-politica-comercial-de-trump-20250418154333.html
+2025-04-18 15:43:33,920 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 15:43:33,920 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-18 15:43:35,322 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-18 15:43:36,226 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-18 15:43:37,707 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-18 15:43:38,502 - NewsResearchAgent - INFO - Cache de notícias salvo com 2508 entradas
+2025-04-18 15:43:38,506 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 387 entradas
+2025-04-18 15:43:38,521 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria tecnologia
+2025-04-18 15:53:09,759 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/galaxy-s24-ultra-fica-47-mais-barato-em-promocao-n-20250418155309.jpg
+2025-04-18 15:53:09,759 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Galaxy S24 Ultra fica 47% mais barato em promoção no Mercado Livre
+2025-04-18 15:53:09,824 - NewsResearchAgent - INFO - Cache de notícias salvo com 2508 entradas
+2025-04-18 15:53:09,828 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 388 entradas
+2025-04-18 15:53:09,828 - NewsResearchAgent - INFO - Notícia publicada: Galaxy S24 Ultra fica 47% mais barato em promoção no Mercado Livre em ./categorias/tecnologia/galaxy-s24-ultra-fica-47-mais-barato-em-promocao-n-20250418155309.html
+2025-04-18 15:53:10,377 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 15:53:10,377 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-18 15:53:20,496 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-18 15:53:20,629 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-18 15:53:26,281 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-18 15:53:29,911 - NewsResearchAgent - INFO - Cache de notícias salvo com 2513 entradas
+2025-04-18 15:53:29,916 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 388 entradas
+2025-04-18 15:53:29,932 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria entretenimento
+2025-04-18 16:03:07,095 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/anitta-aparece-nua-em-novo-clipe-de-en-4-confira-20250418160307.jpg
+2025-04-18 16:03:07,096 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Anitta aparece nua em novo clipe de "En 4"; confira
+2025-04-18 16:03:07,161 - NewsResearchAgent - INFO - Cache de notícias salvo com 2513 entradas
+2025-04-18 16:03:07,165 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 389 entradas
+2025-04-18 16:03:07,165 - NewsResearchAgent - INFO - Notícia publicada: Anitta aparece nua em novo clipe de "En 4"; confira em ./categorias/entretenimento/anitta-aparece-nua-em-novo-clipe-de-en-4-confira-20250418160307.html
+2025-04-18 16:03:07,639 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 16:03:07,639 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-18 16:03:09,764 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-18 16:03:10,777 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-18 16:03:12,656 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-18 16:03:12,934 - NewsResearchAgent - INFO - Cache de notícias salvo com 2514 entradas
+2025-04-18 16:03:12,938 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 389 entradas
+2025-04-18 16:03:12,951 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria curiosidades
+2025-04-18 16:12:48,717 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/ferramenta-criada-na-usp-usa-ia-para-medir-agressi-20250418161248.jpg
+2025-04-18 16:12:48,718 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Ferramenta criada na USP usa IA para "medir" agressividade de câncer
+2025-04-18 16:12:48,782 - NewsResearchAgent - INFO - Cache de notícias salvo com 2514 entradas
+2025-04-18 16:12:48,786 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 390 entradas
+2025-04-18 16:12:48,786 - NewsResearchAgent - INFO - Notícia publicada: Ferramenta criada na USP usa IA para "medir" agressividade de câncer em ./categorias/curiosidades/ferramenta-criada-na-usp-usa-ia-para-medir-agressi-20250418161248.html

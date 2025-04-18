@@ -1,5 +1,19 @@
 [
   {
+    "title": "Ferramenta criada na USP usa IA para \"medir\" agressividade de câncer",
+    "summary": "Uma ferramenta criada na Universidade de São Paulo (USP) utiliza inteligência artificial para medir a agressividade de alguns tipos de câncer. O modelo de aprendizado de máquina desenvolvido pelos cientistas é capaz de prever a agressividade de tumores por meio da análise de proteínas específicas, gerando um índice que varia de baixo a alto. Conforme o índice aumenta, o câncer tende a ser mais agressivo, resistente a medicamentos e propenso a recidivas.",
+    "timestamp": "2025-04-18T16:12:00",
+    "link": "categorias/curiosidades/ferramenta-criada-na-usp-usa-ia-para-medir-agressividade-de-c-ncer.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "title": "Exemplo de notícia de curiosidades",
+    "summary": "Este é um exemplo de notícia de curiosidades. Aqui você encontrará fatos interessantes, descobertas científicas, histórias inusitadas e fenômenos surpreendentes. O BrasilViral traz conteúdo que vai expandir seus conhecimentos e surpreender você. curiosidades.",
+    "timestamp": "2025-04-18T15:12:37.002749",
+    "link": "categorias/curiosidades/exemplo-de-not-cia-de-curiosidades.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "No ninho deste pássaro estão 30 anos de lixo humano",
     "summary": "Um estudo realizado por cientistas da Universidade de Leiden, na Holanda, revelou que o ninho abandonado de um galeirão-comum, um pássaro preto e branco que vive na água, pode ser considerado uma minicápsula do tempo. Isso porque o ninho, construído em um canal de Amsterdã, contém lixo produzido por humanos das últimas três décadas.",
     "timestamp": "2025-04-18T15:11:00",
@@ -7,24 +21,10 @@
     "image": "images/placeholder.jpg"
   },
   {
-    "title": "Exemplo de notícia de curiosidades",
-    "summary": "Este é um exemplo de notícia de curiosidades. Aqui você encontrará fatos interessantes, descobertas científicas, histórias inusitadas e fenômenos surpreendentes. O BrasilViral traz conteúdo que vai expandir seus conhecimentos e surpreender você. curiosidades.",
-    "timestamp": "2025-04-18T14:11:25.403476",
-    "link": "categorias/curiosidades/exemplo-de-not-cia-de-curiosidades.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
     "title": "Como realmente era o Estreito de Bering",
     "summary": "O Estreito de Bering é uma região de grande importância geográfica e histórica, localizada entre a Ásia e a América do Norte. Ele separa a Rússia, a leste, da Alaska, nos Estados Unidos, a oeste, e liga o Oceano Ártico ao Mar de Bering. O estreito tem aproximadamente 85 quilômetros de largura e é uma rota de migração importante para muitas espécies de animais, incluindo aves, focas e baleias.",
     "timestamp": "2025-04-18T13:22:00",
     "link": "categorias/curiosidades/como-realmente-era-o-estreito-de-bering.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "As origens biológicas da fé: por que o ser humano é religioso?",
-    "summary": "O rochedo de Gibraltar, localizado no extremo sul da Espanha, e o monte Muça, situado no extremo norte do Marrocos, são duas formações geológicas litorâneas que se destacam por sua beleza natural. O rochedo de Gibraltar tem 472 metros de altura, enquanto o monte Muça alcança 851 metros. Essas duas montanhas são separadas por uma faixa de apenas 13 km de mar, conhecida como o estreito de Gibraltar. Juntos, elas são conhecidas como Pilares de Hércules, um nome que reflete a grandiosidade da região.",
-    "timestamp": "2025-04-18T09:16:00",
-    "link": "categorias/curiosidades/as-origens-biol-gicas-da-f-por-que-o-ser-humano-religioso.html",
     "image": "images/placeholder.jpg"
   }
 ]

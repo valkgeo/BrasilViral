@@ -3070,5 +3070,53 @@
     "filepath": "./categorias/curiosidades/no-ninho-deste-passaro-estao-30-anos-de-lixo-human-20250418151132.html",
     "url_path": "categorias/curiosidades/no-ninho-deste-passaro-estao-30-anos-de-lixo-human-20250418151132.html",
     "publish_timestamp": "2025-04-18T15:11:32.535154"
+  },
+  "834ec0ee0d83f009fe905f03ad182de4": {
+    "title": "Futebol na ESPN - Jogos, estatísticas e lances",
+    "category": "esportes",
+    "source_url": "https://www.espn.com.br/futebol/",
+    "filepath": "./categorias/esportes/futebol-na-espn-jogos-estatisticas-e-lances-20250418152410.html",
+    "url_path": "categorias/esportes/futebol-na-espn-jogos-estatisticas-e-lances-20250418152410.html",
+    "publish_timestamp": "2025-04-18T15:24:10.670764"
+  },
+  "70df6912f7039caa8d612657dae84621": {
+    "title": "Governador da Califórnia processa Trump por tarifaço",
+    "category": "economia",
+    "source_url": "https://valor.globo.com/mundo/noticia/2025/04/16/governador-da-califrnia-processa-trump-por-tarifao.ghtml",
+    "filepath": "./categorias/economia/governador-da-california-processa-trump-por-tarifa-20250418153352.html",
+    "url_path": "categorias/economia/governador-da-california-processa-trump-por-tarifa-20250418153352.html",
+    "publish_timestamp": "2025-04-18T15:33:52.856778"
+  },
+  "9442fd03b918970ae27001967738e25a": {
+    "title": "Ipsos-Ipec: 50% acham que política comercial de Trump prejudica Brasil",
+    "category": "politica",
+    "source_url": "https://www.cnnbrasil.com.br/politica/ipsos-ipec-50-acham-que-politica-comercial-de-trump-prejudica-brasil/",
+    "filepath": "./categorias/politica/ipsosipec-50-acham-que-politica-comercial-de-trump-20250418154333.html",
+    "url_path": "categorias/politica/ipsosipec-50-acham-que-politica-comercial-de-trump-20250418154333.html",
+    "publish_timestamp": "2025-04-18T15:43:33.166373"
+  },
+  "9a26a122b14e709b332dc9d9935fd97e": {
+    "title": "Galaxy S24 Ultra fica 47% mais barato em promoção no Mercado Livre",
+    "category": "tecnologia",
+    "source_url": "https://tecnoblog.net/achados/galaxy-s24-ultra-fica-47-mais-barato-em-promocao-no-mercado-livre/",
+    "filepath": "./categorias/tecnologia/galaxy-s24-ultra-fica-47-mais-barato-em-promocao-n-20250418155309.html",
+    "url_path": "categorias/tecnologia/galaxy-s24-ultra-fica-47-mais-barato-em-promocao-n-20250418155309.html",
+    "publish_timestamp": "2025-04-18T15:53:09.760327"
+  },
+  "8d03de5a0a89ccbb1ec84c421c4082af": {
+    "title": "Anitta aparece nua em novo clipe de \"En 4\"; confira",
+    "category": "entretenimento",
+    "source_url": "https://www.omelete.com.br/musica/anitta-aparece-nua-em-novo-clipe-de-en-4-confira",
+    "filepath": "./categorias/entretenimento/anitta-aparece-nua-em-novo-clipe-de-en-4-confira-20250418160307.html",
+    "url_path": "categorias/entretenimento/anitta-aparece-nua-em-novo-clipe-de-en-4-confira-20250418160307.html",
+    "publish_timestamp": "2025-04-18T16:03:07.096567"
+  },
+  "e4b88aee284e901690b21aea3941e156": {
+    "title": "Ferramenta criada na USP usa IA para \"medir\" agressividade de câncer",
+    "category": "curiosidades",
+    "source_url": "https://revistagalileu.globo.com/saude/noticia/2025/04/ferramenta-criada-na-usp-usa-ia-para-medir-agressividade-de-cancer.ghtml",
+    "filepath": "./categorias/curiosidades/ferramenta-criada-na-usp-usa-ia-para-medir-agressi-20250418161248.html",
+    "url_path": "categorias/curiosidades/ferramenta-criada-na-usp-usa-ia-para-medir-agressi-20250418161248.html",
+    "publish_timestamp": "2025-04-18T16:12:48.718623"
   }
 }
