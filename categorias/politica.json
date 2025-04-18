@@ -1,5 +1,19 @@
 [
   {
+    "title": "Rock in Rio 2024",
+    "summary": "O Rock in Rio 2024 foi um evento marcante que reuniu grandes nomes da música em um mesmo palco. Dinho Ouro Preto, vocalista do Capital Inicial, foi entrevistado recentemente e compartilhou suas impressões sobre o evento. Ele foi o convidado de um podcast de música que foi transmitido ao vivo, oferecendo uma visão única sobre o que aconteceu no Rock in Rio.",
+    "timestamp": "2025-04-18T06:48:00",
+    "link": "categorias/politica/rock-in-rio-2024.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "title": "Exemplo de notícia de politica",
+    "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
+    "timestamp": "2025-04-18T06:17:46.022141",
+    "link": "categorias/politica/exemplo-de-not-cia-de-politica.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "MERCADO IMOBILIÁRIO",
     "summary": "O mercado imobiliário de Goiânia tem apresentado uma tendência positiva nos últimos tempos, com um aumento significativo no número de lançamentos de imóveis. De acordo com uma pesquisa realizada pela Ademi, em 2018, foram lançadas 4.567 unidades, enquanto de janeiro a setembro deste ano, o número já alcançou 4.779. Essa alta é um indicador de que o setor está em expansão e que as construtoras e incorporadoras estão investindo em novos empreendimentos residenciais.",
     "timestamp": "2025-04-18T05:44:00",
@@ -7,24 +21,10 @@
     "image": "images/placeholder.jpg"
   },
   {
-    "title": "Exemplo de notícia de politica",
-    "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
-    "timestamp": "2025-04-18T05:12:57.051280",
-    "link": "categorias/politica/exemplo-de-not-cia-de-politica.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
     "title": "Em recuperação, Bolsonaro publica vídeo fazendo fisioterapia no hospital",
     "summary": "O ex-presidente Jair Bolsonaro está se recuperando de uma cirurgia no intestino realizada no Hospital DF Star, em Brasília. A cirurgia foi necessária após ele passar mal durante uma agenda no Rio Grande do Norte, na última semana. Em Natal, exames de imagem detectaram uma obstrução intestinal decorrente da facada que o ex-presidente recebeu durante a campanha presidencial de 2018.",
     "timestamp": "2025-04-18T03:59:00",
     "link": "categorias/politica/em-recupera-o-bolsonaro-publica-v-deo-fazendo-fisioterapia-no-hospital.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "O que fazer em São Paulo",
-    "summary": "O que fazer em São Paulo",
-    "timestamp": "2025-04-18T02:56:00",
-    "link": "categorias/politica/o-que-fazer-em-s-o-paulo.html",
     "image": "images/placeholder.jpg"
   }
 ]

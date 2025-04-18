@@ -4840,3 +4840,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-18 06:12:54,928 - NewsResearchAgent - INFO - Cache de notícias salvo com 2410 entradas
 2025-04-18 06:12:54,932 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 360 entradas
 2025-04-18 06:12:54,932 - NewsResearchAgent - INFO - Notícia publicada: Anticoncepcional masculino sem hormônios é testado em humanos em ./categorias/curiosidades/anticoncepcional-masculino-sem-hormonios-e-testado-20250418061254.html
+2025-04-18 06:19:25,539 - NewsResearchAgent - INFO - Cache de notícias carregado com 2410 entradas
+2025-04-18 06:19:25,541 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 360 entradas
+2025-04-18 06:19:38,425 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 06:19:38,426 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-18 06:19:39,463 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-18 06:19:39,997 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-18 06:19:40,254 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-18 06:19:44,853 - NewsResearchAgent - INFO - Cache de notícias salvo com 2413 entradas
+2025-04-18 06:19:44,859 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 360 entradas
+2025-04-18 06:19:44,870 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria esportes
+2025-04-18 06:29:12,504 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/flamengo-preve-venda-de-wesley-por-40-milhoes-de-e-20250418062912.jpg
+2025-04-18 06:29:12,504 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Flamengo prevê venda de Wesley por 40 milhões de euros e receita bilionária
+2025-04-18 06:29:12,567 - NewsResearchAgent - INFO - Cache de notícias salvo com 2413 entradas
+2025-04-18 06:29:12,571 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 361 entradas
+2025-04-18 06:29:12,571 - NewsResearchAgent - INFO - Notícia publicada: Flamengo prevê venda de Wesley por 40 milhões de euros e receita bilionária em ./categorias/esportes/flamengo-preve-venda-de-wesley-por-40-milhoes-de-e-20250418062912.html
+2025-04-18 06:29:12,870 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 06:29:12,870 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-18 06:29:17,861 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-18 06:29:22,892 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-18 06:29:23,760 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-18 06:29:23,918 - NewsResearchAgent - INFO - Cache de notícias salvo com 2417 entradas
+2025-04-18 06:29:23,922 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 361 entradas
+2025-04-18 06:29:23,929 - NewsResearchAgent - INFO - Encontradas 6 notícias virais na categoria economia
+2025-04-18 06:38:51,264 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/mrv-quer-reduzir-estoques-de-terreno-em-r-14-bilha-20250418063851.jpg
+2025-04-18 06:38:51,264 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: MRV quer reduzir estoques de terreno em R$ 1,4 bilhão até 2029
+2025-04-18 06:38:51,327 - NewsResearchAgent - INFO - Cache de notícias salvo com 2417 entradas
+2025-04-18 06:38:51,330 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 362 entradas
+2025-04-18 06:38:51,330 - NewsResearchAgent - INFO - Notícia publicada: MRV quer reduzir estoques de terreno em R$ 1,4 bilhão até 2029 em ./categorias/economia/mrv-quer-reduzir-estoques-de-terreno-em-r-14-bilha-20250418063851.html
+2025-04-18 06:38:51,721 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 06:38:51,721 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-18 06:38:54,351 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-18 06:38:55,780 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-18 06:38:56,724 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-18 06:38:57,238 - NewsResearchAgent - INFO - Cache de notícias salvo com 2423 entradas
+2025-04-18 06:38:57,242 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 362 entradas
+2025-04-18 06:38:57,254 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria politica
+2025-04-18 06:48:29,448 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/rock-in-rio-2024-20250418064829.jpg
+2025-04-18 06:48:29,448 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Rock in Rio 2024
+2025-04-18 06:48:29,509 - NewsResearchAgent - INFO - Cache de notícias salvo com 2423 entradas
+2025-04-18 06:48:29,513 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 363 entradas
+2025-04-18 06:48:29,513 - NewsResearchAgent - INFO - Notícia publicada: Rock in Rio 2024 em ./categorias/politica/rock-in-rio-2024-20250418064829.html
+2025-04-18 06:48:29,912 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 06:48:29,912 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-18 06:48:32,673 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-18 06:48:33,951 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-18 06:48:34,126 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-18 06:48:34,594 - NewsResearchAgent - INFO - Cache de notícias salvo com 2425 entradas
+2025-04-18 06:48:34,598 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 363 entradas
+2025-04-18 06:48:34,614 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria tecnologia
+2025-04-18 06:58:01,789 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/review-galaxy-s25-ultra-muita-evolucao-na-intelige-20250418065801.jpg
+2025-04-18 06:58:01,789 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Review Galaxy S25 Ultra | Muita evolução na inteligência artificial
+2025-04-18 06:58:01,851 - NewsResearchAgent - INFO - Cache de notícias salvo com 2425 entradas
+2025-04-18 06:58:01,855 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 364 entradas
+2025-04-18 06:58:01,855 - NewsResearchAgent - INFO - Notícia publicada: Review Galaxy S25 Ultra | Muita evolução na inteligência artificial em ./categorias/tecnologia/review-galaxy-s25-ultra-muita-evolucao-na-intelige-20250418065801.html
+2025-04-18 06:58:02,288 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 06:58:02,288 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-18 06:58:03,361 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-18 06:58:03,511 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-18 06:58:07,385 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-18 06:58:08,880 - NewsResearchAgent - INFO - Cache de notícias salvo com 2430 entradas
+2025-04-18 06:58:08,884 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 364 entradas
+2025-04-18 06:58:08,903 - NewsResearchAgent - INFO - Encontradas 16 notícias virais na categoria entretenimento
+2025-04-18 07:07:43,388 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/queridometro-do-bbb-25-chega-a-pagina-de-participa-20250418070743.jpg
+2025-04-18 07:07:43,388 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Queridômetro do BBB 25 chega à página de participante no gshow
+2025-04-18 07:07:43,451 - NewsResearchAgent - INFO - Cache de notícias salvo com 2430 entradas
+2025-04-18 07:07:43,454 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 365 entradas
+2025-04-18 07:07:43,455 - NewsResearchAgent - INFO - Notícia publicada: Queridômetro do BBB 25 chega à página de participante no gshow em ./categorias/entretenimento/queridometro-do-bbb-25-chega-a-pagina-de-participa-20250418070743.html
+2025-04-18 07:07:43,869 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 07:07:43,869 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-18 07:07:44,732 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-18 07:07:44,966 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-18 07:07:45,921 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-18 07:07:46,161 - NewsResearchAgent - INFO - Cache de notícias salvo com 2430 entradas
+2025-04-18 07:07:46,165 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 365 entradas
+2025-04-18 07:07:46,177 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria curiosidades
+2025-04-18 07:17:15,261 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/todos-os-caminhos-levavam-mesmo-a-roma-20250418071715.jpg
+2025-04-18 07:17:15,261 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Todos os caminhos levavam mesmo a Roma?
+2025-04-18 07:17:15,323 - NewsResearchAgent - INFO - Cache de notícias salvo com 2430 entradas
+2025-04-18 07:17:15,327 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 366 entradas
+2025-04-18 07:17:15,327 - NewsResearchAgent - INFO - Notícia publicada: Todos os caminhos levavam mesmo a Roma? em ./categorias/curiosidades/todos-os-caminhos-levavam-mesmo-a-roma-20250418071715.html
