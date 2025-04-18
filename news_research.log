@@ -5485,3 +5485,84 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-18 21:13:20,116 - NewsResearchAgent - INFO - Cache de notícias salvo com 2586 entradas
 2025-04-18 21:13:20,120 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 408 entradas
 2025-04-18 21:13:20,121 - NewsResearchAgent - INFO - Notícia publicada: O sanduíche do McDonalds criado para agradar católicos na Sexta-Feira Santa em ./categorias/curiosidades/o-sanduiche-do-mcdonalds-criado-para-agradar-catol-20250418211320.html
+2025-04-18 22:13:06,223 - NewsResearchAgent - INFO - Cache de notícias carregado com 2586 entradas
+2025-04-18 22:13:06,225 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 408 entradas
+2025-04-18 22:13:24,800 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 22:13:24,800 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-18 22:13:25,988 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-18 22:13:27,610 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-18 22:13:28,713 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-18 22:13:35,480 - NewsResearchAgent - INFO - Cache de notícias salvo com 2589 entradas
+2025-04-18 22:13:35,484 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 408 entradas
+2025-04-18 22:13:35,498 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria esportes
+2025-04-18 22:23:01,965 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/jake-paul-vai-encarar-excampeao-mundial-de-boxe-e--20250418222301.jpg
+2025-04-18 22:23:01,965 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Jake Paul vai encarar ex-campeão mundial de boxe e promete nocaute
+2025-04-18 22:23:02,036 - NewsResearchAgent - INFO - Cache de notícias salvo com 2589 entradas
+2025-04-18 22:23:02,041 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 409 entradas
+2025-04-18 22:23:02,041 - NewsResearchAgent - INFO - Notícia publicada: Jake Paul vai encarar ex-campeão mundial de boxe e promete nocaute em ./categorias/esportes/jake-paul-vai-encarar-excampeao-mundial-de-boxe-e--20250418222301.html
+2025-04-18 22:23:02,432 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 22:23:02,432 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-18 22:23:06,752 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-18 22:23:09,689 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-18 22:23:10,534 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-18 22:23:10,643 - NewsResearchAgent - INFO - Cache de notícias salvo com 2590 entradas
+2025-04-18 22:23:10,647 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 409 entradas
+2025-04-18 22:23:10,660 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria economia
+2025-04-18 22:32:44,615 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/garoto-triplica-producao-de-ovo-caribe-e-procura-a-20250418223244.jpg
+2025-04-18 22:32:44,615 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Garoto triplica produção de ovo Caribe, e procura aumenta
+2025-04-18 22:32:44,682 - NewsResearchAgent - INFO - Cache de notícias salvo com 2590 entradas
+2025-04-18 22:32:44,686 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 410 entradas
+2025-04-18 22:32:44,686 - NewsResearchAgent - INFO - Notícia publicada: Garoto triplica produção de ovo Caribe, e procura aumenta em ./categorias/economia/garoto-triplica-producao-de-ovo-caribe-e-procura-a-20250418223244.html
+2025-04-18 22:32:45,231 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 22:32:45,231 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-18 22:32:49,081 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-18 22:32:53,187 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-18 22:32:54,914 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-18 22:32:55,625 - NewsResearchAgent - INFO - Cache de notícias salvo com 2595 entradas
+2025-04-18 22:32:55,629 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 410 entradas
+2025-04-18 22:32:55,640 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria politica
+2025-04-18 22:42:26,607 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/lollapalooza-2025-20250418224226.jpg
+2025-04-18 22:42:26,607 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Lollapalooza 2025
+2025-04-18 22:42:26,674 - NewsResearchAgent - INFO - Cache de notícias salvo com 2595 entradas
+2025-04-18 22:42:26,678 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 411 entradas
+2025-04-18 22:42:26,678 - NewsResearchAgent - INFO - Notícia publicada: Lollapalooza 2025 em ./categorias/politica/lollapalooza-2025-20250418224226.html
+2025-04-18 22:42:27,066 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 22:42:27,067 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-18 22:42:37,535 - NewsResearchAgent - ERROR - Erro ao pesquisar notícias em https://www.tecmundo.com.br/: HTTPSConnectionPool(host='www.tecmundo.com.br', port=443): Read timed out. (read timeout=10)
+2025-04-18 22:42:37,535 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-18 22:42:39,164 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-18 22:42:42,050 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-18 22:42:44,108 - NewsResearchAgent - INFO - Cache de notícias salvo com 2599 entradas
+2025-04-18 22:42:44,113 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 411 entradas
+2025-04-18 22:42:44,122 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria tecnologia
+2025-04-18 22:52:12,112 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/cartuchos-de-nintendo-switch-2-podem-funcionar-no--20250418225212.jpg
+2025-04-18 22:52:12,112 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Cartuchos de Nintendo Switch 2 podem funcionar no seu antecessor
+2025-04-18 22:52:12,178 - NewsResearchAgent - INFO - Cache de notícias salvo com 2599 entradas
+2025-04-18 22:52:12,183 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 412 entradas
+2025-04-18 22:52:12,183 - NewsResearchAgent - INFO - Notícia publicada: Cartuchos de Nintendo Switch 2 podem funcionar no seu antecessor em ./categorias/tecnologia/cartuchos-de-nintendo-switch-2-podem-funcionar-no--20250418225212.html
+2025-04-18 22:52:12,717 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 22:52:12,717 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-18 22:52:19,292 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-18 22:52:19,465 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-18 22:52:25,480 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-18 22:52:28,270 - NewsResearchAgent - INFO - Cache de notícias salvo com 2603 entradas
+2025-04-18 22:52:28,275 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 412 entradas
+2025-04-18 22:52:28,291 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria entretenimento
+2025-04-18 23:01:54,073 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/the-voice-inscricoes-para-temporada-2023-estao-abe-20250418230154.jpg
+2025-04-18 23:01:54,073 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: 'The Voice +': inscrições para temporada 2023 estão abertas!
+2025-04-18 23:01:54,140 - NewsResearchAgent - INFO - Cache de notícias salvo com 2603 entradas
+2025-04-18 23:01:54,144 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 413 entradas
+2025-04-18 23:01:54,144 - NewsResearchAgent - INFO - Notícia publicada: 'The Voice +': inscrições para temporada 2023 estão abertas! em ./categorias/entretenimento/the-voice-inscricoes-para-temporada-2023-estao-abe-20250418230154.html
+2025-04-18 23:01:54,771 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 23:01:54,772 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-18 23:01:59,224 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-18 23:02:01,834 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-18 23:02:05,784 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-18 23:02:06,124 - NewsResearchAgent - INFO - Cache de notícias salvo com 2607 entradas
+2025-04-18 23:02:06,129 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 413 entradas
+2025-04-18 23:02:06,141 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria curiosidades
+2025-04-18 23:11:36,088 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/a-historia-do-bacalhau-dos-vikings-ao-almoco-de-pa-20250418231136.jpg
+2025-04-18 23:11:36,088 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: A história do bacalhau, dos vikings ao almoço de Páscoa
+2025-04-18 23:11:36,156 - NewsResearchAgent - INFO - Cache de notícias salvo com 2607 entradas
+2025-04-18 23:11:36,161 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 414 entradas
+2025-04-18 23:11:36,161 - NewsResearchAgent - INFO - Notícia publicada: A história do bacalhau, dos vikings ao almoço de Páscoa em ./categorias/curiosidades/a-historia-do-bacalhau-dos-vikings-ao-almoco-de-pa-20250418231136.html

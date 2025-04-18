@@ -1,5 +1,19 @@
 [
   {
+    "title": "Lollapalooza 2025",
+    "summary": "O Lollapalooza 2025 foi palco de várias apresentações memoráveis, incluindo a participação especial de Pabllo Vittar no show de Marina Lima. A cantora é conhecida por suas colaborações em festivais e já compartilhou o palco com nomes como Madonna, Charli XCX, Fergie e Lil Nas X, demonstrando sua versatilidade e habilidade em se adaptar a diferentes estilos musicais.",
+    "timestamp": "2025-04-18T22:42:00",
+    "link": "categorias/politica/lollapalooza-2025.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "title": "Exemplo de notícia de politica",
+    "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
+    "timestamp": "2025-04-18T22:11:26.606210",
+    "link": "categorias/politica/exemplo-de-not-cia-de-politica.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "Bolsonaro tem 'boa evolução', mas segue na UTI, diz boletim médico",
     "summary": "O ex-presidente Jair Bolsonaro apresentou uma boa evolução clínica, de acordo com o boletim médico divulgado recentemente. No entanto, ele permanece internado na Unidade de Terapia Intensiva (UTI) do hospital DF Star, em Brasília, sem previsão de alta.",
     "timestamp": "2025-04-18T20:44:00",
@@ -7,24 +21,10 @@
     "image": "images/placeholder.jpg"
   },
   {
-    "title": "Exemplo de notícia de politica",
-    "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
-    "timestamp": "2025-04-18T20:13:07.205716",
-    "link": "categorias/politica/exemplo-de-not-cia-de-politica.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
     "title": "Diálogos Com Mario Sergio Conti",
     "summary": "O programa Diálogos com Mario Sergio Conti tem sido palco para discussões importantes e entrevistas com personalidades destacadas. Recentemente, o senador Randolfe Rodrigues, do partido REDE, foi entrevistado sobre os trabalhos da Comissão Parlamentar de Inquérito da Covid. Durante a conversa, Randolfe destacou que os esforços da comissão estão cada vez mais próximos de chegar ao Palácio da Alvorada, indicando um avanço significativo nas investigações.",
     "timestamp": "2025-04-18T18:47:00",
     "link": "categorias/politica/di-logos-com-mario-sergio-conti.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "Aniversário de Brasília terá esquema especial de segurança",
-    "summary": "O governo do Distrito Federal está preparando um esquema de segurança especial para a Esplanada dos Ministérios, onde serão realizados eventos de comemoração dos 65 anos de Brasília. De sábado até segunda-feira, diversos shows e celebrações acontecerão na capital federal para marcar o aniversário da cidade, atraindo centenas de milhares de pessoas durante o feriado prolongado de Páscoa.",
-    "timestamp": "2025-04-18T17:42:00",
-    "link": "categorias/politica/anivers-rio-de-bras-lia-ter-esquema-especial-de-seguran-a.html",
     "image": "images/placeholder.jpg"
   }
 ]
