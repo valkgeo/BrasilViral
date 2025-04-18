@@ -4680,3 +4680,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-18 03:25:10,809 - NewsResearchAgent - INFO - Cache de notícias salvo com 2362 entradas
 2025-04-18 03:25:10,812 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 348 entradas
 2025-04-18 03:25:10,812 - NewsResearchAgent - INFO - Notícia publicada: A volta de Three Mile Island em ./categorias/curiosidades/a-volta-de-three-mile-island-20250418032510.html
+2025-04-18 03:30:17,963 - NewsResearchAgent - INFO - Cache de notícias carregado com 2362 entradas
+2025-04-18 03:30:17,965 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 348 entradas
+2025-04-18 03:30:31,289 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 03:30:31,289 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-18 03:30:35,191 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-18 03:30:36,544 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-18 03:30:37,521 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-18 03:30:46,125 - NewsResearchAgent - INFO - Cache de notícias salvo com 2364 entradas
+2025-04-18 03:30:46,128 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 348 entradas
+2025-04-18 03:30:46,136 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria esportes
+2025-04-18 03:40:12,900 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/bahia-20250418034012.jpg
+2025-04-18 03:40:12,900 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: bahia
+2025-04-18 03:40:12,964 - NewsResearchAgent - INFO - Cache de notícias salvo com 2364 entradas
+2025-04-18 03:40:12,968 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 349 entradas
+2025-04-18 03:40:12,968 - NewsResearchAgent - INFO - Notícia publicada: bahia em ./categorias/esportes/bahia-20250418034012.html
+2025-04-18 03:40:13,395 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 03:40:13,395 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-18 03:40:18,704 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-18 03:40:26,993 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-18 03:40:28,543 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-18 03:40:28,704 - NewsResearchAgent - INFO - Cache de notícias salvo com 2368 entradas
+2025-04-18 03:40:28,708 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 349 entradas
+2025-04-18 03:40:28,715 - NewsResearchAgent - INFO - Encontradas 6 notícias virais na categoria economia
+2025-04-18 03:50:03,064 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/chocolates-azeite-e-bacalhau-mais-caros-deixam-a-p-20250418035003.jpg
+2025-04-18 03:50:03,064 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Chocolates, azeite e bacalhau mais caros deixam a Páscoa 2025 mais salgada
+2025-04-18 03:50:03,132 - NewsResearchAgent - INFO - Cache de notícias salvo com 2368 entradas
+2025-04-18 03:50:03,138 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 350 entradas
+2025-04-18 03:50:03,138 - NewsResearchAgent - INFO - Notícia publicada: Chocolates, azeite e bacalhau mais caros deixam a Páscoa 2025 mais salgada em ./categorias/economia/chocolates-azeite-e-bacalhau-mais-caros-deixam-a-p-20250418035003.html
+2025-04-18 03:50:03,756 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 03:50:03,756 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-18 03:50:07,476 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-18 03:50:10,891 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-18 03:50:12,124 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-18 03:50:13,208 - NewsResearchAgent - INFO - Cache de notícias salvo com 2376 entradas
+2025-04-18 03:50:13,212 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 350 entradas
+2025-04-18 03:50:13,223 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria politica
+2025-04-18 03:59:44,395 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/em-recuperacao-bolsonaro-publica-video-fazendo-fis-20250418035944.jpg
+2025-04-18 03:59:44,395 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Em recuperação, Bolsonaro publica vídeo fazendo fisioterapia no hospital
+2025-04-18 03:59:44,456 - NewsResearchAgent - INFO - Cache de notícias salvo com 2376 entradas
+2025-04-18 03:59:44,460 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 351 entradas
+2025-04-18 03:59:44,460 - NewsResearchAgent - INFO - Notícia publicada: Em recuperação, Bolsonaro publica vídeo fazendo fisioterapia no hospital em ./categorias/politica/em-recuperacao-bolsonaro-publica-video-fazendo-fis-20250418035944.html
+2025-04-18 03:59:44,761 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 03:59:44,761 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-18 03:59:45,270 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-18 03:59:46,881 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-18 03:59:47,782 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-18 03:59:48,368 - NewsResearchAgent - INFO - Cache de notícias salvo com 2382 entradas
+2025-04-18 03:59:48,371 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 351 entradas
+2025-04-18 03:59:48,384 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria tecnologia
+2025-04-18 04:09:22,743 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/ofertas-do-dia-ate-31-off-em-smartphones-samsung-g-20250418040922.jpg
+2025-04-18 04:09:22,743 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Ofertas do dia: até 31% off em smartphones Samsung Galaxy!
+2025-04-18 04:09:22,804 - NewsResearchAgent - INFO - Cache de notícias salvo com 2382 entradas
+2025-04-18 04:09:22,808 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 352 entradas
+2025-04-18 04:09:22,808 - NewsResearchAgent - INFO - Notícia publicada: Ofertas do dia: até 31% off em smartphones Samsung Galaxy! em ./categorias/tecnologia/ofertas-do-dia-ate-31-off-em-smartphones-samsung-g-20250418040922.html
+2025-04-18 04:09:23,317 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 04:09:23,318 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-18 04:09:27,627 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-18 04:09:28,014 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-18 04:09:34,936 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-18 04:09:39,515 - NewsResearchAgent - INFO - Cache de notícias salvo com 2389 entradas
+2025-04-18 04:09:39,519 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 352 entradas
+2025-04-18 04:09:39,531 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria entretenimento
+2025-04-18 04:19:12,563 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/bbb-25-quem-ja-foi-eliminado-da-edicao-20250418041912.jpg
+2025-04-18 04:19:12,563 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: BBB 25 | Quem já foi eliminado da edição?
+2025-04-18 04:19:12,624 - NewsResearchAgent - INFO - Cache de notícias salvo com 2389 entradas
+2025-04-18 04:19:12,628 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 353 entradas
+2025-04-18 04:19:12,628 - NewsResearchAgent - INFO - Notícia publicada: BBB 25 | Quem já foi eliminado da edição? em ./categorias/entretenimento/bbb-25-quem-ja-foi-eliminado-da-edicao-20250418041912.html
+2025-04-18 04:19:13,228 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 04:19:13,228 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-18 04:19:14,457 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-18 04:19:15,315 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-18 04:19:17,166 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-18 04:19:17,496 - NewsResearchAgent - INFO - Cache de notícias salvo com 2390 entradas
+2025-04-18 04:19:17,500 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 353 entradas
+2025-04-18 04:19:17,510 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria curiosidades
+2025-04-18 04:28:50,459 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/buraco-negro-enorme-acorda-e-astronomos-observam-s-20250418042850.jpg
+2025-04-18 04:28:50,459 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Buraco negro enorme acorda e astrônomos observam surgir evento explosivo inédito
+2025-04-18 04:28:50,520 - NewsResearchAgent - INFO - Cache de notícias salvo com 2390 entradas
+2025-04-18 04:28:50,524 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 354 entradas
+2025-04-18 04:28:50,524 - NewsResearchAgent - INFO - Notícia publicada: Buraco negro enorme acorda e astrônomos observam surgir evento explosivo inédito em ./categorias/curiosidades/buraco-negro-enorme-acorda-e-astronomos-observam-s-20250418042850.html

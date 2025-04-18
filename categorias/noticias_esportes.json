@@ -1,18 +1,26 @@
 [
   {
-    "title": "“E o Oscar dos Esportes vai para…”",
-    "summary": "A cerimônia de premiação do Laureus, considerada o \"Oscar dos Esportes\", está próxima e promete ser um evento emocionante. A nossa maior medalhista olímpica, a ginasta Rebeca Andrade, que conquistou 6 medalhas olímpicas, incluindo 2 ouros, é uma das concorrentes na categoria \"Retorno do Ano\", com grandes chances de vitória.",
-    "timestamp": "2025-04-18T02:36:00",
-    "link": "categorias/esportes/e-o-oscar-dos-esportes-vai-para-20250418023651.html",
-    "image": "../../images/esportes/e-o-oscar-dos-esportes-vai-para-20250418023651.jpg",
+    "title": "bahia",
+    "summary": "A equipe do Bahia tem sido destaque em várias partidas recentes, com atuações notáveis de alguns de seus jogadores. Em uma das últimas partidas, Erick Pulga e Juba se destacaram, enquanto Willian José ainda busca melhorar seu desempenho. Em outra partida, Gabriel marcou um gol para os visitantes, e Erick Pulga empatou o jogo, deixando tudo igual.",
+    "timestamp": "2025-04-18T03:40:00",
+    "link": "categorias/esportes/bahia-20250418034012.html",
+    "image": "../../images/esportes/bahia-20250418034012.jpg",
     "category": "esportes"
   },
   {
     "title": "Exemplo de notícia de esportes",
     "summary": "Este é um exemplo de notícia esportiva. Aqui você encontrará as últimas informações sobre competições, resultados de jogos, transferências de jogadores e muito mais. O BrasilViral traz cobertura completa dos principais eventos esportivos nacionais e internacionais. esportes.",
-    "timestamp": "2025-04-18T02:25:15.204334",
+    "timestamp": "2025-04-18T03:28:39.037768",
     "link": "categorias/esportes/exemplo_esportes.html",
     "image": "{{IMAGEM_URL}}",
+    "category": "esportes"
+  },
+  {
+    "title": "“E o Oscar dos Esportes vai para…”",
+    "summary": "A cerimônia de premiação do Laureus, considerada o \"Oscar dos Esportes\", está próxima e promete ser um evento emocionante. A nossa maior medalhista olímpica, a ginasta Rebeca Andrade, que conquistou 6 medalhas olímpicas, incluindo 2 ouros, é uma das concorrentes na categoria \"Retorno do Ano\", com grandes chances de vitória.",
+    "timestamp": "2025-04-18T02:36:00",
+    "link": "categorias/esportes/e-o-oscar-dos-esportes-vai-para-20250418023651.html",
+    "image": "../../images/esportes/e-o-oscar-dos-esportes-vai-para-20250418023651.jpg",
     "category": "esportes"
   },
   {

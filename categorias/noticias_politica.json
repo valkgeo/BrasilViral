@@ -1,18 +1,26 @@
 [
   {
-    "title": "O que fazer em São Paulo",
-    "summary": "O que fazer em São Paulo",
-    "timestamp": "2025-04-18T02:56:00",
-    "link": "categorias/politica/o-que-fazer-em-sao-paulo-20250418025612.html",
-    "image": "../../images/politica/o-que-fazer-em-sao-paulo-20250418025612.jpg",
+    "title": "Em recuperação, Bolsonaro publica vídeo fazendo fisioterapia no hospital",
+    "summary": "O ex-presidente Jair Bolsonaro está se recuperando de uma cirurgia no intestino realizada no Hospital DF Star, em Brasília. A cirurgia foi necessária após ele passar mal durante uma agenda no Rio Grande do Norte, na última semana. Em Natal, exames de imagem detectaram uma obstrução intestinal decorrente da facada que o ex-presidente recebeu durante a campanha presidencial de 2018.",
+    "timestamp": "2025-04-18T03:59:00",
+    "link": "categorias/politica/em-recuperacao-bolsonaro-publica-video-fazendo-fis-20250418035944.html",
+    "image": "../../images/politica/em-recuperacao-bolsonaro-publica-video-fazendo-fis-20250418035944.jpg",
     "category": "politica"
   },
   {
     "title": "Exemplo de notícia de politica",
     "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
-    "timestamp": "2025-04-18T02:25:15.207334",
+    "timestamp": "2025-04-18T03:28:39.041768",
     "link": "categorias/politica/exemplo_politica.html",
     "image": "{{IMAGEM_URL}}",
+    "category": "politica"
+  },
+  {
+    "title": "O que fazer em São Paulo",
+    "summary": "O que fazer em São Paulo",
+    "timestamp": "2025-04-18T02:56:00",
+    "link": "categorias/politica/o-que-fazer-em-sao-paulo-20250418025612.html",
+    "image": "../../images/politica/o-que-fazer-em-sao-paulo-20250418025612.jpg",
     "category": "politica"
   },
   {

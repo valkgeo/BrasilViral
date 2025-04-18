@@ -2782,5 +2782,53 @@
     "filepath": "./categorias/curiosidades/a-volta-de-three-mile-island-20250418032510.html",
     "url_path": "categorias/curiosidades/a-volta-de-three-mile-island-20250418032510.html",
     "publish_timestamp": "2025-04-18T03:25:10.749277"
+  },
+  "d8c24e5c47d2b086ee5a355e4803d861": {
+    "title": "bahia",
+    "category": "esportes",
+    "source_url": "https://ge.globo.com/ba/",
+    "filepath": "./categorias/esportes/bahia-20250418034012.html",
+    "url_path": "categorias/esportes/bahia-20250418034012.html",
+    "publish_timestamp": "2025-04-18T03:40:12.901281"
+  },
+  "0f5b4d08fbc39638a4c3a338e666b9f2": {
+    "title": "Chocolates, azeite e bacalhau mais caros deixam a Páscoa 2025 mais salgada",
+    "category": "economia",
+    "source_url": "https://economia.uol.com.br/noticias/redacao/2025/04/17/inflacao-da-pascoa.htm",
+    "filepath": "./categorias/economia/chocolates-azeite-e-bacalhau-mais-caros-deixam-a-p-20250418035003.html",
+    "url_path": "categorias/economia/chocolates-azeite-e-bacalhau-mais-caros-deixam-a-p-20250418035003.html",
+    "publish_timestamp": "2025-04-18T03:50:03.064972"
+  },
+  "17d401c71ca9c93b13268082bdcf3b27": {
+    "title": "Em recuperação, Bolsonaro publica vídeo fazendo fisioterapia no hospital",
+    "category": "politica",
+    "source_url": "https://www.cnnbrasil.com.br/politica/em-recuperacao-bolsonaro-publica-video-fazendo-fisioterapia-no-hospital/",
+    "filepath": "./categorias/politica/em-recuperacao-bolsonaro-publica-video-fazendo-fis-20250418035944.html",
+    "url_path": "categorias/politica/em-recuperacao-bolsonaro-publica-video-fazendo-fis-20250418035944.html",
+    "publish_timestamp": "2025-04-18T03:59:44.396289"
+  },
+  "91df07b10ffe8f99006e8c0c677e0b97": {
+    "title": "Ofertas do dia: até 31% off em smartphones Samsung Galaxy!",
+    "category": "tecnologia",
+    "source_url": "https://olhardigital.com.br/2025/04/17/reviews/ofertas-do-dia-ate-31-off-em-smartphones-samsung-galaxy/",
+    "filepath": "./categorias/tecnologia/ofertas-do-dia-ate-31-off-em-smartphones-samsung-g-20250418040922.html",
+    "url_path": "categorias/tecnologia/ofertas-do-dia-ate-31-off-em-smartphones-samsung-g-20250418040922.html",
+    "publish_timestamp": "2025-04-18T04:09:22.743706"
+  },
+  "71683834b86ef027d310d7ab008b0c76": {
+    "title": "BBB 25 | Quem já foi eliminado da edição?",
+    "category": "entretenimento",
+    "source_url": "https://www.omelete.com.br/series-tv/bbb-25-quem-ja-foi-eliminado",
+    "filepath": "./categorias/entretenimento/bbb-25-quem-ja-foi-eliminado-da-edicao-20250418041912.html",
+    "url_path": "categorias/entretenimento/bbb-25-quem-ja-foi-eliminado-da-edicao-20250418041912.html",
+    "publish_timestamp": "2025-04-18T04:19:12.563833"
+  },
+  "988921690b5e6db8a757381f57be49cd": {
+    "title": "Buraco negro enorme acorda e astrônomos observam surgir evento explosivo inédito",
+    "category": "curiosidades",
+    "source_url": "https://revistagalileu.globo.com/ciencia/espaco/noticia/2025/04/buraco-negro-enorme-acorda-e-astronomos-observam-surgir-evento-explosivo-inedito.ghtml",
+    "filepath": "./categorias/curiosidades/buraco-negro-enorme-acorda-e-astronomos-observam-s-20250418042850.html",
+    "url_path": "categorias/curiosidades/buraco-negro-enorme-acorda-e-astronomos-observam-s-20250418042850.html",
+    "publish_timestamp": "2025-04-18T04:28:50.460119"
   }
 }
