@@ -1,8 +1,15 @@
 [
   {
+    "title": "É possível aprender a escrever? Como são os cursos de escrita criativa",
+    "summary": "A pergunta sobre se é possível aprender a escrever é comum entre aqueles que desejam desenvolver suas habilidades literárias. Um exemplo inspirador é o de Stênio Gardel, que ingressou em um curso de escrita criativa ministrado pela escritora Socorro Acioli em Fortaleza, no final de 2016. Na época, Gardel já escrevia textos esparsos e tinha em mente alguns elementos de um romance. Esse curso foi fundamental para o desenvolvimento de sua escrita, e deu origem ao seu romance de estreia, \"A palavra que resta\", que se tornou finalista do Prêmio Jabuti e, após ser traduzido nos Estados Unidos, venceu o National Book Award.",
+    "timestamp": "2025-04-18T12:44:00",
+    "link": "categorias/economia/poss-vel-aprender-a-escrever-como-s-o-os-cursos-de-escrita-criativa.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "{{TITULO}}",
     "summary": "",
-    "timestamp": "2025-04-18T11:10:22.183266",
+    "timestamp": "2025-04-18T12:22:52.320217",
     "link": "categorias/economia/titulo.html",
     "image": "images/placeholder.jpg"
   },
@@ -18,13 +25,6 @@
     "summary": "A MRV, uma das principais empresas de desenvolvimento imobiliário do país, está trabalhando para reduzir seus estoques de terrenos não lançados. Atualmente, a empresa tem um estoque pago de terrenos no valor de R$ 2,387 bilhões, e a meta é diminuir esse número para R$ 1 bilhão até o final de 2029. Isso representa uma redução de R$ 1,4 bilhão nos próximos quatro anos.",
     "timestamp": "2025-04-18T06:38:00",
     "link": "categorias/economia/mrv-quer-reduzir-estoques-de-terreno-em-r-1-4-bilh-o-at-2029.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "Esqueça os chats: agentes marcam a nova era da inteligência artificial generativa",
-    "summary": "A inteligência artificial generativa está passando por uma nova era, e os agentes são os principais responsáveis por essa mudança. De acordo com o Google Cloud, os agentes são sistemas inteligentes que demonstram raciocínio, planejamento, memória e a capacidade de usar ferramentas. Eles são capazes de pensar vários passos à frente, usar ferramentas, incluindo trabalhar com softwares e sistemas para realizar tarefas em nome do usuário e sob sua supervisão.",
-    "timestamp": "2025-04-18T05:34:00",
-    "link": "categorias/economia/esque-a-os-chats-agentes-marcam-a-nova-era-da-intelig-ncia-artificial-generativa.html",
     "image": "images/placeholder.jpg"
   }
 ]
