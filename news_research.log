@@ -5082,3 +5082,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-18 13:22:59,952 - NewsResearchAgent - INFO - Cache de notícias salvo com 2467 entradas
 2025-04-18 13:22:59,956 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 378 entradas
 2025-04-18 13:22:59,956 - NewsResearchAgent - INFO - Notícia publicada: Como realmente era o Estreito de Bering em ./categorias/curiosidades/como-realmente-era-o-estreito-de-bering-20250418132259.html
+2025-04-18 14:13:02,214 - NewsResearchAgent - INFO - Cache de notícias carregado com 2467 entradas
+2025-04-18 14:13:02,216 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 378 entradas
+2025-04-18 14:13:15,160 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 14:13:15,160 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-18 14:13:16,638 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-18 14:13:17,352 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-18 14:13:18,617 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-18 14:13:23,472 - NewsResearchAgent - INFO - Cache de notícias salvo com 2473 entradas
+2025-04-18 14:13:23,476 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 378 entradas
+2025-04-18 14:13:23,487 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria esportes
+2025-04-18 14:22:51,026 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/verstappen-recebe-proposta-bilionaria-para-trocar--20250418142251.jpg
+2025-04-18 14:22:51,026 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Verstappen recebe proposta bilionária para trocar de equipe, diz jornal
+2025-04-18 14:22:51,093 - NewsResearchAgent - INFO - Cache de notícias salvo com 2473 entradas
+2025-04-18 14:22:51,097 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 379 entradas
+2025-04-18 14:22:51,097 - NewsResearchAgent - INFO - Notícia publicada: Verstappen recebe proposta bilionária para trocar de equipe, diz jornal em ./categorias/esportes/verstappen-recebe-proposta-bilionaria-para-trocar--20250418142251.html
+2025-04-18 14:22:51,491 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 14:22:51,491 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-18 14:22:54,704 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-18 14:23:01,091 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-18 14:23:02,036 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-18 14:23:02,147 - NewsResearchAgent - INFO - Cache de notícias salvo com 2478 entradas
+2025-04-18 14:23:02,151 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 379 entradas
+2025-04-18 14:23:02,159 - NewsResearchAgent - INFO - Encontradas 6 notícias virais na categoria economia
+2025-04-18 14:32:38,782 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/supremo-estuda-relaxar-punicoes-contra-condenados--20250418143238.jpg
+2025-04-18 14:32:38,782 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Supremo estuda relaxar punições contra condenados do 8 de janeiro
+2025-04-18 14:32:38,846 - NewsResearchAgent - INFO - Cache de notícias salvo com 2478 entradas
+2025-04-18 14:32:38,850 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 380 entradas
+2025-04-18 14:32:38,850 - NewsResearchAgent - INFO - Notícia publicada: Supremo estuda relaxar punições contra condenados do 8 de janeiro em ./categorias/economia/supremo-estuda-relaxar-punicoes-contra-condenados--20250418143238.html
+2025-04-18 14:32:39,361 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 14:32:39,361 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-18 14:32:40,779 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-18 14:32:42,432 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-18 14:32:43,495 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-18 14:32:44,891 - NewsResearchAgent - INFO - Cache de notícias salvo com 2482 entradas
+2025-04-18 14:32:44,895 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 380 entradas
+2025-04-18 14:32:44,909 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria politica
+2025-04-18 14:42:27,904 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/entusiasmo-do-bolsonarismo-por-trump-revelouse-um--20250418144227.jpg
+2025-04-18 14:42:27,904 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Entusiasmo do bolsonarismo por Trump revelou-se um mau negócio
+2025-04-18 14:42:27,968 - NewsResearchAgent - INFO - Cache de notícias salvo com 2482 entradas
+2025-04-18 14:42:27,972 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 381 entradas
+2025-04-18 14:42:27,972 - NewsResearchAgent - INFO - Notícia publicada: Entusiasmo do bolsonarismo por Trump revelou-se um mau negócio em ./categorias/politica/entusiasmo-do-bolsonarismo-por-trump-revelouse-um--20250418144227.html
+2025-04-18 14:42:28,188 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 14:42:28,188 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-18 14:42:28,677 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-18 14:42:29,892 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-18 14:42:31,206 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-18 14:42:31,865 - NewsResearchAgent - INFO - Cache de notícias salvo com 2486 entradas
+2025-04-18 14:42:31,869 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 381 entradas
+2025-04-18 14:42:31,878 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria tecnologia
+2025-04-18 14:52:05,200 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/openai-lanca-modelo-de-raciocinio-mais-avancado-de-20250418145205.jpg
+2025-04-18 14:52:05,200 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: OpenAI lança modelo de raciocínio mais avançado de sua história
+2025-04-18 14:52:05,265 - NewsResearchAgent - INFO - Cache de notícias salvo com 2486 entradas
+2025-04-18 14:52:05,269 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 382 entradas
+2025-04-18 14:52:05,269 - NewsResearchAgent - INFO - Notícia publicada: OpenAI lança modelo de raciocínio mais avançado de sua história em ./categorias/tecnologia/openai-lanca-modelo-de-raciocinio-mais-avancado-de-20250418145205.html
+2025-04-18 14:52:05,635 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 14:52:05,635 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-18 14:52:09,293 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-18 14:52:09,524 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-18 14:52:14,814 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-18 14:52:15,242 - NewsResearchAgent - INFO - Cache de notícias salvo com 2490 entradas
+2025-04-18 14:52:15,246 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 382 entradas
+2025-04-18 14:52:15,258 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria entretenimento
+2025-04-18 15:01:45,961 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/911-perde-um-de-seus-protagonistas-apos-oito-tempo-20250418150145.jpg
+2025-04-18 15:01:45,961 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: 9-1-1 perde um de seus protagonistas após oito temporadas no elenco
+2025-04-18 15:01:46,026 - NewsResearchAgent - INFO - Cache de notícias salvo com 2490 entradas
+2025-04-18 15:01:46,030 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 383 entradas
+2025-04-18 15:01:46,030 - NewsResearchAgent - INFO - Notícia publicada: 9-1-1 perde um de seus protagonistas após oito temporadas no elenco em ./categorias/entretenimento/911-perde-um-de-seus-protagonistas-apos-oito-tempo-20250418150145.html
+2025-04-18 15:01:46,266 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 15:01:46,267 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-18 15:01:48,889 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-18 15:01:50,081 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-18 15:01:54,760 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-18 15:01:55,017 - NewsResearchAgent - INFO - Cache de notícias salvo com 2493 entradas
+2025-04-18 15:01:55,021 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 383 entradas
+2025-04-18 15:01:55,030 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria curiosidades
+2025-04-18 15:11:32,534 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/no-ninho-deste-passaro-estao-30-anos-de-lixo-human-20250418151132.jpg
+2025-04-18 15:11:32,534 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: No ninho deste pássaro estão 30 anos de lixo humano
+2025-04-18 15:11:32,598 - NewsResearchAgent - INFO - Cache de notícias salvo com 2493 entradas
+2025-04-18 15:11:32,602 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 384 entradas
+2025-04-18 15:11:32,602 - NewsResearchAgent - INFO - Notícia publicada: No ninho deste pássaro estão 30 anos de lixo humano em ./categorias/curiosidades/no-ninho-deste-passaro-estao-30-anos-de-lixo-human-20250418151132.html
