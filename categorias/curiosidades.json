@@ -1,5 +1,19 @@
 [
   {
+    "title": "O sanduíche do McDonalds criado para agradar católicos na Sexta-Feira Santa",
+    "summary": "O sanduíche do McDonald's criado para agradar católicos na Sexta-Feira Santa é uma história interessante que remonta à década de 1960. Nessa época, o proprietário de uma filial do McDonald's nos EUA, Lou Groen, notou uma queda significativa nas vendas durante a Quaresma, especialmente na Sexta-Feira Santa. Isso ocorria porque os fiéis católicos fazem abstenção de carnes vermelhas e frango nesse dia, o que afetava negativamente as vendas do restaurante.",
+    "timestamp": "2025-04-18T21:13:00",
+    "link": "categorias/curiosidades/o-sandu-che-do-mcdonalds-criado-para-agradar-cat-licos-na-sexta-feira-santa.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "title": "Exemplo de notícia de curiosidades",
+    "summary": "Este é um exemplo de notícia de curiosidades. Aqui você encontrará fatos interessantes, descobertas científicas, histórias inusitadas e fenômenos surpreendentes. O BrasilViral traz conteúdo que vai expandir seus conhecimentos e surpreender você. curiosidades.",
+    "timestamp": "2025-04-18T20:13:07.188716",
+    "link": "categorias/curiosidades/exemplo-de-not-cia-de-curiosidades.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "Homem recebe primeiro transplante de células-tronco para produzir espermatozoides",
     "summary": "Um homem nos Estados Unidos recebeu o primeiro transplante de células-tronco para produzir espermatozoides, uma nova abordagem para tratar a azoospermia, condição que afeta cerca de 1% dos homens mundialmente. A azoospermia ocorre quando não há espermatozoides no sêmen, e pode ser causada por diversas razões, incluindo condições médicas de nascença e tratamentos como a quimioterapia.",
     "timestamp": "2025-04-18T19:16:00",
@@ -7,24 +21,10 @@
     "image": "images/placeholder.jpg"
   },
   {
-    "title": "Exemplo de notícia de curiosidades",
-    "summary": "Este é um exemplo de notícia de curiosidades. Aqui você encontrará fatos interessantes, descobertas científicas, histórias inusitadas e fenômenos surpreendentes. O BrasilViral traz conteúdo que vai expandir seus conhecimentos e surpreender você. curiosidades.",
-    "timestamp": "2025-04-18T18:16:27.551059",
-    "link": "categorias/curiosidades/exemplo-de-not-cia-de-curiosidades.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
     "title": "As suas células podem \"ouvir\" sons; estudo explica como",
     "summary": "Um estudo recente publicado na revista Communications Biology, realizado por cientistas da Universidade de Kyoto, no Japão, revelou que as células do corpo humano podem \"ouvir\" sons e responder a eles. Isso pode parecer surpreendente, pois geralmente associamos a percepção sonora à audição, que ocorre nos ouvidos. No entanto, os pesquisadores descobriram que a pressão acústica transmitida pelo som pode induzir respostas celulares.",
     "timestamp": "2025-04-18T18:11:00",
     "link": "categorias/curiosidades/as-suas-c-lulas-podem-ouvir-sons-estudo-explica-como.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "Ferramenta criada na USP usa IA para \"medir\" agressividade de câncer",
-    "summary": "Uma ferramenta criada na Universidade de São Paulo (USP) utiliza inteligência artificial para medir a agressividade de alguns tipos de câncer. O modelo de aprendizado de máquina desenvolvido pelos cientistas é capaz de prever a agressividade de tumores por meio da análise de proteínas específicas, gerando um índice que varia de baixo a alto. Conforme o índice aumenta, o câncer tende a ser mais agressivo, resistente a medicamentos e propenso a recidivas.",
-    "timestamp": "2025-04-18T16:12:00",
-    "link": "categorias/curiosidades/ferramenta-criada-na-usp-usa-ia-para-medir-agressividade-de-c-ncer.html",
     "image": "images/placeholder.jpg"
   }
 ]

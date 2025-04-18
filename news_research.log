@@ -5405,3 +5405,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-18 19:16:41,209 - NewsResearchAgent - INFO - Cache de notícias salvo com 2562 entradas
 2025-04-18 19:16:41,213 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 402 entradas
 2025-04-18 19:16:41,213 - NewsResearchAgent - INFO - Notícia publicada: Homem recebe primeiro transplante de células-tronco para produzir espermatozoides em ./categorias/curiosidades/homem-recebe-primeiro-transplante-de-celulastronco-20250418191641.html
+2025-04-18 20:14:47,294 - NewsResearchAgent - INFO - Cache de notícias carregado com 2562 entradas
+2025-04-18 20:14:47,297 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 402 entradas
+2025-04-18 20:15:06,066 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 20:15:06,066 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-18 20:15:09,088 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-18 20:15:09,776 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-18 20:15:10,185 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-18 20:15:14,612 - NewsResearchAgent - INFO - Cache de notícias salvo com 2567 entradas
+2025-04-18 20:15:14,616 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 402 entradas
+2025-04-18 20:15:14,631 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria esportes
+2025-04-18 20:24:57,558 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/renato-mauricio-prado-critica-atitude-de-bap-preju-20250418202457.jpg
+2025-04-18 20:24:57,558 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Renato Maurício Prado critica atitude de Bap: ‘Prejudica o Flamengo’
+2025-04-18 20:24:57,628 - NewsResearchAgent - INFO - Cache de notícias salvo com 2567 entradas
+2025-04-18 20:24:57,632 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 403 entradas
+2025-04-18 20:24:57,633 - NewsResearchAgent - INFO - Notícia publicada: Renato Maurício Prado critica atitude de Bap: ‘Prejudica o Flamengo’ em ./categorias/esportes/renato-mauricio-prado-critica-atitude-de-bap-preju-20250418202457.html
+2025-04-18 20:24:58,033 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 20:24:58,033 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-18 20:25:01,855 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-18 20:25:07,425 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-18 20:25:07,969 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-18 20:25:08,162 - NewsResearchAgent - INFO - Cache de notícias salvo com 2573 entradas
+2025-04-18 20:25:08,166 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 403 entradas
+2025-04-18 20:25:08,179 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria economia
+2025-04-18 20:34:41,500 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/lirio-parisotto-desiste-de-ocupar-cadeira-no-conse-20250418203441.jpg
+2025-04-18 20:34:41,500 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Lírio Parisotto desiste de ocupar cadeira no Conselho de Administração da Hypera
+2025-04-18 20:34:41,566 - NewsResearchAgent - INFO - Cache de notícias salvo com 2573 entradas
+2025-04-18 20:34:41,571 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 404 entradas
+2025-04-18 20:34:41,571 - NewsResearchAgent - INFO - Notícia publicada: Lírio Parisotto desiste de ocupar cadeira no Conselho de Administração da Hypera em ./categorias/economia/lirio-parisotto-desiste-de-ocupar-cadeira-no-conse-20250418203441.html
+2025-04-18 20:34:41,884 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 20:34:41,884 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-18 20:34:43,649 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-18 20:34:44,520 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-18 20:34:45,174 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-18 20:34:46,728 - NewsResearchAgent - INFO - Cache de notícias salvo com 2575 entradas
+2025-04-18 20:34:46,732 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 404 entradas
+2025-04-18 20:34:46,742 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria politica
+2025-04-18 20:44:21,281 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/bolsonaro-tem-boa-evolucao-mas-segue-na-uti-diz-bo-20250418204421.jpg
+2025-04-18 20:44:21,281 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Bolsonaro tem 'boa evolução', mas segue na UTI, diz boletim médico
+2025-04-18 20:44:21,347 - NewsResearchAgent - INFO - Cache de notícias salvo com 2575 entradas
+2025-04-18 20:44:21,351 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 405 entradas
+2025-04-18 20:44:21,352 - NewsResearchAgent - INFO - Notícia publicada: Bolsonaro tem 'boa evolução', mas segue na UTI, diz boletim médico em ./categorias/politica/bolsonaro-tem-boa-evolucao-mas-segue-na-uti-diz-bo-20250418204421.html
+2025-04-18 20:44:21,667 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 20:44:21,668 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-18 20:44:24,832 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-18 20:44:25,670 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-18 20:44:27,115 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-18 20:44:28,149 - NewsResearchAgent - INFO - Cache de notícias salvo com 2582 entradas
+2025-04-18 20:44:28,154 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 405 entradas
+2025-04-18 20:44:28,172 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria tecnologia
+2025-04-18 20:53:58,111 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/iceberg-se-solta-e-revela-um-novo-mundo-na-antarti-20250418205358.jpg
+2025-04-18 20:53:58,111 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Iceberg se solta e revela um ‘novo mundo’ na Antártida
+2025-04-18 20:53:58,177 - NewsResearchAgent - INFO - Cache de notícias salvo com 2582 entradas
+2025-04-18 20:53:58,181 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 406 entradas
+2025-04-18 20:53:58,181 - NewsResearchAgent - INFO - Notícia publicada: Iceberg se solta e revela um ‘novo mundo’ na Antártida em ./categorias/tecnologia/iceberg-se-solta-e-revela-um-novo-mundo-na-antarti-20250418205358.html
+2025-04-18 20:53:58,541 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 20:53:58,541 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-18 20:53:58,937 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-18 20:53:59,057 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-18 20:54:01,465 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-18 20:54:04,951 - NewsResearchAgent - INFO - Cache de notícias salvo com 2584 entradas
+2025-04-18 20:54:04,956 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 406 entradas
+2025-04-18 20:54:04,972 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria entretenimento
+2025-04-18 21:03:40,109 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/limonov-encarna-em-filme-a-carencia-incontrolavel--20250418210340.jpg
+2025-04-18 21:03:40,109 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Limonov encarna em filme a carência incontrolável do seu protagonista real
+2025-04-18 21:03:40,175 - NewsResearchAgent - INFO - Cache de notícias salvo com 2584 entradas
+2025-04-18 21:03:40,179 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 407 entradas
+2025-04-18 21:03:40,179 - NewsResearchAgent - INFO - Notícia publicada: Limonov encarna em filme a carência incontrolável do seu protagonista real em ./categorias/entretenimento/limonov-encarna-em-filme-a-carencia-incontrolavel--20250418210340.html
+2025-04-18 21:03:40,522 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 21:03:40,522 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-18 21:03:43,823 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-18 21:03:44,067 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-18 21:03:45,778 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-18 21:03:46,059 - NewsResearchAgent - INFO - Cache de notícias salvo com 2586 entradas
+2025-04-18 21:03:46,063 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 407 entradas
+2025-04-18 21:03:46,075 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria curiosidades
+2025-04-18 21:13:20,049 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/o-sanduiche-do-mcdonalds-criado-para-agradar-catol-20250418211320.jpg
+2025-04-18 21:13:20,050 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: O sanduíche do McDonalds criado para agradar católicos na Sexta-Feira Santa
+2025-04-18 21:13:20,116 - NewsResearchAgent - INFO - Cache de notícias salvo com 2586 entradas
+2025-04-18 21:13:20,120 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 408 entradas
+2025-04-18 21:13:20,121 - NewsResearchAgent - INFO - Notícia publicada: O sanduíche do McDonalds criado para agradar católicos na Sexta-Feira Santa em ./categorias/curiosidades/o-sanduiche-do-mcdonalds-criado-para-agradar-catol-20250418211320.html
