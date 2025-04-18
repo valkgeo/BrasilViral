@@ -5324,3 +5324,84 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-18 18:11:57,809 - NewsResearchAgent - INFO - Cache de notícias salvo com 2536 entradas
 2025-04-18 18:11:57,813 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 396 entradas
 2025-04-18 18:11:57,813 - NewsResearchAgent - INFO - Notícia publicada: As suas células podem "ouvir" sons; estudo explica como em ./categorias/curiosidades/as-suas-celulas-podem-ouvir-sons-estudo-explica-co-20250418181157.html
+2025-04-18 18:18:03,752 - NewsResearchAgent - INFO - Cache de notícias carregado com 2536 entradas
+2025-04-18 18:18:03,755 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 396 entradas
+2025-04-18 18:18:18,528 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 18:18:18,529 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-18 18:18:21,043 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-18 18:18:21,616 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-18 18:18:22,102 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-18 18:18:30,884 - NewsResearchAgent - INFO - Cache de notícias salvo com 2540 entradas
+2025-04-18 18:18:30,889 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 396 entradas
+2025-04-18 18:18:30,901 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria esportes
+2025-04-18 18:27:54,293 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/gp-da-arabia-saudita-norris-lidera-2-treino-livre--20250418182754.jpg
+2025-04-18 18:27:54,293 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: GP da Arábia Saudita: Norris lidera 2º treino livre sem Bortoleto
+2025-04-18 18:27:54,362 - NewsResearchAgent - INFO - Cache de notícias salvo com 2540 entradas
+2025-04-18 18:27:54,367 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 397 entradas
+2025-04-18 18:27:54,367 - NewsResearchAgent - INFO - Notícia publicada: GP da Arábia Saudita: Norris lidera 2º treino livre sem Bortoleto em ./categorias/esportes/gp-da-arabia-saudita-norris-lidera-2-treino-livre--20250418182754.html
+2025-04-18 18:27:54,948 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 18:27:54,948 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-18 18:28:00,534 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-18 18:28:08,458 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-18 18:28:10,413 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-18 18:28:10,615 - NewsResearchAgent - INFO - Cache de notícias salvo com 2544 entradas
+2025-04-18 18:28:10,619 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 397 entradas
+2025-04-18 18:28:10,629 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria economia
+2025-04-18 18:37:38,789 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/bid-vai-ampliar-financiamento-climatico-anual-para-20250418183738.jpg
+2025-04-18 18:37:38,789 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: BID vai ampliar financiamento climático anual para R$ 65,2 bilhões até 2030
+2025-04-18 18:37:38,854 - NewsResearchAgent - INFO - Cache de notícias salvo com 2544 entradas
+2025-04-18 18:37:38,858 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 398 entradas
+2025-04-18 18:37:38,858 - NewsResearchAgent - INFO - Notícia publicada: BID vai ampliar financiamento climático anual para R$ 65,2 bilhões até 2030 em ./categorias/economia/bid-vai-ampliar-financiamento-climatico-anual-para-20250418183738.html
+2025-04-18 18:37:39,249 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 18:37:39,249 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-18 18:37:42,805 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-18 18:37:46,669 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-18 18:37:47,172 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-18 18:37:57,833 - NewsResearchAgent - ERROR - Erro ao processar link de notícia https://www.cnnbrasil.com.br/sitemap_index.xml: HTTPSConnectionPool(host='www.cnnbrasil.com.br', port=443): Read timed out. (read timeout=10)
+2025-04-18 18:37:57,980 - NewsResearchAgent - INFO - Cache de notícias salvo com 2548 entradas
+2025-04-18 18:37:57,984 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 398 entradas
+2025-04-18 18:37:57,995 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria politica
+2025-04-18 18:47:36,197 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/dialogos-com-mario-sergio-conti-20250418184736.jpg
+2025-04-18 18:47:36,197 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Diálogos Com Mario Sergio Conti
+2025-04-18 18:47:36,263 - NewsResearchAgent - INFO - Cache de notícias salvo com 2548 entradas
+2025-04-18 18:47:36,267 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 399 entradas
+2025-04-18 18:47:36,267 - NewsResearchAgent - INFO - Notícia publicada: Diálogos Com Mario Sergio Conti em ./categorias/politica/dialogos-com-mario-sergio-conti-20250418184736.html
+2025-04-18 18:47:36,729 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 18:47:36,729 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-18 18:47:40,400 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-18 18:47:41,518 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-18 18:47:44,716 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-18 18:47:45,617 - NewsResearchAgent - INFO - Cache de notícias salvo com 2555 entradas
+2025-04-18 18:47:45,621 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 399 entradas
+2025-04-18 18:47:45,635 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria tecnologia
+2025-04-18 18:57:11,709 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/samsung-retoma-distribuicao-da-one-ui-7-apos-suspe-20250418185711.jpg
+2025-04-18 18:57:11,709 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Samsung retoma distribuição da One UI 7 após suspensão temporária
+2025-04-18 18:57:11,774 - NewsResearchAgent - INFO - Cache de notícias salvo com 2555 entradas
+2025-04-18 18:57:11,778 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 400 entradas
+2025-04-18 18:57:11,778 - NewsResearchAgent - INFO - Notícia publicada: Samsung retoma distribuição da One UI 7 após suspensão temporária em ./categorias/tecnologia/samsung-retoma-distribuicao-da-one-ui-7-apos-suspe-20250418185711.html
+2025-04-18 18:57:12,251 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 18:57:12,251 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-18 18:57:25,522 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-18 18:57:25,931 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-18 18:57:30,955 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-18 18:57:33,960 - NewsResearchAgent - INFO - Cache de notícias salvo com 2561 entradas
+2025-04-18 18:57:33,965 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 400 entradas
+2025-04-18 18:57:33,982 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria entretenimento
+2025-04-18 19:07:01,431 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/toxico-e-ardiloso-como-alice-wegmann-foi-parar-em--20250418190701.jpg
+2025-04-18 19:07:01,432 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: 'Tóxico e ardiloso': como Alice Wegmann foi parar em polêmica de Cauã
+2025-04-18 19:07:01,497 - NewsResearchAgent - INFO - Cache de notícias salvo com 2561 entradas
+2025-04-18 19:07:01,501 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 401 entradas
+2025-04-18 19:07:01,501 - NewsResearchAgent - INFO - Notícia publicada: 'Tóxico e ardiloso': como Alice Wegmann foi parar em polêmica de Cauã em ./categorias/entretenimento/toxico-e-ardiloso-como-alice-wegmann-foi-parar-em--20250418190701.html
+2025-04-18 19:07:02,105 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-18 19:07:02,106 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-18 19:07:04,790 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-18 19:07:05,186 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-18 19:07:08,868 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-18 19:07:09,196 - NewsResearchAgent - INFO - Cache de notícias salvo com 2562 entradas
+2025-04-18 19:07:09,200 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 401 entradas
+2025-04-18 19:07:09,211 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria curiosidades
+2025-04-18 19:16:41,144 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/homem-recebe-primeiro-transplante-de-celulastronco-20250418191641.jpg
+2025-04-18 19:16:41,144 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Homem recebe primeiro transplante de células-tronco para produzir espermatozoides
+2025-04-18 19:16:41,209 - NewsResearchAgent - INFO - Cache de notícias salvo com 2562 entradas
+2025-04-18 19:16:41,213 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 402 entradas
+2025-04-18 19:16:41,213 - NewsResearchAgent - INFO - Notícia publicada: Homem recebe primeiro transplante de células-tronco para produzir espermatozoides em ./categorias/curiosidades/homem-recebe-primeiro-transplante-de-celulastronco-20250418191641.html

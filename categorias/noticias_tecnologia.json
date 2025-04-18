@@ -1,18 +1,26 @@
 [
   {
-    "title": "Motorola lança tablet com som da JBL e tela de 144 Hz",
-    "summary": "A Motorola lançou recentemente um novo tablet, o Moto Pad 60 Pro, que se encaixa na categoria intermediária avançada. Este dispositivo vem equipado com som da JBL e tela de alta performance, o que promete oferecer uma experiência de entretenimento de alta qualidade.",
-    "timestamp": "2025-04-18T17:52:00",
-    "link": "categorias/tecnologia/motorola-lanca-tablet-com-som-da-jbl-e-tela-de-144-20250418175214.html",
-    "image": "../../images/tecnologia/motorola-lanca-tablet-com-som-da-jbl-e-tela-de-144-20250418175214.jpg",
+    "title": "Samsung retoma distribuição da One UI 7 após suspensão temporária",
+    "summary": "A Samsung retomou a distribuição da One UI 7 após uma suspensão temporária. A atualização havia sido interrompida na segunda-feira, 14, devido à descoberta de um bug grave. No entanto, na quinta-feira, 17, a empresa deu sequência à distribuição da atualização, que agora está disponível para os usuários dos Galaxy S24 vendidos na Coreia do Sul.",
+    "timestamp": "2025-04-18T18:57:00",
+    "link": "categorias/tecnologia/samsung-retoma-distribuicao-da-one-ui-7-apos-suspe-20250418185711.html",
+    "image": "../../images/tecnologia/samsung-retoma-distribuicao-da-one-ui-7-apos-suspe-20250418185711.jpg",
     "category": "tecnologia"
   },
   {
     "title": "Exemplo de notícia de tecnologia",
     "summary": "Este é um exemplo de notícia tecnológica. Aqui você encontrará informações sobre lançamentos de produtos, inovações tecnológicas, tendências digitais e avanços científicos. O BrasilViral traz as novidades mais recentes do mundo da tecnologia. tecnologia.",
-    "timestamp": "2025-04-18T17:10:51.539023",
+    "timestamp": "2025-04-18T18:16:27.571059",
     "link": "categorias/tecnologia/exemplo_tecnologia.html",
     "image": "{{IMAGEM_URL}}",
+    "category": "tecnologia"
+  },
+  {
+    "title": "Motorola lança tablet com som da JBL e tela de 144 Hz",
+    "summary": "A Motorola lançou recentemente um novo tablet, o Moto Pad 60 Pro, que se encaixa na categoria intermediária avançada. Este dispositivo vem equipado com som da JBL e tela de alta performance, o que promete oferecer uma experiência de entretenimento de alta qualidade.",
+    "timestamp": "2025-04-18T17:52:00",
+    "link": "categorias/tecnologia/motorola-lanca-tablet-com-som-da-jbl-e-tela-de-144-20250418175214.html",
+    "image": "../../images/tecnologia/motorola-lanca-tablet-com-som-da-jbl-e-tela-de-144-20250418175214.jpg",
     "category": "tecnologia"
   },
   {
