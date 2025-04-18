@@ -1,18 +1,18 @@
 [
   {
+    "title": "{{TITULO}}",
+    "summary": "",
+    "timestamp": "2025-04-18T16:14:40.151217",
+    "link": "categorias/economia/exemplo_economia.html",
+    "image": "{{IMAGEM_URL}}",
+    "category": "economia"
+  },
+  {
     "title": "Governador da Califórnia processa Trump por tarifaço",
     "summary": "O governador do estado da Califórnia, Gavin Newsom, deu início a um processo contra o governo Trump, questionando a autoridade do presidente para impor tarifas sobre uma ampla gama de países. Essa medida desencadeou uma guerra comercial global e o governador pede ao tribunal que bloqueie imediatamente as tarifas.",
     "timestamp": "2025-04-18T15:33:00",
     "link": "categorias/economia/governador-da-california-processa-trump-por-tarifa-20250418153352.html",
     "image": "../../images/economia/governador-da-california-processa-trump-por-tarifa-20250418153352.jpg",
-    "category": "economia"
-  },
-  {
-    "title": "{{TITULO}}",
-    "summary": "",
-    "timestamp": "2025-04-18T15:12:37.006749",
-    "link": "categorias/economia/exemplo_economia.html",
-    "image": "{{IMAGEM_URL}}",
     "category": "economia"
   },
   {

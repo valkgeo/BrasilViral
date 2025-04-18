@@ -1,18 +1,18 @@
 [
   {
+    "title": "Exemplo de notícia de tecnologia",
+    "summary": "Este é um exemplo de notícia tecnológica. Aqui você encontrará informações sobre lançamentos de produtos, inovações tecnológicas, tendências digitais e avanços científicos. O BrasilViral traz as novidades mais recentes do mundo da tecnologia. tecnologia.",
+    "timestamp": "2025-04-18T16:14:40.166217",
+    "link": "categorias/tecnologia/exemplo_tecnologia.html",
+    "image": "{{IMAGEM_URL}}",
+    "category": "tecnologia"
+  },
+  {
     "title": "Galaxy S24 Ultra fica 47% mais barato em promoção no Mercado Livre",
     "summary": "O Galaxy S24 Ultra, modelo mais avançado da linha Galaxy S de 2024, está sendo oferecido com um desconto significativo no Mercado Livre. Com o uso do cupom 250DESCONTO, é possível adquirir o aparelho por apenas R$ 5.273 à vista, utilizando o Pix. Essa oferta representa um desconto de 47% em relação ao preço original da versão de 256 GB do S24 Ultra, que é de R$ 9.999.",
     "timestamp": "2025-04-18T15:53:00",
     "link": "categorias/tecnologia/galaxy-s24-ultra-fica-47-mais-barato-em-promocao-n-20250418155309.html",
     "image": "../../images/tecnologia/galaxy-s24-ultra-fica-47-mais-barato-em-promocao-n-20250418155309.jpg",
-    "category": "tecnologia"
-  },
-  {
-    "title": "Exemplo de notícia de tecnologia",
-    "summary": "Este é um exemplo de notícia tecnológica. Aqui você encontrará informações sobre lançamentos de produtos, inovações tecnológicas, tendências digitais e avanços científicos. O BrasilViral traz as novidades mais recentes do mundo da tecnologia. tecnologia.",
-    "timestamp": "2025-04-18T15:12:37.021749",
-    "link": "categorias/tecnologia/exemplo_tecnologia.html",
-    "image": "{{IMAGEM_URL}}",
     "category": "tecnologia"
   },
   {

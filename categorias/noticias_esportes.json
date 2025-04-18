@@ -1,18 +1,18 @@
 [
   {
+    "title": "Exemplo de notícia de esportes",
+    "summary": "Este é um exemplo de notícia esportiva. Aqui você encontrará as últimas informações sobre competições, resultados de jogos, transferências de jogadores e muito mais. O BrasilViral traz cobertura completa dos principais eventos esportivos nacionais e internacionais. esportes.",
+    "timestamp": "2025-04-18T16:14:40.157217",
+    "link": "categorias/esportes/exemplo_esportes.html",
+    "image": "{{IMAGEM_URL}}",
+    "category": "esportes"
+  },
+  {
     "title": "Futebol na ESPN - Jogos, estatísticas e lances",
     "summary": "O mundo do futebol está em constante movimento, com jogos importantes e notícias interessantes surgindo a cada dia. Recentemente, o jornal Mundo Deportivo revelou informações sobre o desempenho de um jogador brasileiro, que tornou uma operação de transferência \"barata\" devido ao seu excelente desempenho.",
     "timestamp": "2025-04-18T15:24:00",
     "link": "categorias/esportes/futebol-na-espn-jogos-estatisticas-e-lances-20250418152410.html",
     "image": "../../images/esportes/futebol-na-espn-jogos-estatisticas-e-lances-20250418152410.jpg",
-    "category": "esportes"
-  },
-  {
-    "title": "Exemplo de notícia de esportes",
-    "summary": "Este é um exemplo de notícia esportiva. Aqui você encontrará as últimas informações sobre competições, resultados de jogos, transferências de jogadores e muito mais. O BrasilViral traz cobertura completa dos principais eventos esportivos nacionais e internacionais. esportes.",
-    "timestamp": "2025-04-18T15:12:37.013749",
-    "link": "categorias/esportes/exemplo_esportes.html",
-    "image": "{{IMAGEM_URL}}",
     "category": "esportes"
   },
   {

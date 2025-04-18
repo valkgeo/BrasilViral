@@ -1,18 +1,18 @@
 [
   {
+    "title": "Exemplo de notícia de curiosidades",
+    "summary": "Este é um exemplo de notícia de curiosidades. Aqui você encontrará fatos interessantes, descobertas científicas, histórias inusitadas e fenômenos surpreendentes. O BrasilViral traz conteúdo que vai expandir seus conhecimentos e surpreender você. curiosidades.",
+    "timestamp": "2025-04-18T16:14:40.146217",
+    "link": "categorias/curiosidades/exemplo_curiosidades.html",
+    "image": "{{IMAGEM_URL}}",
+    "category": "curiosidades"
+  },
+  {
     "title": "Ferramenta criada na USP usa IA para \"medir\" agressividade de câncer",
     "summary": "Uma ferramenta criada na Universidade de São Paulo (USP) utiliza inteligência artificial para medir a agressividade de alguns tipos de câncer. O modelo de aprendizado de máquina desenvolvido pelos cientistas é capaz de prever a agressividade de tumores por meio da análise de proteínas específicas, gerando um índice que varia de baixo a alto. Conforme o índice aumenta, o câncer tende a ser mais agressivo, resistente a medicamentos e propenso a recidivas.",
     "timestamp": "2025-04-18T16:12:00",
     "link": "categorias/curiosidades/ferramenta-criada-na-usp-usa-ia-para-medir-agressi-20250418161248.html",
     "image": "../../images/curiosidades/ferramenta-criada-na-usp-usa-ia-para-medir-agressi-20250418161248.jpg",
-    "category": "curiosidades"
-  },
-  {
-    "title": "Exemplo de notícia de curiosidades",
-    "summary": "Este é um exemplo de notícia de curiosidades. Aqui você encontrará fatos interessantes, descobertas científicas, histórias inusitadas e fenômenos surpreendentes. O BrasilViral traz conteúdo que vai expandir seus conhecimentos e surpreender você. curiosidades.",
-    "timestamp": "2025-04-18T15:12:37.002749",
-    "link": "categorias/curiosidades/exemplo_curiosidades.html",
-    "image": "{{IMAGEM_URL}}",
     "category": "curiosidades"
   },
   {

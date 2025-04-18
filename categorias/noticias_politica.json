@@ -1,18 +1,18 @@
 [
   {
+    "title": "Exemplo de notícia de politica",
+    "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
+    "timestamp": "2025-04-18T16:14:40.162217",
+    "link": "categorias/politica/exemplo_politica.html",
+    "image": "{{IMAGEM_URL}}",
+    "category": "politica"
+  },
+  {
     "title": "Ipsos-Ipec: 50% acham que política comercial de Trump prejudica Brasil",
     "summary": "Uma pesquisa recente realizada pela Ipsos-Ipec revelou que a maioria dos brasileiros acredita que as políticas comerciais do presidente dos Estados Unidos, Donald Trump, têm um impacto negativo na economia do Brasil. De acordo com o levantamento, 50% dos entrevistados consideram que as decisões de Trump prejudicam a economia brasileira.",
     "timestamp": "2025-04-18T15:43:00",
     "link": "categorias/politica/ipsosipec-50-acham-que-politica-comercial-de-trump-20250418154333.html",
     "image": "../../images/politica/ipsosipec-50-acham-que-politica-comercial-de-trump-20250418154333.jpg",
-    "category": "politica"
-  },
-  {
-    "title": "Exemplo de notícia de politica",
-    "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
-    "timestamp": "2025-04-18T15:12:37.017749",
-    "link": "categorias/politica/exemplo_politica.html",
-    "image": "{{IMAGEM_URL}}",
     "category": "politica"
   },
   {
