@@ -5566,3 +5566,85 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-18 23:11:36,156 - NewsResearchAgent - INFO - Cache de notícias salvo com 2607 entradas
 2025-04-18 23:11:36,161 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 414 entradas
 2025-04-18 23:11:36,161 - NewsResearchAgent - INFO - Notícia publicada: A história do bacalhau, dos vikings ao almoço de Páscoa em ./categorias/curiosidades/a-historia-do-bacalhau-dos-vikings-ao-almoco-de-pa-20250418231136.html
+2025-04-19 00:58:56,497 - NewsResearchAgent - INFO - Cache de notícias carregado com 2607 entradas
+2025-04-19 00:58:56,500 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 414 entradas
+2025-04-19 00:59:13,842 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 00:59:13,842 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-19 00:59:19,278 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-19 00:59:20,953 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-19 00:59:21,401 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-19 00:59:25,236 - NewsResearchAgent - INFO - Cache de notícias salvo com 2612 entradas
+2025-04-19 00:59:25,240 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 414 entradas
+2025-04-19 00:59:25,254 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria esportes
+2025-04-19 01:08:56,193 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/no-detalhe-boca-juniors-vence-e-e-o-primeiro-final-20250419010856.jpg
+2025-04-19 01:08:56,193 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: No detalhe, Boca Juniors vence e é o primeiro finalista da BCLA
+2025-04-19 01:08:56,264 - NewsResearchAgent - INFO - Cache de notícias salvo com 2612 entradas
+2025-04-19 01:08:56,269 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 415 entradas
+2025-04-19 01:08:56,269 - NewsResearchAgent - INFO - Notícia publicada: No detalhe, Boca Juniors vence e é o primeiro finalista da BCLA em ./categorias/esportes/no-detalhe-boca-juniors-vence-e-e-o-primeiro-final-20250419010856.html
+2025-04-19 01:08:57,168 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 01:08:57,168 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-19 01:09:00,885 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-19 01:09:05,260 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-19 01:09:06,588 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-19 01:09:06,761 - NewsResearchAgent - INFO - Cache de notícias salvo com 2617 entradas
+2025-04-19 01:09:06,765 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 415 entradas
+2025-04-19 01:09:06,778 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria economia
+2025-04-19 01:18:34,731 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/canada-abandona-tarifas-retaliatorias-dolar-por-do-20250419011834.jpg
+2025-04-19 01:18:34,731 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Canadá abandona tarifas retaliatórias “dólar por dólar” contra os EUA
+2025-04-19 01:18:34,797 - NewsResearchAgent - INFO - Cache de notícias salvo com 2617 entradas
+2025-04-19 01:18:34,802 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 416 entradas
+2025-04-19 01:18:34,802 - NewsResearchAgent - INFO - Notícia publicada: Canadá abandona tarifas retaliatórias “dólar por dólar” contra os EUA em ./categorias/economia/canada-abandona-tarifas-retaliatorias-dolar-por-do-20250419011834.html
+2025-04-19 01:18:35,721 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 01:18:35,721 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-19 01:18:39,114 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-19 01:18:42,604 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-19 01:18:44,096 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-19 01:18:46,496 - NewsResearchAgent - INFO - Cache de notícias salvo com 2621 entradas
+2025-04-19 01:18:46,501 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 416 entradas
+2025-04-19 01:18:46,510 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria politica
+2025-04-19 01:28:19,920 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/preso-por-abusar-da-filha-exsenador-telmario-mota--20250419012819.jpg
+2025-04-19 01:28:19,921 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Preso por abusar da filha, ex-senador Telmário Mota vai para domiciliar
+2025-04-19 01:28:19,988 - NewsResearchAgent - INFO - Cache de notícias salvo com 2621 entradas
+2025-04-19 01:28:19,992 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 417 entradas
+2025-04-19 01:28:19,992 - NewsResearchAgent - INFO - Notícia publicada: Preso por abusar da filha, ex-senador Telmário Mota vai para domiciliar em ./categorias/politica/preso-por-abusar-da-filha-exsenador-telmario-mota--20250419012819.html
+2025-04-19 01:28:20,586 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 01:28:20,586 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-19 01:28:31,346 - NewsResearchAgent - ERROR - Erro ao pesquisar notícias em https://www.tecmundo.com.br/: HTTPSConnectionPool(host='www.tecmundo.com.br', port=443): Read timed out. (read timeout=10)
+2025-04-19 01:28:31,346 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-19 01:28:32,176 - NewsResearchAgent - ERROR - Erro ao processar link de notícia https://olhardigital.com.br/2025/04/18/ciencia-e-espaco/projeto-quer-sugar-co%e2%82%82-do-oceano-para-frear-aquecimento/: Exceeded 30 redirects.
+2025-04-19 01:28:33,106 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-19 01:28:34,507 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-19 01:28:35,558 - NewsResearchAgent - INFO - Cache de notícias salvo com 2624 entradas
+2025-04-19 01:28:35,563 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 417 entradas
+2025-04-19 01:28:35,572 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria tecnologia
+2025-04-19 01:38:08,424 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/melhores-filmes-e-series-com-rosamund-pike-para-as-20250419013808.jpg
+2025-04-19 01:38:08,424 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Melhores filmes e séries com Rosamund Pike para assistir online no streaming
+2025-04-19 01:38:08,493 - NewsResearchAgent - INFO - Cache de notícias salvo com 2624 entradas
+2025-04-19 01:38:08,498 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 418 entradas
+2025-04-19 01:38:08,498 - NewsResearchAgent - INFO - Notícia publicada: Melhores filmes e séries com Rosamund Pike para assistir online no streaming em ./categorias/tecnologia/melhores-filmes-e-series-com-rosamund-pike-para-as-20250419013808.html
+2025-04-19 01:38:09,378 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 01:38:09,378 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-19 01:38:12,462 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-19 01:38:12,701 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-19 01:38:17,473 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-19 01:38:20,545 - NewsResearchAgent - INFO - Cache de notícias salvo com 2627 entradas
+2025-04-19 01:38:20,550 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 418 entradas
+2025-04-19 01:38:20,568 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria entretenimento
+2025-04-19 01:47:46,958 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/juliette-pocah-e-mais-bbb-25-anuncia-programacao-p-20250419014746.jpg
+2025-04-19 01:47:46,958 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Juliette, Pocah e mais: BBB 25 anuncia programação para grande final
+2025-04-19 01:47:47,026 - NewsResearchAgent - INFO - Cache de notícias salvo com 2627 entradas
+2025-04-19 01:47:47,030 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 419 entradas
+2025-04-19 01:47:47,030 - NewsResearchAgent - INFO - Notícia publicada: Juliette, Pocah e mais: BBB 25 anuncia programação para grande final em ./categorias/entretenimento/juliette-pocah-e-mais-bbb-25-anuncia-programacao-p-20250419014746.html
+2025-04-19 01:47:47,840 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 01:47:47,840 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-19 01:47:48,925 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-19 01:47:49,558 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-19 01:47:51,373 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-19 01:47:51,750 - NewsResearchAgent - INFO - Cache de notícias salvo com 2628 entradas
+2025-04-19 01:47:51,755 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 419 entradas
+2025-04-19 01:47:51,766 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria curiosidades
+2025-04-19 01:57:23,297 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/o-colono-espanhol-que-pensava-que-a-amazonia-era-o-20250419015723.jpg
+2025-04-19 01:57:23,298 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: O colono espanhol que pensava que a Amazônia era o Éden
+2025-04-19 01:57:23,365 - NewsResearchAgent - INFO - Cache de notícias salvo com 2628 entradas
+2025-04-19 01:57:23,370 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 420 entradas
+2025-04-19 01:57:23,370 - NewsResearchAgent - INFO - Notícia publicada: O colono espanhol que pensava que a Amazônia era o Éden em ./categorias/curiosidades/o-colono-espanhol-que-pensava-que-a-amazonia-era-o-20250419015723.html
