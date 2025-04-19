@@ -5810,3 +5810,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-19 04:23:41,400 - NewsResearchAgent - INFO - Cache de notícias salvo com 2670 entradas
 2025-04-19 04:23:41,405 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 432 entradas
 2025-04-19 04:23:41,405 - NewsResearchAgent - INFO - Notícia publicada: Maestro responde a todas as suas perguntas sobre música | Oráculo em ./categorias/curiosidades/maestro-responde-a-todas-as-suas-perguntas-sobre-m-20250419042341.html
+2025-04-19 05:13:36,443 - NewsResearchAgent - INFO - Cache de notícias carregado com 2670 entradas
+2025-04-19 05:13:36,445 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 432 entradas
+2025-04-19 05:13:56,446 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 05:13:56,446 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-19 05:13:59,132 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-19 05:14:00,279 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-19 05:14:00,770 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-19 05:14:03,657 - NewsResearchAgent - INFO - Cache de notícias salvo com 2672 entradas
+2025-04-19 05:14:03,662 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 432 entradas
+2025-04-19 05:14:03,673 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria esportes
+2025-04-19 05:23:30,118 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/guias-de-apostas-esportivas-online-no-brasil-20250419052330.jpg
+2025-04-19 05:23:30,118 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Guias de apostas esportivas online no Brasil
+2025-04-19 05:23:30,189 - NewsResearchAgent - INFO - Cache de notícias salvo com 2672 entradas
+2025-04-19 05:23:30,194 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 433 entradas
+2025-04-19 05:23:30,194 - NewsResearchAgent - INFO - Notícia publicada: Guias de apostas esportivas online no Brasil em ./categorias/esportes/guias-de-apostas-esportivas-online-no-brasil-20250419052330.html
+2025-04-19 05:23:30,749 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 05:23:30,749 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-19 05:23:33,366 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-19 05:23:36,355 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-19 05:23:36,890 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-19 05:23:37,063 - NewsResearchAgent - INFO - Cache de notícias salvo com 2673 entradas
+2025-04-19 05:23:37,068 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 433 entradas
+2025-04-19 05:23:37,078 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria economia
+2025-04-19 05:33:10,129 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/trump-estuda-demitir-jerome-powell-presidente-do-f-20250419053310.jpg
+2025-04-19 05:33:10,129 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Trump estuda demitir Jerome Powell, presidente do Fed, diz assessor
+2025-04-19 05:33:10,197 - NewsResearchAgent - INFO - Cache de notícias salvo com 2673 entradas
+2025-04-19 05:33:10,202 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 434 entradas
+2025-04-19 05:33:10,202 - NewsResearchAgent - INFO - Notícia publicada: Trump estuda demitir Jerome Powell, presidente do Fed, diz assessor em ./categorias/economia/trump-estuda-demitir-jerome-powell-presidente-do-f-20250419053310.html
+2025-04-19 05:33:10,518 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 05:33:10,518 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-19 05:33:13,210 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-19 05:33:17,896 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-19 05:33:21,055 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-19 05:33:22,240 - NewsResearchAgent - INFO - Cache de notícias salvo com 2680 entradas
+2025-04-19 05:33:22,244 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 434 entradas
+2025-04-19 05:33:22,257 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria politica
+2025-04-19 05:42:49,314 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/peru-concordou-com-retirada-de-exprimeiradama-do-p-20250419054249.jpg
+2025-04-19 05:42:49,314 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Peru concordou com retirada de ex-primeira-dama do país pelo Brasil
+2025-04-19 05:42:49,383 - NewsResearchAgent - INFO - Cache de notícias salvo com 2680 entradas
+2025-04-19 05:42:49,388 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 435 entradas
+2025-04-19 05:42:49,388 - NewsResearchAgent - INFO - Notícia publicada: Peru concordou com retirada de ex-primeira-dama do país pelo Brasil em ./categorias/politica/peru-concordou-com-retirada-de-exprimeiradama-do-p-20250419054249.html
+2025-04-19 05:42:50,033 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 05:42:50,033 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-19 05:42:51,756 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-19 05:42:52,849 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-19 05:42:53,351 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-19 05:42:54,203 - NewsResearchAgent - INFO - Cache de notícias salvo com 2684 entradas
+2025-04-19 05:42:54,208 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 435 entradas
+2025-04-19 05:42:54,225 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria tecnologia
+2025-04-19 05:52:21,517 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/review-galaxy-s25-otimo-desempenho-em-um-celular-c-20250419055221.jpg
+2025-04-19 05:52:21,517 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Review Galaxy S25 | Ótimo desempenho em um celular “compacto”
+2025-04-19 05:52:21,585 - NewsResearchAgent - INFO - Cache de notícias salvo com 2684 entradas
+2025-04-19 05:52:21,590 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 436 entradas
+2025-04-19 05:52:21,590 - NewsResearchAgent - INFO - Notícia publicada: Review Galaxy S25 | Ótimo desempenho em um celular “compacto” em ./categorias/tecnologia/review-galaxy-s25-otimo-desempenho-em-um-celular-c-20250419055221.html
+2025-04-19 05:52:21,843 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 05:52:21,843 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-19 05:52:23,716 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-19 05:52:23,864 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-19 05:52:27,758 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-19 05:52:30,048 - NewsResearchAgent - INFO - Cache de notícias salvo com 2689 entradas
+2025-04-19 05:52:30,052 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 436 entradas
+2025-04-19 05:52:30,069 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria entretenimento
+2025-04-19 06:02:00,228 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/justiaa-2-original-globoplay-gshow-20250419060200.jpg
+2025-04-19 06:02:00,228 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: JustiÃ§a 2 - original globoplay | gshow
+2025-04-19 06:02:00,297 - NewsResearchAgent - INFO - Cache de notícias salvo com 2689 entradas
+2025-04-19 06:02:00,302 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 437 entradas
+2025-04-19 06:02:00,302 - NewsResearchAgent - INFO - Notícia publicada: JustiÃ§a 2 - original globoplay | gshow em ./categorias/entretenimento/justiaa-2-original-globoplay-gshow-20250419060200.html
+2025-04-19 06:02:00,711 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 06:02:00,712 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-19 06:02:04,219 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-19 06:02:04,516 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-19 06:02:06,466 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-19 06:02:06,740 - NewsResearchAgent - INFO - Cache de notícias salvo com 2693 entradas
+2025-04-19 06:02:06,745 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 437 entradas
+2025-04-19 06:02:06,761 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria curiosidades
+2025-04-19 06:11:33,913 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/oms-lanca-alerta-epidemiologico-diante-do-aumento--20250419061133.jpg
+2025-04-19 06:11:33,913 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: OMS lança alerta epidemiológico diante do aumento da febre amarela nas Américas
+2025-04-19 06:11:33,982 - NewsResearchAgent - INFO - Cache de notícias salvo com 2693 entradas
+2025-04-19 06:11:33,987 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 438 entradas
+2025-04-19 06:11:33,987 - NewsResearchAgent - INFO - Notícia publicada: OMS lança alerta epidemiológico diante do aumento da febre amarela nas Américas em ./categorias/curiosidades/oms-lanca-alerta-epidemiologico-diante-do-aumento--20250419061133.html
