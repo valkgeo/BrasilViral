@@ -5648,3 +5648,85 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-19 01:57:23,365 - NewsResearchAgent - INFO - Cache de notícias salvo com 2628 entradas
 2025-04-19 01:57:23,370 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 420 entradas
 2025-04-19 01:57:23,370 - NewsResearchAgent - INFO - Notícia publicada: O colono espanhol que pensava que a Amazônia era o Éden em ./categorias/curiosidades/o-colono-espanhol-que-pensava-que-a-amazonia-era-o-20250419015723.html
+2025-04-19 02:22:22,319 - NewsResearchAgent - INFO - Cache de notícias carregado com 2628 entradas
+2025-04-19 02:22:22,321 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 420 entradas
+2025-04-19 02:22:41,157 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 02:22:41,157 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-19 02:22:43,271 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-19 02:22:45,315 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-19 02:22:45,943 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-19 02:22:50,180 - NewsResearchAgent - INFO - Cache de notícias salvo com 2630 entradas
+2025-04-19 02:22:50,184 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 420 entradas
+2025-04-19 02:22:50,193 - NewsResearchAgent - INFO - Encontradas 5 notícias virais na categoria esportes
+2025-04-19 02:32:12,065 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/clube-da-serie-a-do-campeonato-brasileiro-negocia--20250419023212.jpg
+2025-04-19 02:32:12,065 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Clube da Série A do Campeonato Brasileiro negocia para virar SAF
+2025-04-19 02:32:12,136 - NewsResearchAgent - INFO - Cache de notícias salvo com 2630 entradas
+2025-04-19 02:32:12,140 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 421 entradas
+2025-04-19 02:32:12,140 - NewsResearchAgent - INFO - Notícia publicada: Clube da Série A do Campeonato Brasileiro negocia para virar SAF em ./categorias/esportes/clube-da-serie-a-do-campeonato-brasileiro-negocia--20250419023212.html
+2025-04-19 02:32:12,541 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 02:32:12,541 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-19 02:32:20,298 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-19 02:32:23,364 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-19 02:32:23,970 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-19 02:32:24,122 - NewsResearchAgent - INFO - Cache de notícias salvo com 2632 entradas
+2025-04-19 02:32:24,129 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 421 entradas
+2025-04-19 02:32:24,149 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria economia
+2025-04-19 02:41:50,084 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/strategy-comprou-mais-bitcoin-durante-semana-de-vo-20250419024150.jpg
+2025-04-19 02:41:50,084 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Strategy comprou mais bitcoin durante semana de volatilidade em Wall Street
+2025-04-19 02:41:50,151 - NewsResearchAgent - INFO - Cache de notícias salvo com 2632 entradas
+2025-04-19 02:41:50,155 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 422 entradas
+2025-04-19 02:41:50,155 - NewsResearchAgent - INFO - Notícia publicada: Strategy comprou mais bitcoin durante semana de volatilidade em Wall Street em ./categorias/economia/strategy-comprou-mais-bitcoin-durante-semana-de-vo-20250419024150.html
+2025-04-19 02:41:50,602 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 02:41:50,603 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-19 02:41:54,170 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-19 02:41:56,056 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-19 02:41:56,676 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-19 02:41:57,927 - NewsResearchAgent - INFO - Cache de notícias salvo com 2638 entradas
+2025-04-19 02:41:57,932 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 422 entradas
+2025-04-19 02:41:57,946 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria politica
+2025-04-19 02:51:23,050 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/governo-lula-questiona-retirada-de-moradores-em-co-20250419025123.jpg
+2025-04-19 02:51:23,051 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Governo Lula questiona retirada de moradores em comunidade no centro de SP
+2025-04-19 02:51:23,123 - NewsResearchAgent - INFO - Cache de notícias salvo com 2638 entradas
+2025-04-19 02:51:23,128 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 423 entradas
+2025-04-19 02:51:23,128 - NewsResearchAgent - INFO - Notícia publicada: Governo Lula questiona retirada de moradores em comunidade no centro de SP em ./categorias/politica/governo-lula-questiona-retirada-de-moradores-em-co-20250419025123.html
+2025-04-19 02:51:23,490 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 02:51:23,491 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-19 02:51:34,690 - NewsResearchAgent - ERROR - Erro ao processar link de notícia https://www.tecmundo.com.br/cupons/lojas/amazon: HTTPSConnectionPool(host='www.tecmundo.com.br', port=443): Read timed out. (read timeout=10)
+2025-04-19 02:51:45,150 - NewsResearchAgent - ERROR - Erro ao processar link de notícia https://www.tecmundo.com.br/internet/404024-adeus-googlecombr-buscador-vai-acabar-com-todos-os-dominios-regionais.htm: HTTPSConnectionPool(host='www.tecmundo.com.br', port=443): Read timed out. (read timeout=10)
+2025-04-19 02:51:45,150 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-19 02:51:46,015 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-19 02:51:47,673 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-19 02:51:48,258 - NewsResearchAgent - INFO - Cache de notícias salvo com 2645 entradas
+2025-04-19 02:51:48,262 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 423 entradas
+2025-04-19 02:51:48,278 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria tecnologia
+2025-04-19 03:01:12,377 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/4chan-forum-e-hackeado-e-dados-de-usuarios-podem-t-20250419030112.jpg
+2025-04-19 03:01:12,377 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: 4Chan: fórum é hackeado e dados de usuários podem ter vazado
+2025-04-19 03:01:12,445 - NewsResearchAgent - INFO - Cache de notícias salvo com 2645 entradas
+2025-04-19 03:01:12,449 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 424 entradas
+2025-04-19 03:01:12,449 - NewsResearchAgent - INFO - Notícia publicada: 4Chan: fórum é hackeado e dados de usuários podem ter vazado em ./categorias/tecnologia/4chan-forum-e-hackeado-e-dados-de-usuarios-podem-t-20250419030112.html
+2025-04-19 03:01:12,967 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 03:01:12,967 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-19 03:01:14,477 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-19 03:01:14,602 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-19 03:01:19,396 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-19 03:01:20,538 - NewsResearchAgent - INFO - Cache de notícias salvo com 2648 entradas
+2025-04-19 03:01:20,543 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 424 entradas
+2025-04-19 03:01:20,555 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria entretenimento
+2025-04-19 03:10:44,277 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/temporada-2-de-ahsoka-tera-8-episodios-revela-dave-20250419031044.jpg
+2025-04-19 03:10:44,278 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Temporada 2 de Ahsoka terá 8 episódios, revela Dave Filoni
+2025-04-19 03:10:44,345 - NewsResearchAgent - INFO - Cache de notícias salvo com 2648 entradas
+2025-04-19 03:10:44,349 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 425 entradas
+2025-04-19 03:10:44,349 - NewsResearchAgent - INFO - Notícia publicada: Temporada 2 de Ahsoka terá 8 episódios, revela Dave Filoni em ./categorias/entretenimento/temporada-2-de-ahsoka-tera-8-episodios-revela-dave-20250419031044.html
+2025-04-19 03:10:44,635 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 03:10:44,635 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-19 03:10:45,450 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-19 03:10:45,810 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-19 03:10:47,560 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-19 03:10:47,840 - NewsResearchAgent - INFO - Cache de notícias salvo com 2649 entradas
+2025-04-19 03:10:47,845 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 425 entradas
+2025-04-19 03:10:47,860 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria curiosidades
+2025-04-19 03:20:11,900 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/e-possivel-inverter-o-sentido-de-um-rio-20250419032011.jpg
+2025-04-19 03:20:11,900 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: É possível inverter o sentido de um rio?
+2025-04-19 03:20:11,968 - NewsResearchAgent - INFO - Cache de notícias salvo com 2649 entradas
+2025-04-19 03:20:11,973 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 426 entradas
+2025-04-19 03:20:11,973 - NewsResearchAgent - INFO - Notícia publicada: É possível inverter o sentido de um rio? em ./categorias/curiosidades/e-possivel-inverter-o-sentido-de-um-rio-20250419032011.html
