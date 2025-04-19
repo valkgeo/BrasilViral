@@ -1,18 +1,26 @@
 [
   {
-    "title": "Tarifa social é vitrine da reforma elétrica de Lula",
-    "summary": "O governo brasileiro está apostando em uma medida social para abrir caminho à reforma do setor elétrico. A ampliação da tarifa social é a principal bandeira que o governo pretende utilizar para aprovar um projeto de lei que deve ser enviado à Casa Civil nos próximos dias e encaminhado ao Legislativo até o fim do semestre. De acordo com o Ministério de Minas e Energia, a expectativa é que essa medida ajude a criar uma narrativa favorável à tramitação da reforma.",
-    "timestamp": "2025-04-19T15:32:00",
-    "link": "categorias/economia/tarifa-social-e-vitrine-da-reforma-eletrica-de-lul-20250419153202.html",
-    "image": "../../images/economia/tarifa-social-e-vitrine-da-reforma-eletrica-de-lul-20250419153202.jpg",
+    "title": "Enel: MME pede que TCU acompanhe a renovação das distribuidoras",
+    "summary": "O ministro de Minas e Energia, Alexandre Silveira, esteve presente no Tribunal de Contas da União (TCU) na última quarta-feira, 16, com o objetivo de solicitar que a Corte de Contas realize um acompanhamento prévio e detalhado da renovação das concessões das distribuidoras de energia. Esse acompanhamento incluirá a renovação da concessão da Enel em São Paulo.",
+    "timestamp": "2025-04-19T16:35:00",
+    "link": "categorias/economia/enel-mme-pede-que-tcu-acompanhe-a-renovacao-das-di-20250419163543.html",
+    "image": "../../images/economia/enel-mme-pede-que-tcu-acompanhe-a-renovacao-das-di-20250419163543.jpg",
     "category": "economia"
   },
   {
     "title": "{{TITULO}}",
     "summary": "",
-    "timestamp": "2025-04-19T15:11:00.924718",
+    "timestamp": "2025-04-19T16:14:24.899422",
     "link": "categorias/economia/exemplo_economia.html",
     "image": "{{IMAGEM_URL}}",
+    "category": "economia"
+  },
+  {
+    "title": "Tarifa social é vitrine da reforma elétrica de Lula",
+    "summary": "O governo brasileiro está apostando em uma medida social para abrir caminho à reforma do setor elétrico. A ampliação da tarifa social é a principal bandeira que o governo pretende utilizar para aprovar um projeto de lei que deve ser enviado à Casa Civil nos próximos dias e encaminhado ao Legislativo até o fim do semestre. De acordo com o Ministério de Minas e Energia, a expectativa é que essa medida ajude a criar uma narrativa favorável à tramitação da reforma.",
+    "timestamp": "2025-04-19T15:32:00",
+    "link": "categorias/economia/tarifa-social-e-vitrine-da-reforma-eletrica-de-lul-20250419153202.html",
+    "image": "../../images/economia/tarifa-social-e-vitrine-da-reforma-eletrica-de-lul-20250419153202.jpg",
     "category": "economia"
   },
   {

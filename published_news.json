@@ -3790,5 +3790,53 @@
     "filepath": "./categorias/curiosidades/conheca-a-nova-luva-tecnologica-que-leva-a-telemet-20250419161022.html",
     "url_path": "categorias/curiosidades/conheca-a-nova-luva-tecnologica-que-leva-a-telemet-20250419161022.html",
     "publish_timestamp": "2025-04-19T16:10:22.604160"
+  },
+  "89101d9e2fddfde4726b9df7ff684920": {
+    "title": "atlético-mg",
+    "category": "esportes",
+    "source_url": "https://ge.globo.com/futebol/times/atletico-mg/",
+    "filepath": "./categorias/esportes/atleticomg-20250419162557.html",
+    "url_path": "categorias/esportes/atleticomg-20250419162557.html",
+    "publish_timestamp": "2025-04-19T16:25:57.954656"
+  },
+  "bf343055629acd65c9689b09b5642ebd": {
+    "title": "Enel: MME pede que TCU acompanhe a renovação das distribuidoras",
+    "category": "economia",
+    "source_url": "https://economia.uol.com.br/colunas/mariana-londres/2025/04/16/enel-mme-pede-que-tcu-acompanhe-a-renovacao-das-distribuidoras.htm",
+    "filepath": "./categorias/economia/enel-mme-pede-que-tcu-acompanhe-a-renovacao-das-di-20250419163543.html",
+    "url_path": "categorias/economia/enel-mme-pede-que-tcu-acompanhe-a-renovacao-das-di-20250419163543.html",
+    "publish_timestamp": "2025-04-19T16:35:43.686753"
+  },
+  "307d1592d8d781690029e37adfdf07b9": {
+    "title": "Sobre o g1",
+    "category": "politica",
+    "source_url": "https://g1.globo.com/institucional/sobre-o-g1.ghtml",
+    "filepath": "./categorias/politica/sobre-o-g1-20250419164527.html",
+    "url_path": "categorias/politica/sobre-o-g1-20250419164527.html",
+    "publish_timestamp": "2025-04-19T16:45:27.434530"
+  },
+  "f3180ec13c55370fd0bf7164a0f616ec": {
+    "title": "Qual a fase da Lua hoje? 19/04/2025",
+    "category": "tecnologia",
+    "source_url": "https://olhardigital.com.br/2025/04/19/ciencia-e-espaco/qual-a-fase-da-lua-hoje-19-04-2025/",
+    "filepath": "./categorias/tecnologia/qual-a-fase-da-lua-hoje-19042025-20250419165502.html",
+    "url_path": "categorias/tecnologia/qual-a-fase-da-lua-hoje-19042025-20250419165502.html",
+    "publish_timestamp": "2025-04-19T16:55:02.038161"
+  },
+  "95e5b7928daa2895267b27895945737c": {
+    "title": "Quarteto Fantástico | Trailer traz referência a The Last of Us; entenda:",
+    "category": "entretenimento",
+    "source_url": "https://www.omelete.com.br/filmes/quarteto-fantastico-trailer-traz-referencia-a-the-last-of-us",
+    "filepath": "./categorias/entretenimento/quarteto-fantastico-trailer-traz-referencia-a-the--20250419170441.html",
+    "url_path": "categorias/entretenimento/quarteto-fantastico-trailer-traz-referencia-a-the--20250419170441.html",
+    "publish_timestamp": "2025-04-19T17:04:41.311673"
+  },
+  "d8b673db9dc28fa3f343b46ed37c7405": {
+    "title": "Desculpe, mas não encontramos a página que você procura.",
+    "category": "curiosidades",
+    "source_url": "https://super.abril.com.br/noticias",
+    "filepath": "./categorias/curiosidades/desculpe-mas-nao-encontramos-a-pagina-que-voce-pro-20250419171416.html",
+    "url_path": "categorias/curiosidades/desculpe-mas-nao-encontramos-a-pagina-que-voce-pro-20250419171416.html",
+    "publish_timestamp": "2025-04-19T17:14:16.889775"
   }
 }
