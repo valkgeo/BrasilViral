@@ -6291,3 +6291,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-19 15:10:12,355 - NewsResearchAgent - INFO - Cache de notícias salvo com 2792 entradas
 2025-04-19 15:10:12,359 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 468 entradas
 2025-04-19 15:10:12,360 - NewsResearchAgent - INFO - Notícia publicada: Dá para se bronzear em uma fogueira? em ./categorias/curiosidades/da-para-se-bronzear-em-uma-fogueira-20250419151012.html
+2025-04-19 15:12:37,841 - NewsResearchAgent - INFO - Cache de notícias carregado com 2792 entradas
+2025-04-19 15:12:37,843 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 468 entradas
+2025-04-19 15:12:54,385 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 15:12:54,385 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-19 15:12:55,363 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-19 15:12:56,701 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-19 15:12:57,180 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-19 15:12:58,818 - NewsResearchAgent - INFO - Cache de notícias salvo com 2795 entradas
+2025-04-19 15:12:58,823 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 468 entradas
+2025-04-19 15:12:58,838 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria esportes
+2025-04-19 15:22:25,937 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/santos-confirma-nova-lesao-muscular-de-neymar-veja-20250419152225.jpg
+2025-04-19 15:22:25,938 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Santos confirma nova lesão muscular de Neymar; veja prazo para o retorno
+2025-04-19 15:22:26,012 - NewsResearchAgent - INFO - Cache de notícias salvo com 2795 entradas
+2025-04-19 15:22:26,017 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 469 entradas
+2025-04-19 15:22:26,018 - NewsResearchAgent - INFO - Notícia publicada: Santos confirma nova lesão muscular de Neymar; veja prazo para o retorno em ./categorias/esportes/santos-confirma-nova-lesao-muscular-de-neymar-veja-20250419152225.html
+2025-04-19 15:22:26,405 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 15:22:26,405 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-19 15:22:29,891 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-19 15:22:31,269 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-19 15:22:32,387 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-19 15:22:32,538 - NewsResearchAgent - INFO - Cache de notícias salvo com 2796 entradas
+2025-04-19 15:22:32,543 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 469 entradas
+2025-04-19 15:22:32,554 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria economia
+2025-04-19 15:32:02,158 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/tarifa-social-e-vitrine-da-reforma-eletrica-de-lul-20250419153202.jpg
+2025-04-19 15:32:02,158 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Tarifa social é vitrine da reforma elétrica de Lula
+2025-04-19 15:32:02,230 - NewsResearchAgent - INFO - Cache de notícias salvo com 2796 entradas
+2025-04-19 15:32:02,236 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 470 entradas
+2025-04-19 15:32:02,236 - NewsResearchAgent - INFO - Notícia publicada: Tarifa social é vitrine da reforma elétrica de Lula em ./categorias/economia/tarifa-social-e-vitrine-da-reforma-eletrica-de-lul-20250419153202.html
+2025-04-19 15:32:02,590 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 15:32:02,590 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-19 15:32:03,999 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-19 15:32:05,861 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-19 15:32:06,488 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-19 15:32:07,325 - NewsResearchAgent - INFO - Cache de notícias salvo com 2800 entradas
+2025-04-19 15:32:07,330 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 470 entradas
+2025-04-19 15:32:07,344 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria politica
+2025-04-19 15:41:38,791 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/camara-quer-trocar-glauber-braga-por-chiquinho-bra-20250419154138.jpg
+2025-04-19 15:41:38,792 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Câmara quer trocar Glauber Braga por Chiquinho Brazão
+2025-04-19 15:41:38,864 - NewsResearchAgent - INFO - Cache de notícias salvo com 2800 entradas
+2025-04-19 15:41:38,870 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 471 entradas
+2025-04-19 15:41:38,870 - NewsResearchAgent - INFO - Notícia publicada: Câmara quer trocar Glauber Braga por Chiquinho Brazão em ./categorias/politica/camara-quer-trocar-glauber-braga-por-chiquinho-bra-20250419154138.html
+2025-04-19 15:41:39,314 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 15:41:39,314 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-19 15:41:40,424 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-19 15:41:41,819 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-19 15:41:42,329 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-19 15:41:43,073 - NewsResearchAgent - INFO - Cache de notícias salvo com 2803 entradas
+2025-04-19 15:41:43,078 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 471 entradas
+2025-04-19 15:41:43,097 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria tecnologia
+2025-04-19 15:51:13,114 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/samsung-lanca-celular-baratinho-embraer-mostra-cab-20250419155113.jpg
+2025-04-19 15:51:13,114 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Samsung lança celular 'BARATINHO', Embraer mostra cabine do 'carro voador'
+2025-04-19 15:51:13,187 - NewsResearchAgent - INFO - Cache de notícias salvo com 2803 entradas
+2025-04-19 15:51:13,192 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 472 entradas
+2025-04-19 15:51:13,193 - NewsResearchAgent - INFO - Notícia publicada: Samsung lança celular 'BARATINHO', Embraer mostra cabine do 'carro voador' em ./categorias/tecnologia/samsung-lanca-celular-baratinho-embraer-mostra-cab-20250419155113.html
+2025-04-19 15:51:13,672 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 15:51:13,672 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-19 15:51:14,490 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-19 15:51:14,606 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-19 15:51:16,233 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-19 15:51:17,719 - NewsResearchAgent - INFO - Cache de notícias salvo com 2806 entradas
+2025-04-19 15:51:17,724 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 472 entradas
+2025-04-19 15:51:17,744 - NewsResearchAgent - INFO - Encontradas 15 notícias virais na categoria entretenimento
+2025-04-19 16:00:45,864 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/star-wars-starfighter-filme-com-ryan-gosling-ganha-20250419160045.jpg
+2025-04-19 16:00:45,864 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Star Wars: Starfighter, filme com Ryan Gosling, ganha primeiro teaser trailer
+2025-04-19 16:00:45,935 - NewsResearchAgent - INFO - Cache de notícias salvo com 2806 entradas
+2025-04-19 16:00:45,940 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 473 entradas
+2025-04-19 16:00:45,940 - NewsResearchAgent - INFO - Notícia publicada: Star Wars: Starfighter, filme com Ryan Gosling, ganha primeiro teaser trailer em ./categorias/entretenimento/star-wars-starfighter-filme-com-ryan-gosling-ganha-20250419160045.html
+2025-04-19 16:00:46,285 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 16:00:46,285 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-19 16:00:47,110 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-19 16:00:47,384 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-19 16:00:49,603 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-19 16:00:49,864 - NewsResearchAgent - INFO - Cache de notícias salvo com 2806 entradas
+2025-04-19 16:00:49,869 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 473 entradas
+2025-04-19 16:00:49,882 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria curiosidades
+2025-04-19 16:10:22,603 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/conheca-a-nova-luva-tecnologica-que-leva-a-telemet-20250419161022.jpg
+2025-04-19 16:10:22,603 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Conheça a nova luva tecnológica que leva a telemetria para o MMA
+2025-04-19 16:10:22,676 - NewsResearchAgent - INFO - Cache de notícias salvo com 2806 entradas
+2025-04-19 16:10:22,681 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 474 entradas
+2025-04-19 16:10:22,681 - NewsResearchAgent - INFO - Notícia publicada: Conheça a nova luva tecnológica que leva a telemetria para o MMA em ./categorias/curiosidades/conheca-a-nova-luva-tecnologica-que-leva-a-telemet-20250419161022.html

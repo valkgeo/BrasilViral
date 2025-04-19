@@ -1,5 +1,19 @@
 [
   {
+    "title": "Tarifa social é vitrine da reforma elétrica de Lula",
+    "summary": "O governo brasileiro está apostando em uma medida social para abrir caminho à reforma do setor elétrico. A ampliação da tarifa social é a principal bandeira que o governo pretende utilizar para aprovar um projeto de lei que deve ser enviado à Casa Civil nos próximos dias e encaminhado ao Legislativo até o fim do semestre. De acordo com o Ministério de Minas e Energia, a expectativa é que essa medida ajude a criar uma narrativa favorável à tramitação da reforma.",
+    "timestamp": "2025-04-19T15:32:00",
+    "link": "categorias/economia/tarifa-social-vitrine-da-reforma-el-trica-de-lula.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "title": "{{TITULO}}",
+    "summary": "",
+    "timestamp": "2025-04-19T15:11:00.924718",
+    "link": "categorias/economia/titulo.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "Julia, Lolo e COB: Medley se prepara para Olimpíada de Los Angeles-2028",
     "summary": "A Medley, uma marca que nasceu no esporte, anunciou recentemente a renovação de seu patrocínio ao Comitê Olímpico do Brasil (COB) até os jogos de Los Angeles, que acontecerão em 2028. Além disso, a marca também revelou parcerias com as atletas Julia Soares e Lorrane Oliveira, da ginástica artística, medalhistas na última Olimpíada.",
     "timestamp": "2025-04-19T14:31:00",
@@ -7,24 +21,10 @@
     "image": "images/placeholder.jpg"
   },
   {
-    "title": "{{TITULO}}",
-    "summary": "",
-    "timestamp": "2025-04-19T14:10:37.063059",
-    "link": "categorias/economia/titulo.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
     "title": "Livro com 62 pesquisadores traz reflexões sobre a complexidade na economia",
     "summary": "O conceito de complexidade na economia começou a ser explorado de forma mais aprofundada com o advento da computação, em meados do século XX. No entanto, as primeiras reflexões sobre essa questão remontam a cerca de 150 anos atrás, quando o matemático francês Henri Poincaré, considerado o último matemático universalista, fez conjecturas que abriram caminho para futuras discussões.",
     "timestamp": "2025-04-19T12:42:00",
     "link": "categorias/economia/livro-com-62-pesquisadores-traz-reflex-es-sobre-a-complexidade-na-economia.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "O café está caro — a crise climática bate à nossa mesa",
-    "summary": "O café está caro — a crise climática bate à nossa mesa",
-    "timestamp": "2025-04-19T10:32:00",
-    "link": "categorias/economia/o-caf-est-caro-a-crise-clim-tica-bate-nossa-mesa.html",
     "image": "images/placeholder.jpg"
   }
 ]
