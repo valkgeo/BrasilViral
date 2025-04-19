@@ -6211,3 +6211,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-19 13:20:11,291 - NewsResearchAgent - INFO - Cache de notícias salvo com 2769 entradas
 2025-04-19 13:20:11,296 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 462 entradas
 2025-04-19 13:20:11,296 - NewsResearchAgent - INFO - Notícia publicada: Os últimos povos isolados: como vivem os humanos não contatados em ./categorias/curiosidades/os-ultimos-povos-isolados-como-vivem-os-humanos-na-20250419132011.html
+2025-04-19 14:12:15,923 - NewsResearchAgent - INFO - Cache de notícias carregado com 2769 entradas
+2025-04-19 14:12:15,926 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 462 entradas
+2025-04-19 14:12:30,546 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 14:12:30,546 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-19 14:12:33,755 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-19 14:12:34,859 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-19 14:12:35,341 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-19 14:12:38,941 - NewsResearchAgent - INFO - Cache de notícias salvo com 2776 entradas
+2025-04-19 14:12:38,945 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 462 entradas
+2025-04-19 14:12:38,967 - NewsResearchAgent - INFO - Encontradas 14 notícias virais na categoria esportes
+2025-04-19 14:22:07,569 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/dorival-junior-topa-negociar-com-corinthians-e-mar-20250419142207.jpg
+2025-04-19 14:22:07,569 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Dorival Júnior topa negociar com Corinthians e marca reunião para discutir acordo
+2025-04-19 14:22:07,644 - NewsResearchAgent - INFO - Cache de notícias salvo com 2776 entradas
+2025-04-19 14:22:07,649 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 463 entradas
+2025-04-19 14:22:07,649 - NewsResearchAgent - INFO - Notícia publicada: Dorival Júnior topa negociar com Corinthians e marca reunião para discutir acordo em ./categorias/esportes/dorival-junior-topa-negociar-com-corinthians-e-mar-20250419142207.html
+2025-04-19 14:22:08,107 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 14:22:08,107 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-19 14:22:11,319 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-19 14:22:15,804 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-19 14:22:16,703 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-19 14:22:16,821 - NewsResearchAgent - INFO - Cache de notícias salvo com 2781 entradas
+2025-04-19 14:22:16,826 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 463 entradas
+2025-04-19 14:22:16,837 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria economia
+2025-04-19 14:31:44,641 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/julia-lolo-e-cob-medley-se-prepara-para-olimpiada--20250419143144.jpg
+2025-04-19 14:31:44,641 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Julia, Lolo e COB: Medley se prepara para Olimpíada de Los Angeles-2028
+2025-04-19 14:31:44,713 - NewsResearchAgent - INFO - Cache de notícias salvo com 2781 entradas
+2025-04-19 14:31:44,718 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 464 entradas
+2025-04-19 14:31:44,718 - NewsResearchAgent - INFO - Notícia publicada: Julia, Lolo e COB: Medley se prepara para Olimpíada de Los Angeles-2028 em ./categorias/economia/julia-lolo-e-cob-medley-se-prepara-para-olimpiada--20250419143144.html
+2025-04-19 14:31:45,176 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 14:31:45,176 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-19 14:31:47,453 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-19 14:31:48,504 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-19 14:31:49,978 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-19 14:31:50,945 - NewsResearchAgent - INFO - Cache de notícias salvo com 2785 entradas
+2025-04-19 14:31:50,950 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 464 entradas
+2025-04-19 14:31:50,962 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria politica
+2025-04-19 14:41:26,522 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/pl-da-anistia-empurra-projetos-importantes-na-cama-20250419144126.jpg
+2025-04-19 14:41:26,522 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: PL da Anistia 'empurra' projetos importantes na Câmara
+2025-04-19 14:41:26,593 - NewsResearchAgent - INFO - Cache de notícias salvo com 2785 entradas
+2025-04-19 14:41:26,598 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 465 entradas
+2025-04-19 14:41:26,599 - NewsResearchAgent - INFO - Notícia publicada: PL da Anistia 'empurra' projetos importantes na Câmara em ./categorias/politica/pl-da-anistia-empurra-projetos-importantes-na-cama-20250419144126.html
+2025-04-19 14:41:26,939 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 14:41:26,939 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-19 14:41:30,063 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-19 14:41:31,006 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-19 14:41:31,925 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-19 14:41:32,732 - NewsResearchAgent - INFO - Cache de notícias salvo com 2791 entradas
+2025-04-19 14:41:32,737 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 465 entradas
+2025-04-19 14:41:32,754 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria tecnologia
+2025-04-19 14:51:06,820 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/ventoinhas-magneticas-sao-boas-testamos-a-corsair--20250419145106.jpg
+2025-04-19 14:51:06,820 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Ventoinhas magnéticas são boas? Testamos a Corsair iCUE Link QX120
+2025-04-19 14:51:06,893 - NewsResearchAgent - INFO - Cache de notícias salvo com 2791 entradas
+2025-04-19 14:51:06,898 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 466 entradas
+2025-04-19 14:51:06,898 - NewsResearchAgent - INFO - Notícia publicada: Ventoinhas magnéticas são boas? Testamos a Corsair iCUE Link QX120 em ./categorias/tecnologia/ventoinhas-magneticas-sao-boas-testamos-a-corsair--20250419145106.html
+2025-04-19 14:51:07,306 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 14:51:07,306 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-19 14:51:07,733 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-19 14:51:07,909 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-19 14:51:09,230 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-19 14:51:12,462 - NewsResearchAgent - INFO - Cache de notícias salvo com 2791 entradas
+2025-04-19 14:51:12,467 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 466 entradas
+2025-04-19 14:51:12,484 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria entretenimento
+2025-04-19 15:00:41,202 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/street-fighter-filme-pode-ter-noah-centineo-como-k-20250419150041.jpg
+2025-04-19 15:00:41,202 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Street Fighter | Filme pode ter Noah Centineo como Ken, diz rumor
+2025-04-19 15:00:41,273 - NewsResearchAgent - INFO - Cache de notícias salvo com 2791 entradas
+2025-04-19 15:00:41,278 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 467 entradas
+2025-04-19 15:00:41,278 - NewsResearchAgent - INFO - Notícia publicada: Street Fighter | Filme pode ter Noah Centineo como Ken, diz rumor em ./categorias/entretenimento/street-fighter-filme-pode-ter-noah-centineo-como-k-20250419150041.html
+2025-04-19 15:00:41,749 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 15:00:41,749 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-19 15:00:42,565 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-19 15:00:43,600 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-19 15:00:45,853 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-19 15:00:46,108 - NewsResearchAgent - INFO - Cache de notícias salvo com 2792 entradas
+2025-04-19 15:00:46,112 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 467 entradas
+2025-04-19 15:00:46,126 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria curiosidades
+2025-04-19 15:10:12,283 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/da-para-se-bronzear-em-uma-fogueira-20250419151012.jpg
+2025-04-19 15:10:12,283 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Dá para se bronzear em uma fogueira?
+2025-04-19 15:10:12,355 - NewsResearchAgent - INFO - Cache de notícias salvo com 2792 entradas
+2025-04-19 15:10:12,359 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 468 entradas
+2025-04-19 15:10:12,360 - NewsResearchAgent - INFO - Notícia publicada: Dá para se bronzear em uma fogueira? em ./categorias/curiosidades/da-para-se-bronzear-em-uma-fogueira-20250419151012.html
