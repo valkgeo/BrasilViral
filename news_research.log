@@ -5890,3 +5890,84 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-19 06:11:33,982 - NewsResearchAgent - INFO - Cache de notícias salvo com 2693 entradas
 2025-04-19 06:11:33,987 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 438 entradas
 2025-04-19 06:11:33,987 - NewsResearchAgent - INFO - Notícia publicada: OMS lança alerta epidemiológico diante do aumento da febre amarela nas Américas em ./categorias/curiosidades/oms-lanca-alerta-epidemiologico-diante-do-aumento--20250419061133.html
+2025-04-19 06:18:02,853 - NewsResearchAgent - INFO - Cache de notícias carregado com 2693 entradas
+2025-04-19 06:18:02,856 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 438 entradas
+2025-04-19 06:18:23,745 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 06:18:23,746 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-19 06:18:26,966 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-19 06:18:28,035 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-19 06:18:28,616 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-19 06:18:37,503 - NewsResearchAgent - INFO - Cache de notícias salvo com 2695 entradas
+2025-04-19 06:18:37,508 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 438 entradas
+2025-04-19 06:18:37,519 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria esportes
+2025-04-19 06:28:06,186 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/-20250419062806.jpg
+2025-04-19 06:28:06,186 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: 
+2025-04-19 06:28:06,260 - NewsResearchAgent - INFO - Cache de notícias salvo com 2695 entradas
+2025-04-19 06:28:06,265 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 439 entradas
+2025-04-19 06:28:06,265 - NewsResearchAgent - INFO - Notícia publicada:  em ./categorias/esportes/-20250419062806.html
+2025-04-19 06:28:06,813 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 06:28:06,813 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-19 06:28:19,855 - NewsResearchAgent - ERROR - Erro ao processar link de notícia https://economia.uol.com.br/empreendedorismo/: HTTPSConnectionPool(host='economia.uol.com.br', port=443): Read timed out. (read timeout=10)
+2025-04-19 06:28:19,855 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-19 06:28:24,656 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-19 06:28:25,126 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-19 06:28:25,272 - NewsResearchAgent - INFO - Cache de notícias salvo com 2695 entradas
+2025-04-19 06:28:25,276 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 439 entradas
+2025-04-19 06:28:25,288 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria economia
+2025-04-19 06:37:57,964 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/volatilidade-e-saques-desafiam-fundos-multimercado-20250419063757.jpg
+2025-04-19 06:37:57,964 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Volatilidade e saques desafiam fundos multimercados
+2025-04-19 06:37:58,033 - NewsResearchAgent - INFO - Cache de notícias salvo com 2695 entradas
+2025-04-19 06:37:58,038 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 440 entradas
+2025-04-19 06:37:58,038 - NewsResearchAgent - INFO - Notícia publicada: Volatilidade e saques desafiam fundos multimercados em ./categorias/economia/volatilidade-e-saques-desafiam-fundos-multimercado-20250419063757.html
+2025-04-19 06:37:58,472 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 06:37:58,473 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-19 06:38:02,698 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-19 06:38:04,870 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-19 06:38:05,379 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-19 06:38:06,207 - NewsResearchAgent - INFO - Cache de notícias salvo com 2696 entradas
+2025-04-19 06:38:06,212 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 440 entradas
+2025-04-19 06:38:06,222 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria politica
+2025-04-19 06:47:36,535 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/o-assunto-20250419064736.jpg
+2025-04-19 06:47:36,536 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: O Assunto
+2025-04-19 06:47:36,606 - NewsResearchAgent - INFO - Cache de notícias salvo com 2696 entradas
+2025-04-19 06:47:36,611 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 441 entradas
+2025-04-19 06:47:36,611 - NewsResearchAgent - INFO - Notícia publicada: O Assunto em ./categorias/politica/o-assunto-20250419064736.html
+2025-04-19 06:47:37,143 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 06:47:37,143 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-19 06:47:40,080 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-19 06:47:40,799 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-19 06:47:42,932 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-19 06:47:44,123 - NewsResearchAgent - INFO - Cache de notícias salvo com 2700 entradas
+2025-04-19 06:47:44,127 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 441 entradas
+2025-04-19 06:47:44,146 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria tecnologia
+2025-04-19 06:57:14,581 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/8-filmes-e-series-com-kevin-bacon-astro-de-footloo-20250419065714.jpg
+2025-04-19 06:57:14,581 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: 8 filmes e séries com Kevin Bacon, astro de Footloose
+2025-04-19 06:57:14,651 - NewsResearchAgent - INFO - Cache de notícias salvo com 2700 entradas
+2025-04-19 06:57:14,655 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 442 entradas
+2025-04-19 06:57:14,655 - NewsResearchAgent - INFO - Notícia publicada: 8 filmes e séries com Kevin Bacon, astro de Footloose em ./categorias/tecnologia/8-filmes-e-series-com-kevin-bacon-astro-de-footloo-20250419065714.html
+2025-04-19 06:57:15,190 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 06:57:15,190 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-19 06:57:18,411 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-19 06:57:18,629 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-19 06:57:27,917 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-19 06:57:29,203 - NewsResearchAgent - INFO - Cache de notícias salvo com 2705 entradas
+2025-04-19 06:57:29,208 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 442 entradas
+2025-04-19 06:57:29,228 - NewsResearchAgent - INFO - Encontradas 15 notícias virais na categoria entretenimento
+2025-04-19 07:07:04,600 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/por-que-criador-de-conteudo-na-internet-quer-tanto-20250419070704.jpg
+2025-04-19 07:07:04,600 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Por que criador de conteúdo na internet quer tanto derrubar Renato Aragão?
+2025-04-19 07:07:04,669 - NewsResearchAgent - INFO - Cache de notícias salvo com 2705 entradas
+2025-04-19 07:07:04,674 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 443 entradas
+2025-04-19 07:07:04,674 - NewsResearchAgent - INFO - Notícia publicada: Por que criador de conteúdo na internet quer tanto derrubar Renato Aragão? em ./categorias/entretenimento/por-que-criador-de-conteudo-na-internet-quer-tanto-20250419070704.html
+2025-04-19 07:07:05,094 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 07:07:05,095 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-19 07:07:09,264 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-19 07:07:09,831 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-19 07:07:12,462 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-19 07:07:12,826 - NewsResearchAgent - INFO - Cache de notícias salvo com 2708 entradas
+2025-04-19 07:07:12,831 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 443 entradas
+2025-04-19 07:07:12,846 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria curiosidades
+2025-04-19 07:16:48,073 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/conheca-a-lenda-de-akakor-a-misteriosa-cidade-perd-20250419071648.jpg
+2025-04-19 07:16:48,074 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Conheça a lenda de Akakor, a misteriosa cidade perdida na Amazônia
+2025-04-19 07:16:48,143 - NewsResearchAgent - INFO - Cache de notícias salvo com 2708 entradas
+2025-04-19 07:16:48,148 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 444 entradas
+2025-04-19 07:16:48,148 - NewsResearchAgent - INFO - Notícia publicada: Conheça a lenda de Akakor, a misteriosa cidade perdida na Amazônia em ./categorias/curiosidades/conheca-a-lenda-de-akakor-a-misteriosa-cidade-perd-20250419071648.html

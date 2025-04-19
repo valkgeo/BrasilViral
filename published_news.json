@@ -3502,5 +3502,53 @@
     "filepath": "./categorias/curiosidades/oms-lanca-alerta-epidemiologico-diante-do-aumento--20250419061133.html",
     "url_path": "categorias/curiosidades/oms-lanca-alerta-epidemiologico-diante-do-aumento--20250419061133.html",
     "publish_timestamp": "2025-04-19T06:11:33.914203"
+  },
+  "d41d8cd98f00b204e9800998ecf8427e": {
+    "title": "",
+    "category": "esportes",
+    "source_url": "https://ge.globo.com/rotatividade",
+    "filepath": "./categorias/esportes/-20250419062806.html",
+    "url_path": "categorias/esportes/-20250419062806.html",
+    "publish_timestamp": "2025-04-19T06:28:06.188307"
+  },
+  "230b9fbe99877de3717ade3a46d91281": {
+    "title": "Volatilidade e saques desafiam fundos multimercados",
+    "category": "economia",
+    "source_url": "https://valor.globo.com/guia-de-fundos/fundos-de-investimento/noticia/2024/12/18/volatilidade-e-saques-desafiam-fundos-multimercados.ghtml",
+    "filepath": "./categorias/economia/volatilidade-e-saques-desafiam-fundos-multimercado-20250419063757.html",
+    "url_path": "categorias/economia/volatilidade-e-saques-desafiam-fundos-multimercado-20250419063757.html",
+    "publish_timestamp": "2025-04-19T06:37:57.965421"
+  },
+  "69cada44c8c3ab4d6e297051b02dc2a5": {
+    "title": "O Assunto",
+    "category": "politica",
+    "source_url": "https://g1.globo.com/podcast/o-assunto/",
+    "filepath": "./categorias/politica/o-assunto-20250419064736.html",
+    "url_path": "categorias/politica/o-assunto-20250419064736.html",
+    "publish_timestamp": "2025-04-19T06:47:36.536554"
+  },
+  "a498e7bf3080f96c8305bb3bea7baf8b": {
+    "title": "8 filmes e séries com Kevin Bacon, astro de Footloose",
+    "category": "tecnologia",
+    "source_url": "https://canaltech.com.br/cinema/8-filmes-e-series-com-kevin-bacon-astro-de-footloose/",
+    "filepath": "./categorias/tecnologia/8-filmes-e-series-com-kevin-bacon-astro-de-footloo-20250419065714.html",
+    "url_path": "categorias/tecnologia/8-filmes-e-series-com-kevin-bacon-astro-de-footloo-20250419065714.html",
+    "publish_timestamp": "2025-04-19T06:57:14.581995"
+  },
+  "00993cd58aa4e0481a8ce23a477445e0": {
+    "title": "Por que criador de conteúdo na internet quer tanto derrubar Renato Aragão?",
+    "category": "entretenimento",
+    "source_url": "https://www.uol.com.br/splash/colunas/luciana-bugni/2025/04/18/por-que-criador-de-conteudo-na-internet-quer-tanto-derrubar-renato-aragao.htm",
+    "filepath": "./categorias/entretenimento/por-que-criador-de-conteudo-na-internet-quer-tanto-20250419070704.html",
+    "url_path": "categorias/entretenimento/por-que-criador-de-conteudo-na-internet-quer-tanto-20250419070704.html",
+    "publish_timestamp": "2025-04-19T07:07:04.600673"
+  },
+  "d46db3966011b17f0ba7cda13d045fa4": {
+    "title": "Conheça a lenda de Akakor, a misteriosa cidade perdida na Amazônia",
+    "category": "curiosidades",
+    "source_url": "https://super.abril.com.br/cultura/conheca-a-lenda-de-akakor-a-lendaria-cidade-perdida-na-amazonia/",
+    "filepath": "./categorias/curiosidades/conheca-a-lenda-de-akakor-a-misteriosa-cidade-perd-20250419071648.html",
+    "url_path": "categorias/curiosidades/conheca-a-lenda-de-akakor-a-misteriosa-cidade-perd-20250419071648.html",
+    "publish_timestamp": "2025-04-19T07:16:48.074568"
   }
 }
