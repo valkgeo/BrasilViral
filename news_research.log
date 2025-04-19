@@ -5971,3 +5971,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-19 07:16:48,143 - NewsResearchAgent - INFO - Cache de notícias salvo com 2708 entradas
 2025-04-19 07:16:48,148 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 444 entradas
 2025-04-19 07:16:48,148 - NewsResearchAgent - INFO - Notícia publicada: Conheça a lenda de Akakor, a misteriosa cidade perdida na Amazônia em ./categorias/curiosidades/conheca-a-lenda-de-akakor-a-misteriosa-cidade-perd-20250419071648.html
+2025-04-19 08:15:54,208 - NewsResearchAgent - INFO - Cache de notícias carregado com 2708 entradas
+2025-04-19 08:15:54,211 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 444 entradas
+2025-04-19 08:16:07,610 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 08:16:07,611 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-19 08:16:09,696 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-19 08:16:11,712 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-19 08:16:12,587 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-19 08:16:17,638 - NewsResearchAgent - INFO - Cache de notícias salvo com 2711 entradas
+2025-04-19 08:16:17,643 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 444 entradas
+2025-04-19 08:16:17,659 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria esportes
+2025-04-19 08:25:42,791 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/tabela-classificacao-basquete-masculino-olimpiadas-20250419082542.jpg
+2025-04-19 08:25:42,791 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: tabela | classificação basquete masculino - Olimpíadas 2024 | basquete feminino | ge
+2025-04-19 08:25:42,864 - NewsResearchAgent - INFO - Cache de notícias salvo com 2711 entradas
+2025-04-19 08:25:42,869 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 445 entradas
+2025-04-19 08:25:42,869 - NewsResearchAgent - INFO - Notícia publicada: tabela | classificação basquete masculino - Olimpíadas 2024 | basquete feminino | ge em ./categorias/esportes/tabela-classificacao-basquete-masculino-olimpiadas-20250419082542.html
+2025-04-19 08:25:43,757 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 08:25:43,757 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-19 08:25:46,283 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-19 08:25:48,957 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-19 08:25:49,858 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-19 08:25:50,076 - NewsResearchAgent - INFO - Cache de notícias salvo com 2713 entradas
+2025-04-19 08:25:50,081 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 445 entradas
+2025-04-19 08:25:50,092 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria economia
+2025-04-19 08:35:22,256 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/maioria-dos-profissionais-pretende-permanecer-no-e-20250419083522.jpg
+2025-04-19 08:35:22,256 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Maioria dos profissionais pretende permanecer no emprego no próximo ano, segundo estudo
+2025-04-19 08:35:22,326 - NewsResearchAgent - INFO - Cache de notícias salvo com 2713 entradas
+2025-04-19 08:35:22,331 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 446 entradas
+2025-04-19 08:35:22,331 - NewsResearchAgent - INFO - Notícia publicada: Maioria dos profissionais pretende permanecer no emprego no próximo ano, segundo estudo em ./categorias/economia/maioria-dos-profissionais-pretende-permanecer-no-e-20250419083522.html
+2025-04-19 08:35:22,648 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 08:35:22,649 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-19 08:35:25,905 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-19 08:35:28,784 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-19 08:35:29,669 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-19 08:35:30,609 - NewsResearchAgent - INFO - Cache de notícias salvo com 2722 entradas
+2025-04-19 08:35:30,617 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 446 entradas
+2025-04-19 08:35:30,640 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria politica
+2025-04-19 08:44:54,899 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/deputado-pede-que-pgr-investigue-asilo-a-exprimeir-20250419084454.jpg
+2025-04-19 08:44:54,899 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Deputado pede que PGR investigue asilo à ex-primeira-dama do Peru
+2025-04-19 08:44:54,969 - NewsResearchAgent - INFO - Cache de notícias salvo com 2722 entradas
+2025-04-19 08:44:54,974 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 447 entradas
+2025-04-19 08:44:54,974 - NewsResearchAgent - INFO - Notícia publicada: Deputado pede que PGR investigue asilo à ex-primeira-dama do Peru em ./categorias/politica/deputado-pede-que-pgr-investigue-asilo-a-exprimeir-20250419084454.html
+2025-04-19 08:44:55,270 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 08:44:55,270 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-19 08:44:57,793 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-19 08:44:58,599 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-19 08:44:59,495 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-19 08:45:00,136 - NewsResearchAgent - INFO - Cache de notícias salvo com 2726 entradas
+2025-04-19 08:45:00,141 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 447 entradas
+2025-04-19 08:45:00,159 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria tecnologia
+2025-04-19 08:54:25,347 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/samsung-suspende-atualizacao-para-one-ui-7-apos-bu-20250419085425.jpg
+2025-04-19 08:54:25,347 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Samsung suspende atualização para One UI 7 após bugs
+2025-04-19 08:54:25,418 - NewsResearchAgent - INFO - Cache de notícias salvo com 2726 entradas
+2025-04-19 08:54:25,422 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 448 entradas
+2025-04-19 08:54:25,422 - NewsResearchAgent - INFO - Notícia publicada: Samsung suspende atualização para One UI 7 após bugs em ./categorias/tecnologia/samsung-suspende-atualizacao-para-one-ui-7-apos-bu-20250419085425.html
+2025-04-19 08:54:25,735 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 08:54:25,735 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-19 08:54:26,259 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-19 08:54:26,435 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-19 08:54:29,630 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-19 08:54:31,030 - NewsResearchAgent - INFO - Cache de notícias salvo com 2730 entradas
+2025-04-19 08:54:31,034 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 448 entradas
+2025-04-19 08:54:31,055 - NewsResearchAgent - INFO - Encontradas 16 notícias virais na categoria entretenimento
+2025-04-19 09:04:02,740 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/quarteto-fantastico-primeiros-passos-ganha-novo-tr-20250419090402.jpg
+2025-04-19 09:04:02,740 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Quarteto Fantástico: Primeiros Passos ganha novo trailer com Surfista e Galactus
+2025-04-19 09:04:02,811 - NewsResearchAgent - INFO - Cache de notícias salvo com 2730 entradas
+2025-04-19 09:04:02,816 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 449 entradas
+2025-04-19 09:04:02,816 - NewsResearchAgent - INFO - Notícia publicada: Quarteto Fantástico: Primeiros Passos ganha novo trailer com Surfista e Galactus em ./categorias/entretenimento/quarteto-fantastico-primeiros-passos-ganha-novo-tr-20250419090402.html
+2025-04-19 09:04:03,118 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 09:04:03,118 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-19 09:04:04,861 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-19 09:04:05,085 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-19 09:04:07,404 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-19 09:04:07,670 - NewsResearchAgent - INFO - Cache de notícias salvo com 2731 entradas
+2025-04-19 09:04:07,674 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 449 entradas
+2025-04-19 09:04:07,688 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria curiosidades
+2025-04-19 09:13:35,761 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/podcast-dossie-9-filmes-que-fazem-bem-aos-neuronio-20250419091335.jpg
+2025-04-19 09:13:35,761 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Podcast Dossiê #9: Filmes que fazem bem aos neurônios
+2025-04-19 09:13:35,831 - NewsResearchAgent - INFO - Cache de notícias salvo com 2731 entradas
+2025-04-19 09:13:35,835 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 450 entradas
+2025-04-19 09:13:35,835 - NewsResearchAgent - INFO - Notícia publicada: Podcast Dossiê #9: Filmes que fazem bem aos neurônios em ./categorias/curiosidades/podcast-dossie-9-filmes-que-fazem-bem-aos-neuronio-20250419091335.html

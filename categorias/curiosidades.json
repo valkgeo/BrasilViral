@@ -1,5 +1,19 @@
 [
   {
+    "title": "Podcast Dossiê #9: Filmes que fazem bem aos neurônios",
+    "summary": "O mundo do cinema é repleto de filmes que nos fazem refletir e questionar nossas percepções. Existem obras cinematográficas que, após serem assistidas, nos deixam com uma sensação de curiosidade e intrigam nossa mente. Filmes como \"2001\", \"Interestelar\", \"O Clube da Luta\", \"Her\" e \"Laranja Mecânica\" são exemplos de produções que nos desafiam a entender suas mensagens e significados mais profundos.",
+    "timestamp": "2025-04-19T09:13:00",
+    "link": "categorias/curiosidades/podcast-dossi-9-filmes-que-fazem-bem-aos-neur-nios.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
+    "title": "Exemplo de notícia de curiosidades",
+    "summary": "Este é um exemplo de notícia de curiosidades. Aqui você encontrará fatos interessantes, descobertas científicas, histórias inusitadas e fenômenos surpreendentes. O BrasilViral traz conteúdo que vai expandir seus conhecimentos e surpreender você. curiosidades.",
+    "timestamp": "2025-04-19T08:14:18.454821",
+    "link": "categorias/curiosidades/exemplo-de-not-cia-de-curiosidades.html",
+    "image": "images/placeholder.jpg"
+  },
+  {
     "title": "Conheça a lenda de Akakor, a misteriosa cidade perdida na Amazônia",
     "summary": "A lenda de Akakor, uma cidade perdida na Amazônia, tem sido um tema de fascínio para muitas pessoas ao longo dos anos. Embora não se saiba exatamente quando essa lenda surgiu, ela ganhou popularidade em 1976 com a publicação do livro \"A Crônica de Akakor\", escrito pelo jornalista Karl Brugger. Nessa obra, Brugger relata seu encontro com um líder indígena chamado Tatunca Nara, que alegava ser o último líder do império Ugha Mongulala.",
     "timestamp": "2025-04-19T07:16:00",
@@ -7,24 +21,10 @@
     "image": "images/placeholder.jpg"
   },
   {
-    "title": "Exemplo de notícia de curiosidades",
-    "summary": "Este é um exemplo de notícia de curiosidades. Aqui você encontrará fatos interessantes, descobertas científicas, histórias inusitadas e fenômenos surpreendentes. O BrasilViral traz conteúdo que vai expandir seus conhecimentos e surpreender você. curiosidades.",
-    "timestamp": "2025-04-19T06:16:23.632574",
-    "link": "categorias/curiosidades/exemplo-de-not-cia-de-curiosidades.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
     "title": "OMS lança alerta epidemiológico diante do aumento da febre amarela nas Américas",
     "summary": "A Organização Pan-Americana da Saúde (OPAS), instituição regional da Organização Mundial de Saúde (OMS), emitiu um alerta epidemiológico devido ao aumento significativo de casos de febre amarela nas Américas durante os primeiros meses de 2025. De acordo com a OPAS, o número de diagnósticos confirmados é mais do que o dobro do total registrado em 2024, o que representa uma situação de grande preocupação para a saúde pública na região.",
     "timestamp": "2025-04-19T06:11:00",
     "link": "categorias/curiosidades/oms-lan-a-alerta-epidemiol-gico-diante-do-aumento-da-febre-amarela-nas-am-ricas.html",
-    "image": "images/placeholder.jpg"
-  },
-  {
-    "title": "Maestro responde a todas as suas perguntas sobre música | Oráculo",
-    "summary": "O maestro Ricardo Carvalho, professor de música e multi-instrumentista, está preparado para responder a todas as suas perguntas sobre música. Ele vai esclarecer dúvidas sobre a diferença entre piano, orgão e teclado, além de explicar por que as pessoas parecem cantar melhor no chuveiro.",
-    "timestamp": "2025-04-19T04:23:00",
-    "link": "categorias/curiosidades/maestro-responde-a-todas-as-suas-perguntas-sobre-m-sica-or-culo.html",
     "image": "images/placeholder.jpg"
   }
 ]
