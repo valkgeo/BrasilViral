@@ -1,18 +1,26 @@
 [
   {
-    "title": "Sobre o g1",
-    "summary": "No dia 18 de setembro de 2006, o site de notícias g1 entrou no ar, marcando uma nova era no jornalismo digital da Globo. Para tornar esse projeto uma realidade, foi criada uma estrutura híbrida que combinava profissionais, conhecimento e infraestrutura tanto do jornalismo da TV Globo quanto da globo.com, empresa criada em 2000 pelas Organizações Globo para fornecer serviços e conteúdo na internet.",
-    "timestamp": "2025-04-19T16:45:00",
-    "link": "categorias/politica/sobre-o-g1-20250419164527.html",
-    "image": "../../images/politica/sobre-o-g1-20250419164527.jpg",
+    "title": "HORA 1",
+    "summary": "A situação meteorológica em São Paulo está apresentando uma melhora em relação à chuva, pois a baixa pressão que estava atuando na região está se afastando em direção ao Nordeste. No entanto, o risco de temporais está se deslocando para outras áreas, afetando o norte do Espírito Santo até o Recôncavo Baiano, e também atingindo regiões do Sertão e do Piauí.",
+    "timestamp": "2025-04-19T18:46:00",
+    "link": "categorias/politica/hora-1-20250419184621.html",
+    "image": "../../images/politica/hora-1-20250419184621.jpg",
     "category": "politica"
   },
   {
     "title": "Exemplo de notícia de politica",
     "summary": "Este é um exemplo de notícia política. Aqui você encontrará informações sobre decisões governamentais, projetos de lei, eleições e debates políticos. O BrasilViral traz cobertura imparcial dos principais acontecimentos políticos do Brasil e do mundo. politica.",
-    "timestamp": "2025-04-19T16:14:24.913423",
+    "timestamp": "2025-04-19T18:14:53.724543",
     "link": "categorias/politica/exemplo_politica.html",
     "image": "{{IMAGEM_URL}}",
+    "category": "politica"
+  },
+  {
+    "title": "Sobre o g1",
+    "summary": "No dia 18 de setembro de 2006, o site de notícias g1 entrou no ar, marcando uma nova era no jornalismo digital da Globo. Para tornar esse projeto uma realidade, foi criada uma estrutura híbrida que combinava profissionais, conhecimento e infraestrutura tanto do jornalismo da TV Globo quanto da globo.com, empresa criada em 2000 pelas Organizações Globo para fornecer serviços e conteúdo na internet.",
+    "timestamp": "2025-04-19T16:45:00",
+    "link": "categorias/politica/sobre-o-g1-20250419164527.html",
+    "image": "../../images/politica/sobre-o-g1-20250419164527.jpg",
     "category": "politica"
   },
   {

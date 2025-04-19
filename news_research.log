@@ -6452,3 +6452,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-19 17:14:16,961 - NewsResearchAgent - INFO - Cache de notícias salvo com 2822 entradas
 2025-04-19 17:14:16,966 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 480 entradas
 2025-04-19 17:14:16,966 - NewsResearchAgent - INFO - Notícia publicada: Desculpe, mas não encontramos a página que você procura. em ./categorias/curiosidades/desculpe-mas-nao-encontramos-a-pagina-que-voce-pro-20250419171416.html
+2025-04-19 18:16:31,145 - NewsResearchAgent - INFO - Cache de notícias carregado com 2822 entradas
+2025-04-19 18:16:31,148 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 480 entradas
+2025-04-19 18:16:47,260 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 18:16:47,260 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-19 18:16:50,607 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-19 18:16:51,577 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-19 18:16:52,421 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-19 18:16:56,597 - NewsResearchAgent - INFO - Cache de notícias salvo com 2827 entradas
+2025-04-19 18:16:56,602 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 480 entradas
+2025-04-19 18:16:56,616 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria esportes
+2025-04-19 18:26:19,814 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/tabela-pernambucano-serie-a3-ge-pernambucano-serie-20250419182619.jpg
+2025-04-19 18:26:19,814 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: tabela | pernambucano série a3 | ge | pernambucano série a3 | ge
+2025-04-19 18:26:19,888 - NewsResearchAgent - INFO - Cache de notícias salvo com 2827 entradas
+2025-04-19 18:26:19,893 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 481 entradas
+2025-04-19 18:26:19,893 - NewsResearchAgent - INFO - Notícia publicada: tabela | pernambucano série a3 | ge | pernambucano série a3 | ge em ./categorias/esportes/tabela-pernambucano-serie-a3-ge-pernambucano-serie-20250419182619.html
+2025-04-19 18:26:20,321 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 18:26:20,322 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-19 18:26:26,984 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-19 18:26:29,678 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-19 18:26:30,493 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-19 18:26:30,638 - NewsResearchAgent - INFO - Cache de notícias salvo com 2833 entradas
+2025-04-19 18:26:30,644 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 481 entradas
+2025-04-19 18:26:30,661 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria economia
+2025-04-19 18:36:07,546 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/governo-lula-comete-sincericidio-ao-projetar-colap-20250419183607.jpg
+2025-04-19 18:36:07,546 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Governo Lula comete sincericídio ao projetar colapso das contas públicas
+2025-04-19 18:36:07,622 - NewsResearchAgent - INFO - Cache de notícias salvo com 2833 entradas
+2025-04-19 18:36:07,627 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 482 entradas
+2025-04-19 18:36:07,627 - NewsResearchAgent - INFO - Notícia publicada: Governo Lula comete sincericídio ao projetar colapso das contas públicas em ./categorias/economia/governo-lula-comete-sincericidio-ao-projetar-colap-20250419183607.html
+2025-04-19 18:36:08,109 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 18:36:08,110 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-19 18:36:11,159 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-19 18:36:12,690 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-19 18:36:13,504 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-19 18:36:17,947 - NewsResearchAgent - INFO - Cache de notícias salvo com 2836 entradas
+2025-04-19 18:36:17,952 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 482 entradas
+2025-04-19 18:36:17,963 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria politica
+2025-04-19 18:46:21,309 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/hora-1-20250419184621.jpg
+2025-04-19 18:46:21,309 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: HORA 1
+2025-04-19 18:46:21,382 - NewsResearchAgent - INFO - Cache de notícias salvo com 2836 entradas
+2025-04-19 18:46:21,387 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 483 entradas
+2025-04-19 18:46:21,387 - NewsResearchAgent - INFO - Notícia publicada: HORA 1 em ./categorias/politica/hora-1-20250419184621.html
+2025-04-19 18:46:21,755 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 18:46:21,756 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-19 18:46:25,044 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-19 18:46:26,011 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-19 18:46:27,132 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-19 18:46:28,095 - NewsResearchAgent - INFO - Cache de notícias salvo com 2841 entradas
+2025-04-19 18:46:28,100 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 483 entradas
+2025-04-19 18:46:28,115 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria tecnologia
+2025-04-19 18:55:52,782 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/quem-ganhou-a-prova-do-lider-no-bbb-25-20250419185552.jpg
+2025-04-19 18:55:52,782 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Quem ganhou a Prova do Líder no BBB 25?
+2025-04-19 18:55:52,855 - NewsResearchAgent - INFO - Cache de notícias salvo com 2841 entradas
+2025-04-19 18:55:52,860 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 484 entradas
+2025-04-19 18:55:52,860 - NewsResearchAgent - INFO - Notícia publicada: Quem ganhou a Prova do Líder no BBB 25? em ./categorias/tecnologia/quem-ganhou-a-prova-do-lider-no-bbb-25-20250419185552.html
+2025-04-19 18:55:53,364 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 18:55:53,364 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-19 18:55:54,624 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-19 18:55:54,801 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-19 18:55:58,951 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-19 18:56:02,370 - NewsResearchAgent - INFO - Cache de notícias salvo com 2847 entradas
+2025-04-19 18:56:02,376 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 484 entradas
+2025-04-19 18:56:02,391 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria entretenimento
+2025-04-19 19:05:27,386 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/ahsoka-hayden-christensen-e-confirmado-na-2-tempor-20250419190527.jpg
+2025-04-19 19:05:27,386 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Ahsoka | Hayden Christensen é confirmado na 2ª temporada, confira outros nomes
+2025-04-19 19:05:27,459 - NewsResearchAgent - INFO - Cache de notícias salvo com 2847 entradas
+2025-04-19 19:05:27,464 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 485 entradas
+2025-04-19 19:05:27,464 - NewsResearchAgent - INFO - Notícia publicada: Ahsoka | Hayden Christensen é confirmado na 2ª temporada, confira outros nomes em ./categorias/entretenimento/ahsoka-hayden-christensen-e-confirmado-na-2-tempor-20250419190527.html
+2025-04-19 19:05:27,823 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 19:05:27,823 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-19 19:05:29,803 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-19 19:05:30,495 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-19 19:05:31,946 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-19 19:05:32,216 - NewsResearchAgent - INFO - Cache de notícias salvo com 2848 entradas
+2025-04-19 19:05:32,222 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 485 entradas
+2025-04-19 19:05:32,235 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria curiosidades
+2025-04-19 19:15:03,076 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/sabia-que-o-brasil-tem-outra-hidrovia-gigante-alem-20250419191503.jpg
+2025-04-19 19:15:03,076 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Sabia que o Brasil tem outra hidrovia gigante além do Rio Amazonas?
+2025-04-19 19:15:03,149 - NewsResearchAgent - INFO - Cache de notícias salvo com 2848 entradas
+2025-04-19 19:15:03,154 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 486 entradas
+2025-04-19 19:15:03,154 - NewsResearchAgent - INFO - Notícia publicada: Sabia que o Brasil tem outra hidrovia gigante além do Rio Amazonas? em ./categorias/curiosidades/sabia-que-o-brasil-tem-outra-hidrovia-gigante-alem-20250419191503.html
