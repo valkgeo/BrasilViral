@@ -5730,3 +5730,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-19 03:20:11,968 - NewsResearchAgent - INFO - Cache de notícias salvo com 2649 entradas
 2025-04-19 03:20:11,973 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 426 entradas
 2025-04-19 03:20:11,973 - NewsResearchAgent - INFO - Notícia publicada: É possível inverter o sentido de um rio? em ./categorias/curiosidades/e-possivel-inverter-o-sentido-de-um-rio-20250419032011.html
+2025-04-19 03:26:04,340 - NewsResearchAgent - INFO - Cache de notícias carregado com 2649 entradas
+2025-04-19 03:26:04,342 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 426 entradas
+2025-04-19 03:26:19,356 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 03:26:19,356 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-19 03:26:24,641 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-19 03:26:27,009 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-19 03:26:27,783 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-19 03:26:32,722 - NewsResearchAgent - INFO - Cache de notícias salvo com 2653 entradas
+2025-04-19 03:26:32,726 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 426 entradas
+2025-04-19 03:26:32,737 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria esportes
+2025-04-19 03:35:57,837 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/grenal-447-historico-e-de-equilibrio-no-brasileira-20250419033557.jpg
+2025-04-19 03:35:57,837 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Gre-Nal 447: histórico é de equilíbrio no Brasileirão
+2025-04-19 03:35:57,910 - NewsResearchAgent - INFO - Cache de notícias salvo com 2653 entradas
+2025-04-19 03:35:57,915 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 427 entradas
+2025-04-19 03:35:57,915 - NewsResearchAgent - INFO - Notícia publicada: Gre-Nal 447: histórico é de equilíbrio no Brasileirão em ./categorias/esportes/grenal-447-historico-e-de-equilibrio-no-brasileira-20250419033557.html
+2025-04-19 03:35:58,453 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 03:35:58,453 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-19 03:36:00,763 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-19 03:36:05,009 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-19 03:36:05,441 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-19 03:36:05,661 - NewsResearchAgent - INFO - Cache de notícias salvo com 2654 entradas
+2025-04-19 03:36:05,665 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 427 entradas
+2025-04-19 03:36:05,673 - NewsResearchAgent - INFO - Encontradas 6 notícias virais na categoria economia
+2025-04-19 03:45:30,950 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/como-investir-em-etfs-com-foco-na-aposentadoria-20250419034530.jpg
+2025-04-19 03:45:30,950 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Como investir em ETFs com foco na aposentadoria?
+2025-04-19 03:45:31,019 - NewsResearchAgent - INFO - Cache de notícias salvo com 2654 entradas
+2025-04-19 03:45:31,023 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 428 entradas
+2025-04-19 03:45:31,023 - NewsResearchAgent - INFO - Notícia publicada: Como investir em ETFs com foco na aposentadoria? em ./categorias/economia/como-investir-em-etfs-com-foco-na-aposentadoria-20250419034530.html
+2025-04-19 03:45:31,889 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 03:45:31,889 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-19 03:45:34,735 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-19 03:45:36,020 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-19 03:45:37,035 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-19 03:45:37,598 - NewsResearchAgent - INFO - Cache de notícias salvo com 2658 entradas
+2025-04-19 03:45:37,603 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 428 entradas
+2025-04-19 03:45:37,612 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria politica
+2025-04-19 03:55:03,175 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/podcast-isso-e-fantastico-20250419035503.jpg
+2025-04-19 03:55:03,175 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: PODCAST ISSO É FANTÁSTICO
+2025-04-19 03:55:03,244 - NewsResearchAgent - INFO - Cache de notícias salvo com 2658 entradas
+2025-04-19 03:55:03,249 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 429 entradas
+2025-04-19 03:55:03,249 - NewsResearchAgent - INFO - Notícia publicada: PODCAST ISSO É FANTÁSTICO em ./categorias/politica/podcast-isso-e-fantastico-20250419035503.html
+2025-04-19 03:55:03,739 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 03:55:03,739 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-19 03:55:06,501 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-19 03:55:07,075 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-19 03:55:08,418 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-19 03:55:09,072 - NewsResearchAgent - INFO - Cache de notícias salvo com 2664 entradas
+2025-04-19 03:55:09,077 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 429 entradas
+2025-04-19 03:55:09,099 - NewsResearchAgent - INFO - Encontradas 15 notícias virais na categoria tecnologia
+2025-04-19 04:04:36,798 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/5-filmes-de-pascoa-para-assistir-no-streaming-20250419040436.jpg
+2025-04-19 04:04:36,798 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: 5 filmes de Páscoa para assistir no streaming
+2025-04-19 04:04:36,867 - NewsResearchAgent - INFO - Cache de notícias salvo com 2664 entradas
+2025-04-19 04:04:36,872 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 430 entradas
+2025-04-19 04:04:36,872 - NewsResearchAgent - INFO - Notícia publicada: 5 filmes de Páscoa para assistir no streaming em ./categorias/tecnologia/5-filmes-de-pascoa-para-assistir-no-streaming-20250419040436.html
+2025-04-19 04:04:37,226 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 04:04:37,226 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-19 04:04:38,365 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-19 04:04:38,657 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-19 04:04:41,960 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-19 04:04:45,233 - NewsResearchAgent - INFO - Cache de notícias salvo com 2669 entradas
+2025-04-19 04:04:45,237 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 430 entradas
+2025-04-19 04:04:45,254 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria entretenimento
+2025-04-19 04:14:08,234 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/the-mandalorian-grogu-ganha-primeiro-teaser-traile-20250419041408.jpg
+2025-04-19 04:14:08,234 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: The Mandalorian & Grogu ganha primeiro teaser trailer na Star Wars Celebration
+2025-04-19 04:14:08,304 - NewsResearchAgent - INFO - Cache de notícias salvo com 2669 entradas
+2025-04-19 04:14:08,308 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 431 entradas
+2025-04-19 04:14:08,308 - NewsResearchAgent - INFO - Notícia publicada: The Mandalorian & Grogu ganha primeiro teaser trailer na Star Wars Celebration em ./categorias/entretenimento/the-mandalorian-grogu-ganha-primeiro-teaser-traile-20250419041408.html
+2025-04-19 04:14:08,811 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 04:14:08,811 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-19 04:14:10,672 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-19 04:14:10,936 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-19 04:14:14,446 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-19 04:14:14,732 - NewsResearchAgent - INFO - Cache de notícias salvo com 2670 entradas
+2025-04-19 04:14:14,736 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 431 entradas
+2025-04-19 04:14:14,747 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria curiosidades
+2025-04-19 04:23:41,330 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/maestro-responde-a-todas-as-suas-perguntas-sobre-m-20250419042341.jpg
+2025-04-19 04:23:41,331 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Maestro responde a todas as suas perguntas sobre música | Oráculo
+2025-04-19 04:23:41,400 - NewsResearchAgent - INFO - Cache de notícias salvo com 2670 entradas
+2025-04-19 04:23:41,405 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 432 entradas
+2025-04-19 04:23:41,405 - NewsResearchAgent - INFO - Notícia publicada: Maestro responde a todas as suas perguntas sobre música | Oráculo em ./categorias/curiosidades/maestro-responde-a-todas-as-suas-perguntas-sobre-m-20250419042341.html
