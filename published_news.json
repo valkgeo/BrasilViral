@@ -3598,5 +3598,53 @@
     "filepath": "./categorias/curiosidades/podcast-dossie-9-filmes-que-fazem-bem-aos-neuronio-20250419091335.html",
     "url_path": "categorias/curiosidades/podcast-dossie-9-filmes-que-fazem-bem-aos-neuronio-20250419091335.html",
     "publish_timestamp": "2025-04-19T09:13:35.761960"
+  },
+  "69dcb18c444c6dd255d7c77a5b6d2838": {
+    "title": "Pitaco do Guffo: Paquetá, Bruno Henrique e as apostas esportivas",
+    "category": "esportes",
+    "source_url": "https://www.lance.com.br/futebol-nacional/paqueta-bruno-henrique-e-as-apostas-esportivas.html",
+    "filepath": "./categorias/esportes/pitaco-do-guffo-paqueta-bruno-henrique-e-as-aposta-20250419102318.html",
+    "url_path": "categorias/esportes/pitaco-do-guffo-paqueta-bruno-henrique-e-as-aposta-20250419102318.html",
+    "publish_timestamp": "2025-04-19T10:23:18.437929"
+  },
+  "71761589d7596d9b985c596f417e8c04": {
+    "title": "O café está caro — a crise climática bate à nossa mesa",
+    "category": "economia",
+    "source_url": "https://valor.globo.com/brasil/esg/artigo/o-cafe-esta-caro-a-crise-climatica-bate-a-nossa-mesa.ghtml",
+    "filepath": "./categorias/economia/o-cafe-esta-caro-a-crise-climatica-bate-a-nossa-me-20250419103257.html",
+    "url_path": "categorias/economia/o-cafe-esta-caro-a-crise-climatica-bate-a-nossa-me-20250419103257.html",
+    "publish_timestamp": "2025-04-19T10:32:57.461204"
+  },
+  "e75cd369058894442d893002de19f88f": {
+    "title": "Governo dá lavada inédita na oposição graças à isenção do IR",
+    "category": "politica",
+    "source_url": "https://noticias.uol.com.br/colunas/a-hora/2025/04/19/governo-da-lavada-inedita-na-oposicao-gracas-a-isencao-do-ir.htm",
+    "filepath": "./categorias/politica/governo-da-lavada-inedita-na-oposicao-gracas-a-ise-20250419104232.html",
+    "url_path": "categorias/politica/governo-da-lavada-inedita-na-oposicao-gracas-a-ise-20250419104232.html",
+    "publish_timestamp": "2025-04-19T10:42:32.136619"
+  },
+  "7cfb17bce0c2fcd56756f52e4588b06a": {
+    "title": "iPhone sofre mais uma queda e ocupa 5º lugar na China",
+    "category": "tecnologia",
+    "source_url": "https://tecnoblog.net/noticias/apple-sofre-mais-uma-queda-e-ocupa-5o-lugar-em-celulares-na-china/",
+    "filepath": "./categorias/tecnologia/iphone-sofre-mais-uma-queda-e-ocupa-5-lugar-na-chi-20250419105210.html",
+    "url_path": "categorias/tecnologia/iphone-sofre-mais-uma-queda-e-ocupa-5-lugar-na-chi-20250419105210.html",
+    "publish_timestamp": "2025-04-19T10:52:10.232247"
+  },
+  "49ccfdbf1dee95fa737cef2a15eb2854": {
+    "title": "BBB 25 | Saiba que horas começa o programa ao vivo hoje",
+    "category": "entretenimento",
+    "source_url": "https://www.omelete.com.br/series-tv/bbb-25-que-horas-comeca-hoje",
+    "filepath": "./categorias/entretenimento/bbb-25-saiba-que-horas-comeca-o-programa-ao-vivo-h-20250419110140.html",
+    "url_path": "categorias/entretenimento/bbb-25-saiba-que-horas-comeca-o-programa-ao-vivo-h-20250419110140.html",
+    "publish_timestamp": "2025-04-19T11:01:40.648891"
+  },
+  "3825c38f3b63f52e63a379a6cd14636b": {
+    "title": "Por que este enorme deserto na Índia está ficando verde?",
+    "category": "curiosidades",
+    "source_url": "https://revistagalileu.globo.com/um-so-planeta/noticia/2025/04/por-que-este-enorme-deserto-na-india-esta-ficando-verde.ghtml",
+    "filepath": "./categorias/curiosidades/por-que-este-enorme-deserto-na-india-esta-ficando--20250419111114.html",
+    "url_path": "categorias/curiosidades/por-que-este-enorme-deserto-na-india-esta-ficando--20250419111114.html",
+    "publish_timestamp": "2025-04-19T11:11:14.807000"
   }
 }

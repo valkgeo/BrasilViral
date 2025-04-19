@@ -6051,3 +6051,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-19 09:13:35,831 - NewsResearchAgent - INFO - Cache de notícias salvo com 2731 entradas
 2025-04-19 09:13:35,835 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 450 entradas
 2025-04-19 09:13:35,835 - NewsResearchAgent - INFO - Notícia publicada: Podcast Dossiê #9: Filmes que fazem bem aos neurônios em ./categorias/curiosidades/podcast-dossie-9-filmes-que-fazem-bem-aos-neuronio-20250419091335.html
+2025-04-19 10:13:24,960 - NewsResearchAgent - INFO - Cache de notícias carregado com 2731 entradas
+2025-04-19 10:13:24,963 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 450 entradas
+2025-04-19 10:13:38,877 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 10:13:38,878 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-19 10:13:40,389 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-19 10:13:41,539 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-19 10:13:41,867 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-19 10:13:44,292 - NewsResearchAgent - INFO - Cache de notícias salvo com 2737 entradas
+2025-04-19 10:13:44,297 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 450 entradas
+2025-04-19 10:13:44,312 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria esportes
+2025-04-19 10:23:18,436 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/pitaco-do-guffo-paqueta-bruno-henrique-e-as-aposta-20250419102318.jpg
+2025-04-19 10:23:18,437 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Pitaco do Guffo: Paquetá, Bruno Henrique e as apostas esportivas
+2025-04-19 10:23:18,510 - NewsResearchAgent - INFO - Cache de notícias salvo com 2737 entradas
+2025-04-19 10:23:18,514 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 451 entradas
+2025-04-19 10:23:18,514 - NewsResearchAgent - INFO - Notícia publicada: Pitaco do Guffo: Paquetá, Bruno Henrique e as apostas esportivas em ./categorias/esportes/pitaco-do-guffo-paqueta-bruno-henrique-e-as-aposta-20250419102318.html
+2025-04-19 10:23:18,924 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 10:23:18,924 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-19 10:23:24,687 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-19 10:23:29,792 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-19 10:23:30,118 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-19 10:23:30,305 - NewsResearchAgent - INFO - Cache de notícias salvo com 2740 entradas
+2025-04-19 10:23:30,309 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 451 entradas
+2025-04-19 10:23:30,320 - NewsResearchAgent - INFO - Encontradas 7 notícias virais na categoria economia
+2025-04-19 10:32:57,460 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/o-cafe-esta-caro-a-crise-climatica-bate-a-nossa-me-20250419103257.jpg
+2025-04-19 10:32:57,460 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: O café está caro — a crise climática bate à nossa mesa
+2025-04-19 10:32:57,531 - NewsResearchAgent - INFO - Cache de notícias salvo com 2740 entradas
+2025-04-19 10:32:57,536 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 452 entradas
+2025-04-19 10:32:57,536 - NewsResearchAgent - INFO - Notícia publicada: O café está caro — a crise climática bate à nossa mesa em ./categorias/economia/o-cafe-esta-caro-a-crise-climatica-bate-a-nossa-me-20250419103257.html
+2025-04-19 10:32:57,836 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 10:32:57,836 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-19 10:33:01,213 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-19 10:33:03,043 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-19 10:33:03,647 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-19 10:33:04,368 - NewsResearchAgent - INFO - Cache de notícias salvo com 2743 entradas
+2025-04-19 10:33:04,372 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 452 entradas
+2025-04-19 10:33:04,383 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria politica
+2025-04-19 10:42:32,136 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/governo-da-lavada-inedita-na-oposicao-gracas-a-ise-20250419104232.jpg
+2025-04-19 10:42:32,136 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Governo dá lavada inédita na oposição graças à isenção do IR
+2025-04-19 10:42:32,207 - NewsResearchAgent - INFO - Cache de notícias salvo com 2743 entradas
+2025-04-19 10:42:32,211 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 453 entradas
+2025-04-19 10:42:32,211 - NewsResearchAgent - INFO - Notícia publicada: Governo dá lavada inédita na oposição graças à isenção do IR em ./categorias/politica/governo-da-lavada-inedita-na-oposicao-gracas-a-ise-20250419104232.html
+2025-04-19 10:42:32,512 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 10:42:32,512 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-19 10:42:36,019 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-19 10:42:36,303 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-19 10:42:37,503 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-19 10:42:38,798 - NewsResearchAgent - INFO - Cache de notícias salvo com 2748 entradas
+2025-04-19 10:42:38,803 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 453 entradas
+2025-04-19 10:42:38,821 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria tecnologia
+2025-04-19 10:52:10,231 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/iphone-sofre-mais-uma-queda-e-ocupa-5-lugar-na-chi-20250419105210.jpg
+2025-04-19 10:52:10,231 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: iPhone sofre mais uma queda e ocupa 5º lugar na China
+2025-04-19 10:52:10,301 - NewsResearchAgent - INFO - Cache de notícias salvo com 2748 entradas
+2025-04-19 10:52:10,306 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 454 entradas
+2025-04-19 10:52:10,306 - NewsResearchAgent - INFO - Notícia publicada: iPhone sofre mais uma queda e ocupa 5º lugar na China em ./categorias/tecnologia/iphone-sofre-mais-uma-queda-e-ocupa-5-lugar-na-chi-20250419105210.html
+2025-04-19 10:52:10,712 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 10:52:10,712 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-19 10:52:11,615 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-19 10:52:11,941 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-19 10:52:15,579 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-19 10:52:15,996 - NewsResearchAgent - INFO - Cache de notícias salvo com 2752 entradas
+2025-04-19 10:52:16,001 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 454 entradas
+2025-04-19 10:52:16,024 - NewsResearchAgent - INFO - Encontradas 13 notícias virais na categoria entretenimento
+2025-04-19 11:01:40,648 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/bbb-25-saiba-que-horas-comeca-o-programa-ao-vivo-h-20250419110140.jpg
+2025-04-19 11:01:40,648 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: BBB 25 | Saiba que horas começa o programa ao vivo hoje
+2025-04-19 11:01:40,718 - NewsResearchAgent - INFO - Cache de notícias salvo com 2752 entradas
+2025-04-19 11:01:40,723 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 455 entradas
+2025-04-19 11:01:40,723 - NewsResearchAgent - INFO - Notícia publicada: BBB 25 | Saiba que horas começa o programa ao vivo hoje em ./categorias/entretenimento/bbb-25-saiba-que-horas-comeca-o-programa-ao-vivo-h-20250419110140.html
+2025-04-19 11:01:40,997 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 11:01:40,998 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-19 11:01:43,035 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-19 11:01:43,290 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-19 11:01:45,245 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-19 11:01:45,472 - NewsResearchAgent - INFO - Cache de notícias salvo com 2753 entradas
+2025-04-19 11:01:45,477 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 455 entradas
+2025-04-19 11:01:45,492 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria curiosidades
+2025-04-19 11:11:14,806 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/por-que-este-enorme-deserto-na-india-esta-ficando--20250419111114.jpg
+2025-04-19 11:11:14,806 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Por que este enorme deserto na Índia está ficando verde?
+2025-04-19 11:11:14,876 - NewsResearchAgent - INFO - Cache de notícias salvo com 2753 entradas
+2025-04-19 11:11:14,881 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 456 entradas
+2025-04-19 11:11:14,881 - NewsResearchAgent - INFO - Notícia publicada: Por que este enorme deserto na Índia está ficando verde? em ./categorias/curiosidades/por-que-este-enorme-deserto-na-india-esta-ficando--20250419111114.html
