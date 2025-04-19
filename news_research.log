@@ -6131,3 +6131,83 @@ com nossas tabelas comparativas! em ./categorias/esportes/encontre-o-produto-cer
 2025-04-19 11:11:14,876 - NewsResearchAgent - INFO - Cache de notícias salvo com 2753 entradas
 2025-04-19 11:11:14,881 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 456 entradas
 2025-04-19 11:11:14,881 - NewsResearchAgent - INFO - Notícia publicada: Por que este enorme deserto na Índia está ficando verde? em ./categorias/curiosidades/por-que-este-enorme-deserto-na-india-esta-ficando--20250419111114.html
+2025-04-19 12:22:12,832 - NewsResearchAgent - INFO - Cache de notícias carregado com 2753 entradas
+2025-04-19 12:22:12,834 - NewsResearchAgent - INFO - Registro de notícias publicadas carregado com 456 entradas
+2025-04-19 12:22:32,575 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 12:22:32,576 - NewsResearchAgent - INFO - Pesquisando notícias em: https://ge.globo.com/
+2025-04-19 12:22:35,122 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.lance.com.br/
+2025-04-19 12:22:36,158 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.espn.com.br/
+2025-04-19 12:22:36,709 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/esporte/
+2025-04-19 12:22:40,764 - NewsResearchAgent - INFO - Cache de notícias salvo com 2757 entradas
+2025-04-19 12:22:40,769 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 456 entradas
+2025-04-19 12:22:40,784 - NewsResearchAgent - INFO - Encontradas 8 notícias virais na categoria esportes
+2025-04-19 12:32:16,401 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/esportes/corredores-quem-somos-de-onde-viemos-para-onde-vam-20250419123216.jpg
+2025-04-19 12:32:16,401 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Corredores, quem somos? De onde viemos? Para onde vamos?
+2025-04-19 12:32:16,475 - NewsResearchAgent - INFO - Cache de notícias salvo com 2757 entradas
+2025-04-19 12:32:16,479 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 457 entradas
+2025-04-19 12:32:16,480 - NewsResearchAgent - INFO - Notícia publicada: Corredores, quem somos? De onde viemos? Para onde vamos? em ./categorias/esportes/corredores-quem-somos-de-onde-viemos-para-onde-vam-20250419123216.html
+2025-04-19 12:32:16,857 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 12:32:16,857 - NewsResearchAgent - INFO - Pesquisando notícias em: https://economia.uol.com.br/
+2025-04-19 12:32:20,674 - NewsResearchAgent - INFO - Pesquisando notícias em: https://valor.globo.com/
+2025-04-19 12:32:24,719 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.infomoney.com.br/
+2025-04-19 12:32:26,449 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.investing.com/news/economy
+2025-04-19 12:32:26,653 - NewsResearchAgent - INFO - Cache de notícias salvo com 2760 entradas
+2025-04-19 12:32:26,658 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 457 entradas
+2025-04-19 12:32:26,666 - NewsResearchAgent - INFO - Encontradas 5 notícias virais na categoria economia
+2025-04-19 12:42:00,360 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/economia/livro-com-62-pesquisadores-traz-reflexoes-sobre-a--20250419124200.jpg
+2025-04-19 12:42:00,360 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Livro com 62 pesquisadores traz reflexões sobre a complexidade na economia
+2025-04-19 12:42:00,431 - NewsResearchAgent - INFO - Cache de notícias salvo com 2760 entradas
+2025-04-19 12:42:00,435 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 458 entradas
+2025-04-19 12:42:00,435 - NewsResearchAgent - INFO - Notícia publicada: Livro com 62 pesquisadores traz reflexões sobre a complexidade na economia em ./categorias/economia/livro-com-62-pesquisadores-traz-reflexoes-sobre-a--20250419124200.html
+2025-04-19 12:42:00,855 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 12:42:00,855 - NewsResearchAgent - INFO - Pesquisando notícias em: https://g1.globo.com/politica/
+2025-04-19 12:42:03,768 - NewsResearchAgent - INFO - Pesquisando notícias em: https://noticias.uol.com.br/politica/
+2025-04-19 12:42:06,816 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.poder360.com.br/
+2025-04-19 12:42:07,109 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.cnnbrasil.com.br/politica/
+2025-04-19 12:42:08,013 - NewsResearchAgent - INFO - Cache de notícias salvo com 2763 entradas
+2025-04-19 12:42:08,018 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 458 entradas
+2025-04-19 12:42:08,032 - NewsResearchAgent - INFO - Encontradas 11 notícias virais na categoria politica
+2025-04-19 12:51:39,003 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/politica/nao-existe-plano-b-lula-e-o-candidato-em-2026-diz--20250419125138.jpg
+2025-04-19 12:51:39,003 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: 'Não existe plano B, Lula é o candidato em 2026', diz líder do PT na Câmara
+2025-04-19 12:51:39,075 - NewsResearchAgent - INFO - Cache de notícias salvo com 2763 entradas
+2025-04-19 12:51:39,079 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 459 entradas
+2025-04-19 12:51:39,079 - NewsResearchAgent - INFO - Notícia publicada: 'Não existe plano B, Lula é o candidato em 2026', diz líder do PT na Câmara em ./categorias/politica/nao-existe-plano-b-lula-e-o-candidato-em-2026-diz--20250419125139.html
+2025-04-19 12:51:39,565 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 12:51:39,566 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.tecmundo.com.br/
+2025-04-19 12:51:43,461 - NewsResearchAgent - INFO - Pesquisando notícias em: https://olhardigital.com.br/
+2025-04-19 12:51:44,545 - NewsResearchAgent - INFO - Pesquisando notícias em: https://canaltech.com.br/
+2025-04-19 12:51:45,434 - NewsResearchAgent - INFO - Pesquisando notícias em: https://tecnoblog.net/
+2025-04-19 12:51:46,217 - NewsResearchAgent - INFO - Cache de notícias salvo com 2767 entradas
+2025-04-19 12:51:46,222 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 459 entradas
+2025-04-19 12:51:46,237 - NewsResearchAgent - INFO - Encontradas 9 notícias virais na categoria tecnologia
+2025-04-19 13:01:17,745 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/tecnologia/fones-jbl-a-partir-de-r53-no-magazine-luiza-aprove-20250419130117.jpg
+2025-04-19 13:01:17,745 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Fones JBL a partir de R$53 no Magazine Luiza; aproveite as ofertas
+2025-04-19 13:01:17,816 - NewsResearchAgent - INFO - Cache de notícias salvo com 2767 entradas
+2025-04-19 13:01:17,821 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 460 entradas
+2025-04-19 13:01:17,821 - NewsResearchAgent - INFO - Notícia publicada: Fones JBL a partir de R$53 no Magazine Luiza; aproveite as ofertas em ./categorias/tecnologia/fones-jbl-a-partir-de-r53-no-magazine-luiza-aprove-20250419130117.html
+2025-04-19 13:01:18,469 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 13:01:18,469 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.omelete.com.br/
+2025-04-19 13:01:18,895 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.papelpop.com/
+2025-04-19 13:01:19,093 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.uol.com.br/splash/
+2025-04-19 13:01:23,158 - NewsResearchAgent - INFO - Pesquisando notícias em: https://gshow.globo.com/
+2025-04-19 13:01:24,194 - NewsResearchAgent - INFO - Cache de notícias salvo com 2768 entradas
+2025-04-19 13:01:24,198 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 460 entradas
+2025-04-19 13:01:24,216 - NewsResearchAgent - INFO - Encontradas 12 notícias virais na categoria entretenimento
+2025-04-19 13:10:53,677 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/entretenimento/mais-impressao-que-substancia-the-narrow-road-acab-20250419131053.jpg
+2025-04-19 13:10:53,677 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Mais impressão que substância, The Narrow Road acaba no limiar do execrável
+2025-04-19 13:10:53,748 - NewsResearchAgent - INFO - Cache de notícias salvo com 2768 entradas
+2025-04-19 13:10:53,753 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 461 entradas
+2025-04-19 13:10:53,753 - NewsResearchAgent - INFO - Notícia publicada: Mais impressão que substância, The Narrow Road acaba no limiar do execrável em ./categorias/entretenimento/mais-impressao-que-substancia-the-narrow-road-acab-20250419131053.html
+2025-04-19 13:10:54,212 - NewsResearchAgent - INFO - Obtidos 0 tópicos em tendência
+2025-04-19 13:10:54,212 - NewsResearchAgent - INFO - Pesquisando notícias em: https://revistagalileu.globo.com/
+2025-04-19 13:10:55,197 - NewsResearchAgent - INFO - Pesquisando notícias em: https://super.abril.com.br/
+2025-04-19 13:10:55,521 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.megacurioso.com.br/
+2025-04-19 13:10:57,554 - NewsResearchAgent - INFO - Pesquisando notícias em: https://www.hypeness.com.br/
+2025-04-19 13:10:57,823 - NewsResearchAgent - INFO - Cache de notícias salvo com 2769 entradas
+2025-04-19 13:10:57,827 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 461 entradas
+2025-04-19 13:10:57,842 - NewsResearchAgent - INFO - Encontradas 10 notícias virais na categoria curiosidades
+2025-04-19 13:20:11,221 - NewsResearchAgent - INFO - 🖼️ Imagem gerada com Hugging Face Diffusers e salva em: images/curiosidades/os-ultimos-povos-isolados-como-vivem-os-humanos-na-20250419132011.jpg
+2025-04-19 13:20:11,221 - NewsResearchAgent - INFO - ✅ Notícia reescrita com LLM: Os últimos povos isolados: como vivem os humanos não contatados
+2025-04-19 13:20:11,291 - NewsResearchAgent - INFO - Cache de notícias salvo com 2769 entradas
+2025-04-19 13:20:11,296 - NewsResearchAgent - INFO - Registro de notícias publicadas salvo com 462 entradas
+2025-04-19 13:20:11,296 - NewsResearchAgent - INFO - Notícia publicada: Os últimos povos isolados: como vivem os humanos não contatados em ./categorias/curiosidades/os-ultimos-povos-isolados-como-vivem-os-humanos-na-20250419132011.html
